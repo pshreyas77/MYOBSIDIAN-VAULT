@@ -1,0 +1,55 @@
+wing: obsidian_vault
+rooms:
+- name: kimi_vault
+  description: Files from KIMI VAULT/
+  keywords:
+  - kimi_vault
+  - kimi vault
+- name: buddha
+  description: Files from BUDDHA/
+  keywords:
+  - buddha
+  - buddha
+- name: attachments
+  description: Files from Attachments/
+  keywords:
+  - attachments
+  - attachments
+- name: oldest_civilization
+  description: Files from OLDEST CIVILIZATION/
+  keywords:
+  - oldest_civilization
+  - oldest civilization
+- name: project_ob__ai
+  description: Files from project OB _AI/
+  keywords:
+  - project_ob__ai
+  - project ob _ai
+- name: deepseekvault
+  description: Files from DeepseekVault/
+  keywords:
+  - deepseekvault
+  - deepseekvault
+- name: qwenvault
+  description: Files from QwenVault/
+  keywords:
+  - qwenvault
+  - qwenvault
+- name: graphify_out
+  description: Files from graphify-out/
+  keywords:
+  - graphify_out
+  - graphify-out
+- name: cosmology
+  description: Files from COSMOLOGY/
+  keywords:
+  - cosmology
+  - cosmology
+- name: claudevault
+  description: Files from ClaudeVault/
+  keywords:
+  - claudevault
+  - claudevault
+- name: general
+  description: Files that don't fit other rooms
+  keywords: []

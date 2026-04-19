@@ -1,0 +1,5 @@
+{
+  "name": "obsidian-vault-mcp",
+  "command": "npx",
+  "args": ["-y", "mcp-obsidian", "/home/sunny77/Documents/Obsidian Vault"]
+}

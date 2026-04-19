@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {
+      "id": "ob-ai-overview",
+      "type": "text",
+      "text": "## 🤖 Project OB AI\n\n**AI Research & Development Hub**\n\n**Focus Areas:**\n- Claude Code Integration\n- Knowledge Graph Processing\n- Automated Research Pipelines\n- Academic Paper Writing\n
+**Active Tools:**\n- Graphify Knowledge System\n- Claude Code Skills\n- Deep Research Agents\n
+**Status:** 🟢 Active Development",
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 250
+    },
+    {
+      "id": "knowledge-graph",
+      "type": "text",
+      "text": "## 🌐 Knowledge Graph\n\n**Graphify System Status:**\n- Nodes: 500+\n- Edges: Active connections\n- Visualization: HTML/JSON\n\n**Components:**\n- Entity extraction\n- Community detection\n- Relationship mapping\n- Canvas export\n\n**Output:**\n`graphify-out/graph.html`",
+      "x": -500,
+      "y": 300,
+      "width": 350,
+      "height": 250
+    },
+    {
+      "id": "claude-skills",
+      "type": "text",
+      "text": "## ⚡ Claude Code Skills\n\n**Active Skills:**\n- `/graphify` - Knowledge graphs\n- `/deep-research` - Academic research\n- Academic paper reviewer\n- Academic paper writing\n\n**Location:**\n`~/.claude/skills/`\n\n**Custom Skills:**\n- Graphify analyzer\n- Buddhism research\n- Philosophy comparison",
+      "x": 0,
+      "y": 350,
+      "width": 350,
+      "height": 280
+    },
+    {
+      "id": "research-pipeline",
+      "type": "text",
+      "text": "## 📚 Research Pipeline\n\n**Workflow:**\n1. Query formulation\n2. Multi-agent research\n3. Source verification\n4. Synthesis & documentation\n5. Cross-referencing\n6. Visualization\n\n**Recent Research:**\n- Buddhism vs Hinduism\n- Caveman Philosophy Tournament\n- IVC-Buddhism connection\n- Global philosophy rankings",
+      "x": 500,
+      "y": 300,
+      "width": 350,
+      "height": 280
+    },
+    {
+      "id": "academic-tools",
+      "type": "text",
+      "text": "## 🎓 Academic Tools\n\n**Paper Writing:**\n- 12-agent pipeline\n- Full/writing/plan modes\n- Citation checking\n- Multi-format output\n\n**Paper Review:**\n- 5-reviewer simulation\n- EIC + peer reviewers\n- Devil's advocate\n- Field-specific expertise\n\n**Deep Research:**\n- 13-agent verification\n- Evidence hierarchy\n- Cross-source validation",
+      "x": -500,
+      "y": 600,
+      "width": 350,
+      "height": 300
+    },
+    {
+      "id": "data-sources",
+      "type": "text",
+      "text": "## 📊 Data Sources\n\n**Primary Vaults:**\n- ClaudeVault - Research synthesis\n- QwenVault - AI-generated analysis\n- DeepseekVault - Deep research\n- BUDDHA/ - Buddhist studies\n- OLDEST CIVILIZATION/ - History\n\n**Total Files:** 1,267\n**Total Words:** 5.5M+\n**Topics:** Philosophy, History, Religion",
+      "x": 0,
+      "y": 700,
+      "width": 350,
+      "height": 250
+    },
+    {
+      "id": "integrations",
+      "type": "text",
+      "text": "## 🔗 Integrations\n\n**Obsidian:**\n- Note linking\n- Canvas visualization\n- Graph view\n- MOCs & indices\n\n**External:**\n- JSTOR (academic papers)\n- ResearchGate\n- Web sources\n- PDF extraction\n\n**Outputs:**\n- Markdown reports\n- Canvas files\n- HTML visualizations\n- Graph JSON",
+      "x": 500,
+      "y": 650,
+      "width": 350,
+      "height": 280
+    }
+  ],
+  "edges": [
+    {"fromNode": "ob-ai-overview", "fromSide": "bottom", "toNode": "knowledge-graph", "toSide": "top"},
+    {"fromNode": "ob-ai-overview", "fromSide": "bottom", "toNode": "claude-skills", "toSide": "top"},
+    {"fromNode": "ob-ai-overview", "fromSide": "bottom", "toNode": "research-pipeline", "toSide": "top"},
+    {"fromNode": "knowledge-graph", "fromSide": "bottom", "toNode": "academic-tools", "toSide": "top", "label": "Research"},
+    {"fromNode": "claude-skills", "fromSide": "bottom", "toNode": "data-sources", "toSide": "top", "label": "Processing"},
+    {"fromNode": "research-pipeline", "fromSide": "bottom", "toNode": "integrations", "toSide": "top", "label": "Output"},
+    {"fromNode": "academic-tools", "fromSide": "right", "toNode": "data-sources", "toSide": "left", "label": "Sources"},
+    {"fromNode": "data-sources", "fromSide": "right", "toNode": "integrations", "toSide": "left", "label": "Export"}
+  ]
+}

@@ -1,0 +1,281 @@
+# Education & Learning - Complete File Index
+
+**Generated:** 2026-04-11 12:43
+**Total Files:** 264
+
+---
+
+## Alphabetical File List
+
+- [[2025-07-16_develop-project-estimates]] — `02 - Areas/Ancient Civilizations/2025-07-16_develop-project-estimates.md`
+- [[2025-07-16_develop-project-estimates]] — `ClaudeVault/2025-07-16_develop-project-estimates.md`
+- [[2025-07-23_dc-comics-media-catalog]] — `02 - Areas/AI Research & Agents/2025-07-23_dc-comics-media-catalog.md`
+- [[2025-07-23_dc-comics-media-catalog]] — `ClaudeVault/2025-07-23_dc-comics-media-catalog.md`
+- [[2025-07-23_innovative-game-design-concept]] — `02 - Areas/Political Analysis/2025-07-23_innovative-game-design-concept.md`
+- [[2025-07-23_innovative-game-design-concept]] — `ClaudeVault/2025-07-23_innovative-game-design-concept.md`
+- [[2025-07-28_python-programming-comprehensive-guide]] — `02 - Areas/AI Research & Agents/2025-07-28_python-programming-comprehensive-guide.md`
+- [[2025-07-28_python-programming-comprehensive-guide]] — `ClaudeVault/2025-07-28_python-programming-comprehensive-guide.md`
+- [[2025-08-02_batman-poster-design-concept]] — `02 - Areas/Ancient Civilizations/2025-08-02_batman-poster-design-concept.md`
+- [[2025-08-02_batman-poster-design-concept]] — `ClaudeVault/2025-08-02_batman-poster-design-concept.md`
+- [[2025-08-02_python-string-slicing-example]] — `02 - Areas/AI Research & Agents/2025-08-02_python-string-slicing-example.md`
+- [[2025-08-02_python-string-slicing-example]] — `ClaudeVault/2025-08-02_python-string-slicing-example.md`
+- [[2025-08-08_ai-skin-lesion-diagnosis-website-design]] — `02 - Areas/Political Analysis/2025-08-08_ai-skin-lesion-diagnosis-website-design.md`
+- [[2025-08-08_ai-skin-lesion-diagnosis-website-design]] — `ClaudeVault/2025-08-08_ai-skin-lesion-diagnosis-website-design.md`
+- [[2025-08-12_launching-opendia-via-npx]] — `02 - Areas/AI Research & Agents/2025-08-12_launching-opendia-via-npx.md`
+- [[2025-08-12_launching-opendia-via-npx]] — `ClaudeVault/2025-08-12_launching-opendia-via-npx.md`
+- [[2025-08-12_youtube-video-link-shared]] — `02 - Areas/AI Research & Agents/2025-08-12_youtube-video-link-shared.md`
+- [[2025-08-12_youtube-video-link-shared]] — `ClaudeVault/2025-08-12_youtube-video-link-shared.md`
+- [[2025-08-15_youtube-shorts-video-link]] — `02 - Areas/AI Research & Agents/2025-08-15_youtube-shorts-video-link.md`
+- [[2025-08-15_youtube-shorts-video-link]] — `ClaudeVault/2025-08-15_youtube-shorts-video-link.md`
+- [[2025-08-20_document-template-design]] — `02 - Areas/AI Research & Agents/2025-08-20_document-template-design.md`
+- [[2025-08-20_document-template-design]] — `ClaudeVault/2025-08-20_document-template-design.md`
+- [[2025-08-21_superhero-power-tier-rankings]] — `02 - Areas/Religion & Cosmology/2025-08-21_superhero-power-tier-rankings.md`
+- [[2025-08-21_superhero-power-tier-rankings]] — `ClaudeVault/2025-08-21_superhero-power-tier-rankings.md`
+- [[2025-09-07_css-animated-candle-flame]] — `02 - Areas/Political Analysis/2025-09-07_css-animated-candle-flame.md`
+- [[2025-09-07_css-animated-candle-flame]] — `ClaudeVault/2025-09-07_css-animated-candle-flame.md`
+- [[2025-09-07_css-circle-loading-animation]] — `02 - Areas/Political Analysis/2025-09-07_css-circle-loading-animation.md`
+- [[2025-09-07_css-circle-loading-animation]] — `ClaudeVault/2025-09-07_css-circle-loading-animation.md`
+- [[2025-10-30_project-website-development-prompt-generation]] — `02 - Areas/Political Analysis/2025-10-30_project-website-development-prompt-generation.md`
+- [[2025-10-30_project-website-development-prompt-generation]] — `ClaudeVault/2025-10-30_project-website-development-prompt-generation.md`
+- [[2025-10-31_neoattend-production-mono-repo-scaffold]] — `02 - Areas/Ancient Civilizations/2025-10-31_neoattend-production-mono-repo-scaffold.md`
+- [[2025-10-31_neoattend-production-mono-repo-scaffold]] — `ClaudeVault/2025-10-31_neoattend-production-mono-repo-scaffold.md`
+- [[2025-11-05_numpy-installation-c-compiler-error-on-windows]] — `02 - Areas/Political Analysis/2025-11-05_numpy-installation-c-compiler-error-on-windows.md`
+- [[2025-11-05_numpy-installation-c-compiler-error-on-windows]] — `ClaudeVault/2025-11-05_numpy-installation-c-compiler-error-on-windows.md`
+- [[2025-11-06_rust-toolchain-installation-failure-during-pip-install]] — `02 - Areas/Political Analysis/2025-11-06_rust-toolchain-installation-failure-during-pip-install.md`
+- [[2025-11-06_rust-toolchain-installation-failure-during-pip-install]] — `ClaudeVault/2025-11-06_rust-toolchain-installation-failure-during-pip-install.md`
+- [[2025-11-10_turnitin-ai-detection-report]] — `QwenVault/2025-11-10_turnitin-ai-detection-report.md`
+- [[2025-11-10_turnitin-ai-detection-report]] — `02 - Areas/AI Research & Agents/2025-11-10_turnitin-ai-detection-report.md`
+- [[2025-11-12_interactive-3d-solar-system-visualization]] — `02 - Areas/Ancient Civilizations/2025-11-12_interactive-3d-solar-system-visualization.md`
+- [[2025-11-12_interactive-3d-solar-system-visualization]] — `ClaudeVault/2025-11-12_interactive-3d-solar-system-visualization.md`
+- [[2025-11-12_interactive-3d-solar-system-website]] — `02 - Areas/AI Research & Agents/2025-11-12_interactive-3d-solar-system-website.md`
+- [[2025-11-12_interactive-3d-solar-system-website]] — `ClaudeVault/2025-11-12_interactive-3d-solar-system-website.md`
+- [[2025-11-16_remix-of-mutual-exclusion-in-dsm]] — `02 - Areas/Ancient Civilizations/2025-11-16_remix-of-mutual-exclusion-in-dsm.md`
+- [[2025-11-16_remix-of-mutual-exclusion-in-dsm]] — `ClaudeVault/2025-11-16_remix-of-mutual-exclusion-in-dsm.md`
+- [[2025-11-28_web-security-cryptography-and-digital-identification]] — `02 - Areas/Political Analysis/2025-11-28_web-security-cryptography-and-digital-identification.md`
+- [[2025-11-28_web-security-cryptography-and-digital-identification]] — `ClaudeVault/2025-11-28_web-security-cryptography-and-digital-identification.md`
+- [[2025-11-28_web-security-notebook-template]] — `QwenVault/2025-11-28_web-security-notebook-template.md`
+- [[2025-11-28_web-security-notebook-template]] — `02 - Areas/AI Research & Agents/2025-11-28_web-security-notebook-template.md`
+- [[2025-11-30_hci-models-and-cognitive-frameworks]] — `02 - Areas/AI Research & Agents/2025-11-30_hci-models-and-cognitive-frameworks.md`
+- [[2025-11-30_hci-models-and-cognitive-frameworks]] — `ClaudeVault/2025-11-30_hci-models-and-cognitive-frameworks.md`
+- [[2025-11-30_hci-notes]] — `QwenVault/2025-11-30_hci-notes.md`
+- [[2025-11-30_hci-notes]] — `02 - Areas/Political Analysis/2025-11-30_hci-notes.md`
+- [[2025-11-30_hci-unit-12-comprehensive-notes]] — `QwenVault/2025-11-30_hci-unit-12-comprehensive-notes.md`
+- [[2025-11-30_hci-unit-12-comprehensive-notes]] — `02 - Areas/Political Analysis/2025-11-30_hci-unit-12-comprehensive-notes.md`
+- [[2025-11-30_hci-unit-i-ii-comprehensive-notes]] — `QwenVault/2025-11-30_hci-unit-i-ii-comprehensive-notes.md`
+- [[2025-11-30_hci-unit-i-ii-comprehensive-notes]] — `02 - Areas/Political Analysis/2025-11-30_hci-unit-i-ii-comprehensive-notes.md`
+- [[2025-11-30_hci-unit-iii-models-theories]] — `QwenVault/2025-11-30_hci-unit-iii-models-theories.md`
+- [[2025-11-30_hci-unit-iii-models-theories]] — `02 - Areas/Political Analysis/2025-11-30_hci-unit-iii-models-theories.md`
+- [[2025-11-30_human-computer-interaction-fundamentals-and-design-prin]] — `02 - Areas/Political Analysis/2025-11-30_human-computer-interaction-fundamentals-and-design-prin.md`
+- [[2025-11-30_human-computer-interaction-fundamentals-and-design-prin]] — `ClaudeVault/2025-11-30_human-computer-interaction-fundamentals-and-design-prin.md`
+- [[2025-11-30_mobile-hci-lecture-summary]] — `QwenVault/2025-11-30_mobile-hci-lecture-summary.md`
+- [[2025-11-30_mobile-hci-lecture-summary]] — `02 - Areas/AI Research & Agents/2025-11-30_mobile-hci-lecture-summary.md`
+- [[2025-11-30_notes-on-human-computer-interaction]] — `QwenVault/2025-11-30_notes-on-human-computer-interaction.md`
+- [[2025-11-30_notes-on-human-computer-interaction]] — `02 - Areas/Political Analysis/2025-11-30_notes-on-human-computer-interaction.md`
+- [[2025-12-01_cognitive-computing-course-syllabus]] — `QwenVault/2025-12-01_cognitive-computing-course-syllabus.md`
+- [[2025-12-01_cognitive-computing-course-syllabus]] — `02 - Areas/AI Research & Agents/2025-12-01_cognitive-computing-course-syllabus.md`
+- [[2025-12-01_cognitive-computing-fundamentals]] — `QwenVault/2025-12-01_cognitive-computing-fundamentals.md`
+- [[2025-12-01_cognitive-computing-fundamentals]] — `02 - Areas/AI Research & Agents/2025-12-01_cognitive-computing-fundamentals.md`
+- [[2025-12-01_cognitive-computing-notes-units-1-2]] — `QwenVault/2025-12-01_cognitive-computing-notes-units-1-2.md`
+- [[2025-12-01_cognitive-computing-notes-units-1-2]] — `02 - Areas/AI Research & Agents/2025-12-01_cognitive-computing-notes-units-1-2.md`
+- [[2025-12-01_documents-and-templates]] — `02 - Areas/AI Research & Agents/2025-12-01_documents-and-templates.md`
+- [[2025-12-01_documents-and-templates]] — `ClaudeVault/2025-12-01_documents-and-templates.md`
+- [[2025-12-02_cognitive-computing-comprehensive-notes]] — `QwenVault/2025-12-02_cognitive-computing-comprehensive-notes.md`
+- [[2025-12-02_cognitive-computing-comprehensive-notes]] — `02 - Areas/Political Analysis/2025-12-02_cognitive-computing-comprehensive-notes.md`
+- [[2025-12-02_cognitive-computing-fundamentals]] — `QwenVault/2025-12-02_cognitive-computing-fundamentals.md`
+- [[2025-12-02_cognitive-computing-fundamentals]] — `02 - Areas/Political Analysis/2025-12-02_cognitive-computing-fundamentals.md`
+- [[2025-12-02_documents-and-templates]] — `02 - Areas/AI Research & Agents/2025-12-02_documents-and-templates.md`
+- [[2025-12-02_documents-and-templates]] — `ClaudeVault/2025-12-02_documents-and-templates.md`
+- [[2025-12-02_nlp-in-cognitive-systems]] — `QwenVault/2025-12-02_nlp-in-cognitive-systems.md`
+- [[2025-12-02_nlp-in-cognitive-systems]] — `02 - Areas/Political Analysis/2025-12-02_nlp-in-cognitive-systems.md`
+- [[2025-12-03_satellitecommunicationsimulation]] — `QwenVault/2025-12-03_satellitecommunicationsimulation.md`
+- [[2025-12-03_satellitecommunicationsimulation]] — `02 - Areas/AI Research & Agents/2025-12-03_satellitecommunicationsimulation.md`
+- [[2025-12-09_discrete-mathematics-comprehensive-notes]] — `QwenVault/2025-12-09_discrete-mathematics-comprehensive-notes.md`
+- [[2025-12-09_discrete-mathematics-comprehensive-notes]] — `02 - Areas/Political Analysis/2025-12-09_discrete-mathematics-comprehensive-notes.md`
+- [[2025-12-09_discrete-mathematics-study-support]] — `02 - Areas/AI Research & Agents/2025-12-09_discrete-mathematics-study-support.md`
+- [[2025-12-09_discrete-mathematics-study-support]] — `ClaudeVault/2025-12-09_discrete-mathematics-study-support.md`
+- [[2025-12-11_discrete-maths-exam-prep-units-i-v]] — `QwenVault/2025-12-11_discrete-maths-exam-prep-units-i-v.md`
+- [[2025-12-11_discrete-maths-exam-prep-units-i-v]] — `02 - Areas/AI Research & Agents/2025-12-11_discrete-maths-exam-prep-units-i-v.md`
+- [[2025-12-27_fourier-series-and-periodic-functions]] — `02 - Areas/Political Analysis/2025-12-27_fourier-series-and-periodic-functions.md`
+- [[2025-12-27_fourier-series-and-periodic-functions]] — `ClaudeVault/2025-12-27_fourier-series-and-periodic-functions.md`
+- [[2025-12-30_documents-and-templates]] — `02 - Areas/Political Analysis/2025-12-30_documents-and-templates.md`
+- [[2025-12-30_documents-and-templates]] — `ClaudeVault/2025-12-30_documents-and-templates.md`
+- [[2026-02-03_battle-analysis-shinza-vs-marvel]] — `QwenVault/2026-02-03_battle-analysis-shinza-vs-marvel.md`
+- [[2026-02-03_battle-analysis-shinza-vs-marvel]] — `02 - Areas/Political Analysis/2026-02-03_battle-analysis-shinza-vs-marvel.md`
+- [[2026-02-04_organizational-behaviour-fundamentals]] — `QwenVault/2026-02-04_organizational-behaviour-fundamentals.md`
+- [[2026-02-04_organizational-behaviour-fundamentals]] — `02 - Areas/Political Analysis/2026-02-04_organizational-behaviour-fundamentals.md`
+- [[2026-02-04_pdf-name-report]] — `QwenVault/2026-02-04_pdf-name-report.md`
+- [[2026-02-04_pdf-name-report]] — `02 - Areas/AI Research & Agents/2026-02-04_pdf-name-report.md`
+- [[2026-02-06_missing-children-cases-analysis]] — `QwenVault/2026-02-06_missing-children-cases-analysis.md`
+- [[2026-02-06_missing-children-cases-analysis]] — `02 - Areas/AI Research & Agents/2026-02-06_missing-children-cases-analysis.md`
+- [[2026-02-09_building-a-unique-professional-portfolio]] — `02 - Areas/Ancient Civilizations/2026-02-09_building-a-unique-professional-portfolio.md`
+- [[2026-02-09_building-a-unique-professional-portfolio]] — `ClaudeVault/2026-02-09_building-a-unique-professional-portfolio.md`
+- [[2026-02-09_comprehensive-study-notes]] — `QwenVault/2026-02-09_comprehensive-study-notes.md`
+- [[2026-02-09_comprehensive-study-notes]] — `02 - Areas/Political Analysis/2026-02-09_comprehensive-study-notes.md`
+- [[2026-02-09_resume-optimization-with-latex-formatting]] — `02 - Areas/Political Analysis/2026-02-09_resume-optimization-with-latex-formatting.md`
+- [[2026-02-09_resume-optimization-with-latex-formatting]] — `ClaudeVault/2026-02-09_resume-optimization-with-latex-formatting.md`
+- [[2026-02-11_epstein-case-files-chatbot-verification]] — `02 - Areas/Ancient Civilizations/2026-02-11_epstein-case-files-chatbot-verification.md`
+- [[2026-02-11_epstein-case-files-chatbot-verification]] — `ClaudeVault/2026-02-11_epstein-case-files-chatbot-verification.md`
+- [[2026-02-11_epstein-files-search-assistant]] — `02 - Areas/Political Analysis/2026-02-11_epstein-files-search-assistant.md`
+- [[2026-02-11_epstein-files-search-assistant]] — `ClaudeVault/2026-02-11_epstein-files-search-assistant.md`
+- [[2026-02-17_free-power-bi-course-and-certification]] — `02 - Areas/Political Analysis/2026-02-17_free-power-bi-course-and-certification.md`
+- [[2026-02-17_free-power-bi-course-and-certification]] — `ClaudeVault/2026-02-17_free-power-bi-course-and-certification.md`
+- [[2026-02-18_resume-based-job-application-assistance]] — `02 - Areas/AI Research & Agents/2026-02-18_resume-based-job-application-assistance.md`
+- [[2026-02-18_resume-based-job-application-assistance]] — `ClaudeVault/2026-02-18_resume-based-job-application-assistance.md`
+- [[2026-02-19_claude-vs-grok-comparison]] — `QwenVault/2026-02-19_claude-vs-grok-comparison.md`
+- [[2026-02-19_claude-vs-grok-comparison]] — `02 - Areas/Political Analysis/2026-02-19_claude-vs-grok-comparison.md`
+- [[2026-02-20_best-open-source-os-for-ai-research]] — `QwenVault/2026-02-20_best-open-source-os-for-ai-research.md`
+- [[2026-02-20_best-open-source-os-for-ai-research]] — `02 - Areas/AI Research & Agents/2026-02-20_best-open-source-os-for-ai-research.md`
+- [[2026-02-20_open-source-os-for-cpu-based-ai-research]] — `02 - Areas/Political Analysis/2026-02-20_open-source-os-for-cpu-based-ai-research.md`
+- [[2026-02-20_open-source-os-for-cpu-based-ai-research]] — `ClaudeVault/2026-02-20_open-source-os-for-cpu-based-ai-research.md`
+- [[2026-02-21_building-a-batman-style-ai-research-system]] — `02 - Areas/Political Analysis/2026-02-21_building-a-batman-style-ai-research-system.md`
+- [[2026-02-21_building-a-batman-style-ai-research-system]] — `ClaudeVault/2026-02-21_building-a-batman-style-ai-research-system.md`
+- [[2026-02-21_building-a-research-oriented-ai-assistant]] — `QwenVault/2026-02-21_building-a-research-oriented-ai-assistant.md`
+- [[2026-02-21_building-a-research-oriented-ai-assistant]] — `02 - Areas/AI Research & Agents/2026-02-21_building-a-research-oriented-ai-assistant.md`
+- [[2026-02-21_greatest-tv-shows]] — `QwenVault/2026-02-21_greatest-tv-shows.md`
+- [[2026-02-21_greatest-tv-shows]] — `02 - Areas/AI Research & Agents/2026-02-21_greatest-tv-shows.md`
+- [[2026-02-21_linux-setup-review-and-feedback]] — `02 - Areas/AI Research & Agents/2026-02-21_linux-setup-review-and-feedback.md`
+- [[2026-02-21_linux-setup-review-and-feedback]] — `ClaudeVault/2026-02-21_linux-setup-review-and-feedback.md`
+- [[2026-02-22_prompt-injection-attempt-detection]] — `02 - Areas/AI Research & Agents/2026-02-22_prompt-injection-attempt-detection.md`
+- [[2026-02-22_prompt-injection-attempt-detection]] — `ClaudeVault/2026-02-22_prompt-injection-attempt-detection.md`
+- [[2026-02-23_kimi-k2-jailbreak-prompt]] — `QwenVault/2026-02-23_kimi-k2-jailbreak-prompt.md`
+- [[2026-02-23_kimi-k2-jailbreak-prompt]] — `02 - Areas/Political Analysis/2026-02-23_kimi-k2-jailbreak-prompt.md`
+- [[2026-02-26_aspect-feren-os-arch-linux-cur]] — `02 - Areas/Political Analysis/2026-02-26_aspect-feren-os-arch-linux-cur.md`
+- [[2026-02-26_aspect-feren-os-arch-linux-cur]] — `ClaudeVault/2026-02-26_aspect-feren-os-arch-linux-cur.md`
+- [[2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir]] — `02 - Areas/Buddhism & Hinduism/2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir.md`
+- [[2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir]] — `ClaudeVault/2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir.md`
+- [[2026-02-27_explaining-key-concepts-with-simple-words]] — `02 - Areas/Political Analysis/2026-02-27_explaining-key-concepts-with-simple-words.md`
+- [[2026-02-27_explaining-key-concepts-with-simple-words]] — `ClaudeVault/2026-02-27_explaining-key-concepts-with-simple-words.md`
+- [[2026-02-28_simplified-48-laws-of-power]] — `QwenVault/2026-02-28_simplified-48-laws-of-power.md`
+- [[2026-02-28_simplified-48-laws-of-power]] — `02 - Areas/AI Research & Agents/2026-02-28_simplified-48-laws-of-power.md`
+- [[2026-03-01_kimi-ai-vs-longcat-ai-for-research]] — `QwenVault/2026-03-01_kimi-ai-vs-longcat-ai-for-research.md`
+- [[2026-03-01_kimi-ai-vs-longcat-ai-for-research]] — `02 - Areas/AI Research & Agents/2026-03-01_kimi-ai-vs-longcat-ai-for-research.md`
+- [[2026-03-03_global-conflict-analysis]] — `QwenVault/2026-03-03_global-conflict-analysis.md`
+- [[2026-03-03_global-conflict-analysis]] — `02 - Areas/Political Analysis/2026-03-03_global-conflict-analysis.md`
+- [[2026-03-04_advanced-attendance-innovations]] — `QwenVault/2026-03-04_advanced-attendance-innovations.md`
+- [[2026-03-04_advanced-attendance-innovations]] — `02 - Areas/Ancient Civilizations/2026-03-04_advanced-attendance-innovations.md`
+- [[2026-03-04_ai-powered-project-enhancement-and-innovation-strategy]] — `02 - Areas/Buddhism & Hinduism/2026-03-04_ai-powered-project-enhancement-and-innovation-strategy.md`
+- [[2026-03-04_ai-powered-project-enhancement-and-innovation-strategy]] — `ClaudeVault/2026-03-04_ai-powered-project-enhancement-and-innovation-strategy.md`
+- [[2026-03-04_xi-jinpings-net-worth]] — `02 - Areas/Buddhism & Hinduism/2026-03-04_xi-jinpings-net-worth.md`
+- [[2026-03-04_xi-jinpings-net-worth]] — `ClaudeVault/2026-03-04_xi-jinpings-net-worth.md`
+- [[2026-03-07_audio-website-book-project]] — `QwenVault/2026-03-07_audio-website-book-project.md`
+- [[2026-03-07_audio-website-book-project]] — `02 - Areas/Ancient Civilizations/2026-03-07_audio-website-book-project.md`
+- [[2026-03-07_chinas-social-credit-system]] — `02 - Areas/Political Analysis/2026-03-07_chinas-social-credit-system.md`
+- [[2026-03-07_chinas-social-credit-system]] — `ClaudeVault/2026-03-07_chinas-social-credit-system.md`
+- [[2026-03-07_data-analysis-project-ideas]] — `QwenVault/2026-03-07_data-analysis-project-ideas.md`
+- [[2026-03-07_data-analysis-project-ideas]] — `02 - Areas/AI Research & Agents/2026-03-07_data-analysis-project-ideas.md`
+- [[2026-03-07_making-5-daily-from-home-with-a-laptop]] — `02 - Areas/Ancient Civilizations/2026-03-07_making-5-daily-from-home-with-a-laptop.md`
+- [[2026-03-07_making-5-daily-from-home-with-a-laptop]] — `ClaudeVault/2026-03-07_making-5-daily-from-home-with-a-laptop.md`
+- [[2026-03-07_side-hustle-ideas-for-students]] — `QwenVault/2026-03-07_side-hustle-ideas-for-students.md`
+- [[2026-03-07_side-hustle-ideas-for-students]] — `02 - Areas/Ancient Civilizations/2026-03-07_side-hustle-ideas-for-students.md`
+- [[2026-03-08_chinas-current-policies-in-tibet]] — `02 - Areas/Buddhism & Hinduism/2026-03-08_chinas-current-policies-in-tibet.md`
+- [[2026-03-08_chinas-current-policies-in-tibet]] — `ClaudeVault/2026-03-08_chinas-current-policies-in-tibet.md`
+- [[2026-03-09_anonymous-research-methods-and-tools]] — `02 - Areas/Ancient Civilizations/2026-03-09_anonymous-research-methods-and-tools.md`
+- [[2026-03-09_anonymous-research-methods-and-tools]] — `ClaudeVault/2026-03-09_anonymous-research-methods-and-tools.md`
+- [[2026-03-09_deep-web-research-tools]] — `QwenVault/2026-03-09_deep-web-research-tools.md`
+- [[2026-03-09_deep-web-research-tools]] — `02 - Areas/AI Research & Agents/2026-03-09_deep-web-research-tools.md`
+- [[2026-03-09_standout-data-analysis-project-for-fresher-resume]] — `02 - Areas/Ancient Civilizations/2026-03-09_standout-data-analysis-project-for-fresher-resume.md`
+- [[2026-03-09_standout-data-analysis-project-for-fresher-resume]] — `ClaudeVault/2026-03-09_standout-data-analysis-project-for-fresher-resume.md`
+- [[2026-03-09_untitled]] — `02 - Areas/Ancient Civilizations/2026-03-09_untitled.md`
+- [[2026-03-09_untitled]] — `ClaudeVault/2026-03-09_untitled.md`
+- [[2026-03-10_adding-data-analysis-project-to-fresher-resume]] — `02 - Areas/Buddhism & Hinduism/2026-03-10_adding-data-analysis-project-to-fresher-resume.md`
+- [[2026-03-10_adding-data-analysis-project-to-fresher-resume]] — `ClaudeVault/2026-03-10_adding-data-analysis-project-to-fresher-resume.md`
+- [[2026-03-10_automated-job-applications-for-data-analysis-roles]] — `02 - Areas/Buddhism & Hinduism/2026-03-10_automated-job-applications-for-data-analysis-roles.md`
+- [[2026-03-10_automated-job-applications-for-data-analysis-roles]] — `ClaudeVault/2026-03-10_automated-job-applications-for-data-analysis-roles.md`
+- [[2026-03-11_best-open-source-cloud-models-for-ollama]] — `02 - Areas/Political Analysis/2026-03-11_best-open-source-cloud-models-for-ollama.md`
+- [[2026-03-11_best-open-source-cloud-models-for-ollama]] — `ClaudeVault/2026-03-11_best-open-source-cloud-models-for-ollama.md`
+- [[2026-03-11_cross-platform-mouse-and-keyboard-sharing-app]] — `02 - Areas/Buddhism & Hinduism/2026-03-11_cross-platform-mouse-and-keyboard-sharing-app.md`
+- [[2026-03-11_cross-platform-mouse-and-keyboard-sharing-app]] — `ClaudeVault/2026-03-11_cross-platform-mouse-and-keyboard-sharing-app.md`
+- [[2026-03-12_telangana-si-preparation-books-free-download-sources]] — `02 - Areas/Buddhism & Hinduism/2026-03-12_telangana-si-preparation-books-free-download-sources.md`
+- [[2026-03-12_telangana-si-preparation-books-free-download-sources]] — `ClaudeVault/2026-03-12_telangana-si-preparation-books-free-download-sources.md`
+- [[2026-03-13_british-raj-casualty-count]] — `QwenVault/2026-03-13_british-raj-casualty-count.md`
+- [[2026-03-13_british-raj-casualty-count]] — `02 - Areas/Political Analysis/2026-03-13_british-raj-casualty-count.md`
+- [[2026-03-13_future-job-market-trends]] — `QwenVault/2026-03-13_future-job-market-trends.md`
+- [[2026-03-13_future-job-market-trends]] — `02 - Areas/AI Research & Agents/2026-03-13_future-job-market-trends.md`
+- [[2026-03-13_glm-qwen-kimi-longcat-deepseek-comparison]] — `QwenVault/2026-03-13_glm-qwen-kimi-longcat-deepseek-comparison.md`
+- [[2026-03-13_glm-qwen-kimi-longcat-deepseek-comparison]] — `02 - Areas/Political Analysis/2026-03-13_glm-qwen-kimi-longcat-deepseek-comparison.md`
+- [[2026-03-13_quiz-or-survey]] — `02 - Areas/Ancient Civilizations/2026-03-13_quiz-or-survey.md`
+- [[2026-03-13_quiz-or-survey]] — `ClaudeVault/2026-03-13_quiz-or-survey.md`
+- [[2026-03-13_user-registration-api-test]] — `02 - Areas/AI Research & Agents/2026-03-13_user-registration-api-test.md`
+- [[2026-03-13_user-registration-api-test]] — `ClaudeVault/2026-03-13_user-registration-api-test.md`
+- [[2026-03-14_future-jobs-trends-analysis]] — `QwenVault/2026-03-14_future-jobs-trends-analysis.md`
+- [[2026-03-14_future-jobs-trends-analysis]] — `02 - Areas/Political Analysis/2026-03-14_future-jobs-trends-analysis.md`
+- [[2026-03-16_election-2026-update]] — `QwenVault/2026-03-16_election-2026-update.md`
+- [[2026-03-16_election-2026-update]] — `02 - Areas/Political Analysis/2026-03-16_election-2026-update.md`
+- [[2026-03-16_nuclear-weapons-basics]] — `QwenVault/2026-03-16_nuclear-weapons-basics.md`
+- [[2026-03-16_nuclear-weapons-basics]] — `02 - Areas/Political Analysis/2026-03-16_nuclear-weapons-basics.md`
+- [[2026-03-16_nuclear-weapons-explanation]] — `QwenVault/2026-03-16_nuclear-weapons-explanation.md`
+- [[2026-03-16_nuclear-weapons-explanation]] — `02 - Areas/Political Analysis/2026-03-16_nuclear-weapons-explanation.md`
+- [[2026-03-17_building-an-ai-research-tool]] — `02 - Areas/Ancient Civilizations/2026-03-17_building-an-ai-research-tool.md`
+- [[2026-03-17_building-an-ai-research-tool]] — `ClaudeVault/2026-03-17_building-an-ai-research-tool.md`
+- [[2026-03-17_global-conflicts-analysis]] — `QwenVault/2026-03-17_global-conflicts-analysis.md`
+- [[2026-03-17_global-conflicts-analysis]] — `02 - Areas/Political Analysis/2026-03-17_global-conflicts-analysis.md`
+- [[2026-03-17_indian-constitution-explained-simply-with-examples]] — `02 - Areas/Political Analysis/2026-03-17_indian-constitution-explained-simply-with-examples.md`
+- [[2026-03-17_indian-constitution-explained-simply-with-examples]] — `ClaudeVault/2026-03-17_indian-constitution-explained-simply-with-examples.md`
+- [[2026-03-17_omniresearch-local-intelligence-platform]] — `QwenVault/2026-03-17_omniresearch-local-intelligence-platform.md`
+- [[2026-03-17_omniresearch-local-intelligence-platform]] — `02 - Areas/AI Research & Agents/2026-03-17_omniresearch-local-intelligence-platform.md`
+- [[2026-03-18_connecting-dots-map-generator-prompt]] — `02 - Areas/Ancient Civilizations/2026-03-18_connecting-dots-map-generator-prompt.md`
+- [[2026-03-18_connecting-dots-map-generator-prompt]] — `ClaudeVault/2026-03-18_connecting-dots-map-generator-prompt.md`
+- [[2026-03-18_new-chat]] — `QwenVault/2026-03-18_new-chat.md`
+- [[2026-03-18_new-chat]] — `02 - Areas/AI Research & Agents/2026-03-18_new-chat.md`
+- [[2026-03-18_top-polluted-cities-worldwide]] — `QwenVault/2026-03-18_top-polluted-cities-worldwide.md`
+- [[2026-03-18_top-polluted-cities-worldwide]] — `02 - Areas/Political Analysis/2026-03-18_top-polluted-cities-worldwide.md`
+- [[2026-03-19_free-anthropic-claude-courses-with-certificates]] — `02 - Areas/Ancient Civilizations/2026-03-19_free-anthropic-claude-courses-with-certificates.md`
+- [[2026-03-19_free-anthropic-claude-courses-with-certificates]] — `ClaudeVault/2026-03-19_free-anthropic-claude-courses-with-certificates.md`
+- [[2026-03-22_countries-impacted-by-tsar-bomb]] — `QwenVault/2026-03-22_countries-impacted-by-tsar-bomb.md`
+- [[2026-03-22_countries-impacted-by-tsar-bomb]] — `02 - Areas/Political Analysis/2026-03-22_countries-impacted-by-tsar-bomb.md`
+- [[2026-03-23_oldest-civilizations-in-human-history]] — `02 - Areas/Ancient Civilizations/2026-03-23_oldest-civilizations-in-human-history.md`
+- [[2026-03-23_oldest-civilizations-in-human-history]] — `ClaudeVault/2026-03-23_oldest-civilizations-in-human-history.md`
+- [[2026-03-23_oldest-civilizations-research]] — `QwenVault/2026-03-23_oldest-civilizations-research.md`
+- [[2026-03-23_oldest-civilizations-research]] — `02 - Areas/Ancient Civilizations/2026-03-23_oldest-civilizations-research.md`
+- [[2026-03-25_bjp-leaders-in-india]] — `QwenVault/2026-03-25_bjp-leaders-in-india.md`
+- [[2026-03-25_bjp-leaders-in-india]] — `02 - Areas/Religion & Cosmology/2026-03-25_bjp-leaders-in-india.md`
+- [[2026-03-26_checking-job-application-acceptance-emails]] — `02 - Areas/Political Analysis/2026-03-26_checking-job-application-acceptance-emails.md`
+- [[2026-03-26_checking-job-application-acceptance-emails]] — `ClaudeVault/2026-03-26_checking-job-application-acceptance-emails.md`
+- [[2026-03-26_quiz-or-survey]] — `02 - Areas/AI Research & Agents/2026-03-26_quiz-or-survey.md`
+- [[2026-03-26_quiz-or-survey]] — `ClaudeVault/2026-03-26_quiz-or-survey.md`
+- [[2026-03-28_checking-for-job-offers]] — `02 - Areas/Buddhism & Hinduism/2026-03-28_checking-for-job-offers.md`
+- [[2026-03-28_checking-for-job-offers]] — `ClaudeVault/2026-03-28_checking-for-job-offers.md`
+- [[2026-03-28_educated-leaders-by-party]] — `QwenVault/2026-03-28_educated-leaders-by-party.md`
+- [[2026-03-28_educated-leaders-by-party]] — `02 - Areas/AI Research & Agents/2026-03-28_educated-leaders-by-party.md`
+- [[2026-03-28_iran-public-satisfaction-levels]] — `QwenVault/2026-03-28_iran-public-satisfaction-levels.md`
+- [[2026-03-28_iran-public-satisfaction-levels]] — `02 - Areas/Political Analysis/2026-03-28_iran-public-satisfaction-levels.md`
+- [[2026-03-28_mahavira-and-buddhas-birth-order]] — `02 - Areas/Buddhism & Hinduism/2026-03-28_mahavira-and-buddhas-birth-order.md`
+- [[2026-03-28_mahavira-and-buddhas-birth-order]] — `ClaudeVault/2026-03-28_mahavira-and-buddhas-birth-order.md`
+- [[2026-03-29_checking-interview-and-job-application-status]] — `02 - Areas/Political Analysis/2026-03-29_checking-interview-and-job-application-status.md`
+- [[2026-03-29_checking-interview-and-job-application-status]] — `ClaudeVault/2026-03-29_checking-interview-and-job-application-status.md`
+- [[2026-03-29_cleaning-up-obsidians-cluttered-graph]] — `02 - Areas/Buddhism & Hinduism/2026-03-29_cleaning-up-obsidians-cluttered-graph.md`
+- [[2026-03-29_cleaning-up-obsidians-cluttered-graph]] — `ClaudeVault/2026-03-29_cleaning-up-obsidians-cluttered-graph.md`
+- [[2026-03-29_obsidian-personal-vault-with-local-ollama-integration]] — `02 - Areas/Ancient Civilizations/2026-03-29_obsidian-personal-vault-with-local-ollama-integration.md`
+- [[2026-03-29_obsidian-personal-vault-with-local-ollama-integration]] — `ClaudeVault/2026-03-29_obsidian-personal-vault-with-local-ollama-integration.md`
+- [[2026-03-29_script-to-remove-unwanted-files-and-free-disk-space]] — `02 - Areas/Ancient Civilizations/2026-03-29_script-to-remove-unwanted-files-and-free-disk-space.md`
+- [[2026-03-29_script-to-remove-unwanted-files-and-free-disk-space]] — `ClaudeVault/2026-03-29_script-to-remove-unwanted-files-and-free-disk-space.md`
+- [[2026-03-31_btech-performance-appraisal-strategic-concepts]] — `QwenVault/2026-03-31_btech-performance-appraisal-strategic-concepts.md`
+- [[2026-03-31_btech-performance-appraisal-strategic-concepts]] — `02 - Areas/Political Analysis/2026-03-31_btech-performance-appraisal-strategic-concepts.md`
+- [[2026-03-31_creating-readable-pdf-with-definitions-and-diagrams]] — `02 - Areas/Political Analysis/2026-03-31_creating-readable-pdf-with-definitions-and-diagrams.md`
+- [[2026-03-31_creating-readable-pdf-with-definitions-and-diagrams]] — `ClaudeVault/2026-03-31_creating-readable-pdf-with-definitions-and-diagrams.md`
+- [[2026-04-01_organizational-behavior-fundamentals-for-btech]] — `02 - Areas/Political Analysis/2026-04-01_organizational-behavior-fundamentals-for-btech.md`
+- [[2026-04-01_organizational-behavior-fundamentals-for-btech]] — `ClaudeVault/2026-04-01_organizational-behavior-fundamentals-for-btech.md`
+- [[2026-04-04_exporting-claude-search-history-to-obsidian]] — `02 - Areas/Buddhism & Hinduism/2026-04-04_exporting-claude-search-history-to-obsidian.md`
+- [[2026-04-04_exporting-claude-search-history-to-obsidian]] — `ClaudeVault/2026-04-04_exporting-claude-search-history-to-obsidian.md`
+- [[AI Chat]] — `KIMI VAULT/06 - Templates/AI Chat.md`
+- [[BJP vs INC Leadership Analysis]] — `DeepseekVault/BJP vs INC Leadership Analysis.md`
+- [[BJP vs INC Leadership Analysis]] — `02 - Areas/Political Analysis/BJP vs INC Leadership Analysis.md`
+- [[Cognitive Computing Fundamentals]] — `02 - Areas/Political Analysis/Cognitive Computing Fundamentals.md`
+- [[Daily Note]] — `KIMI VAULT/06 - Templates/Daily Note.md`
+- [[HOME]] — `KIMI VAULT/HOME.md`
+- [[Literature Note]] — `KIMI VAULT/06 - Templates/Literature Note.md`
+- [[Multiple Agents Research Destroyed Libraries]] — `DeepseekVault/Multiple Agents Research Destroyed Libraries.md`
+- [[Multiple Agents Research Destroyed Libraries]] — `02 - Areas/Buddhism & Hinduism/Multiple Agents Research Destroyed Libraries.md`
+- [[Nalanda University Destruction]] — `DeepseekVault/Nalanda University Destruction.md`
+- [[Nalanda University Destruction]] — `02 - Areas/Buddhism & Hinduism/Nalanda University Destruction.md`
+- [[OBSIDIAN SETUP GUIDE]] — `OBSIDIAN SETUP GUIDE.md`
+- [[OBSIDIAN_GRAPH_SETTINGS_AI_CONTEXT]] — `02 - Areas/Political Analysis/OBSIDIAN_GRAPH_SETTINGS_AI_CONTEXT.md`
+- [[Research Note]] — `KIMI VAULT/06 - Templates/Research Note.md`
+
+---
+
+## Statistics
+
+- Total files: 264
+- Oldest: Daily Note.md
+- Newest: Multiple Agents Research Destroyed Libraries.md

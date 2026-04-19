@@ -1,0 +1,134 @@
+# Finance & Economics - Complete File Index
+
+**Generated:** 2026-04-11 12:43
+**Total Files:** 117
+
+---
+
+## Alphabetical File List
+
+- [[00_Projects]] — `02 - Areas/Buddhism & Hinduism/00_Projects.md`
+- [[00_Projects]] — `ClaudeVault/00_Projects.md`
+- [[2025-07-26_beyonder-vs-endless-cosmic-showdown]] — `02 - Areas/Religion & Cosmology/2025-07-26_beyonder-vs-endless-cosmic-showdown.md`
+- [[2025-07-26_beyonder-vs-endless-cosmic-showdown]] — `ClaudeVault/2025-07-26_beyonder-vs-endless-cosmic-showdown.md`
+- [[2025-08-23_ai-powered-agentic-browser-options]] — `02 - Areas/Political Analysis/2025-08-23_ai-powered-agentic-browser-options.md`
+- [[2025-08-23_ai-powered-agentic-browser-options]] — `ClaudeVault/2025-08-23_ai-powered-agentic-browser-options.md`
+- [[2025-08-29_dc-comics-presentation]] — `02 - Areas/Political Analysis/2025-08-29_dc-comics-presentation.md`
+- [[2025-08-29_dc-comics-presentation]] — `ClaudeVault/2025-08-29_dc-comics-presentation.md`
+- [[2025-09-08_the-endless-vs-marvel-cosmic-order]] — `02 - Areas/Religion & Cosmology/2025-09-08_the-endless-vs-marvel-cosmic-order.md`
+- [[2025-09-08_the-endless-vs-marvel-cosmic-order]] — `ClaudeVault/2025-09-08_the-endless-vs-marvel-cosmic-order.md`
+- [[2025-12-11_hiit-workout-plan-for-85-kg]] — `QwenVault/2025-12-11_hiit-workout-plan-for-85-kg.md`
+- [[2025-12-11_hiit-workout-plan-for-85-kg]] — `02 - Areas/Political Analysis/2025-12-11_hiit-workout-plan-for-85-kg.md`
+- [[2025-12-11_productivity-tools]] — `02 - Areas/Political Analysis/2025-12-11_productivity-tools.md`
+- [[2025-12-11_productivity-tools]] — `ClaudeVault/2025-12-11_productivity-tools.md`
+- [[2025-12-30_coldweathersprintwarmupguide]] — `QwenVault/2025-12-30_coldweathersprintwarmupguide.md`
+- [[2025-12-30_coldweathersprintwarmupguide]] — `02 - Areas/Political Analysis/2025-12-30_coldweathersprintwarmupguide.md`
+- [[2026-02-09_ai-portfolio-design-guide]] — `QwenVault/2026-02-09_ai-portfolio-design-guide.md`
+- [[2026-02-09_ai-portfolio-design-guide]] — `02 - Areas/Political Analysis/2026-02-09_ai-portfolio-design-guide.md`
+- [[2026-02-11_epstein-files-chatbot-prompt]] — `QwenVault/2026-02-11_epstein-files-chatbot-prompt.md`
+- [[2026-02-11_epstein-files-chatbot-prompt]] — `02 - Areas/Political Analysis/2026-02-11_epstein-files-chatbot-prompt.md`
+- [[2026-02-17_comparing-kimi-claude-and-glm-latest-models]] — `02 - Areas/Ancient Civilizations/2026-02-17_comparing-kimi-claude-and-glm-latest-models.md`
+- [[2026-02-17_comparing-kimi-claude-and-glm-latest-models]] — `ClaudeVault/2026-02-17_comparing-kimi-claude-and-glm-latest-models.md`
+- [[2026-02-18_claude-vs-grok-latest-model-comparison]] — `02 - Areas/Ancient Civilizations/2026-02-18_claude-vs-grok-latest-model-comparison.md`
+- [[2026-02-18_claude-vs-grok-latest-model-comparison]] — `ClaudeVault/2026-02-18_claude-vs-grok-latest-model-comparison.md`
+- [[2026-02-19_claude-vs-grok-comparing-least-thinking-models]] — `02 - Areas/Political Analysis/2026-02-19_claude-vs-grok-comparing-least-thinking-models.md`
+- [[2026-02-19_claude-vs-grok-comparing-least-thinking-models]] — `ClaudeVault/2026-02-19_claude-vs-grok-comparing-least-thinking-models.md`
+- [[2026-02-19_south-india-vs-north-india-growth-comparison]] — `QwenVault/2026-02-19_south-india-vs-north-india-growth-comparison.md`
+- [[2026-02-19_south-india-vs-north-india-growth-comparison]] — `02 - Areas/Political Analysis/2026-02-19_south-india-vs-north-india-growth-comparison.md`
+- [[2026-02-21_checking-laptop-specs-on-linux]] — `02 - Areas/Buddhism & Hinduism/2026-02-21_checking-laptop-specs-on-linux.md`
+- [[2026-02-21_checking-laptop-specs-on-linux]] — `ClaudeVault/2026-02-21_checking-laptop-specs-on-linux.md`
+- [[2026-02-23_recognizing-jailbreak-attempts]] — `02 - Areas/AI Research & Agents/2026-02-23_recognizing-jailbreak-attempts.md`
+- [[2026-02-23_recognizing-jailbreak-attempts]] — `ClaudeVault/2026-02-23_recognizing-jailbreak-attempts.md`
+- [[2026-02-25_bjp-vs-congress-corruption-analysis]] — `QwenVault/2026-02-25_bjp-vs-congress-corruption-analysis.md`
+- [[2026-02-25_bjp-vs-congress-corruption-analysis]] — `02 - Areas/Buddhism & Hinduism/2026-02-25_bjp-vs-congress-corruption-analysis.md`
+- [[2026-02-26_hr-analytics-dashboard-guide]] — `QwenVault/2026-02-26_hr-analytics-dashboard-guide.md`
+- [[2026-02-26_hr-analytics-dashboard-guide]] — `02 - Areas/AI Research & Agents/2026-02-26_hr-analytics-dashboard-guide.md`
+- [[2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir]] — `02 - Areas/Buddhism & Hinduism/2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir.md`
+- [[2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir]] — `ClaudeVault/2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir.md`
+- [[2026-03-03_kerala-story-budget-collection]] — `QwenVault/2026-03-03_kerala-story-budget-collection.md`
+- [[2026-03-03_kerala-story-budget-collection]] — `02 - Areas/Political Analysis/2026-03-03_kerala-story-budget-collection.md`
+- [[2026-03-04_american-presidents-net-worths]] — `QwenVault/2026-03-04_american-presidents-net-worths.md`
+- [[2026-03-04_american-presidents-net-worths]] — `02 - Areas/Political Analysis/2026-03-04_american-presidents-net-worths.md`
+- [[2026-03-04_job-market-comparison-india-china]] — `QwenVault/2026-03-04_job-market-comparison-india-china.md`
+- [[2026-03-04_job-market-comparison-india-china]] — `02 - Areas/Political Analysis/2026-03-04_job-market-comparison-india-china.md`
+- [[2026-03-04_xi-jinpings-net-worth]] — `02 - Areas/Buddhism & Hinduism/2026-03-04_xi-jinpings-net-worth.md`
+- [[2026-03-04_xi-jinpings-net-worth]] — `ClaudeVault/2026-03-04_xi-jinpings-net-worth.md`
+- [[2026-03-06_india-china-petrol-prices]] — `QwenVault/2026-03-06_india-china-petrol-prices.md`
+- [[2026-03-06_india-china-petrol-prices]] — `02 - Areas/Political Analysis/2026-03-06_india-china-petrol-prices.md`
+- [[2026-03-06_india-vs-china-petrol-prices-comparison]] — `02 - Areas/Buddhism & Hinduism/2026-03-06_india-vs-china-petrol-prices-comparison.md`
+- [[2026-03-06_india-vs-china-petrol-prices-comparison]] — `ClaudeVault/2026-03-06_india-vs-china-petrol-prices-comparison.md`
+- [[2026-03-07_india-data-center-locations-and-future-installations]] — `02 - Areas/Buddhism & Hinduism/2026-03-07_india-data-center-locations-and-future-installations.md`
+- [[2026-03-07_india-data-center-locations-and-future-installations]] — `ClaudeVault/2026-03-07_india-data-center-locations-and-future-installations.md`
+- [[2026-03-08_chinas-current-policies-in-tibet]] — `02 - Areas/Buddhism & Hinduism/2026-03-08_chinas-current-policies-in-tibet.md`
+- [[2026-03-08_chinas-current-policies-in-tibet]] — `ClaudeVault/2026-03-08_chinas-current-policies-in-tibet.md`
+- [[2026-03-08_future-leaders-of-major-world-powers]] — `02 - Areas/Ancient Civilizations/2026-03-08_future-leaders-of-major-world-powers.md`
+- [[2026-03-08_future-leaders-of-major-world-powers]] — `ClaudeVault/2026-03-08_future-leaders-of-major-world-powers.md`
+- [[2026-03-08_installing-perplexica-locally-on-linux]] — `02 - Areas/Political Analysis/2026-03-08_installing-perplexica-locally-on-linux.md`
+- [[2026-03-08_installing-perplexica-locally-on-linux]] — `ClaudeVault/2026-03-08_installing-perplexica-locally-on-linux.md`
+- [[2026-03-09_retail-customer-shopping-trends-analysis]] — `QwenVault/2026-03-09_retail-customer-shopping-trends-analysis.md`
+- [[2026-03-09_retail-customer-shopping-trends-analysis]] — `02 - Areas/AI Research & Agents/2026-03-09_retail-customer-shopping-trends-analysis.md`
+- [[2026-03-09_standout-data-analysis-project-for-fresher-resume]] — `02 - Areas/Ancient Civilizations/2026-03-09_standout-data-analysis-project-for-fresher-resume.md`
+- [[2026-03-09_standout-data-analysis-project-for-fresher-resume]] — `ClaudeVault/2026-03-09_standout-data-analysis-project-for-fresher-resume.md`
+- [[2026-03-09_untitled]] — `02 - Areas/Ancient Civilizations/2026-03-09_untitled.md`
+- [[2026-03-09_untitled]] — `ClaudeVault/2026-03-09_untitled.md`
+- [[2026-03-11_sharing-mouse-and-keyboard-across-windows-and-linux]] — `02 - Areas/Religion & Cosmology/2026-03-11_sharing-mouse-and-keyboard-across-windows-and-linux.md`
+- [[2026-03-11_sharing-mouse-and-keyboard-across-windows-and-linux]] — `ClaudeVault/2026-03-11_sharing-mouse-and-keyboard-across-windows-and-linux.md`
+- [[2026-03-12_telangana-si-preparation-books-free-download-sources]] — `02 - Areas/Buddhism & Hinduism/2026-03-12_telangana-si-preparation-books-free-download-sources.md`
+- [[2026-03-12_telangana-si-preparation-books-free-download-sources]] — `ClaudeVault/2026-03-12_telangana-si-preparation-books-free-download-sources.md`
+- [[2026-03-13_comparing-latest-ai-models-for-research-and-analysis]] — `02 - Areas/Ancient Civilizations/2026-03-13_comparing-latest-ai-models-for-research-and-analysis.md`
+- [[2026-03-13_comparing-latest-ai-models-for-research-and-analysis]] — `ClaudeVault/2026-03-13_comparing-latest-ai-models-for-research-and-analysis.md`
+- [[2026-03-13_future-job-market-trends]] — `QwenVault/2026-03-13_future-job-market-trends.md`
+- [[2026-03-13_future-job-market-trends]] — `02 - Areas/AI Research & Agents/2026-03-13_future-job-market-trends.md`
+- [[2026-03-13_jobs-disappearing-and-growing-in-next-1-2-years]] — `02 - Areas/Ancient Civilizations/2026-03-13_jobs-disappearing-and-growing-in-next-1-2-years.md`
+- [[2026-03-13_jobs-disappearing-and-growing-in-next-1-2-years]] — `ClaudeVault/2026-03-13_jobs-disappearing-and-growing-in-next-1-2-years.md`
+- [[2026-03-13_quiz-or-survey]] — `02 - Areas/Ancient Civilizations/2026-03-13_quiz-or-survey.md`
+- [[2026-03-13_quiz-or-survey]] — `ClaudeVault/2026-03-13_quiz-or-survey.md`
+- [[2026-03-13_us-aid-to-israel-1948-2026]] — `QwenVault/2026-03-13_us-aid-to-israel-1948-2026.md`
+- [[2026-03-13_us-aid-to-israel-1948-2026]] — `02 - Areas/AI Research & Agents/2026-03-13_us-aid-to-israel-1948-2026.md`
+- [[2026-03-14_automated-stock-analyzer-for-indian-market]] — `QwenVault/2026-03-14_automated-stock-analyzer-for-indian-market.md`
+- [[2026-03-14_automated-stock-analyzer-for-indian-market]] — `02 - Areas/Political Analysis/2026-03-14_automated-stock-analyzer-for-indian-market.md`
+- [[2026-03-14_war-affected-stocks-under-25-rupees]] — `02 - Areas/Buddhism & Hinduism/2026-03-14_war-affected-stocks-under-25-rupees.md`
+- [[2026-03-14_war-affected-stocks-under-25-rupees]] — `ClaudeVault/2026-03-14_war-affected-stocks-under-25-rupees.md`
+- [[2026-03-14_war-defense-stock-opportunities]] — `QwenVault/2026-03-14_war-defense-stock-opportunities.md`
+- [[2026-03-14_war-defense-stock-opportunities]] — `02 - Areas/Political Analysis/2026-03-14_war-defense-stock-opportunities.md`
+- [[2026-03-16_ambani-adani-net-worth-growth-analysis]] — `QwenVault/2026-03-16_ambani-adani-net-worth-growth-analysis.md`
+- [[2026-03-16_ambani-adani-net-worth-growth-analysis]] — `02 - Areas/Political Analysis/2026-03-16_ambani-adani-net-worth-growth-analysis.md`
+- [[2026-03-16_india-internet-tax-query]] — `QwenVault/2026-03-16_india-internet-tax-query.md`
+- [[2026-03-16_india-internet-tax-query]] — `02 - Areas/Political Analysis/2026-03-16_india-internet-tax-query.md`
+- [[2026-03-16_india-oil-import-sources]] — `QwenVault/2026-03-16_india-oil-import-sources.md`
+- [[2026-03-16_india-oil-import-sources]] — `02 - Areas/Political Analysis/2026-03-16_india-oil-import-sources.md`
+- [[2026-03-18_automated-job-applications-for-data-analyst-roles-in-hy]] — `02 - Areas/Buddhism & Hinduism/2026-03-18_automated-job-applications-for-data-analyst-roles-in-hy.md`
+- [[2026-03-18_automated-job-applications-for-data-analyst-roles-in-hy]] — `ClaudeVault/2026-03-18_automated-job-applications-for-data-analyst-roles-in-hy.md`
+- [[2026-03-18_nia-counter-terror-operation-analysis]] — `QwenVault/2026-03-18_nia-counter-terror-operation-analysis.md`
+- [[2026-03-18_nia-counter-terror-operation-analysis]] — `02 - Areas/Buddhism & Hinduism/2026-03-18_nia-counter-terror-operation-analysis.md`
+- [[2026-03-20_building-project-from-provided-data]] — `02 - Areas/Ancient Civilizations/2026-03-20_building-project-from-provided-data.md`
+- [[2026-03-20_building-project-from-provided-data]] — `ClaudeVault/2026-03-20_building-project-from-provided-data.md`
+- [[2026-03-20_complete-stock-analyzer-prompt-with-news-tracking]] — `02 - Areas/Ancient Civilizations/2026-03-20_complete-stock-analyzer-prompt-with-news-tracking.md`
+- [[2026-03-20_complete-stock-analyzer-prompt-with-news-tracking]] — `ClaudeVault/2026-03-20_complete-stock-analyzer-prompt-with-news-tracking.md`
+- [[2026-03-24_war-driven-stock-picks-under-500-rupees]] — `02 - Areas/Buddhism & Hinduism/2026-03-24_war-driven-stock-picks-under-500-rupees.md`
+- [[2026-03-24_war-driven-stock-picks-under-500-rupees]] — `ClaudeVault/2026-03-24_war-driven-stock-picks-under-500-rupees.md`
+- [[2026-03-27_best-stocks-for-1-lakh-rupee-portfolio]] — `02 - Areas/Buddhism & Hinduism/2026-03-27_best-stocks-for-1-lakh-rupee-portfolio.md`
+- [[2026-03-27_best-stocks-for-1-lakh-rupee-portfolio]] — `ClaudeVault/2026-03-27_best-stocks-for-1-lakh-rupee-portfolio.md`
+- [[2026-03-27_best-stocks-for-indian-market]] — `QwenVault/2026-03-27_best-stocks-for-indian-market.md`
+- [[2026-03-27_best-stocks-for-indian-market]] — `02 - Areas/Political Analysis/2026-03-27_best-stocks-for-indian-market.md`
+- [[2026-03-27_best-stocks-to-buy-with-1-lakh-rupees]] — `02 - Areas/AI Research & Agents/2026-03-27_best-stocks-to-buy-with-1-lakh-rupees.md`
+- [[2026-03-27_best-stocks-to-buy-with-1-lakh-rupees]] — `ClaudeVault/2026-03-27_best-stocks-to-buy-with-1-lakh-rupees.md`
+- [[2026-03-27_connecting-groww-account-to-claude]] — `02 - Areas/Political Analysis/2026-03-27_connecting-groww-account-to-claude.md`
+- [[2026-03-27_connecting-groww-account-to-claude]] — `ClaudeVault/2026-03-27_connecting-groww-account-to-claude.md`
+- [[2026-03-27_download-stock-portfolio]] — `02 - Areas/Political Analysis/2026-03-27_download-stock-portfolio.md`
+- [[2026-03-27_download-stock-portfolio]] — `ClaudeVault/2026-03-27_download-stock-portfolio.md`
+- [[2026-04-02_india-population-map-by-state]] — `02 - Areas/Ancient Civilizations/2026-04-02_india-population-map-by-state.md`
+- [[2026-04-02_india-population-map-by-state]] — `ClaudeVault/2026-04-02_india-population-map-by-state.md`
+- [[2026-04-02_india-vs-china-crime-and-unemployment-rates]] — `02 - Areas/Ancient Civilizations/2026-04-02_india-vs-china-crime-and-unemployment-rates.md`
+- [[2026-04-02_india-vs-china-crime-and-unemployment-rates]] — `ClaudeVault/2026-04-02_india-vs-china-crime-and-unemployment-rates.md`
+- [[2026-04-03_best-value-recharge-packs-in-india]] — `02 - Areas/Political Analysis/2026-04-03_best-value-recharge-packs-in-india.md`
+- [[2026-04-03_best-value-recharge-packs-in-india]] — `ClaudeVault/2026-04-03_best-value-recharge-packs-in-india.md`
+- [[3D Portfolio Website]] — `02 - Areas/AI Research & Agents/3D Portfolio Website.md`
+
+---
+
+## Statistics
+
+- Total files: 117
+- Oldest: 2026-02-18_claude-vs-grok-latest-model-comparison.md
+- Newest: 3D Portfolio Website.md
