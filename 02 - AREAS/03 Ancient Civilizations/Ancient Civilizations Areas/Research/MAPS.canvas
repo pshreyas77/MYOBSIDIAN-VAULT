@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"civilization-overview","type":"text","text":"## 🌍 Ancient Civilizations Map Overview\n\n**Total Civilizations Tracked: 6**\n\n1. Göbekli Tepe (~9500 BCE) - Turkey\n2. Çatalhöyük (~7500 BCE) - Turkey\n3. Ancient Egypt (~5500 BCE) - Nile Valley\n4. Sumerian Mesopotamia (~5500 BCE) - Iraq\n5. Indus Valley (~3300 BCE) - Pakistan/India\n6. Caral-Supe (~3100 BCE) - Peru\n\nClick nodes to explore each civilization's locations and archaeological sites.","x":-100,"y":-200,"width":400,"height":300},
+		{"id":"gobekli-location","type":"text","text":"📍 Göbekli Tepe\n\n- **Location**: Şanlıurfa Province, Turkey\n- **Coordinates**: 37.223°N 38.922°E\n- **Area**: 9 hectares (22 acres)\n- **Key Site**: 20+ circular enclosures\n\n[[GÖBEKLI TEPE - WORLD'S OLDEST CIVILIZATION]]","x":-500,"y":150,"width":300,"height":200},
+		{"id":"catal-location","type":"text","text":"📍 Çatalhöyük\n\n- **Location**: Konya Plain, Turkey\n- **Coordinates**: 37.666°N 32.828°E\n- **Population**: 5,000-8,000\n- **Houses**: 1,000+ buildings\n\n[[**ÇATALHÖYÜK - 2ND OLDEST CIVILIZATION**]]","x":-150,"y":150,"width":300,"height":200},
+		{"id":"egypt-location","type":"text","text":"📍 Ancient Egypt\n\n- **Location**: Nile River Valley\n- **Major Cities**: Memphis, Thebes, Giza\n- **Pyramids**: 118 discovered\n- **Nile Length**: 6,650 km\n\n[[**ANCIENT EGYPTIAN CIVILIZATION - 3RD OLDEST CIVILIZATION**]]","x":200,"y":150,"width":300,"height":200},
+		{"id":"sumer-location","type":"text","text":"📍 Mesopotamia/Sumer\n\n- **Location**: Tigris-Euphrates valleys\n- **Major Cities**: Uruk, Ur, Babylon\n- **Cuneiform**: First writing system\n- **Ziggurats**: Temple towers\n\n[[#MESOPOTAMIAN SUMERIAN CIVILIZATION - 4TH OLDEST CIVILIZATION]]","x":550,"y":150,"width":300,"height":200},
+		{"id":"indus-location","type":"text","text":"📍 Indus Valley\n\n- **Location**: Indus-Ghaggar basin\n- **Major Cities**: Mohenjo-Daro, Harappa\n- **Area**: 1.25 million km²\n- **Sites**: 1,000+ settlements\n\n[[**INDUS VALLEY CIVILIZATION (HARAPPAN)]]","x":900,"y":150,"width":300,"height":200},
+		{"id":"caral-location","type":"text","text":"📍 Caral-Supe\n\n- **Location**: Supe Valley, Peru\n- **Coordinates**: 10.893°S 77.520°W\n- **Pyramids**: 6 major pyramids\n- **Age**: ~5,000 years old\n\n[[**CARAL-SUPE CIVILIZATION]]","x":-500,"y":400,"width":300,"height":200},
+		{"id":"map-connection-note","type":"text","text":"🔗 **Map Navigation**\n\nAll ancient civilizations connected by:\n- Trade routes\n- Cultural diffusion\n- Migration patterns\n- Shared technologies\n\nSee [[OLDEST CIVILIZATION.canvas]] for full timeline view.","x":200,"y":500,"width":300,"height":150}
+	],
+	"edges":[
+		{"fromNode":"map-connection-note","fromSide":"top","toNode":"egypt-location","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,157 @@
+# Politics & Governance - Complete File Index
+
+**Generated:** 2026-04-11 12:43
+**Total Files:** 140
+
+---
+
+## Alphabetical File List
+
+- [[00_DEEPSEEK INDEX]] — `DeepseekVault/00_DEEPSEEK INDEX.md`
+- [[00_DEEPSEEK INDEX]] — `02 - Areas/Buddhism & Hinduism/00_DEEPSEEK INDEX.md`
+- [[00_Memories]] — `02 - Areas/Buddhism & Hinduism/00_Memories.md`
+- [[00_Memories]] — `ClaudeVault/00_Memories.md`
+- [[00_Qwen_Index_1]] — `QwenVault/00_Qwen_Index.md`
+- [[00_Qwen_Index_1]] — `02 - Areas/Buddhism & Hinduism/00_Qwen_Index.md`
+- [[2025-12-29_problem-solving_1]] — `02 - Areas/AI Research & Agents/2025-12-29_problem-solving.md`
+- [[2025-12-29_problem-solving_1]] — `ClaudeVault/2025-12-29_problem-solving.md`
+- [[2026-02-04_report-compilation-guide]] — `QwenVault/2026-02-04_report-compilation-guide.md`
+- [[2026-02-04_report-compilation-guide]] — `02 - Areas/Political Analysis/2026-02-04_report-compilation-guide.md`
+- [[2026-02-08_north-vs-south-india-population]] — `QwenVault/2026-02-08_north-vs-south-india-population.md`
+- [[2026-02-08_north-vs-south-india-population]] — `02 - Areas/Political Analysis/2026-02-08_north-vs-south-india-population.md`
+- [[2026-02-11_epstein-case-files-chatbot-verification]] — `02 - Areas/Ancient Civilizations/2026-02-11_epstein-case-files-chatbot-verification.md`
+- [[2026-02-11_epstein-case-files-chatbot-verification]] — `ClaudeVault/2026-02-11_epstein-case-files-chatbot-verification.md`
+- [[2026-02-19_best-indian-political-party_1]] — `QwenVault/2026-02-19_best-indian-political-party.md`
+- [[2026-02-19_best-indian-political-party_1]] — `02 - Areas/Political Analysis/2026-02-19_best-indian-political-party.md`
+- [[2026-02-19_south-india-vs-north-india-growth-comparison]] — `QwenVault/2026-02-19_south-india-vs-north-india-growth-comparison.md`
+- [[2026-02-19_south-india-vs-north-india-growth-comparison]] — `02 - Areas/Political Analysis/2026-02-19_south-india-vs-north-india-growth-comparison.md`
+- [[2026-02-25_bjp-vs-congress-corruption-analysis]] — `QwenVault/2026-02-25_bjp-vs-congress-corruption-analysis.md`
+- [[2026-02-25_bjp-vs-congress-corruption-analysis]] — `02 - Areas/Buddhism & Hinduism/2026-02-25_bjp-vs-congress-corruption-analysis.md`
+- [[2026-02-26_claude-code-login-method-selection]] — `02 - Areas/Political Analysis/2026-02-26_claude-code-login-method-selection.md`
+- [[2026-02-26_claude-code-login-method-selection]] — `ClaudeVault/2026-02-26_claude-code-login-method-selection.md`
+- [[2026-02-27_trip-planning-across-india_1]] — `QwenVault/2026-02-27_trip-planning-across-india.md`
+- [[2026-02-27_trip-planning-across-india_1]] — `02 - Areas/Religion & Cosmology/2026-02-27_trip-planning-across-india.md`
+- [[2026-03-02_america-vs-russia-war-defence-compare_1]] — `QwenVault/2026-03-02_america-vs-russia-war-defence-compare.md`
+- [[2026-03-02_america-vs-russia-war-defence-compare_1]] — `02 - Areas/Political Analysis/2026-03-02_america-vs-russia-war-defence-compare.md`
+- [[2026-03-02_indian-llm-chatbots-directory]] — `QwenVault/2026-03-02_indian-llm-chatbots-directory.md`
+- [[2026-03-02_indian-llm-chatbots-directory]] — `02 - Areas/Political Analysis/2026-03-02_indian-llm-chatbots-directory.md`
+- [[2026-03-03_iran-israel-conflict-update_1]] — `QwenVault/2026-03-03_iran-israel-conflict-update.md`
+- [[2026-03-03_iran-israel-conflict-update_1]] — `02 - Areas/Political Analysis/2026-03-03_iran-israel-conflict-update.md`
+- [[2026-03-03_nuclear-vs-atom-bomb-strength]] — `QwenVault/2026-03-03_nuclear-vs-atom-bomb-strength.md`
+- [[2026-03-03_nuclear-vs-atom-bomb-strength]] — `02 - Areas/Political Analysis/2026-03-03_nuclear-vs-atom-bomb-strength.md`
+- [[2026-03-04_american-presidents-net-worths_1]] — `QwenVault/2026-03-04_american-presidents-net-worths.md`
+- [[2026-03-04_american-presidents-net-worths_1]] — `02 - Areas/Political Analysis/2026-03-04_american-presidents-net-worths.md`
+- [[2026-03-04_india-vs-ussr-hypothetical-war_1]] — `QwenVault/2026-03-04_india-vs-ussr-hypothetical-war.md`
+- [[2026-03-04_india-vs-ussr-hypothetical-war_1]] — `02 - Areas/Political Analysis/2026-03-04_india-vs-ussr-hypothetical-war.md`
+- [[2026-03-04_job-market-comparison-india-china]] — `QwenVault/2026-03-04_job-market-comparison-india-china.md`
+- [[2026-03-04_job-market-comparison-india-china]] — `02 - Areas/Political Analysis/2026-03-04_job-market-comparison-india-china.md`
+- [[2026-03-04_xi-jinpings-net-worth]] — `02 - Areas/Buddhism & Hinduism/2026-03-04_xi-jinpings-net-worth.md`
+- [[2026-03-04_xi-jinpings-net-worth]] — `ClaudeVault/2026-03-04_xi-jinpings-net-worth.md`
+- [[2026-03-06_india-china-petrol-prices]] — `QwenVault/2026-03-06_india-china-petrol-prices.md`
+- [[2026-03-06_india-china-petrol-prices]] — `02 - Areas/Political Analysis/2026-03-06_india-china-petrol-prices.md`
+- [[2026-03-06_india-vs-china-petrol-prices-comparison]] — `02 - Areas/Buddhism & Hinduism/2026-03-06_india-vs-china-petrol-prices-comparison.md`
+- [[2026-03-06_india-vs-china-petrol-prices-comparison]] — `ClaudeVault/2026-03-06_india-vs-china-petrol-prices-comparison.md`
+- [[2026-03-07_chinas-social-credit-system]] — `02 - Areas/Political Analysis/2026-03-07_chinas-social-credit-system.md`
+- [[2026-03-07_chinas-social-credit-system]] — `ClaudeVault/2026-03-07_chinas-social-credit-system.md`
+- [[2026-03-07_data-centers-in-india]] — `QwenVault/2026-03-07_data-centers-in-india.md`
+- [[2026-03-07_data-centers-in-india]] — `02 - Areas/Political Analysis/2026-03-07_data-centers-in-india.md`
+- [[2026-03-08_chinas-current-policies-in-tibet]] — `02 - Areas/Buddhism & Hinduism/2026-03-08_chinas-current-policies-in-tibet.md`
+- [[2026-03-08_chinas-current-policies-in-tibet]] — `ClaudeVault/2026-03-08_chinas-current-policies-in-tibet.md`
+- [[2026-03-08_comparing-jewish-zionism-and-hindu-nationalism]] — `02 - Areas/Buddhism & Hinduism/2026-03-08_comparing-jewish-zionism-and-hindu-nationalism.md`
+- [[2026-03-08_comparing-jewish-zionism-and-hindu-nationalism]] — `ClaudeVault/2026-03-08_comparing-jewish-zionism-and-hindu-nationalism.md`
+- [[2026-03-08_future-leaders-of-major-world-powers]] — `02 - Areas/Ancient Civilizations/2026-03-08_future-leaders-of-major-world-powers.md`
+- [[2026-03-08_future-leaders-of-major-world-powers]] — `ClaudeVault/2026-03-08_future-leaders-of-major-world-powers.md`
+- [[2026-03-08_hitler-vs-stalin-comparison]] — `QwenVault/2026-03-08_hitler-vs-stalin-comparison.md`
+- [[2026-03-08_hitler-vs-stalin-comparison]] — `02 - Areas/Political Analysis/2026-03-08_hitler-vs-stalin-comparison.md`
+- [[2026-03-08_karl-marx-audiobook-compilation_1]] — `QwenVault/2026-03-08_karl-marx-audiobook-compilation.md`
+- [[2026-03-08_karl-marx-audiobook-compilation_1]] — `02 - Areas/Ancient Civilizations/2026-03-08_karl-marx-audiobook-compilation.md`
+- [[2026-03-08_karl-marx-audiobook-compilation_1]] — `02 - Areas/Political Analysis/2026-03-08_karl-marx-audiobook-compilation.md`
+- [[2026-03-08_karl-marx-audiobook-compilation_1]] — `ClaudeVault/2026-03-08_karl-marx-audiobook-compilation.md`
+- [[2026-03-10_adani-ambani-media-ownership]] — `QwenVault/2026-03-10_adani-ambani-media-ownership.md`
+- [[2026-03-10_adani-ambani-media-ownership]] — `02 - Areas/Political Analysis/2026-03-10_adani-ambani-media-ownership.md`
+- [[2026-03-10_adani-and-ambani-media-ownership-in-india]] — `02 - Areas/Political Analysis/2026-03-10_adani-and-ambani-media-ownership-in-india.md`
+- [[2026-03-10_adani-and-ambani-media-ownership-in-india]] — `ClaudeVault/2026-03-10_adani-and-ambani-media-ownership-in-india.md`
+- [[2026-03-11_israeli-weapons-manufacturing-in-hyderabad]] — `QwenVault/2026-03-11_israeli-weapons-manufacturing-in-hyderabad.md`
+- [[2026-03-11_israeli-weapons-manufacturing-in-hyderabad]] — `02 - Areas/Political Analysis/2026-03-11_israeli-weapons-manufacturing-in-hyderabad.md`
+- [[2026-03-12_collapse-of-ussr-causes]] — `QwenVault/2026-03-12_collapse-of-ussr-causes.md`
+- [[2026-03-12_collapse-of-ussr-causes]] — `02 - Areas/Political Analysis/2026-03-12_collapse-of-ussr-causes.md`
+- [[2026-03-13_british-raj-casualty-count]] — `QwenVault/2026-03-13_british-raj-casualty-count.md`
+- [[2026-03-13_british-raj-casualty-count]] — `02 - Areas/Political Analysis/2026-03-13_british-raj-casualty-count.md`
+- [[2026-03-13_stalin-mao-meeting_1]] — `QwenVault/2026-03-13_stalin-mao-meeting.md`
+- [[2026-03-13_stalin-mao-meeting_1]] — `02 - Areas/Religion & Cosmology/2026-03-13_stalin-mao-meeting.md`
+- [[2026-03-13_stalin-vs-lenin-leadership]] — `QwenVault/2026-03-13_stalin-vs-lenin-leadership.md`
+- [[2026-03-13_stalin-vs-lenin-leadership]] — `02 - Areas/Political Analysis/2026-03-13_stalin-vs-lenin-leadership.md`
+- [[2026-03-13_us-aid-to-israel-1948-2026_1]] — `QwenVault/2026-03-13_us-aid-to-israel-1948-2026.md`
+- [[2026-03-13_us-aid-to-israel-1948-2026_1]] — `02 - Areas/AI Research & Agents/2026-03-13_us-aid-to-israel-1948-2026.md`
+- [[2026-03-14_automated-stock-analyzer-for-indian-market]] — `QwenVault/2026-03-14_automated-stock-analyzer-for-indian-market.md`
+- [[2026-03-14_automated-stock-analyzer-for-indian-market]] — `02 - Areas/Political Analysis/2026-03-14_automated-stock-analyzer-for-indian-market.md`
+- [[2026-03-14_communist-leaders-comparison_1]] — `QwenVault/2026-03-14_communist-leaders-comparison.md`
+- [[2026-03-14_communist-leaders-comparison_1]] — `02 - Areas/Political Analysis/2026-03-14_communist-leaders-comparison.md`
+- [[2026-03-14_war-affected-stocks-under-25-rupees]] — `02 - Areas/Buddhism & Hinduism/2026-03-14_war-affected-stocks-under-25-rupees.md`
+- [[2026-03-14_war-affected-stocks-under-25-rupees]] — `ClaudeVault/2026-03-14_war-affected-stocks-under-25-rupees.md`
+- [[2026-03-14_war-defense-stock-opportunities_1]] — `QwenVault/2026-03-14_war-defense-stock-opportunities.md`
+- [[2026-03-14_war-defense-stock-opportunities_1]] — `02 - Areas/Political Analysis/2026-03-14_war-defense-stock-opportunities.md`
+- [[2026-03-15_claude-march-2026-usage-promotion]] — `02 - Areas/Political Analysis/2026-03-15_claude-march-2026-usage-promotion.md`
+- [[2026-03-15_claude-march-2026-usage-promotion]] — `ClaudeVault/2026-03-15_claude-march-2026-usage-promotion.md`
+- [[2026-03-15_indian-stock-analyzer-system]] — `QwenVault/2026-03-15_indian-stock-analyzer-system.md`
+- [[2026-03-15_indian-stock-analyzer-system]] — `02 - Areas/Buddhism & Hinduism/2026-03-15_indian-stock-analyzer-system.md`
+- [[2026-03-15_stalin-vs-putin-power-comparison_1]] — `QwenVault/2026-03-15_stalin-vs-putin-power-comparison.md`
+- [[2026-03-15_stalin-vs-putin-power-comparison_1]] — `02 - Areas/Political Analysis/2026-03-15_stalin-vs-putin-power-comparison.md`
+- [[2026-03-16_ambani-adani-net-worth-growth-analysis]] — `QwenVault/2026-03-16_ambani-adani-net-worth-growth-analysis.md`
+- [[2026-03-16_ambani-adani-net-worth-growth-analysis]] — `02 - Areas/Political Analysis/2026-03-16_ambani-adani-net-worth-growth-analysis.md`
+- [[2026-03-16_election-2026-update_1]] — `QwenVault/2026-03-16_election-2026-update.md`
+- [[2026-03-16_election-2026-update_1]] — `02 - Areas/Political Analysis/2026-03-16_election-2026-update.md`
+- [[2026-03-16_india-internet-tax-query]] — `QwenVault/2026-03-16_india-internet-tax-query.md`
+- [[2026-03-16_india-internet-tax-query]] — `02 - Areas/Political Analysis/2026-03-16_india-internet-tax-query.md`
+- [[2026-03-16_india-oil-import-sources]] — `QwenVault/2026-03-16_india-oil-import-sources.md`
+- [[2026-03-16_india-oil-import-sources]] — `02 - Areas/Political Analysis/2026-03-16_india-oil-import-sources.md`
+- [[2026-03-17_2026-election-dates-announcement-and-state-governments_1]] — `02 - Areas/Political Analysis/2026-03-17_2026-election-dates-announcement-and-state-governments.md`
+- [[2026-03-17_2026-election-dates-announcement-and-state-governments_1]] — `ClaudeVault/2026-03-17_2026-election-dates-announcement-and-state-governments.md`
+- [[2026-03-17_aadhaar-data-government-storage_1]] — `QwenVault/2026-03-17_aadhaar-data-government-storage.md`
+- [[2026-03-17_aadhaar-data-government-storage_1]] — `02 - Areas/Political Analysis/2026-03-17_aadhaar-data-government-storage.md`
+- [[2026-03-17_indian-constitution-explained-simply-with-examples]] — `02 - Areas/Political Analysis/2026-03-17_indian-constitution-explained-simply-with-examples.md`
+- [[2026-03-17_indian-constitution-explained-simply-with-examples]] — `ClaudeVault/2026-03-17_indian-constitution-explained-simply-with-examples.md`
+- [[2026-03-17_indian-constitution-simplified_1]] — `QwenVault/2026-03-17_indian-constitution-simplified.md`
+- [[2026-03-17_indian-constitution-simplified_1]] — `02 - Areas/Political Analysis/2026-03-17_indian-constitution-simplified.md`
+- [[2026-03-18_jobs-for-freshers-in-hyderabad]] — `QwenVault/2026-03-18_jobs-for-freshers-in-hyderabad.md`
+- [[2026-03-18_jobs-for-freshers-in-hyderabad]] — `02 - Areas/Political Analysis/2026-03-18_jobs-for-freshers-in-hyderabad.md`
+- [[2026-03-18_nia-counter-terror-operation-analysis]] — `QwenVault/2026-03-18_nia-counter-terror-operation-analysis.md`
+- [[2026-03-18_nia-counter-terror-operation-analysis]] — `02 - Areas/Buddhism & Hinduism/2026-03-18_nia-counter-terror-operation-analysis.md`
+- [[2026-03-18_pegasusspywareindiascandal]] — `QwenVault/2026-03-18_pegasusspywareindiascandal.md`
+- [[2026-03-18_pegasusspywareindiascandal]] — `02 - Areas/Buddhism & Hinduism/2026-03-18_pegasusspywareindiascandal.md`
+- [[2026-03-22_top-kings-of-india]] — `QwenVault/2026-03-22_top-kings-of-india.md`
+- [[2026-03-22_top-kings-of-india]] — `02 - Areas/Buddhism & Hinduism/2026-03-22_top-kings-of-india.md`
+- [[2026-03-25_bjp-leaders-in-india_1]] — `QwenVault/2026-03-25_bjp-leaders-in-india.md`
+- [[2026-03-25_bjp-leaders-in-india_1]] — `02 - Areas/Religion & Cosmology/2026-03-25_bjp-leaders-in-india.md`
+- [[2026-03-25_modi-family-tree]] — `QwenVault/2026-03-25_modi-family-tree.md`
+- [[2026-03-25_modi-family-tree]] — `02 - Areas/Political Analysis/2026-03-25_modi-family-tree.md`
+- [[2026-03-26_comparative-analysis-of-two-parties-with-diagrams]] — `02 - Areas/Buddhism & Hinduism/2026-03-26_comparative-analysis-of-two-parties-with-diagrams.md`
+- [[2026-03-26_comparative-analysis-of-two-parties-with-diagrams]] — `ClaudeVault/2026-03-26_comparative-analysis-of-two-parties-with-diagrams.md`
+- [[2026-03-27_best-stocks-for-indian-market]] — `QwenVault/2026-03-27_best-stocks-for-indian-market.md`
+- [[2026-03-27_best-stocks-for-indian-market]] — `02 - Areas/Political Analysis/2026-03-27_best-stocks-for-indian-market.md`
+- [[2026-03-28_educated-leaders-by-party]] — `QwenVault/2026-03-28_educated-leaders-by-party.md`
+- [[2026-03-28_educated-leaders-by-party]] — `02 - Areas/AI Research & Agents/2026-03-28_educated-leaders-by-party.md`
+- [[2026-03-28_iran-public-satisfaction-levels_1]] — `QwenVault/2026-03-28_iran-public-satisfaction-levels.md`
+- [[2026-03-28_iran-public-satisfaction-levels_1]] — `02 - Areas/Political Analysis/2026-03-28_iran-public-satisfaction-levels.md`
+- [[2026-04-02_india-population-statewise-map_1]] — `QwenVault/2026-04-02_india-population-statewise-map.md`
+- [[2026-04-02_india-population-statewise-map_1]] — `02 - Areas/Political Analysis/2026-04-02_india-population-statewise-map.md`
+- [[2026-04-02_india-vs-china-crime-and-unemployment-rates]] — `02 - Areas/Ancient Civilizations/2026-04-02_india-vs-china-crime-and-unemployment-rates.md`
+- [[2026-04-02_india-vs-china-crime-and-unemployment-rates]] — `ClaudeVault/2026-04-02_india-vs-china-crime-and-unemployment-rates.md`
+- [[BJP vs INC Leadership Analysis_1]] — `DeepseekVault/BJP vs INC Leadership Analysis.md`
+- [[BJP vs INC Leadership Analysis_1]] — `02 - Areas/Political Analysis/BJP vs INC Leadership Analysis.md`
+- [[India Cross Border Attacks 2014-2025_1]] — `DeepseekVault/India Cross Border Attacks 2014-2025.md`
+- [[India Cross Border Attacks 2014-2025_1]] — `02 - Areas/Political Analysis/India Cross Border Attacks 2014-2025.md`
+- [[MASTER LINK INDEX_1]] — `MASTER LINK INDEX.md`
+- [[MASTER LINK INDEX_1]] — `04 - Archive/Old Navigation/MASTER LINK INDEX.md`
+- [[Pegasus Spyware India_1]] — `DeepseekVault/Pegasus Spyware India.md`
+- [[Pegasus Spyware India_1]] — `02 - Areas/Political Analysis/Pegasus Spyware India.md`
+- [[Zionism Hindu Nationalism Similarities_1]] — `DeepseekVault/Zionism Hindu Nationalism Similarities.md`
+- [[Zionism Hindu Nationalism Similarities_1]] — `02 - Areas/Buddhism & Hinduism/Zionism Hindu Nationalism Similarities.md`
+
+---
+
+## Statistics
+
+- Total files: 140
+- Oldest: 2026-02-11_epstein-case-files-chatbot-verification.md
+- Newest: 00_DEEPSEEK INDEX.md
