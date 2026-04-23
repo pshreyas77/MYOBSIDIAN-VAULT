@@ -8,8 +8,8 @@ aliases: [ancient-india Map of Content]
 
 **Area:** [[01_Philosophy_&_Religion_MOC|01 Philosophy & Religion]]  
 **Topic:** ancient-india  
-**Files:** 2  
-**Updated:** 2026-04-20
+**Files:** 3  
+**Updated:** 2026-04-22
 
 ---
 
@@ -17,6 +17,7 @@ aliases: [ancient-india Map of Content]
 
 ### 2026
 
+- [[2026-04-22_ancient_indian_chronology_research|Ancient Indian Chronology Research]]
 - [[2026-03-22_chanakya-vs-buddha-comparison_1|Chanakya Vs Buddha Comparison 1]]
 - [[2026-03-22_chanakya-vs-buddha-comparison|Chanakya Vs Buddha Comparison]]
 

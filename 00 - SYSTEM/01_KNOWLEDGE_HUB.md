@@ -79,6 +79,11 @@ Social systems, cultural analysis, and contemporary issues.
 
 ---
 
+### 📚 [[03 - RESOURCES/00_Philosophy_Link_Tracker|Resources — Philosophy Links]]
+Curated video, book, and organizational links for Osho, J. Krishnamurti, U.G. Krishnamurti, Nagarjuna, and Charvaka.
+
+---
+
 ## 🔗 Cross-Cutting Themes
 
 | Theme | Related Areas |
@@ -98,7 +103,7 @@ Social systems, cultural analysis, and contemporary issues.
 | Total Files | ~1,160 |
 | Topic Clusters | 65+ |
 | Interlinks Created | 62+ |
-| Areas | 6 |
+| Areas | 7 |
 
 ---
 

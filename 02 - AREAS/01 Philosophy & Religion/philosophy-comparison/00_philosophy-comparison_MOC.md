@@ -6,22 +6,21 @@ aliases: [philosophy-comparison Map of Content]
 
 # 🗺️ philosophy-comparison — Map of Content
 
-**Area:** [[01_Philosophy_&_Religion_MOC|01 Philosophy & Religion]]  
-**Topic:** philosophy-comparison  
-**Files:** 8  
-**Updated:** 2026-04-20
+**Area:** [[01_Philosophy_&_Religion_MOC|01 Philosophy & Religion]]
+**Topic:** philosophy-comparison
+**Files:** 9
+**Updated:** 2026-04-21
 
 ---
 
 ## 📑 Files in This Topic
 
-### Other
-
+### Intra-Indian Philosophy Battles
+- [[Shankara_vs_Basaveshwara_Mystic_vs_Revolutionary|Shankara Vs Basaveshwara Mystic Vs Revolutionary]] — ⭐ NEW: Śaṅkara vs. Basava — Elite Mysticism vs. Egalitarian Revolution
 - [[Shankara_vs_Socrates_Diogenes_Triangular_Showdown|Shankara Vs Socrates Diogenes Triangular Showdown]]
 - [[Nagarjuna_Charvaka_vs_Shankara_Cage_Match|Nagarjuna Charvaka Vs Shankara Cage Match]]
 
-### 2026
-
+### Cross-Cultural Comparisons
 - [[2026-03-22_religiouscomparisonimages_1|Religiouscomparisonimages 1]]
 - [[2026-03-22_religiouscomparisonimages|Religiouscomparisonimages]]
 - [[2026-03-22_real-comparison-images-from-authentic-sources_1|Real Comparison Images From Authentic Sources 1]]
@@ -29,13 +28,14 @@ aliases: [philosophy-comparison Map of Content]
 - [[2026-03-06_india-vs-china-petrol-prices-comparison|India Vs China Petrol Prices Comparison]]
 - [[2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir|Peter Thiel Vs Alex Karp Power Dynamics At Palantir]]
 
-
 ---
 
 ## 🔗 Related Topics
-
 - [[00_hinduism_MOC|Hinduism]]
 - [[00_Jainism_MOC|Jainism]]
+- [[00_buddhism_MOC|Buddhism]]
+- [[00_caste_MOC|Caste]]
+- [[00_atheism_MOC|Atheism]]
 - [[00_data-science_MOC|Data-Science]]
 - [[00_Other_MOC|Other]]
 - [[00_career_MOC|Career]]
@@ -47,3 +47,4 @@ aliases: [philosophy-comparison Map of Content]
 - How does this topic relate to your other areas of study?
 - What patterns emerge across these files?
 - What questions remain unanswered?
+- **Compare:** Shankara's Advaita vs. Basava's Lingayat egalitarianism

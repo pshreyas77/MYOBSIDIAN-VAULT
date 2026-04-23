@@ -1,7 +1,7 @@
 ---
 title: Political Analysis
 description: Political systems and social analysis
-date: 2026-04-20
+date: 2026-04-23
 tags: #politics #society #analysis
 aliases: ["Political Analysis MOC"]
 ---

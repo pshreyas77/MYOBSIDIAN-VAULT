@@ -1,26 +1,35 @@
-# {{title}}
+---
+title: [[Concept Name]]
+type: concept
+aliases: [Alternative Names]
+date: {{DATE}}
+updated: {{DATE}}
+related_entities: []
+---
 
-**Type:** #concept
-**Domain:** {{domain}}
-**Created:** {{date}}
+# [[Concept Name]]
 
 ## Definition
-{{definition}}
+[Clear definition]
 
-## Related Entities
-- [[entity-1]]
-- [[entity-2]]
+## Applications/Domains
+- Domain 1: [[Entity]] in [[Context]]
+- Domain 2: [[Entity]] in [[Context]]
 
-## Examples
-{{examples}}
-
-## Contradictions
->[!contradiction]
->Alternative definition from [[source]]: {{alternative}}
+## Relationships
+- Connects: [[Entity1]] and [[Entity2]]
+- Similar to: [[Related Concept]]
+- Contrasts with: [[Opposing Concept]]
 
 ## Sources
-- [[source-name]]
+- [[Source Title]] - How it defines/explains the concept
 
-## See Also
-- [[broader-concept]]
-- [[narrower-concept]]
+## Examples
+- Example 1: [Description]
+- Example 2: [Description]
+
+## Notes
+[Debates, evolving understanding, open questions]
+
+## Last Updated
+{{DATE}}

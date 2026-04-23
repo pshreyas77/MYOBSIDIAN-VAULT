@@ -1,7 +1,7 @@
 ---
 title: AI & Technology
 description: AI research, agents, and development
-date: 2026-04-20
+date: 2026-04-23
 tags: #ai #technology #agents
 aliases: ["AI & Technology MOC"]
 ---

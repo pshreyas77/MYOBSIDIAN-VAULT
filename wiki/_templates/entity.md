@@ -1,20 +1,31 @@
-# {{title}}
+---
+title: [[Entity Name]]
+type: entity
+aliases: [Alternative Names]
+date: {{DATE}}
+updated: {{DATE}}
+sources: []
+---
 
-**Type:** #entity
-**Category:** {{category}}
-**Created:** {{date}}
+# [[Entity Name]]
 
-## Summary
-{{summary}}
+## Overview
+[Brief description]
 
-## Relations
-- [[related-concept-1]]
-- [[related-entity-1]]
-- [[source-1]]
+## Key Attributes
+- Attribute: Value
+- ...
+
+## Relationships
+- Related to: [[Related Entity]]
+- Part of: [[Category]]
+- Contains: [[Sub-entity]]
 
 ## Sources
-- [[source-name]]
+- [[Source Title]] - Key insights
 
-## See Also
-- [[similar-entity]]
-- [[parent-concept]]
+## Notes
+[Additional context, contradictions, open questions]
+
+## Last Updated
+{{DATE}}

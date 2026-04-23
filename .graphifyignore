@@ -1,0 +1,43 @@
+# Graphify ignore patterns for Obsidian Vault
+# Add patterns for files/folders you don't want in the knowledge graph
+
+# Obsidian system folders
+.obsidian/
+.trash/
+graphify-out/
+copilot/
+
+# Attachments and media
+Attachments/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.mp3
+*.mp4
+*.mov
+*.pdf
+
+# Large data files
+*.csv
+*.json
+*.zip
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Git
+.git/
+
+# Node/Python environments (if any)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Specific folders to exclude
+Daily Notes/  # Optional: include if you want daily notes in graph
