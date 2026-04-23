@@ -96,3 +96,5 @@ Open the canvas file in Obsidian to see:
 ---
 
 *Report generated: 2026-04-23*
+## See Also
+- [[Philosophy Links Tracker]] - Related to the canvas tracking philosopher images
