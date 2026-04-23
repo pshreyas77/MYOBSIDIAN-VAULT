@@ -45,3 +45,5 @@ tags: [MOC, community, philosophy, greek]
 ---
 
 *Community 15 | Graphify Cohesion: 1.0*
+## See Also
+- [[Ancient Philosophy]] - Related to ancient philosophical traditions
