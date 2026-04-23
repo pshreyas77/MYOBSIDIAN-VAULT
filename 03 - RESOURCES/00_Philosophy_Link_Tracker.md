@@ -155,4 +155,7 @@ All entries currently Priority 2 (Medium).
 - [[00_philosophy-comparison_MOC]]
 - Topics: #philosophy #resources #osho #krishnamurti #nagarjuna #charvaka #buddhism #atheism #vedanta #links #youtube #books
 ## See Also
+- [[Batman Philosophy Archive]] - Comprehensive collection of Batman philosophy resources
 - [[Osho]] - Philosopher and spiritual teacher tracked in this resource
+
+- [[Batman Philosophy Archive]] - Comprehensive collection of Batman philosophy resources
