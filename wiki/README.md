@@ -113,3 +113,8 @@ This system implements principles inspired by:
 - **LLM-Augmented Cognition** - Using AI to handle cognitive maintenance tasks
 
 The LLM handles the tedious maintenance work (updating cross-references, keeping summaries current, noting contradictions) so you can focus on the valuable work: curating sources, directing analysis, asking good questions, and synthesizing insights.
+## See Also
+- [[orphan notes report]] - Identification of notes with zero incoming links
+- [[link density report]] - Analysis of linking patterns across vault areas
+
+- [[orphan notes report]] - Identification of notes with zero incoming links

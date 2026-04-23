@@ -95,4 +95,5 @@ To complete the canvas:
 ## Related File
 
 - [[03 - RESOURCES/Philosophy_Links_Tracker.canvas]]
-
+## See Also
+- [[Nagarjuna]] - Important Buddhist philosopher
