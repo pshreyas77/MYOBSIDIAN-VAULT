@@ -93,4 +93,9 @@ AI chat logs and discussion transcripts.
 - [[00_caste_MOC|Caste]]
 - [[00_year-2025_MOC|Year-2025]]
 ## See Also
+- [[Philosophy Link Tracker]] - Tracks philosophical resources across the vault
+- [[Philosophy & Religion MOC]] - Philosophical foundations of society & culture
 - [[Ancient Civilizations MOC]] - Historical context for society & culture
+
+- [[Philosophy & Religion MOC]] - Philosophical foundations of society & culture
+- [[Philosophy Link Tracker]] - Tracks philosophical resources across the vault
