@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second Brain Neural Network - Obsidian Vault</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: radial-gradient(ellipse at center, #0a0a0f 0%, #000000 100%);
+            overflow: hidden;
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+        }
+
+        #canvas {
+            width: 100vw;
+            height: 100vh;
+        }
+
+        .node circle {
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .node:hover circle {
+            filter: drop-shadow(0 0 20px currentColor);
+            transform: scale(1.3);
+        }
+
+        .link {
+            fill: none;
+            opacity: 0.4;
+            transition: all 0.3s ease;
+        }
+
+        .link.active {
+            opacity: 0.9;
+            stroke-width: 2px;
+            filter: drop-shadow(0 0 8px currentColor);
+        }
+
+        .node-label {
+            font-size: 11px;
+            fill: #e0e0ff;
+            text-shadow: 0 0 10px rgba(100, 150, 255, 0.5);
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .node:hover + .node-label,
+        .node-label.visible {
+            opacity: 1;
+        }
+
+        .pulse {
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.6; r: var(--base-r); }
+            50% { opacity: 1; r: calc(var(--base-r) * 1.3); }
+        }
+
+        .glow {
+            animation: glow 3s ease-in-out infinite alternate;
+        }
+
+        @keyframes glow {
+            from { filter: drop-shadow(0 0 5px currentColor); }
+            to { filter: drop-shadow(0 0 20px currentColor) drop-shadow(0 0 40px currentColor); }
+        }
+
+        .connection-line {
+            stroke-linecap: round;
+        }
+
+        .info-panel {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(10, 10, 20, 0.95);
+            border: 1px solid rgba(100, 150, 255, 0.3);
+            border-radius: 12px;
+            padding: 20px;
+            min-width: 300px;
+            max-width: 400px;
+            color: #e0e0ff;
+            backdrop-filter: blur(10px);
+            transform: translateX(420px);
+            transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            z-index: 1000;
+            box-shadow: 0 0 40px rgba(0, 100, 255, 0.2);
+        }
+
+        .info-panel.active {
+            transform: translateX(0);
+        }
+
+        .info-panel h3 {
+            margin: 0 0 15px 0;
+            color: #64b5f6;
+            font-size: 18px;
+            border-bottom: 1px solid rgba(100, 150, 255, 0.3);
+            padding-bottom: 10px;
+        }
+
+        .info-panel .stat {
+            display: flex;
+            justify-content: space-between;
+            margin: 8px 0;
+            font-size: 13px;
+        }
+
+        .info-panel .stat-label {
+            color: #8899cc;
+        }
+
+        .info-panel .stat-value {
+            color: #aaddff;
+            font-weight: 500;
+        }
+
+        .controls {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            display: flex;
+            gap: 10px;
+            z-index: 1000;
+        }
+
+        .btn {
+            background: rgba(20, 30, 60, 0.9);
+            border: 1px solid rgba(100, 150, 255, 0.4);
+            color: #aaddff;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .btn:hover {
+            background: rgba(40, 60, 120, 0.9);
+            border-color: rgba(100, 150, 255, 0.8);
+            box-shadow: 0 0 20px rgba(100, 150, 255, 0.3);
+        }
+
+        .title-overlay {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+        }
+
+        .title-overlay h1 {
+            color: #64b5f6;
+            font-size: 24px;
+            margin: 0;
+            text-shadow: 0 0 20px rgba(100, 150, 255, 0.5);
+        }
+
+        .title-overlay p {
+            color: #8899cc;
+            font-size: 13px;
+            margin: 5px 0 0 0;
+        }
+
+        .legend {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: rgba(10, 10, 20, 0.9);
+            border: 1px solid rgba(100, 150, 255, 0.2);
+            border-radius: 8px;
+            padding: 15px;
+            z-index: 1000;
+            backdrop-filter: blur(10px);
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 5px 0;
+            font-size: 12px;
+            color: #aaddff;
+        }
+
+        .legend-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            box-shadow: 0 0 10px currentColor;
+        }
+
+        .neural-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            opacity: 0.15;
+            background-image:
+                radial-gradient(circle at 20% 80%, rgba(100, 150, 255, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(150, 100, 255, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(50, 200, 200, 0.2) 0%, transparent 40%);
+        }
+    </style>
+</head>
+<body>
+    <div class="neural-bg"></div>
+
+    <div class="title-overlay">
+        <h1>🧠 Second Brain Neural Network</h1>
+        <p>Obsidian Vault Knowledge Graph • 269 nodes • 405 connections</p>
+    </div>
+
+    <div class="controls">
+        <button class="btn" onclick="resetZoom()">⟲ Reset View</button>
+        <button class="btn" onclick="togglePhysics()">⚡ Toggle Physics</button>
+        <button class="btn" onclick="toggleLabels()">🏷️ Toggle Labels</button>
+    </div>
+
+    <div class="info-panel" id="infoPanel">
+        <h3 id="nodeName">Select a node</h3>
+        <div id="nodeStats"></div>
+    </div>
+
+    <div class="legend" id="legend"></div>
+
+    <svg id="canvas"></svg>
+
+    <script>
+        // Load graph data
+        let graphData;
+        let simulation;
+        let svg, g;
+        let width = window.innerWidth;
+        let height = window.innerHeight;
+        let showLabels = false;
+        let physicsEnabled = true;
+
+        const communityColors = [
+            '#00d4ff', '#ff6b9d', '#c084fc', '#4ade80',
+            '#fbbf24', '#f87171', '#60a5fa', '#a78bfa',
+            '#34d399', '#fb923c', '#e879f9', '#22d3ee'
+        ];
+
+        // Initialize
+        async function init() {
+            const response = await fetch('graph.json');
+            graphData = await response.json();
+
+            svg = d3.select('#canvas')
+                .attr('width', width)
+                .attr('height', height);
+
+            g = svg.append('g');
+
+            // Zoom behavior
+            const zoom = d3.zoom()
+                .scaleExtent([0.1, 4])
+                .on('zoom', (event) => g.attr('transform', event.transform));
+
+            svg.call(zoom);
+
+            renderGraph();
+            createLegend();
+        }
+
+        function renderGraph() {
+            const nodes = graphData.nodes.map(n => ({...n}));
+            const links = graphData.links.map(l => ({...l}));
+
+            // Scale node sizes by importance (degree)
+            const nodeDegrees = {};
+            links.forEach(l => {
+                nodeDegrees[l.source] = (nodeDegrees[l.source] || 0) + 1;
+                nodeDegrees[l.target] = (nodeDegrees[l.target] || 0) + 1;
+            });
+
+            nodes.forEach(n => {
+                n.degree = nodeDegrees[n.id] || 0;
+                n.radius = Math.max(4, Math.min(20, 4 + Math.sqrt(n.degree) * 2));
+            });
+
+            // Create force simulation with neural-like behavior
+            simulation = d3.forceSimulation(nodes)
+                .force('link', d3.forceLink(links).id(d => d.id).distance(d => {
+                    // Shorter links for stronger connections
+                    return 30 + (100 / (d.weight || 1));
+                }).strength(0.5))
+                .force('charge', d3.forceManyBody()
+                    .strength(d => -100 - d.degree * 10)
+                    .distanceMin(10)
+                    .distanceMax(300))
+                .force('center', d3.forceCenter(width / 2, height / 2))
+                .force('collision', d3.forceCollide().radius(d => d.radius + 5).strength(0.8))
+                .force('gravity', d3.forceY(height / 2).strength(0.01))
+                .force('gravityX', d3.forceX(width / 2).strength(0.01));
+
+            // Draw links with gradient
+            const linkGradient = svg.append('defs')
+                .selectAll('linearGradient')
+                .data(links)
+                .enter().append('linearGradient')
+                .attr('id', (d, i) => `gradient-${i}`)
+                .attr('gradientUnits', 'userSpaceOnUse');
+
+            // Draw links
+            const link = g.append('g')
+                .selectAll('line')
+                .data(links)
+                .enter().append('line')
+                .attr('class', 'link glow')
+                .attr('stroke', d => {
+                    const sourceNode = nodes.find(n => n.id === d.source.id || n.id === d.source);
+                    return communityColors[(sourceNode?.community || 0) % communityColors.length];
+                })
+                .attr('stroke-width', d => Math.max(0.5, (d.weight || 0.5) * 2));
+
+            // Draw nodes
+            const node = g.append('g')
+                .selectAll('.node')
+                .data(nodes)
+                .enter().append('g')
+                .attr('class', 'node')
+                .call(d3.drag()
+                    .on('start', dragstarted)
+                    .on('drag', dragged)
+                    .on('end', dragended));
+
+            // Node circles with glow
+            node.append('circle')
+                .attr('r', d => d.radius)
+                .attr('fill', d => communityColors[d.community % communityColors.length])
+                .attr('stroke', '#fff')
+                .attr('stroke-width', d => d.degree > 5 ? 2 : 1)
+                .attr('stroke-opacity', 0.8)
+                .style('--base-r', d => d.radius)
+                .classed('pulse', d => d.degree > 8)
+                .classed('glow', true)
+                .style('filter', d => {
+                    const color = communityColors[d.community % communityColors.length];
+                    return `drop-shadow(0 0 ${d.degree > 5 ? 15 : 5}px ${color})`;
+                })
+                .on('click', (event, d) => showNodeInfo(d, nodes, links));
+
+            // Labels
+            const labels = g.append('g')
+                .selectAll('.node-label')
+                .data(nodes)
+                .enter().append('text')
+                .attr('class', 'node-label')
+                .attr('dx', d => d.radius + 8)
+                .attr('dy', 4)
+                .text(d => d.label.length > 25 ? d.label.substring(0, 25) + '...' : d.label)
+                .classed('visible', showLabels);
+
+            // Update positions
+            simulation.on('tick', () => {
+                link
+                    .attr('x1', d => d.source.x)
+                    .attr('y1', d => d.source.y)
+                    .attr('x2', d => d.target.x)
+                    .attr('y2', d => d.target.y);
+
+                node.attr('transform', d => `translate(${d.x},${d.y})`);
+
+                labels
+                    .attr('x', d => d.x)
+                    .attr('y', d => d.y)
+                    .attr('transform', d => `translate(${d.x},${d.y})`)
+                    .attr('x', d => d.x)
+                    .attr('y', d => d.y);
+            });
+        }
+
+        function showNodeInfo(d, allNodes, allLinks) {
+            const panel = document.getElementById('infoPanel');
+            const nameEl = document.getElementById('nodeName');
+            const statsEl = document.getElementById('nodeStats');
+
+            // Find connected nodes
+            const connected = allLinks.filter(l =>
+                l.source.id === d.id || l.target.id === d.id ||
+                l.source === d.id || l.target === d.id
+            );
+
+            const neighbors = connected.map(l => {
+                const neighborId = (l.source.id === d.id || l.source === d.id) ?
+                    (l.target.id || l.target) : (l.source.id || l.source);
+                return allNodes.find(n => n.id === neighborId);
+            }).filter(n => n);
+
+            panel.classList.add('active');
+            nameEl.textContent = d.label;
+
+            const communityNames = [
+                "Obsidian Setup & Systems", "Buddhist Philosophy", "AI & Machine Learning",
+                "Ancient Civilizations", "Political Analysis", "Philosophers & Thinkers",
+                "Code Projects", "Knowledge Management", "Religion & Cosmology",
+                "Technology & Development", "Education & Learning", "Society & Culture"
+            ];
+
+            statsEl.innerHTML = `
+                <div class="stat">
+                    <span class="stat-label">Type</span>
+                    <span class="stat-value">${d.file_type || 'Unknown'}</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Community</span>
+                    <span class="stat-value">${communityNames[d.community % communityNames.length] || 'Community ' + d.community}</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Connections</span>
+                    <span class="stat-value">${d.degree}</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Source File</span>
+                    <span class="stat-value" style="font-size: 11px; word-break: break-all;">${d.source_file || 'N/A'}</span>
+                </div>
+                ${neighbors.length > 0 ? `
+                <div style="margin-top: 15px; border-top: 1px solid rgba(100,150,255,0.2); padding-top: 10px;">
+                    <div style="color: #8899cc; font-size: 12px; margin-bottom: 8px;">Connected to:</div>
+                    ${neighbors.slice(0, 10).map(n =>
+                        `<div style="color: #aaddff; font-size: 12px; margin: 4px 0; padding-left: 10px; border-left: 2px solid ${communityColors[n.community % communityColors.length]}">${n.label}</div>`
+                    ).join('')}
+                    ${neighbors.length > 10 ? `<div style="color: #8899cc; font-size: 11px; margin-top: 5px;">... and ${neighbors.length - 10} more</div>` : ''}
+                </div>` : ''}
+            `;
+
+            // Highlight connected links
+            d3.selectAll('.link').classed('active', l =>
+                l.source.id === d.id || l.target.id === d.id ||
+                l.source === d.id || l.target === d.id
+            );
+        }
+
+        function createLegend() {
+            const communities = [
+                { id: 0, name: "Obsidian Setup & Systems" },
+                { id: 1, name: "Buddhist Philosophy" },
+                { id: 2, name: "AI & Machine Learning" },
+                { id: 3, name: "Ancient Civilizations" },
+                { id: 4, name: "Political Analysis" },
+                { id: 5, name: "Philosophers & Thinkers" },
+                { id: 6, name: "Code Projects" },
+                { id: 7, name: "Knowledge Management" },
+                { id: 8, name: "Religion & Cosmology" },
+                { id: 9, name: "Technology & Development" }
+            ];
+
+            const legend = document.getElementById('legend');
+            legend.innerHTML = communities.map(c => `
+                <div class="legend-item">
+                    <div class="legend-dot" style="background: ${communityColors[c.id % communityColors.length]}"></div>
+                    <span>${c.name}</span>
+                </div>
+            `).join('') + `
+                <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid rgba(100,150,255,0.2); color: #8899cc; font-size: 11px;">
+                    Hover nodes to explore connections
+                </div>
+            `;
+        }
+
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+
+        function dragged(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+
+        function resetZoom() {
+            svg.transition().duration(750).call(
+                d3.zoom().transform,
+                d3.zoomIdentity
+            );
+            document.getElementById('infoPanel').classList.remove('active');
+            d3.selectAll('.link').classed('active', false);
+        }
+
+        function togglePhysics() {
+            physicsEnabled = !physicsEnabled;
+            if (physicsEnabled) {
+                simulation.alpha(0.3).restart();
+            } else {
+                simulation.stop();
+            }
+        }
+
+        function toggleLabels() {
+            showLabels = !showLabels;
+            d3.selectAll('.node-label').classed('visible', showLabels);
+        }
+
+        // Auto-rotate background effect
+        let rotation = 0;
+        setInterval(() => {
+            rotation += 0.1;
+            document.querySelector('.neural-bg').style.transform = `rotate(${rotation}deg)`;
+        }, 100);
+
+        // Handle resize
+        window.addEventListener('resize', () => {
+            width = window.innerWidth;
+            height = window.innerHeight;
+            d3.select('#canvas')
+                .attr('width', width)
+                .attr('height', height);
+            simulation.force('center', d3.forceCenter(width / 2, height / 2));
+            simulation.alpha(0.3).restart();
+        });
+
+        // Initialize
+        init();
+    </script>
+</body>
+</html>

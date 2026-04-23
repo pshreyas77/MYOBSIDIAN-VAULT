@@ -1,7 +1,7 @@
 ---
 title: Philosophy & Religion
 description: Eastern and Western philosophy, religion studies
-date: 2026-04-20
+date: 2026-04-23
 tags: #philosophy #religion #buddhism #hinduism
 aliases: ["Philosophy & Religion MOC"]
 ---

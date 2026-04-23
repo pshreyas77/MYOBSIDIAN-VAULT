@@ -1,7 +1,7 @@
 ---
 title: Ancient Civilizations
 description: Historical civilizations and cultures
-date: 2026-04-20
+date: 2026-04-23
 tags: #history #ancient #civilization
 aliases: ["Ancient Civilizations MOC"]
 ---

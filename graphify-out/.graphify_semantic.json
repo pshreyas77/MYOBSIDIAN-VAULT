@@ -1,0 +1,672 @@
+{
+  "nodes": [
+    {
+      "id": "master_link_index",
+      "label": "Master Link Index",
+      "file_type": "document",
+      "source_file": "MASTER LINK INDEX.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T00:00:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "topics_master_index",
+      "label": "Topics Master Index",
+      "file_type": "document",
+      "source_file": "07 - Topics/00_TOPICS_MASTER_INDEX.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T00:00:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buddhism_hinduism_moc",
+      "label": "Buddhism and Hinduism MOC",
+      "file_type": "document",
+      "source_file": "07 - Topics/Buddhism_and_Hinduism/00_Buddhism_and_Hinduism_MOC.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T00:00:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buddhism_hinduism_file_index",
+      "label": "Buddhism and Hinduism File Index",
+      "file_type": "document",
+      "source_file": "07 - Topics/Buddhism_and_Hinduism/00_FILE_INDEX.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T12:43:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "education_learning_moc",
+      "label": "Education and Learning MOC",
+      "file_type": "document",
+      "source_file": "07 - Topics/Education_and_Learning/00_Education_and_Learning_MOC.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T00:00:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "education_learning_file_index",
+      "label": "Education and Learning File Index",
+      "file_type": "document",
+      "source_file": "07 - Topics/Education_and_Learning/00_FILE_INDEX.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T12:43:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "society_culture_moc",
+      "label": "Society and Culture MOC",
+      "file_type": "document",
+      "source_file": "07 - Topics/Society_and_Culture/00_Society_and_Culture_MOC.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T00:00:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "society_culture_file_index",
+      "label": "Society and Culture File Index",
+      "file_type": "document",
+      "source_file": "07 - Topics/Society_and_Culture/00_FILE_INDEX.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T12:43:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technology_development_moc",
+      "label": "Technology and Development MOC",
+      "file_type": "document",
+      "source_file": "07 - Topics/Technology_and_Development/00_Technology_and_Development_MOC.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T00:00:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "technology_development_file_index",
+      "label": "Technology and Development File Index",
+      "file_type": "document",
+      "source_file": "07 - Topics/Technology_and_Development/00_FILE_INDEX.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T12:43:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buddha_research",
+      "label": "Buddha Research",
+      "file_type": "document",
+      "source_file": "BUDDHA/BUDDHA RESEARCH.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buddha_evidence",
+      "label": "Buddha Evidence",
+      "file_type": "document",
+      "source_file": "BUDDHA/BUDDHA EVIDENCE.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "critical_arguments",
+      "label": "Critical Arguments",
+      "file_type": "document",
+      "source_file": "BUDDHA/critical arguments.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "critical_questions",
+      "label": "Critical Questions",
+      "file_type": "document",
+      "source_file": "BUDDHA/critical questions.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oldest_civilization",
+      "label": "Oldest Civilization",
+      "file_type": "document",
+      "source_file": "OLDEST CIVILIZATION/OLDEST CIVILIZATION.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nalanda_university_destruction",
+      "label": "Nalanda University Destruction",
+      "file_type": "document",
+      "source_file": "DeepseekVault/Nalanda University Destruction.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "graphify_knowledge_graph",
+      "label": "Graphify Knowledge Graph",
+      "file_type": "document",
+      "source_file": "GRAPHIFY KNOWLEDGE GRAPH.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11T00:00:00Z",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vault_organization_map",
+      "label": "Vault Organization Map",
+      "file_type": "document",
+      "source_file": "VAULT ORGANIZATION MAP.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "obsidian_research_skills_hub",
+      "label": "Obsidian Research Skills Hub",
+      "file_type": "document",
+      "source_file": "00_OBSIDIAN RESEARCH SKILLS HUB.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buddha",
+      "label": "Buddha",
+      "file_type": "document",
+      "source_file": "wiki/entities/Buddha.md"
+    },
+    {
+      "id": "siddhartha_gautama",
+      "label": "Siddhartha Gautama (Buddha)",
+      "file_type": "document",
+      "source_file": "wiki/entities/Siddhartha Gautama (Buddha).md"
+    },
+    {
+      "id": "nagarjuna",
+      "label": "Nagarjuna",
+      "file_type": "document",
+      "source_file": "wiki/entities/Nagarjuna.md"
+    },
+    {
+      "id": "plato",
+      "label": "Plato",
+      "file_type": "document",
+      "source_file": "wiki/entities/Plato.md"
+    },
+    {
+      "id": "socrates",
+      "label": "Socrates",
+      "file_type": "document",
+      "source_file": "wiki/entities/Socrates.md"
+    },
+    {
+      "id": "confucius",
+      "label": "Confucius",
+      "file_type": "document",
+      "source_file": "wiki/entities/Confucius.md"
+    },
+    {
+      "id": "laozi",
+      "label": "Laozi",
+      "file_type": "document",
+      "source_file": "wiki/entities/Laozi.md"
+    },
+    {
+      "id": "gobekli_tepe",
+      "label": "G\u00f6bekli Tepe",
+      "file_type": "document",
+      "source_file": "wiki/entities/G\u00f6bekli Tepe.md"
+    },
+    {
+      "id": "ashoka",
+      "label": "Ashoka",
+      "file_type": "document",
+      "source_file": "wiki/entities/Siddhartha Gautama (Buddha).md"
+    },
+    {
+      "id": "mahavira",
+      "label": "Mahavira",
+      "file_type": "document",
+      "source_file": "wiki/entities/Nagarjuna.md"
+    },
+    {
+      "id": "indus_valley_civilization",
+      "label": "Indus Valley Civilization",
+      "file_type": "document",
+      "source_file": "wiki/concepts/Dravidian vs North Indian Ancestry.md"
+    },
+    {
+      "id": "aristotle",
+      "label": "Aristotle",
+      "file_type": "document",
+      "source_file": "wiki/entities/Socrates.md"
+    },
+    {
+      "id": "ea_nasir",
+      "label": "Ea-Nasir",
+      "file_type": "document",
+      "source_file": "wiki/entities/Ea-Nasir.md"
+    },
+    {
+      "id": "chanakya",
+      "label": "Chanakya",
+      "file_type": "document",
+      "source_file": "wiki/entities/Confucius.md"
+    },
+    {
+      "id": "sumer",
+      "label": "Sumer",
+      "file_type": "document",
+      "source_file": "wiki/entities/Sumer.md"
+    },
+    {
+      "id": "nirvana",
+      "label": "Nirvana",
+      "file_type": "document",
+      "source_file": "wiki/concepts/Nirvana.md"
+    },
+    {
+      "id": "anatman",
+      "label": "Anatman",
+      "file_type": "document",
+      "source_file": "wiki/concepts/Anatman.md"
+    },
+    {
+      "id": "shunyata",
+      "label": "Shunyata",
+      "file_type": "document",
+      "source_file": "wiki/concepts/Shunyata.md"
+    },
+    {
+      "id": "caste_system_origins",
+      "label": "Caste System Origins",
+      "file_type": "document",
+      "source_file": "wiki/concepts/Caste System Origins.md"
+    },
+    {
+      "id": "dravidian_ancestry",
+      "label": "Dravidian vs North Indian Ancestry",
+      "file_type": "document",
+      "source_file": "wiki/concepts/Dravidian vs North Indian Ancestry.md"
+    },
+    {
+      "id": "graphify",
+      "label": "Graphify",
+      "file_type": "document",
+      "source_file": "00_OBSIDIAN-SECOND-BRAIN-SETUP.md"
+    },
+    {
+      "id": "mempalace",
+      "label": "MemPalace",
+      "file_type": "document",
+      "source_file": "00_OBSIDIAN-SECOND-BRAIN-SETUP.md"
+    },
+    {
+      "id": "rag_system",
+      "label": "Obsidian RAG System",
+      "file_type": "document",
+      "source_file": "01 - Projects/Obsidian RAG System/README.md"
+    },
+    {
+      "id": "jarvis",
+      "label": "J.A.R.V.I.S.",
+      "file_type": "document",
+      "source_file": "projects/jarvis/SETUP.md"
+    },
+    {
+      "id": "ollama",
+      "label": "Ollama",
+      "file_type": "document",
+      "source_file": "projects/jarvis/SETUP.md"
+    },
+    {
+      "id": "obsidian_rest_api",
+      "label": "Obsidian Local REST API",
+      "file_type": "document",
+      "source_file": "OBSIDIAN SETUP GUIDE.md"
+    },
+    {
+      "id": "dataview",
+      "label": "Dataview Plugin",
+      "file_type": "document",
+      "source_file": "OBSIDIAN SETUP GUIDE.md"
+    },
+    {
+      "id": "templater",
+      "label": "Templater Plugin",
+      "file_type": "document",
+      "source_file": "OBSIDIAN SETUP GUIDE.md"
+    },
+    {
+      "id": "claude_second_brain",
+      "label": "Claude Second Brain",
+      "file_type": "document",
+      "source_file": "CLAUDEBRAIN_SETUP.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "master_link_index",
+      "target": "topics_master_index",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "topics_master_index",
+      "target": "buddhism_hinduism_moc",
+      "relation": "references",
+      "confidence_score": 0.95,
+      "weight": 0.95
+    },
+    {
+      "source": "topics_master_index",
+      "target": "education_learning_moc",
+      "relation": "references",
+      "confidence_score": 0.95,
+      "weight": 0.95
+    },
+    {
+      "source": "topics_master_index",
+      "target": "society_culture_moc",
+      "relation": "references",
+      "confidence_score": 0.95,
+      "weight": 0.95
+    },
+    {
+      "source": "topics_master_index",
+      "target": "technology_development_moc",
+      "relation": "references",
+      "confidence_score": 0.95,
+      "weight": 0.95
+    },
+    {
+      "source": "buddhism_hinduism_moc",
+      "target": "buddha_research",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "buddhism_hinduism_moc",
+      "target": "buddha_evidence",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "buddhism_hinduism_moc",
+      "target": "critical_arguments",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "buddhism_hinduism_moc",
+      "target": "critical_questions",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "education_learning_moc",
+      "target": "nalanda_university_destruction",
+      "relation": "references",
+      "confidence_score": 0.85,
+      "weight": 0.85
+    },
+    {
+      "source": "society_culture_moc",
+      "target": "oldest_civilization",
+      "relation": "references",
+      "confidence_score": 0.85,
+      "weight": 0.85
+    },
+    {
+      "source": "technology_development_moc",
+      "target": "graphify_knowledge_graph",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "technology_development_moc",
+      "target": "vault_organization_map",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "technology_development_moc",
+      "target": "obsidian_research_skills_hub",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "buddha_research",
+      "target": "buddha_evidence",
+      "relation": "references",
+      "confidence_score": 0.95,
+      "weight": 0.95
+    },
+    {
+      "source": "buddha_evidence",
+      "target": "critical_arguments",
+      "relation": "references",
+      "confidence_score": 0.85,
+      "weight": 0.85
+    },
+    {
+      "source": "buddha",
+      "target": "siddhartha_gautama",
+      "relation": "same_as",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "buddha",
+      "target": "nagarjuna",
+      "relation": "influenced_by",
+      "confidence_score": 0.8,
+      "weight": 0.8
+    },
+    {
+      "source": "buddha",
+      "target": "mahavira",
+      "relation": "contemporary_of",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "siddhartha_gautama",
+      "target": "mahavira",
+      "relation": "contemporary_of",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "siddhartha_gautama",
+      "target": "ashoka",
+      "relation": "patron_of",
+      "confidence_score": 0.7,
+      "weight": 0.7
+    },
+    {
+      "source": "siddhartha_gautama",
+      "target": "indus_valley_civilization",
+      "relation": "references",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "socrates",
+      "target": "plato",
+      "relation": "taught",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "socrates",
+      "target": "aristotle",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "plato",
+      "target": "aristotle",
+      "relation": "influenced_by",
+      "confidence_score": 0.8,
+      "weight": 0.8
+    },
+    {
+      "source": "confucius",
+      "target": "laozi",
+      "relation": "references",
+      "confidence_score": 0.85,
+      "weight": 0.85
+    },
+    {
+      "source": "gobekli_tepe",
+      "target": "sumer",
+      "relation": "influenced",
+      "confidence_score": 0.8,
+      "weight": 0.8
+    },
+    {
+      "source": "ea_nasir",
+      "target": "sumer",
+      "relation": "belongs_to",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "ea_nasir",
+      "target": "indus_valley_civilization",
+      "relation": "references",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "nirvana",
+      "target": "buddha",
+      "relation": "attained_by",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "anatman",
+      "target": "buddha",
+      "relation": "taught_by",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "shunyata",
+      "target": "nagarjuna",
+      "relation": "developed_by",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "source": "graphify",
+      "target": "mempalace",
+      "relation": "depends_on",
+      "confidence_score": 0.8,
+      "weight": 0.8
+    },
+    {
+      "source": "rag_system",
+      "target": "ollama",
+      "relation": "depends_on",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "jarvis",
+      "target": "ollama",
+      "relation": "depends_on",
+      "confidence_score": 0.95,
+      "weight": 0.95
+    },
+    {
+      "source": "jarvis",
+      "target": "obsidian_rest_api",
+      "relation": "uses",
+      "confidence_score": 0.9,
+      "weight": 0.9
+    },
+    {
+      "source": "rag_system",
+      "target": "obsidian_rest_api",
+      "relation": "uses",
+      "confidence_score": 0.85,
+      "weight": 0.85
+    },
+    {
+      "source": "dataview",
+      "target": "obsidian_rest_api",
+      "relation": "complements",
+      "confidence_score": 0.7,
+      "weight": 0.7
+    },
+    {
+      "source": "templater",
+      "target": "dataview",
+      "relation": "complements",
+      "confidence_score": 0.7,
+      "weight": 0.7
+    },
+    {
+      "source": "claude_second_brain",
+      "target": "jarvis",
+      "relation": "integrates_with",
+      "confidence_score": 0.8,
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 28000,
+  "output_tokens": 4700
+}
