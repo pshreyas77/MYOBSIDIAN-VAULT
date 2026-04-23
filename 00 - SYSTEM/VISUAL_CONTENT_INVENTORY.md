@@ -148,3 +148,5 @@ These are not yet linked in canvases but available for future use.
 **Needs attention:** Osho, Krishnamurti images in Philosophy_Links_Tracker.canvas
 
 *Open any canvas file in Obsidian to see the visual encyclopedia.*
+## See Also
+- [[Knowledge Hub]] - Central navigation hub for the vault
