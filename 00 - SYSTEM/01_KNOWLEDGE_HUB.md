@@ -114,3 +114,8 @@ Curated video, book, and organizational links for Osho, J. Krishnamurti, U.G. Kr
 ---
 
 *Navigate by area → topic → file. Use graph view for visual exploration.*
+## See Also
+- [[Nagarjuna]] - Important Buddhist philosopher and founder of Madhyamaka school
+- [[Buddha]] - Central figure in Buddhist philosophy and practice
+
+- [[Nagarjuna]] - Important Buddhist philosopher and founder of Madhyamaka school
