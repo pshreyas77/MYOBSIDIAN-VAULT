@@ -154,3 +154,5 @@ All entries currently Priority 2 (Medium).
 - [[00_Philosophy_and_Ethics_MOC]]
 - [[00_philosophy-comparison_MOC]]
 - Topics: #philosophy #resources #osho #krishnamurti #nagarjuna #charvaka #buddhism #atheism #vedanta #links #youtube #books
+## See Also
+- [[Osho]] - Philosopher and spiritual teacher tracked in this resource
