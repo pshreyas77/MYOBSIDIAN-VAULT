@@ -1,17 +1,16 @@
 # Orphaned Notes Report
-*Generated: 2026-04-23 22:56:42*
+*Generated: 2026-04-24 00:37:11*
 
 ## Summary
 This report identifies notes that exist in the vault but have zero incoming links from other notes.
 These notes are "orphans" in the knowledge graph and may benefit from intentional connections.
 
-## Total Orphaned Notes Found: 57
+## Total Orphaned Notes Found: 49
 
 ## Orphaned Notes List
 
 | Note Title | File Path | Suggested Connections |
 |------------|-----------|----------------------|
-| CANVAS_IMAGES_STATUS | 00 - SYSTEM/CANVAS_IMAGES_STATUS.md | [[CANVAS_IMAGES_STATUS]] |
 | 03_PHILOSOPHY_TRACKER_CANVAS_FIX | 00 - SYSTEM/03_PHILOSOPHY_TRACKER_CANVAS_FIX.md | [[03_PHILOSOPHY_TRACKER_CANVAS_FIX]] |
 | VISUAL_CONTENT_INVENTORY | 00 - SYSTEM/VISUAL_CONTENT_INVENTORY.md | [[VISUAL_CONTENT_INVENTORY]] |
 | VAULT_HEALTH_DASHBOARD | 00 - SYSTEM/VAULT_HEALTH_DASHBOARD.md | [[VAULT_HEALTH_DASHBOARD]] |
@@ -61,7 +60,6 @@ These notes are "orphans" in the knowledge graph and may benefit from intentiona
 | 00_FILE_INDEX_8 | 02 - AREAS/02 AI & Technology/00_FILE_INDEX_8.md | [[00_FILE_INDEX_8]] |
 | 00_FILE_INDEX_5 | 02 - AREAS/02 AI & Technology/00_FILE_INDEX_5.md | [[00_FILE_INDEX_5]] |
 | README.ja-JP | 02 - AREAS/02 AI & Technology/README.ja-JP.md | [[README.ja-JP]] |
-| ... and 7 more | See full list in data | - |
 
 ## Analysis
 Orphaned notes represent knowledge that is not connected to your broader knowledge network.

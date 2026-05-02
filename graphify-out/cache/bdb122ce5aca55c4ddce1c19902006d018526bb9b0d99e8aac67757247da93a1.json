@@ -1,0 +1,1 @@
+{"nodes": [{"id": "zh_hans", "label": "zh-Hans.ts", "file_type": "code", "source_file": "tolaria/src/lib/locales/zh-Hans.ts", "source_location": "L1"}], "edges": [{"source": "zh_hans", "target": "en", "relation": "imports_from", "confidence": "EXTRACTED", "source_file": "tolaria/src/lib/locales/zh-Hans.ts", "source_location": "L1", "weight": 1.0}]}

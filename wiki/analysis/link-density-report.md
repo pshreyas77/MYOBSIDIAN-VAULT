@@ -1,5 +1,5 @@
 # Link Density Analysis Report
-*Generated: 2026-04-23 22:56:06*
+*Generated: 2026-04-24 00:03:57*
 
 ## Summary
 This report analyzes the average number of wiki-style links per note in each vault area.
@@ -8,13 +8,13 @@ This report analyzes the average number of wiki-style links per note in each vau
 
 | Area | Notes | Total Links | Avg Links/Note | Density |
 |------|-------|-------------|----------------|---------|
-| System & Knowledge Hub | 14 | 151 | 10.79 | Very High |
+| System & Knowledge Hub | 14 | 158 | 11.29 | Very High |
 | Active Projects | 0 | 0 | 0 | N/A (Area not found) |
 | Knowledge Areas | 1152 | 24247 | 21.05 | Very High |
 | Reference Materials | 1 | 18 | 18.0 | Very High |
 | Archived Items | 0 | 0 | 0 | N/A (Area not found) |
 | Media Files | 0 | 0 | 0.0 | Very Low |
-| LLM Wiki System | 7 | 54 | 7.71 | High |
+| LLM Wiki System | 11 | 79 | 7.18 | High |
 
 ## Analysis
 - **Very High Density** (10+ links/note): Highly interconnected knowledge
