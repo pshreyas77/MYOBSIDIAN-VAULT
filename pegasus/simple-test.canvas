@@ -1,0 +1,28 @@
+{
+	"type": "canvas",
+	"version": "1.0",
+	"nodes": [
+		{
+			"id": "simple-text",
+			"type": "text",
+			"text": "This is a simple test canvas\n\nIf you can see this, basic canvas functionality works.",
+			"width": 300,
+			"height": 100,
+			"x": 100,
+			"y": 100,
+			"color": {
+				"background": "#1e293b",
+				"border": "#3b82f6"
+			},
+			"fontSize": 18,
+			"textAlign": "center"
+		}
+	],
+	"edges": [],
+	"groupIds": [],
+	"location": {
+		"x": 0,
+		"y": 0,
+		"zoom": 1.0
+	}
+}

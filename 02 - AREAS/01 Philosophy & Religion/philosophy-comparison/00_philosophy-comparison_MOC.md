@@ -1,6 +1,6 @@
 ---
 tags: [moc, topic, philosophy-comparison]
-date: 2026-04-20
+date: 2026-05-01
 aliases: [philosophy-comparison Map of Content]
 ---
 
@@ -8,8 +8,8 @@ aliases: [philosophy-comparison Map of Content]
 
 **Area:** [[01_Philosophy_&_Religion_MOC|01 Philosophy & Religion]]
 **Topic:** philosophy-comparison
-**Files:** 9
-**Updated:** 2026-04-21
+**Files:** 12
+**Updated:** 2026-05-01
 
 ---
 
@@ -27,6 +27,12 @@ aliases: [philosophy-comparison Map of Content]
 - [[2026-03-22_real-comparison-images-from-authentic-sources|Real Comparison Images From Authentic Sources]]
 - [[2026-03-06_india-vs-china-petrol-prices-comparison|India Vs China Petrol Prices Comparison]]
 - [[2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir|Peter Thiel Vs Alex Karp Power Dynamics At Palantir]]
+- [[Atheism & Nihilism Philosophy Chain|Atheism & Nihilism Philosophy Chain]]
+- [[2026-04-29_brahminism-judaism-zoroastrianism-comparison|Brahminism, Judaism, and Zoroastrianism Comparison]]
+- [[2026-04-29_ancient-civilizations-religious-systems-comparison|Ancient Civilizations Religious Systems Comparison]]
+- [[02 - AREAS/01 Philosophy & Religion/Buddhism & Hinduism Areas/Research/2026-05-01_Buddha-Greek-Philosophy-Discussion|Buddha-Greek-Philosophy Discussion]]
+- [[2026-05-01_Philosophy_Spectrum_Ranking|Philosophy Spectrum Ranking]]
+- [[2026-05-01_Philosophy_Ranking_Best_to_Least|Philosophy Ranking Best to Least]]
 
 ---
 

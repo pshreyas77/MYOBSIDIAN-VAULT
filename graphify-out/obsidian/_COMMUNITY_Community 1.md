@@ -1,0 +1,277 @@
+---
+type: community
+cohesion: 0.01
+members: 238
+---
+
+# Community 1
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 238 nodes
+
+## Members
+- [[.Execute()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-variadic-resolution/Services/App.cs
+- [[.GetCity()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-method-chain-binding/App.cs
+- [[.GetUser()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-call-result-binding/App.cs
+- [[.Greet()_5]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-optional-params/Services/App.cs
+- [[.Main()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-optional-params/Services/App.cs
+- [[.Process()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-null-conditional/App.cs
+- [[.ProcessChain()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-method-chain-binding/App.cs
+- [[.ProcessInLambda()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-null-check-narrowing/Services/App.cs
+- [[.ProcessInequality()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-null-check-narrowing/Services/App.cs
+- [[.ProcessIsNotNull()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-null-check-narrowing/Services/App.cs
+- [[.ProcessKeys()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-nested-member-foreach/App.cs
+- [[.ProcessUser()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-call-result-binding/App.cs
+- [[.Repo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-foreach-call-expr/models/Repo.java
+- [[.Save()_4]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-method-chain-binding/App.cs
+- [[.Save()_9]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-call-result-binding/App.cs
+- [[.__construct()_3]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-method-chain-binding/App.php
+- [[.__construct()_6]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-foreach-member-access/App.php
+- [[.__construct()_2]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-method-chain-binding/App.php
+- [[.__construct()_4]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-call-result-binding/App.php
+- [[.__construct()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-foreach-generic/Repo.php
+- [[.__init__()_73]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/rag.py
+- [[.__init__()_4]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-dict-items-loop/repo.py
+- [[.chainIntToFormat()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/App.kt
+- [[.chainNameToFormat()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/App.kt
+- [[.cleanup()_3]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-constructor-type-inference/services/app.rb
+- [[.cleanup()_2]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-constructor-type-inference/models/repo.rb
+- [[.clone_repo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-scoped-multi-file/src/models/repo.rs
+- [[.constructor()_15]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-destructured-for-of/src/repo.ts
+- [[.crossFileById()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/App.kt
+- [[.crossFileByName()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/App.kt
+- [[.default()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-default-constructor/src/repo.rs
+- [[.fetchBall()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-virtual-dispatch/models/App.java
+- [[.find()_10]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-same-arity-cross-file/db-lookup.ts
+- [[.find()_7]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/DbLookup.kt
+- [[.find()_8]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/ILookup.kt
+- [[.findRepo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-optional-receiver/App.java
+- [[.findUser()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-optional-receiver/App.java
+- [[.getRepo()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-assignment-chain/App.java
+- [[.getRepos()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-foreach-call-expr/models/Repo.java
+- [[.get_address()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-method-chain-binding/app.rb
+- [[.get_city()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-method-chain-binding/app.rb
+- [[.greet()_4]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-constructor-type-inference/services/app.rb
+- [[.handleUser()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-switch-pattern/App.java
+- [[.initialize()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-for-in-loop/repo.rb
+- [[.main()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-enrichment/app/App.java
+- [[.mixedChain()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-chain-cross-class/App.java
+- [[.new()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-scoped-multi-file/src/models/repo.rs
+- [[.persist()_3]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-alias-imports/app/Models/Repo.php
+- [[.process()_4]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-enum-static-call/src/App.java
+- [[.processAny()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-switch-pattern/App.java
+- [[.processArray()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-foreach-generic/App.php
+- [[.processCollection()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-foreach-generic/App.php
+- [[.processEntities()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-optional-receiver/App.java
+- [[.processEntities()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-receiver-resolution/services/App.kt
+- [[.processList()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-map-keys-values/src/App.java
+- [[.processMembers()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-foreach-member-access/App.php
+- [[.processRepos()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-member-access-for-loop/src/app.ts
+- [[.processRepos()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-class-field-foreach/app.ts
+- [[.processUsers()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/php-foreach-loop/App.php
+- [[.processUsers()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-class-field-foreach/app.ts
+- [[.processValues()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-map-keys-values/src/App.java
+- [[.processWithService()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-mixed-chain/App.java
+- [[.processWithUser()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-mixed-chain/App.java
+- [[.process_entities()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-constructor-type-inference/services/app.rb
+- [[.process_repos()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-member-access-for-loop/app.py
+- [[.process_user()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-member-calls/lib/app.rb
+- [[.process_users()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-member-access-for-loop/app.py
+- [[.query()_1]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/rag.py
+- [[.query_with_sources()]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/rag.py
+- [[.run()_6]] - code - GitNexus/gitnexus/test/fixtures/cross-file-binding/kotlin-cross-file/app/App.kt
+- [[.save()_14]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-class-attr-export-leak/mod.py
+- [[.save()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-enumerate-loop/repo.py
+- [[.speak()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-virtual-dispatch/models/App.java
+- [[.speak()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-virtual-dispatch/models/App.java
+- [[.speak()_6]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-enrichment/models/Dog.java
+- [[.threeStepChain()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-chain-cross-class/App.java
+- [[.twoStepChain()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-chain-cross-class/App.java
+- [[.updateUser()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-write-access/App.java
+- [[.use()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-class-body-namespace-import/app.py
+- [[.validate()_5]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-when-complex/models/Repo.kt
+- [[.wrapTransform()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-reference/models/ChildHandler.java
+- [[A_2]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-class-body-namespace-import/app.py
+- [[Address_2]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-method-chain-binding/App.cs
+- [[Animal]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-virtual-dispatch/models/App.java
+- [[App]] - code - GitNexus/gitnexus/test/fixtures/cross-file-binding/kotlin-cross-file/app/App.kt
+- [[AppService]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-receiver-resolution/services/App.kt
+- [[ChildHandler]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-reference/models/ChildHandler.java
+- [[ChildHandler.java]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-reference/models/ChildHandler.java
+- [[City_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-method-chain-binding/App.cs
+- [[Class-body attribute (`User.MAX_USERS`) that MUST NOT leak into the module's exp]] - rationale - GitNexus/gitnexus/test/fixtures/lang-resolution/python-class-attr-export-leak/mod.py
+- [[Container()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-const-overload/container.h
+- [[DbLookup_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-same-arity-cross-file/db-lookup.ts
+- [[DbLookup]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/DbLookup.kt
+- [[DbLookup.kt]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/DbLookup.kt
+- [[Dog]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-virtual-dispatch/models/App.java
+- [[Dog_4]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-enrichment/models/Dog.java
+- [[Dog.java]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/java-method-enrichment/models/Dog.java
+- [[GetRepo()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/go-return-type-inference/models/repo.go
+- [[Grandparent.Services]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-grandparent-resolution/Services/App.cs
+- [[Greeter]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-optional-params/Services/App.cs
+- [[Home()]] - code - GitNexus/gitnexus/test/fixtures/expo-app/app/index.tsx
+- [[ILookup]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/ILookup.kt
+- [[ILookup.kt]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-same-arity-cross-file/ILookup.kt
+- [[KeywordRAG]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/rag.py
+- [[LoadingOverlay.tsx]] - code - GitNexus/gitnexus-web/src/components/LoadingOverlay.tsx
+- [[Models_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-alias-imports/Models/Repo.cs
+- [[MyClass()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-out-of-class-method/myclass.h
+- [[NullCheck.Models]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-null-check-narrowing/Models/Repo.cs
+- [[NullCheck.Services]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-null-check-narrowing/Services/App.cs
+- [[Program_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-optional-params/Services/App.cs
+- [[Repo]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-enumerate-loop/repo.py
+- [[RepoService]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-member-access-for-loop/app.py
+- [[User_4]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-call-result-binding/App.cs
+- [[User_5]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-class-attr-export-leak/mod.py
+- [[UserService_4]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-member-access-for-loop/app.py
+- [[VariadicProj.Services]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-variadic-resolution/Services/App.cs
+- [[app.py]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/app.py
+- [[async()]] - code - GitNexus/gitnexus-web/src/App.tsx
+- [[build_chain()]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/rag.py
+- [[build_service()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-constant-factory-call/app.rb
+- [[callGetNameById()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-out-of-class-method/app.cpp
+- [[callGetNameDefault()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-out-of-class-method/app.cpp
+- [[callGreetDefault()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-out-of-class-method/app.cpp
+- [[callGreetMsg()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-out-of-class-method/app.cpp
+- [[container.h]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-const-overload/container.h
+- [[create_handler()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-ambiguous/src/services/mod.rs
+- [[db-lookup.ts]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-same-arity-cross-file/db-lookup.ts
+- [[do_work()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-local-shadow/lib/app.rb
+- [[fetchRepo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/js-jsdoc-async-return-type/app.js
+- [[fetchUser()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/js-jsdoc-qualified-return-type/app.js
+- [[findRepo()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-nullable-chain/src/app.ts
+- [[findUser()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-nullable-chain/src/app.ts
+- [[find_repo()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-nullable-receiver/app.py
+- [[find_user()_2]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-nullable-receiver/app.py
+- [[formatData()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-named-imports/src/format-upper.ts
+- [[format_data()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-named-imports/format_upper.py
+- [[format_name()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-grouped-imports/src/helpers/mod.rs
+- [[format_upper.py]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-named-imports/format_upper.py
+- [[getName()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-out-of-class-method/myclass.cpp
+- [[getPluginForFile()]] - code - GitNexus/gitnexus/src/core/group/extractors/http-patterns/index.ts
+- [[getProvider()]] - code - GitNexus/gitnexus/src/core/ingestion/languages/index.ts
+- [[getProviderForFile()]] - code - GitNexus/gitnexus/src/core/group/extractors/topic-patterns/index.ts
+- [[getRepo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-return-type-inference/app.cpp
+- [[getRepos()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-foreach-call-expr/models/Repo.kt
+- [[getUser()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-return-type-inference/app.cpp
+- [[get_graph()]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/app.py
+- [[get_keywords()]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/rag.py
+- [[get_repo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-nullable-chain/app.py
+- [[get_repo()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-return-type/repo.rb
+- [[get_repos()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-for-call-expr/src/repo.rs
+- [[get_user()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-nullable-chain/app.py
+- [[greet()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-default-params/app.rb
+- [[greet()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-out-of-class-method/myclass.cpp
+- [[handleRepo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-scoped-receiver/src/app.ts
+- [[handleUser()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-scoped-receiver/src/app.ts
+- [[helper()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-class-attr-export-leak/mod.py
+- [[index.ts]] - code - GitNexus/gitnexus-shared/src/index.ts
+- [[init()]] - code - GitNexus/gitnexus/test/fixtures/cross-file-binding/ts-reexport/src/app.ts
+- [[leiden()]] - code - GitNexus/gitnexus-web/src/vendor/leiden/index.js
+- [[list.ts]] - code - GitNexus/gitnexus/src/cli/list.ts
+- [[listCommand()]] - code - GitNexus/gitnexus/src/cli/list.ts
+- [[load_and_index()]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/rag.py
+- [[lookup()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-overload-disambiguation/src/app.ts
+- [[main()_12]] - code - GitNexus/gitnexus/test/fixtures/cross-file-binding/ts-simple/src/app.ts
+- [[mod.rs]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-if-let-unwrap/models/mod.rs
+- [[multiHopForward()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-multi-hop-chain/src/app.ts
+- [[multiHopRepo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-multi-hop-chain/src/app.ts
+- [[myclass.h]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-out-of-class-method/myclass.h
+- [[nullableChainRepo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-nullable-chain/src/app.ts
+- [[nullableChainUser()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-nullable-chain/src/app.ts
+- [[nullable_chain_repo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-nullable-chain/app.py
+- [[nullable_chain_user()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-nullable-chain/app.py
+- [[outer()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-function-local-namespace-import/app.py
+- [[process()]] - code - GitNexus/gitnexus/test/fixtures/cross-file-binding/rb-cross-file/app.rb
+- [[processAlias()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-call-result-binding/app.ts
+- [[processAll()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/swift-for-loop-inference/App.swift
+- [[processAny()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-when-pattern/App.kt
+- [[processAwait()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/swift-await-try/App.swift
+- [[processChain()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-method-chain-binding/app.cpp
+- [[processDestructured()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/js-object-destructuring/app.js
+- [[processEntities()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-receiver-resolution/src/app.ts
+- [[processEntries()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-destructured-for-of/src/app.ts
+- [[processGuardLet()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/swift-if-let-guard-let/App.swift
+- [[processIfLet()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/swift-if-let-guard-let/App.swift
+- [[processInput()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-variadic-resolution/src/app.ts
+- [[processKeys()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-map-keys-values/src/App.kt
+- [[processList()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-map-keys-values/src/App.kt
+- [[processLocalNullable()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-null-check-narrowing/services/App.kt
+- [[processLoose()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-null-check-narrowing/src/app.ts
+- [[processMultiCall()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-when-complex/App.kt
+- [[processMultiField()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-object-destructuring/src/app.ts
+- [[processMutableMapValues()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-map-keys-values/src/App.kt
+- [[processNullable()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-null-check-narrowing/services/App.kt
+- [[processRepo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-class-method-chain/App.kt
+- [[processRepoMap()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-structured-binding/App.cpp
+- [[processRepos()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-var-foreach/app.kt
+- [[processSet()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-map-keys-values/src/App.kt
+- [[processStrict()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-null-check-narrowing/src/app.ts
+- [[processThreeArms()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-when-complex/App.kt
+- [[processTry()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/swift-await-try/App.swift
+- [[processUndefined()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-null-check-narrowing/src/app.ts
+- [[processUser()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-class-method-chain/App.kt
+- [[processUserAsync()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-return-type-inference/app.ts
+- [[processUserMap()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/cpp-structured-binding/App.cpp
+- [[processUsers()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-var-foreach/app.kt
+- [[processValues()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-map-keys-values/src/App.kt
+- [[processWithElse()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-when-complex/App.kt
+- [[process_chain()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-method-chain-binding/app.py
+- [[process_entities()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-receiver-resolution/app.py
+- [[process_input()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-variadic-resolution/app.py
+- [[process_nested_tuple()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-enumerate-loop/app.py
+- [[process_parenthesized_tuple()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-enumerate-loop/app.py
+- [[process_repo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-return-type/app.rb
+- [[process_user()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-call-result-binding/app.rb
+- [[process_users()_1]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-enumerate-loop/app.py
+- [[rag.py]] - code - 02 - AREAS/02 AI & Technology/Obsidian RAG System/rag.py
+- [[repo.py]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-enumerate-loop/repo.py
+- [[run()_2]] - code - GitNexus/gitnexus/test/fixtures/cross-file-binding/py-cross-file/src/app.py
+- [[run_app()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ruby-local-shadow/lib/app.rb
+- [[sanity()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-function-local-namespace-import/app.py
+- [[save()_2]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-local-shadow/src/app.ts
+- [[save()_5]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-module-export-vs-method-collision/mod.py
+- [[scan()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/swift-constructor-fallback/App.swift
+- [[search()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-optional-params/src/app.ts
+- [[tieBreaker()]] - code - GitNexus/gitnexus-web/src/vendor/leiden/index.js
+- [[tripleNullable()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/ts-nullable-chain/src/app.ts
+- [[tryConnect()]] - code - GitNexus/gitnexus-web/src/App.tsx
+- [[undirectedLeiden()]] - code - GitNexus/gitnexus-web/src/vendor/leiden/index.js
+- [[use_class_attr()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-class-attr-export-leak/app.py
+- [[use_document()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-same-file-method-collision/app.py
+- [[use_helper()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-class-attr-export-leak/app.py
+- [[use_method()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-module-export-vs-method-collision/app.py
+- [[use_module_export()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-module-export-vs-method-collision/app.py
+- [[use_user()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-same-file-method-collision/app.py
+- [[validate_email()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-grouped-imports/src/helpers/mod.rs
+- [[walrus_chain_repo()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-walrus-chain/app.py
+- [[walrus_chain_user()]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/python-walrus-chain/app.py
+- [[write_audit()_3]] - code - GitNexus/gitnexus/test/fixtures/lang-resolution/rust-calls/src/zeroarg/mod.rs
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_1
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 13 edges to [[_COMMUNITY_Community 2]]
+- 10 edges to [[_COMMUNITY_Community 3]]
+- 6 edges to [[_COMMUNITY_Community 0]]
+- 4 edges to [[_COMMUNITY_Community 10]]
+- 3 edges to [[_COMMUNITY_Community 18]]
+- 2 edges to [[_COMMUNITY_Community 9]]
+- 2 edges to [[_COMMUNITY_Community 19]]
+- 2 edges to [[_COMMUNITY_Community 4]]
+- 1 edge to [[_COMMUNITY_Community 11]]
+- 1 edge to [[_COMMUNITY_Community 76]]
+- 1 edge to [[_COMMUNITY_Community 8]]
+
+## Top bridge nodes
+- [[app.py]] - degree 149, connects to 11 communities
+- [[repo.py]] - degree 14, connects to 4 communities
+- [[mod.rs]] - degree 12, connects to 2 communities
+- [[list.ts]] - degree 7, connects to 2 communities
+- [[UserService_4]] - degree 6, connects to 1 community

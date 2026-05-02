@@ -1,1 +1,1 @@
-{"nodes": [{"id": "mykey_template", "label": "mykey_template.py", "file_type": "code", "source_file": "/home/sunny77/Documents/Obsidian Vault/genericagent/mykey_template.py", "source_location": "L1"}], "edges": []}
+{"nodes": [{"id": "mykey_template", "label": "mykey_template.py", "file_type": "code", "source_file": "genericagent/mykey_template.py", "source_location": "L1"}], "edges": []}

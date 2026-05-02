@@ -1,6 +1,6 @@
 ---
 tags: [moc, topic, buddhism]
-date: 2026-04-20
+date: 2026-05-01
 aliases: [buddhism Map of Content]
 ---
 
@@ -8,8 +8,8 @@ aliases: [buddhism Map of Content]
 
 **Area:** [[01_Philosophy_&_Religion_MOC|01 Philosophy & Religion]]  
 **Topic:** buddhism  
-**Files:** 24  
-**Updated:** 2026-04-20
+**Files:** 25  
+**Updated:** 2026-05-01
 
 ---
 
@@ -30,6 +30,7 @@ aliases: [buddhism Map of Content]
 - [[BUDDHA EVIDENCE|Buddha Evidence]]
 - [[BUDDHA  EVIDENCE|Buddha  Evidence]]
 - [[Ambedkar_Buddhism_Choice_Analysis|Ambedkar Buddhism Choice Analysis]]
+- [[02 - AREAS/01 Philosophy & Religion/Buddhism & Hinduism Areas/Research/2026-05-01_Buddha-Greek-Philosophy-Discussion|Buddha-Greek-Philosophy Discussion]]
 
 ### 2026
 

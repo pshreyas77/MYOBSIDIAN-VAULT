@@ -602,3 +602,5 @@ This system turns your AI into a partner capable of deep research and intelligen
 Copy this entire prompt and paste it into the system prompt field of any AI platform — Claude, ChatGPT, or any API-based system. You now have a partner, not just a chatbot. Want me to customize this further for a specific mission — business, research, security, or something else?
 
 ---
+## See Also
+- [[Philosophy Links Tracker]] - Related to tracking philosophical resources including Batman philosophy

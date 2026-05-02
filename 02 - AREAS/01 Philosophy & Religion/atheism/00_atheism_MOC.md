@@ -1,6 +1,6 @@
 ---
 tags: [moc, topic, atheism]
-date: 2026-04-20
+date: 2026-05-01
 aliases: [atheism Map of Content]
 ---
 
@@ -8,8 +8,8 @@ aliases: [atheism Map of Content]
 
 **Area:** [[01_Philosophy_&_Religion_MOC|01 Philosophy & Religion]]  
 **Topic:** atheism  
-**Files:** 7  
-**Updated:** 2026-04-20
+**Files:** 8  
+**Updated:** 2026-05-01
 
 ---
 
@@ -24,6 +24,8 @@ aliases: [atheism Map of Content]
 - [[BUDDHA_IVC_Research_Critical_Summary|Buddha Ivc Research Critical Summary]]
 - [[BUDDHA_IVC_Connection_Critical_Analysis|Buddha Ivc Connection Critical Analysis]]
 - [[Atheist_Hall_of_Fame_Shankara_Defeat_Rankings|Atheist Hall Of Fame Shankara Defeat Rankings]]
+- [[Atheism & Nihilism Philosophy Chain|Atheism & Nihilism Philosophy Chain]]
+- [[02 - AREAS/01 Philosophy & Religion/Buddhism & Hinduism Areas/Research/2026-05-01_Buddha-Greek-Philosophy-Discussion|Buddha-Greek-Philosophy Discussion]]
 
 
 ---

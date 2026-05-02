@@ -1,1 +1,0 @@
-{"nodes": [{"id": "add_images", "label": "add_images.py", "file_type": "code", "source_file": "Philosophers Canvas/add_images.py", "source_location": "L1"}], "edges": [{"source": "add_images", "target": "json", "relation": "imports", "confidence": "EXTRACTED", "source_file": "Philosophers Canvas/add_images.py", "source_location": "L1", "weight": 1.0}]}

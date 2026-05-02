@@ -1,0 +1,28 @@
+{
+	"type": "canvas",
+	"version": "1.0",
+	"nodes": [
+		{
+			"id": "test-node",
+			"type": "text",
+			"text": "Test Canvas Node",
+			"width": 200,
+			"height": 50,
+			"x": 100,
+			"y": 100,
+			"color": {
+				"background": "#1e293b",
+				"border": "#3b82f6"
+			},
+			"fontSize": 18,
+			"textAlign": "center"
+		}
+	],
+	"edges": [],
+	"groupIds": [],
+	"location": {
+		"x": 0,
+		"y": 0,
+		"zoom": 1.0
+	}
+}
