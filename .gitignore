@@ -6,6 +6,10 @@
 .obsidian/cache/
 .obsidian/graph.json
 
+# Large Files - exclude from git
+graphify-out/
+BOOKS/
+
 # Claude/AI System Files (keep .claude-plugin for hooks)
 .claude/skills/
 .claude/config/
