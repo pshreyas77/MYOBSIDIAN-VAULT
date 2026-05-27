@@ -1,27 +1,15 @@
 # Wiki Index
 
-## Recently Updated
-- [[Wiki Home]] - Main wiki navigation (Updated: 2026-04-23)
+## Concepts
+- [[Youth Revolution in India]] — Analysis of youth political engagement and revolutionary potential in India
+- [[Youth Revolution Solutions in India]] — Specific solutions to overcome obstacles preventing a youth revolution in India
+- [[Ancient Civilizations Educational Resources]] — Curated list of high-quality, academically sound resources for studying ancient civilizations. Filtered to exclude nationalist propaganda, pseudohistory, and alien theories.
 
-## By Category
-### Entities
-- [[Config]] - Central configuration hub
-- [[LLMClient]] - Your LLM interface layer
-- [[ToolRegistry]] - Tool management system
-- [[ObsidianClient]] - Obsidian API integration
+## Knowledge
+- [[2026-05-27 — RIGHT vs LEFT WING — SIMPLE Political Ideology Comparison]] — Simplified comparison of right-wing vs left-wing political ideologies
+- [[2026-05-27 — THE PEOPLING OF SOUTH ASIA: A SYNTHESIS OF GENETIC, LINGUISTIC, AND ARCHAEOLOGICAL EVIDENCE]] — Graph visualization of South Asian peopling synthesis
 
-### Concepts
-- [[Second Brain]] - Personal knowledge management system
-- [[LLM Wiki]] - LLM-maintained knowledge base pattern
-- [[MemPalace]] - Room-based memory organization
-- [[Graphify]] - Knowledge graph analysis
+## Daily Notes
+- [[2026-05-22]] — Youth revolution analysis session
 
-### Sources
-- [[LLM Wiki Pattern Document]] - One-line summary (Date: 2026-04-23)
-
-### Comparisons/Analyses
-
-### Statistics
-- Total Pages: 7
-- Last Updated: 2026-04-23
-- Total Words: 3,057
+_No entries yet. Updated on every ingest._

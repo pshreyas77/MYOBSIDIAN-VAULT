@@ -1,83 +1,140 @@
-# MemPalace Configuration for Obsidian Vault
-# Defines rooms (folders) for different types of knowledge and operations
-
-# Core Knowledge Rooms
-core:
-  - 00 - SYSTEM
-  - 01 - Projects
-  - 02 - AREAS
-  - 03 - RESOURCES
-  - 04 - ARCHIVES
-
-# LLM Wiki Specific Rooms
-llm_wiki:
+wing: obsidian_vault
+rooms:
+- name: topics
+  description: Files from Topics/
+  keywords:
+  - topics
+  - topics
+- name: vault
+  description: Files from Vault/
+  keywords:
+  - vault
+  - vault
+- name: ruflo
+  description: Files from ruflo/
+  keywords:
+  - ruflo
+  - ruflo
+- name: gitnexus
+  description: Files from GitNexus/
+  keywords:
+  - gitnexus
+  - gitnexus
+- name: daily_notes
+  description: Files from Daily Notes/
+  keywords:
+  - daily_notes
+  - daily notes
+- name: buddha
+  description: Files from BUDDHA/
+  keywords:
+  - buddha
+  - buddha
+- name: philosophy_website
+  description: Files from philosophy-website/
+  keywords:
+  - philosophy_website
+  - philosophy-website
+- name: attachments
+  description: Files from Attachments/
+  keywords:
+  - attachments
+  - attachments
+- name: tolaria
+  description: Files from tolaria/
+  keywords:
+  - tolaria
+  - tolaria
+- name: templates
+  description: Files from Templates/
+  keywords:
+  - templates
+  - templates
+- name: genericagent
+  description: Files from genericagent/
+  keywords:
+  - genericagent
+  - genericagent
+- name: ideas
+  description: Files from Ideas/
+  keywords:
+  - ideas
+  - ideas
+- name: graphify
+  description: Files from graphify/
+  keywords:
+  - graphify
+  - graphify
+- name: documentation
+  description: Files from wiki/
+  keywords:
+  - documentation
   - wiki
-  - wiki/_templates
+- name: projects
+  description: Files from projects/
+  keywords:
+  - projects
+  - projects
+- name: all_canvas
+  description: Files from all canvas/
+  keywords:
+  - all_canvas
+  - all canvas
+- name: graphify_repo
+  description: Files from graphify-repo/
+  keywords:
+  - graphify_repo
+  - graphify-repo
+- name: pegasus
+  description: Files from pegasus/
+  keywords:
+  - pegasus
+  - pegasus
+- name: project_ob__ai
+  description: Files from project_OB__AI/
+  keywords:
+  - project_ob__ai
+  - project_ob__ai
+- name: safebrain
+  description: Files from SafeBrain/
+  keywords:
+  - safebrain
+  - safebrain
+- name: qwenvault
+  description: Files from QwenVault/
+  keywords:
+  - qwenvault
+  - qwenvault
+- name: graphify_out
+  description: Files from graphify-out/
+  keywords:
+  - graphify_out
   - graphify-out
-
-# Ingestion Rooms (where new sources go for processing)
-ingestion:
-  - 04 - RESOURCES/Inbox
-  - 04 - RESOURCES/ToProcess
-  - 04 - RESOURCES/RawSources
-
-# Query Rooms (where answers and insights get stored)
-query:
-  - wiki
-  - 02 - AREAS/02 AI & Technology/ai
-  - 02 - AREAS/01 Philosophy & Religion
-
-# Maintenance Rooms
-maintenance:
-  - wiki/log.md
-  - wiki/index.md
-  - .openclaude/plans
-  - .openclaude/tasks
-
-# Reference Rooms (static knowledge)
-reference:
-  - 00 - SYSTEM/01_KNOWLEDGE_HUB.md
-  - 00 - SYSTEM/MOCs/00_Master MOC.md
-  - 02 - AREAS/02 AI & Technology/00_AI & Technology MOC.md
-  - 02 - AREAS/01 Philosophy & Religion/00_Philosophy & Religion MOC.md
-
-# Templates for different memory operations
-templates:
-  ingest: |
-    ## [{date}] ingest | {source_title}
-    - Processed: {file_path}
-    - Pages created/updated: {pages_list}
-    - Key entities extracted: {entities_list}
-    - Contradictions noted: {contradictions}
-    - Actions taken: {actions_summary}
-
-  query: |
-    ## [{date}] query | {question}
-    - Question: {full_question}
-    - Answer summary: {answer_summary}
-    - Pages consulted: {pages_consulted}
-    - New insights saved as: {new_pages}
-    - Follow-up questions suggested: {followup_questions}
-
-  lint: |
-    ## [{date}] lint | Health Check
-    - Issues found: {issues_found}
-    - Actions taken: {actions_taken}
-    - Recommendations: {recommendations}
-
-# Operations Configuration
-operations:
-  # Auto-indexing after ingest
-  auto_index_after_ingest: true
-
-  # Auto-logging of operations
-  auto_log_operations: true
-
-  # Graphify integration
-  graphify_integration: true
-
-  # MemPalace mining depth
-  mine_depth: 2
-
-  # Maximum pages to process in one ingest
-  max_pages_per_ingest: 15
+- name: weekly_notes
+  description: Files from Weekly Notes/
+  keywords:
+  - weekly_notes
+  - weekly notes
+- name: testing
+  description: Files from tests/
+  keywords:
+  - testing
+  - tests
+- name: scripts
+  description: Files from scripts/
+  keywords:
+  - scripts
+  - scripts
+- name: configuration
+  description: Files from deploy/
+  keywords:
+  - configuration
+  - deploy
+- name: design
+  description: Files from design/
+  keywords:
+  - design
+  - design
+- name: general
+  description: Files that don't fit other rooms
+  keywords: []

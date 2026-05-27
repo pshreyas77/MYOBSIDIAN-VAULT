@@ -114,6 +114,77 @@ Curated video, book, and organizational links for Osho, J. Krishnamurti, U.G. Kr
 ---
 
 *Navigate by area → topic → file. Use graph view for visual exploration.*
+## 🧠 God Node Dashboard
+
+> *Core abstractions from your knowledge graph analysis*
+
+### 🔝 Top Connected Nodes
+- [[now()]] — 2,311 connections → Temporal Logic, Scheduling, Date Handling
+- [[map()]] — 1,944 connections → Functional Programming, Data Transformation  
+- [[error()]] — 1,056 connections → Error Handling, Debugging
+- [[Values()]] — 1,026 connections → Data Structures, Object Manipulation
+- [[Task]] — 697 connections → Project Management, Workflow Automation
+- [[includes()]] — 842 connections → Search, Filtering, Data Validation
+- [[min()/max()]] — 774/770 connections → Optimization, Comparison, Bounds Checking
+- [[trim()]] — 712 connections → Text Processing, Data Cleaning
+- [[has()]] — 697 connections → Existence Checks, Membership Testing
+
+### 📊 Quick Graph Stats
+| Metric | Value |
+|--------|-------|
+| Total Nodes Analyzed | 46,525 |
+| Total Edges | 135,370 |
+| Communities Detected | 352 |
+| Extracted Edges | 52% |
+| Inferred Edges | 48% |
+| Avg Inferred Edge Confidence | 0.75 |
+
+### 🔗 Exploration Queries
+```dataview
+TABLE file.link as "Note", length(file.outlinks) + length(file.inlinks) as "Connections"
+FROM ""
+WHERE contains(lower(file.name), "now()") OR 
+      contains(lower(file.name), "map()") OR 
+      contains(lower(file.name), "error()") OR 
+      contains(lower(file.name), "values()") OR 
+      contains(lower(file.name), "task") OR
+      contains(lower(file.name), "includes()") OR
+      contains(lower(file.name), "min()") OR
+      contains(lower(file.name), "max()") OR
+      contains(lower(file.name), "trim()") OR
+      contains(lower(file.name), "has()")
+SORT length(file.outlinks) + length(file.inlinks) DESC
+```
+
+```dataview
+TABLE file.link as "Bridge Note", file.folder as "Location"
+FROM ""
+WHERE (contains(lower(file.name), "map") OR 
+       contains(lower(file.name), "error") OR 
+       contains(lower(file.name), "now") OR 
+       contains(lower(file.name), "task") OR 
+       contains(lower(file.name), "values") OR
+       contains(lower(file.name), "includes") OR
+       contains(lower(file.name), "min") OR
+       contains(lower(file.name), "max") OR
+       contains(lower(file.name), "trim") OR
+       contains(lower(file.name), "has"))
+  AND (contains(lower(file.content), "philosophy") OR 
+       contains(lower(file.content), "ethic") OR 
+       contains(lower(file.content), "value") OR 
+       contains(lower(file.content), "belief") OR 
+       contains(lower(file.content), "political") OR 
+       contains(lower(file.content), "power") OR 
+       contains(lower(file.content), "justice") OR 
+       contains(lower(file.content), "religious") OR 
+       contains(lower(file.content), "faith") OR 
+       contains(lower(file.content), "sacred") OR 
+       contains(lower(file.content), "myth") OR 
+       contains(lower(file.content), "theology"))
+SORT length(file.outlinks) + length(file.inlinks) DESC
+LIMIT 10
+```
+
 ## See Also
 - [[Nagarjuna]] - Important Buddhist philosopher and founder of Madhyamaka school
 - [[Buddha]] - Central figure in Buddhist philosophy and practice

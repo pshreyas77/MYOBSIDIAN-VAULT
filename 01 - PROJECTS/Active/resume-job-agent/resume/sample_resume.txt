@@ -1,0 +1,46 @@
+SAMPLE RESUME FOR TESTING
+=========================
+
+JOHN DOE
+john.doe@email.com | (555) 123-4567 | linkedin.com/in/johndoe
+San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 5 years of expertise in full-stack development, specializing in Python, Django, and AWS cloud services. Proven track record of delivering scalable web applications and leading development teams.
+
+SKILLS
+- Programming Languages: Python, JavaScript, SQL, HTML/CSS
+- Frameworks: Django, Flask, React, Node.js
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD
+- Tools: Git, Linux, REST APIs, Agile/Scrum
+- Soft Skills: Problem Solving, Team Leadership, Communication
+
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer | TechCorp Inc. | Jan 2022 - Present
+- Led development of microservices architecture serving 1M+ monthly active users
+- Reduced system latency by 40% through optimization and caching strategies
+- Mentored 3 junior developers and conducted code reviews
+- Technologies: Python, Django, AWS, Docker, Kubernetes
+
+Software Engineer | StartupXYZ | Mar 2020 - Dec 2021
+- Developed customer-facing web application using React and Node.js
+- Integrated payment processing APIs (Stripe, PayPal) increasing conversion by 25%
+- Collaborated with UX/UI team to implement responsive designs
+- Technologies: JavaScript, React, Node.js, PostgreSQL
+
+Junior Developer | WebSolutions LLC | Jun 2018 - Feb 2020
+- Built and maintained WordPress websites for small business clients
+- Created custom plugins and themes to extend functionality
+- Provided technical support and website maintenance
+- Technologies: PHP, WordPress, MySQL, HTML/CSS
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | Graduated: May 2018
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Technologies
+- GPA: 3.5/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect Associate (2021)
+- Certified Scrum Developer (CSD) (2020)

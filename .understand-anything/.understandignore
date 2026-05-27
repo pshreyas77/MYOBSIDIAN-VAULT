@@ -1,0 +1,55 @@
+# .understandignore — patterns for files/dirs to exclude from analysis
+# Syntax: same as .gitignore (globs, # comments, ! negation, trailing / for dirs)
+# Lines below are suggestions — uncomment to activate.
+# Use ! prefix to force-include something excluded by defaults.
+#
+# Built-in defaults (always excluded unless negated):
+#   node_modules/, .git/, dist/, build/, obj/, *.lock, *.min.js, etc.
+#
+# --- From .gitignore (uncomment to exclude) ---
+
+# .obsidian/
+# .obsidian/workspace
+# .obsidian/workspace.json
+# .obsidian/plugins/
+# .obsidian/cache/
+# .obsidian/graph.json
+# .claude/skills/
+# .claude/config/
+# .smart-env/
+# .trash/
+# .raw/
+# Attachments/*.pdf
+# Attachments/*.mp4
+# Attachments/*.mov
+# Attachments/*.avi
+# Attachments/*.zip
+# Attachments/*.rar
+# Attachments/*.dmg
+# Attachments/*.iso
+# .DS_Store
+# Thumbs.db
+# *.swp
+# *.swo
+# *~
+# *.pyc
+# *.pyo
+# .Python
+# *.so
+# temp/
+# tmp/
+# *.tmp
+# !.mcp.json
+# !mempalace.yaml
+# !GRAPHIFY*.md
+# !_CLAUDE.md
+# !MEMPALACE_INTEGRATION.md
+# !CLAUDE_SECOND_BRAIN_INTEGRATION.md
+# mempalace.yaml
+# entities.json
+
+# --- Test file patterns (uncomment to exclude) ---
+
+# *.test.*
+# *.spec.*
+# *.snap

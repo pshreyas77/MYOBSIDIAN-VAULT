@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"steppe","type":"text","text":"Steppe Pastoralists (Yamnaya-related)\n• Arrived ~2000-1500 BCE\n• Brought Indo-Aryan languages\n• Post-dated IVC collapse","x":-100,"y":480,"width":250,"height":100,"color":"#d62728"},
+		{"id":"iranian","type":"text","text":"Iranian Farmer-related Ancestry\n• Entered ~4700-3000 BCE\n• Agricultural component\n• From Fertile Crescent region","x":-120,"y":200,"width":250,"height":100,"color":"#ff7f0e"},
+		{"id":"aasi","type":"text","text":"Ancient Ancestral South Indians (AASI)\n• Lineage split ~12,000 years ago\n• Deeper split than Papuan/Andamanese\n• Indigenous South Asian component","x":-20,"y":-40,"width":250,"height":100,"color":"#1f77b4"},
+		{"id":"ivc","type":"text","text":"Indus Valley Civilization\n• Formed ~6000-4700 BCE\n• Iranian farmer + AASI admixture\n• No significant steppe ancestry\n• Likely spoke Dravidian language","x":400,"y":60,"width":250,"height":100,"color":"#2ca02c"},
+		{"id":"vedic","type":"text","text":"Vedic Indo-Aryans\n• Cities, agriculture, metallurgy\n• Not nomadic pastoralists\n• Settlement patterns:\n  Early: Rural, pastoral\n  Later: Urban, complex society","x":400,"y":500,"width":250,"height":150,"color":"#9467bd"},
+		{"id":"continuity","type":"text","text":"Cultural Continuity\nIVC → Vedic\n• Fire altars\n• Water management\n• Urban planning\n• Craftsmanship traditions","x":700,"y":60,"width":250,"height":190,"color":"#8c564b"},
+		{"id":"languages","type":"text","text":"Linguistic Evidence\n• Dravidian: ~4.5-5.5 kya\n• Indo-Aryan: ~3.5-4.0 kya\n• Sanskrit closest to Lithuanian/Old Irish\n• Tamil grammar oldest extant\n• Mutual influence:\n  Sanskrit loanwords in Tamil\n  Dravidian syntax in Sanskrit","x":700,"y":350,"width":250,"height":225,"color":"#e377c2"},
+		{"id":"conclusion","type":"text","text":"Conclusion\nIndian civilization formed through\nINTEGRATION, not replacement\n• 12,000+ years of development\n• Continuous indigenous development\n• Incorporating migrations\n• Older, deeper, more complex\n  than colonial narratives suggest","fontSize":24,"x":1140,"y":155,"width":300,"height":225,"color":"#7f7f7f"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"aasi","fromSide":"right","toNode":"ivc","toSide":"left"},
+		{"id":"e2","fromNode":"iranian","fromSide":"right","toNode":"ivc","toSide":"left"},
+		{"id":"e3","fromNode":"ivc","fromSide":"bottom","toNode":"vedic","toSide":"top","label":"Post-IVC"},
+		{"id":"e4","fromNode":"steppe","fromSide":"right","toNode":"vedic","toSide":"left","label":"~2000-1500 BCE"},
+		{"id":"e5","fromNode":"ivc","fromSide":"right","toNode":"continuity","toSide":"left"},
+		{"id":"e6","fromNode":"vedic","fromSide":"top","toNode":"continuity","toSide":"bottom"},
+		{"id":"e7","fromNode":"vedic","fromSide":"right","toNode":"languages","toSide":"left"},
+		{"id":"e8","fromNode":"continuity","fromSide":"right","toNode":"conclusion","toSide":"left"},
+		{"id":"e9","fromNode":"languages","fromSide":"right","toNode":"conclusion","toSide":"left"}
+	],
+	"groups":[],
+	"note":null,
+	"viewState":{
+		"zoom":1.2,
+		"offset":{"x":-300,"y":-150}
+	},
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
