@@ -1,17 +1,17 @@
 ---
-source_file: "GitNexus/gitnexus/test/fixtures/lang-resolution/typescript-calls/src/zero.ts"
+source_file: "GitNexus/gitnexus/test/fixtures/lang-resolution/go-calls/internal/zeroarg/log.go"
 type: "code"
 community: "Community None"
-location: "L1"
+location: "L3"
 tags:
   - graphify/code
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# writeAudit()
+# WriteAudit()
 
 ## Connections
-- [[zero.py]] - `contains` [EXTRACTED]
+- [[log.go]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_None

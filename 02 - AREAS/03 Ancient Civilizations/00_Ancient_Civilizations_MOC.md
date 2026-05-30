@@ -69,6 +69,9 @@ AI chat logs and discussion transcripts.
 19. [[GÖBEKLI TEPE - WORLD'S OLDEST CIVILIZATION]] — `OLDEST CIVILIZATION/GÖBEKLI TEPE - WORLD'S OLDEST CIVILIZATION.md`
 20. [[**CARAL-SUPE CIVILIZATION]] — `OLDEST CIVILIZATION/**CARAL-SUPE CIVILIZATION.md`
 21. [[2026-04-11_comprehensive-ancient-religions-comparative-analysis]] — `ClaudeVault/2026-04-11_comprehensive-ancient-religions-comparative-analysis.md` — ⭐ NEW: Religions pre-Rigveda, IVC religion analysis, Greek Buddha influence
+22. [[ATALH - 2nd Oldest Civilization]] — `Other/ATALH - 2nd Oldest Civilization.md` ⭐ NEW (2026-05-27)
+23. [[Göbekli Tepe]] — `Other/Göbekli Tepe.md` ⭐ NEW (2026-05-27)
+24. [[Indian Languages — Evidence-Based Chronological Report]] — `09 - Language & Linguistics/Indian Languages — Evidence-Based Chronological Report.md` ⭐ NEW (2026-05-28)
 
 *...and 72 more files*
 

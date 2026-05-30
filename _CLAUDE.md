@@ -7,9 +7,9 @@
 
 ## Vault Identity
 
-- **Owner:** Shreyas Patel
+- **Owner:** P Shreyas
 - **Primary purpose:** Life OS — philosophy, AI, technology, political analysis, knowledge management, and personal research
-- **Last updated:** 2026-04-24
+- **Last updated:** 2026-05-28
 
 ---
 
@@ -47,6 +47,35 @@
 | `DUPLICATE_ANALYSIS_REPORT.json` | Report from duplicate file analysis |
 | `DUPLICATE_CLEANUP_LOG.json` | Log from duplicate cleanup operation |
 | `Buddhism_Hinduism_Research_Report *.docx` | Research reports in Word format |
+
+---
+
+## Karpathy Second Brain Layers (Canonical — New)
+
+| Layer | Folder | Purpose |
+|-------|--------|---------|
+| 00 | `00 - INBOX/` | Raw unprocessed captures before processing |
+| 01 | `01 - LITERATURE/` | Notes from external sources (books/, articles/, papers/, videos/) |
+| 02 | `02 - PERMANENT/` | Atomic notes in your own words (concepts/, people/, questions/) |
+| 03 | `03 - PROJECTS/` | Active work and projects |
+| 04 | `04 - DAILY/` | Daily notes (canonical — "Daily Notes/" is legacy alias) |
+| 05 | `05 - MAPS/` | Topic synthesis maps — created when 5+ permanent notes accumulate |
+| 06 | `06 - OUTPUTS/` | Finished writing (essays/, analyses/, frameworks/) |
+| 07 | `07 - SYSTEM/` | System files: templates, rules, index, log, critical facts |
+
+**Migration principle:** Existing folders are NEVER moved or renamed. New folders above are the canonical home going forward. Old folders remain as valid aliases.
+
+---
+
+## Legacy PARA Folders (Still Valid — Alias)
+
+| Folder | Status |
+|--------|--------|
+| `01 - PROJECTS/` | Legacy PARA — still valid, use `03 - PROJECTS/` for new work |
+| `02 - AREAS/` | Legacy PARA — feed ideas to `02 - PERMANENT/concepts/` |
+| `03 - RESOURCES/` | Legacy PARA — feed to `01 - LITERATURE/` |
+| `04 - ARCHIVE/` | Legacy PARA — unchanged |
+| `Daily Notes/` | Legacy alias for `04 - DAILY/` — both valid |
 
 ---
 
@@ -154,3 +183,99 @@ claude mcp add obsidian-vault -s user -- npx -y mcp-obsidian "/home/sunny77/Docu
 
 ---
 *This file is persisted across Claude surfaces. Update it when vault conventions change.*
+
+---
+
+## Karpathy Second Brain Layers
+
+The vault operates on the **Karpathy second brain framework** — a 7-layer system optimized for AI-powered knowledge compounding. Existing PARA folders (01–04) are legacy aliases; new canonical layers are below.
+
+### Folder Map (Karpathy Canonical)
+
+| Layer | Folder | Purpose |
+|-------|--------|---------|
+| 00 | `00 - INBOX/` | Raw unprocessed captures |
+| 01 | `01 - LITERATURE/` | Sources: books/, articles/, papers/, videos/ |
+| 02 | `02 - PERMANENT/` | Your thinking: concepts/, people/, questions/ |
+| 03 | `03 - PROJECTS/` | Active work with goals and key decisions |
+| 04 | `04 - DAILY/` | Daily notes in YYYY-MM-DD format |
+| 05 | `05 - MAPS/` | Topic synthesis maps (MOCs) |
+| 06 | `06 - OUTPUTS/` | Finished work: essays/, analyses/, frameworks/ |
+| 07 | `07 - SYSTEM/` | Infrastructure: CRITICAL_FACTS, ai-first-rules, templates |
+
+### Legacy Aliases (Valid, No New Notes)
+
+| Folder | Status |
+|--------|--------|
+| `01 - PROJECTS/` | Legacy PARA — use `03 - PROJECTS/` for new project notes |
+| `02 - AREAS/` | Frozen — ideas flow to `02 - PERMANENT/concepts/` |
+| `03 - RESOURCES/` | Frozen — sources flow to `01 - LITERATURE/` |
+| `04 - ARCHIVE/` | Frozen — archived items stay here |
+| `Daily Notes/` | Legacy — use `04 - DAILY/` for new daily notes |
+| `00 - SYSTEM/` | Legacy alias for `07 - SYSTEM/` |
+
+### AI-First Frontmatter Standard
+
+Every note in the 00–07 layers follows this frontmatter:
+
+```yaml
+---
+date: YYYY-MM-DD
+type: <note-type>        # daily | project | person | idea | task | decision | devlog | review | adr | literature | map
+tags: [<type>, ...]
+ai-first: true           # mandatory flag
+---
+```
+
+**Required preamble** (after frontmatter):
+```markdown
+## For future Claude
+[2-3 sentence summary: what this note is, why it was saved, any temporal caveat]
+```
+
+**Recency markers** on external claims:
+```markdown
+- [Claim] (as of YYYY-MM, source.com)
+```
+
+**Confidence levels**: `stated | high | medium | speculation` — in frontmatter or inline.
+
+See `07 - SYSTEM/ai-first-rules.md` for full spec.
+
+### The 6 Claude Integrations
+
+**1. Inbox Processor** (daily evening):
+> "Process my Obsidian Inbox" → Claude reads `00 - INBOX/`, creates literature notes or permanent notes, archives processed items.
+
+**2. Connection Finder** (weekly):
+> "Find connections between my recent notes" → Claude reads new permanent notes, searches vault for links, reports non-obvious connections.
+
+**3. Question Answerer**:
+> "I have a question: [Q]" → Claude searches vault first before external knowledge. Reports what your notes say, then gaps.
+
+**4. Writing Assistant**:
+> "Help me write about [topic]" → Claude reads all related permanent notes, identifies strongest argument, surfaces gaps.
+
+**5. Contradiction Detector** (monthly):
+> "Find contradictions in my notes" → Claude scans for opposing positions, surfaces them for resolution.
+
+**6. Synthesis Generator** (when topic accumulates):
+> "Synthesize what I know about [topic]" → Claude reads all notes on topic, produces output that only emerges from reading all of them together. Saves to `06 - OUTPUTS/`.
+
+### System Files
+
+| File | Purpose |
+|------|---------|
+| `07 - SYSTEM/CRITICAL_FACTS.md` | Identity facts for every session (~120 tokens) |
+| `07 - SYSTEM/ai-first-rules.md` | Full AI-first note specification |
+| `07 - SYSTEM/index.md` | Vault catalog — read first when navigating |
+| `log.md` | Append-only chronological vault log |
+
+### MCP Setup
+
+For faster vault access on large vaults, install mcp-obsidian:
+```bash
+claude mcp add obsidian-vault -s user -- npx -y mcp-obsidian "E:\_Knowledge\ObsidianVault"
+```
+Set `OBSIDIAN_VAULT_PATH` in `~/.claude/settings.json` if not already set.
+The vault works without it via filesystem access.

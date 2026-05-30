@@ -1,18 +1,17 @@
 ---
-source_file: "GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-struct-overloads/src/Calc.cs"
+source_file: "GitNexus/gitnexus/test/fixtures/sample-code/simple.c"
 type: "code"
 community: "Community None"
-location: "L5"
+location: "L3"
 tags:
   - graphify/code
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Add()
+# add()
 
 ## Connections
-- [[Calc.cs]] - `contains` [EXTRACTED]
-- [[Run()]] - `calls` [EXTRACTED]
+- [[simple.js]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_None

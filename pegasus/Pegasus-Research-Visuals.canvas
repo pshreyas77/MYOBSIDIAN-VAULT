@@ -1,9 +1,9 @@
 {
 	"nodes": [
 		{
-			"id": "research-title",
+			"id": "pegasus-title",
 			"type": "text",
-			"text": "# Pegasus Spyware Visual Research Collection\n\nComprehensive visual research on Pegasus spyware capabilities, victims, and investigations",
+			"text": "# Pegasus Spyware Visual Research Collection\n\nComprehensive visual documentation from Perplexica research sessions",
 			"x": 100,
 			"y": 50,
 			"width": 300,
@@ -135,11 +135,11 @@
 		{
 			"id": "research-connections",
 			"type": "text",
-			"text": "## Key Research Connections\n\nThis collection connects to your main research:\n• Technical capabilities: zero-click exploits, data extraction\n• Victim profiles: politicians, journalists, activists\n• Legal aspects: Supreme Court intervention, NSO Group lawsuits\n• Recent trends: corporate espionage shift (2024-2025)\n• Responsibility framework: tripartite relationship\n\nSource: Perplexica research sessions - April 2026",
+			"text": "## Key Research Connections\n\nThis collection connects to your main research document:\n• Technical capabilities: zero-click exploits, Pegasus 2, BLASTPASS\n• Victim profiles: 300+ Indians incl. Rahul Gandhi, journalists, activists\n• Legal proceedings: Supreme Court committee, Meta/WhatsApp lawsuit\n• Recent trends: Shift to corporate espionage (finance/real estate)\n• Responsibility framework: Tripartite relationship (NSO Group, Client Govts, Israeli Govt)\n\nAll images sourced from Perplexica research - April 2026",
 			"x": 500,
 			"y": 1600,
 			"width": 350,
-			"height": 180,
+			"height": 200,
 			"color": {
 				"background": "#0f172a",
 				"border": "#6366f1"

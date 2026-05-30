@@ -1,19 +1,18 @@
 ---
-source_file: "GitNexus/gitnexus/test/fixtures/lang-resolution/kotlin-local-shadow/src/main/kotlin/app/Main.kt"
+source_file: "GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-struct-overloads/src/Calc.cs"
 type: "code"
 community: "Community None"
-location: "L10"
+location: "L8"
 tags:
   - graphify/code
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# run()
+# Run()
 
 ## Connections
-- [[__main__.py]] - `contains` [EXTRACTED]
-- [[main()_11]] - `calls` [EXTRACTED]
-- [[save()_3]] - `calls` [EXTRACTED]
+- [[Add()]] - `calls` [EXTRACTED]
+- [[Calc.cs]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_None

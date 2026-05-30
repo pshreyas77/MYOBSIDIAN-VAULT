@@ -1,17 +1,17 @@
 ---
-source_file: "GitNexus/gitnexus/test/unit/shadow/aggregate.test.ts"
+source_file: "GitNexus/gitnexus/test/fixtures/lang-resolution/go-variadic-resolution/internal/logger/logger.go"
 type: "code"
 community: "Community None"
-location: "L33"
+location: "L3"
 tags:
   - graphify/code
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# entry()
+# Entry()
 
 ## Connections
-- [[aggregate.test.ts]] - `contains` [EXTRACTED]
+- [[logger.py]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_None

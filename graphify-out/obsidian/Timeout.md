@@ -1,30 +1,17 @@
 ---
-source_file: "graphify-repo/worked/httpx/raw/client.py"
+source_file: "graphify-repo/tests/fixtures/sample.swift"
 type: "code"
 community: "Community None"
-location: "L16"
+location: "L42"
 tags:
   - graphify/code
-  - graphify/INFERRED
+  - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Timeout
+# timeout
 
 ## Connections
-- [[.__init__()_51]] - `method` [EXTRACTED]
-- [[AsyncHTTPTransport]] - `uses` [INFERRED]
-- [[Auth]] - `uses` [INFERRED]
-- [[BaseTransport]] - `uses` [INFERRED]
-- [[BasicAuth]] - `uses` [INFERRED]
-- [[Cookies]] - `uses` [INFERRED]
-- [[HTTPTransport]] - `uses` [INFERRED]
-- [[Headers]] - `uses` [INFERRED]
-- [[InvalidURL]] - `uses` [INFERRED]
-- [[Request_1]] - `uses` [INFERRED]
-- [[Response_1]] - `uses` [INFERRED]
-- [[TooManyRedirects]] - `uses` [INFERRED]
-- [[URL]] - `uses` [INFERRED]
-- [[client.py]] - `contains` [EXTRACTED]
+- [[NetworkError]] - `case_of` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Community_None
+#graphify/code #graphify/EXTRACTED #community/Community_None

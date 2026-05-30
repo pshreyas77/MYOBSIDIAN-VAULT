@@ -37,7 +37,13 @@ OBC/SC/ST problem:
 - OBC: ~41-52% - Mandal identity politics competes with Hindutva unity
 - Combined SC+ST+OBC = ~65-70% of India
 
-### 4. Present Government's Chances
+### 4. Youth Political Engagement
+
+See dedicated analysis: [[2026-05-21_Youth_Political_Engagement_Analysis]]
+
+**Summary:** 600M+ Indian youth (45% unemployed), fragmented by religion/caste/class/geography/gender, incapable of unified action currently. Could unify under shared material catastrophe. Timeline 5-10 years. Leadership not yet visible.
+
+### 5. Present Government's Chances
 Formal Hindu Rashtra declaration by present BJP gov = near zero chance due to:
 - Electoral math: BJP never crossed 37% vote share (63% voted against)
 - Coalition dependency: NDA needs allies who won't back Hindu Rashtra

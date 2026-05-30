@@ -1,17 +1,27 @@
 {
   "people": [
-    "Link"
+    "Luca Rossi",
+    "Liang Jiaqing",
+    "GergÅ‘ Magyar",
+    "Abhigyan Patwari",
+    "Zander Raycraft",
+    "Paul Robello",
+    "Shreyas Patel",
+    "GÃ¼neÅŸ Bizim",
+    "Jinyi Han",
+    "Chirag Nighut",
+    "Shen Hao",
+    "Shunsuke Hayashi",
+    "Linus Beckhaus",
+    "Xinyi Wang",
+    "Mr. WorldwideBrown"
   ],
   "projects": [
-    "Vault",
-    "Buddha",
-    "Obsidian",
-    "Hinduism",
-    "Civilizations",
-    "Comparative",
-    "Evidence",
-    "Cosmology",
-    "Code",
-    "Deep"
+    "Obsidian Vault",
+    "claude-flow",
+    "tolaria",
+    "gitnexus-monorepo",
+    "genericagent",
+    "graphifyy"
   ]
 }

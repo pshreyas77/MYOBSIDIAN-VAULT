@@ -1,17 +1,17 @@
 ---
-source_file: "GitNexus/gitnexus/vendor/tree-sitter-proto/bindings/node/binding.cc"
+source_file: "GitNexus/gitnexus/test/fixtures/cross-file-binding/ts-reexport/src/app.ts"
 type: "code"
 community: "Community None"
-location: "L12"
+location: "L2"
 tags:
   - graphify/code
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# Init()
+# init()
 
 ## Connections
-- [[binding.cc]] - `contains` [EXTRACTED]
+- [[app.py]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_None

@@ -1,17 +1,17 @@
 ---
-source_file: "GitNexus/gitnexus/test/fixtures/lang-resolution/php-app/app/Contracts/Repository.php"
+source_file: "GitNexus/gitnexus/test/fixtures/lang-resolution/csharp-record-base/src/Models/BaseEntity.cs"
 type: "code"
 community: "Community None"
-location: "L8"
+location: "L5"
 tags:
   - graphify/code
   - graphify/EXTRACTED
   - community/Community_None
 ---
 
-# save()
+# Save()
 
 ## Connections
-- [[repository.go]] - `contains` [EXTRACTED]
+- [[BaseEntity.cs]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_None

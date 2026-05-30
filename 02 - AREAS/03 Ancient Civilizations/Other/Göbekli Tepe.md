@@ -133,3 +133,4 @@ tags:
 
 *Entity linked to Neural Links System*  
 *Last updated: 2026-04-20*
+*⭐ Synced from backup 2026-05-27 → [[00_Ancient_Civilizations_MOC]]
