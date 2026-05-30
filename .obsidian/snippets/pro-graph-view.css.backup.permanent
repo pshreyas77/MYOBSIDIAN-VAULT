@@ -1,0 +1,32 @@
+/* Graph View Color-Coded Folders */
+
+/* Base */
+.graph-view { background-color: #f8fafc; }
+
+/* ClaudeVault - Red */
+.graph-view.color-fill-r-220-g-38-b-38 .node { fill: #fef2f2; stroke: #dc2626; stroke-width: 3px; }
+
+/* QwenVault - Teal */
+.graph-view.color-fill-r-13-g-148-b-136 .node { fill: #f0fdfa; stroke: #0d9488; stroke-width: 3px; }
+
+/* Ancient Civilizations - Orange */
+.graph-view.color-fill-r-234-g-88-b-12 .node { fill: #fff7ed; stroke: #ea580c; stroke-width: 2.5px; }
+
+/* Buddhism - Dark Red */
+.graph-view.color-fill-r-239-g-68-b-68 .node { fill: #fef2f2; stroke: #b91c1c; stroke-width: 2.5px; }
+
+/* Religion - Purple */
+.graph-view.color-fill-r-168-g-85-b-247 .node { fill: #faf5ff; stroke: #a855f7; stroke-width: 2.5px; }
+
+/* AI - Violet */
+.graph-view.color-fill-r-139-g-92-b-246 .node { fill: #ede9fe; stroke: #8b5cf6; stroke-width: 2.5px; }
+
+/* MOC - Black */
+.graph-view.color-fill-r-0-g-0-b-0 .node { fill: #ffffff; stroke: #000000; stroke-width: 3px; }
+
+/* Labels */
+.graph-view .node .node-label { font-size: 11px; font-weight: 600; }
+.graph-view .node:hover .node-label { font-weight: 700; font-size: 12px; }
+
+/* Links */
+.graph-view .link { stroke: #9ca3af; stroke-width: 1px; opacity: 0.5; }

@@ -1,0 +1,14 @@
+{
+  "theme": "system",
+  "cssTheme": "",
+  "accentColor": "#da1025",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+  "textFontFamily": "Inter, Georgia, serif",
+  "monospaceFontFamily": "JetBrains Mono, Source Code Pro, monospace",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
+}

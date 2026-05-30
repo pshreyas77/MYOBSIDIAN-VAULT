@@ -1,0 +1,22 @@
+{
+  "highlightCurrentLine": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "QwenVault",
+  "attachmentFolderPath": "Attachments",
+  "spellcheck": false,
+  "autoConvertHtml": false,
+  "useMarkdownLinks": true,
+  "livePreview": true,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "defaultViewMode": "source",
+  "linkPreview": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter"
+  }
+}

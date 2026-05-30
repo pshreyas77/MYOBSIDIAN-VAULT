@@ -1,0 +1,43 @@
+{
+  "presets": [
+    {
+      "name": "Vault Overview",
+      "description": "Complete vault graph with all colors",
+      "type": "local",
+      "settings": {
+        "depth": 3,
+        "showNeighborLinks": true,
+        "showAttachments": false,
+        "showTags": true,
+        "collapse-filter": false,
+        "search": "-path:.trash -path:Attachments",
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {"query": "path:/ClaudeVault", "color": {"a": 1, "rgb": 16737792}, "path": "ClaudeVault"},
+          {"query": "path:/QwenVault", "color": {"a": 1, "rgb": 11183505}, "path": "QwenVault"},
+          {"query": "path:/DeepseekVault", "color": {"a": 1, "rgb": 65416}, "path": "DeepseekVault"},
+          {"query": "path:/02 - Areas/Buddhism & Hinduism", "color": {"a": 1, "rgb": 14483456}, "path": "Buddhism & Hinduism"},
+          {"query": "path:/02 - Areas/Ancient Civilizations", "color": {"a": 1, "rgb": 16744576}, "path": "Ancient Civilizations"},
+          {"query": "path:/02 - Areas/Religion & Cosmology", "color": {"a": 1, "rgb": 10485760}, "path": "Religion & Cosmology"},
+          {"query": "path:/BUDDHA", "color": {"a": 1, "rgb": 14483456}, "path": "BUDDHA"},
+          {"query": "path:/01 - Projects", "color": {"a": 1, "rgb": 2097600}, "path": "Projects"},
+          {"query": "tag:#MOC", "color": {"a": 1, "rgb": 16776960}, "path": "MOCs"}
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": 0.5,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 0.6,
+        "collapse-forces": false,
+        "centerStrength": 0.5,
+        "repelStrength": 80,
+        "linkStrength": 0.2,
+        "linkDistance": 150,
+        "linkLength": 100,
+        "nodeFadeThreshold": 0.2
+      }
+    }
+  ],
+  "lastSelectedPreset": "Vault Overview",
+  "activePlugin": true
+}

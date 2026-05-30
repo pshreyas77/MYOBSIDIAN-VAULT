@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"hub","type":"text","x":500,"y":400,"width":400,"height":250,"text":"# Research Hub\n\n13 Interconnected Threads\n\nBuddhism vs Hinduism Origins"},
+		{"id":"t1","type":"text","x":100,"y":100,"width":300,"height":200,"text":"Thread 1\nIndia at Jesus's Birth"},
+		{"id":"t2","type":"text","x":500,"y":50,"width":300,"height":200,"text":"Thread 2\nIVC vs Vedic Religion"},
+		{"id":"t3","type":"text","x":900,"y":100,"width":300,"height":200,"text":"Thread 3\nPolitical Truth"},
+		{"id":"t9","type":"text","x":100,"y":700,"width":300,"height":200,"text":"Thread 9\nBuddhism Older Than Hinduism"},
+		{"id":"t10","type":"text","x":500,"y":800,"width":300,"height":200,"text":"Thread 10\nTemple Chronology"},
+		{"id":"t11","type":"text","x":900,"y":700,"width":300,"height":200,"text":"Thread 11\nTemple Destruction"},
+		{"id":"t12","type":"text","x":500,"y":1200,"width":300,"height":200,"text":"Thread 12\nVishnu Avatar Debunked"},
+		{"id":"summary","type":"text","x":1200,"y":400,"width":350,"height":250,"text":"Summary\n\nBuddhism predates Hinduism\nTemples 400-500 years older\n500M+ reject avatar theory"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"hub","toNode":"t1","fromSide":"top","toSide":"bottom"},
+		{"id":"e2","fromNode":"hub","toNode":"t2","fromSide":"top","toSide":"bottom"},
+		{"id":"e3","fromNode":"hub","toNode":"t3","fromSide":"top","toSide":"bottom"},
+		{"id":"e9","fromNode":"hub","toNode":"t9","fromSide":"left","toSide":"right"},
+		{"id":"e10","fromNode":"hub","toNode":"t10","fromSide":"bottom","toSide":"top"},
+		{"id":"e11","fromNode":"hub","toNode":"t11","fromSide":"bottom","toSide":"top"},
+		{"id":"e12","fromNode":"hub","toNode":"t12","fromSide":"bottom","toSide":"top"},
+		{"id":"e13","fromNode":"t1","toNode":"t9","fromSide":"bottom","toSide":"top"},
+		{"id":"e14","fromNode":"t2","toNode":"t9","fromSide":"bottom","toSide":"top"},
+		{"id":"e15","fromNode":"t3","toNode":"t2","fromSide":"left","toSide":"right"},
+		{"id":"e16","fromNode":"t9","toNode":"t10","fromSide":"right","toSide":"left"},
+		{"id":"e17","fromNode":"t9","toNode":"t11","fromSide":"right","toSide":"left"},
+		{"id":"e18","fromNode":"t9","toNode":"t12","fromSide":"bottom","toSide":"top"},
+		{"id":"e19","fromNode":"t10","toNode":"t11","fromSide":"right","toSide":"left"},
+		{"id":"e20","fromNode":"hub","toNode":"summary","fromSide":"right","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

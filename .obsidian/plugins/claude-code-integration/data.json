@@ -1,0 +1,20 @@
+{
+  "backend": "claude",
+  "claudeCodePath": "/home/sunny77/.local/bin/claude",
+  "autoDetectPath": true,
+  "modelAlias": "",
+  "opencodePath": "",
+  "opencodeAutoDetect": true,
+  "opencodeModel": "",
+  "customSystemPrompt": "",
+  "preserveCursorPosition": true,
+  "timeoutSeconds": 300,
+  "autoAcceptChanges": false,
+  "allowVaultAccess": true,
+  "enablePermissionlessMode": true,
+  "anthropicBaseUrl": "https://integrate.api.nvidia.com/v1",
+  "anthropicAuthToken": "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",
+  "anthropicModel": "moonshotai/kimi-k2.5",
+  "anthropicSmallFastModel": "",
+  "language": "en"
+}

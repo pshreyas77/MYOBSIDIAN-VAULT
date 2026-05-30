@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"dewey","type":"text","text":"## John Dewey\n**1859-1952 CE**\n\n**School:** Pragmatism; instrumentalism; progressive education\n\n**Major Works:** *Democracy and Education*, *Experience and Nature*, *The Quest for Certainty*, *Art as Experience*\n\n**Core Contributions:**\n- **Instrumentalism:** Ideas are instruments/tools for action\n- **Reconstruction in philosophy:** Philosophy's role in solving problems\n- **Experience:** Not passive reception but active interaction\n- **Education:** Learning by doing; inquiry-based\n- **Democracy:** Experimental problem-solving community\n- **Logic:** Theory of inquiry\n\n**Aesthetics:** *Art as Experience* - aesthetic experience integrated\n\n**Legacy:** American education; pragmatism; progressive politics","x":-400,"y":-300,"width":600,"height":350,"color":"3"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {"query": "path:/ClaudeVault", "color": {"r": 220, "g": 38, "b": 38}},
+    {"query": "path:/QwenVault", "color": {"r": 13, "g": 148, "b": 136}},
+    {"query": "path:/DeepseekVault", "color": {"r": 234, "g": 179, "b": 8}},
+    {"query": "path:/02 - Areas/Ancient Civilizations", "color": {"r": 249, "g": 115, "b": 22}},
+    {"query": "path:/02 - Areas/Buddhism & Hinduism", "color": {"r": 220, "g": 38, "b": 38}},
+    {"query": "path:/02 - Areas/Religion & Cosmology", "color": {"r": 168, "g": 85, "b": 247}},
+    {"query": "path:/04 - Archive", "color": {"r": 100, "g": 116, "b": 139}},
+    {"query": "path:/07 - Topics/Buddhism_and_Hinduism", "color": {"r": 185, "g": 28, "b": 28}},
+    {"query": "tag:#MOC", "color": {"r": 0, "g": 0, "b": 0}}
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 0.7,
+  "collapse-forces": true,
+  "centerStrength": 0.55,
+  "repelStrength": 12,
+  "linkStrength": 0.3,
+  "linkDistance": 180,
+  "scale": 0.25,
+  "close": false
+}

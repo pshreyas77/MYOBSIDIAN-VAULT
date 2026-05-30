@@ -1,0 +1,275 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Tibetan Library Buddhism Research Compilation",
+      "file_type": "document",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "tibetan_library_research",
+      "community": 0
+    },
+    {
+      "label": "Sakya Monastery",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "sakya_monastery",
+      "community": 1
+    },
+    {
+      "label": "Ashoka's Pillars",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "ashoka_pillars",
+      "community": 0
+    },
+    {
+      "label": "Prakrit Language",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "prakrit_language",
+      "community": 0
+    },
+    {
+      "label": "Buddha as Vishnu Avatar",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "buddha_vishnu_avatar",
+      "community": 5
+    },
+    {
+      "label": "Pushyamitra Shunga",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "pushyamitra_sunga",
+      "community": 2
+    },
+    {
+      "label": "Adi Shankaracharya",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "adi_shankaracharya",
+      "community": 4
+    },
+    {
+      "label": "Sam Dam Dand Bhed",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "sam_dam_dand_bhed",
+      "community": 3
+    },
+    {
+      "label": "Nalanda Destruction",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "nalanda_destruction",
+      "community": 0
+    },
+    {
+      "label": "Temple Conversions",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "temple_conversions",
+      "community": 4
+    },
+    {
+      "label": "BR Ambedkar Analysis",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "ambedkar_analysis",
+      "community": 0
+    },
+    {
+      "label": "Brahmanical Persecution",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "brahmanical_persecution",
+      "community": 5
+    },
+    {
+      "label": "Buddhism Decline",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "buddhism_decline",
+      "community": 2
+    },
+    {
+      "label": "Brahmanical Strategy",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "brahmanical_strategy",
+      "community": 3
+    },
+    {
+      "label": "Buddhist Texts",
+      "file_type": "entity",
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "id": "buddhist_texts",
+      "community": 1
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "sakya_monastery",
+      "source": "tibetan_library_research",
+      "target": "sakya_monastery"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "ashoka_pillars",
+      "source": "tibetan_library_research",
+      "target": "ashoka_pillars"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "prakrit_language",
+      "source": "tibetan_library_research",
+      "target": "prakrit_language"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "buddha_vishnu_avatar",
+      "source": "tibetan_library_research",
+      "target": "buddha_vishnu_avatar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "pushyamitra_sunga",
+      "source": "tibetan_library_research",
+      "target": "pushyamitra_sunga"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "adi_shankaracharya",
+      "source": "tibetan_library_research",
+      "target": "adi_shankaracharya"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "sam_dam_dand_bhed",
+      "source": "tibetan_library_research",
+      "target": "sam_dam_dand_bhed"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "nalanda_destruction",
+      "source": "tibetan_library_research",
+      "target": "nalanda_destruction"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "temple_conversions",
+      "source": "tibetan_library_research",
+      "target": "temple_conversions"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "tibetan_library_research",
+      "_tgt": "ambedkar_analysis",
+      "source": "tibetan_library_research",
+      "target": "ambedkar_analysis"
+    },
+    {
+      "relation": "preserves",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "sakya_monastery",
+      "_tgt": "buddhist_texts",
+      "source": "sakya_monastery",
+      "target": "buddhist_texts"
+    },
+    {
+      "relation": "written_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "ashoka_pillars",
+      "_tgt": "prakrit_language",
+      "source": "ashoka_pillars",
+      "target": "prakrit_language"
+    },
+    {
+      "relation": "part_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "buddha_vishnu_avatar",
+      "_tgt": "brahmanical_persecution",
+      "source": "buddha_vishnu_avatar",
+      "target": "brahmanical_persecution"
+    },
+    {
+      "relation": "caused",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "pushyamitra_sunga",
+      "_tgt": "buddhism_decline",
+      "source": "pushyamitra_sunga",
+      "target": "buddhism_decline"
+    },
+    {
+      "relation": "led",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "adi_shankaracharya",
+      "_tgt": "temple_conversions",
+      "source": "adi_shankaracharya",
+      "target": "temple_conversions"
+    },
+    {
+      "relation": "is",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "BUDDHA/COMPREHENSIVE_RESEARCH_COMPILATION_Tibetan_Library_Buddhism_Decline.md",
+      "_src": "sam_dam_dand_bhed",
+      "_tgt": "brahmanical_strategy",
+      "source": "sam_dam_dand_bhed",
+      "target": "brahmanical_strategy"
+    }
+  ],
+  "hyperedges": []
+}

@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "261dc176de81b2ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "757bec74b4ad87f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "317c180357d823be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c8cf0956131dc15",
+    "type": "split",
+    "children": [
+      {
+        "id": "372cad909106706e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e704cf4cf9f69f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fcb5ad352de668ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "426b6f590bb4bd30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "09c311329f5b6c25",
+    "type": "split",
+    "children": [
+      {
+        "id": "14460c61353e4178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee42a67fa17b5eed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "70edc4f4a8d995a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "463f7c13517488be",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "37f4865374cd898c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "19bb0e0c05613a3e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "573561a440c789be",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "1e8cc6517f849bba",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "4c8995efcca82271",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "4f7926d0a29ea874",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-lookup-view"
+            }
+          },
+          {
+            "id": "2d6a2970973f6540",
+            "type": "leaf",
+            "state": {
+              "type": "claude-code-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "claude-code-view"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 594.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false,
+      "url-webview-opener:Create .url file": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
+    }
+  },
+  "active": "317c180357d823be",
+  "lastOpenFiles": [
+    "BUDDHA/ANCIENT_CIVILIZATIONS_COMPARATIVE_RESEARCH_2026-04-19.md",
+    "wiki/concepts/Dravidian vs North Indian Ancestry.md",
+    "wiki/concepts/Caste System Origins.md",
+    "wiki/entities/Enmebaragesi.md",
+    "wiki/entities/Ea-Nasir.md",
+    "GRAPH_VIEW_V2.md",
+    "graphify-out/graph_canvas_v2.canvas",
+    "graphify-out/obsidian_graph/graph_v2_updated.html",
+    "graphify-out/obsidian_graph_backup_20260419.html",
+    "graphify-out/obsidian_graph_second.html",
+    "CLAUDBRAIN_SETUP.md",
+    "_CLAUDE.md",
+    "20 - All Canvases/Research_OLDEST CIVILIZATION.canvas",
+    "20 - All Canvases/Research_old civilization maps.canvas",
+    "20 - All Canvases/Research_MAPS_ENHANCED.canvas",
+    "20 - All Canvases/Research_MAPS.canvas",
+    "20 - All Canvases/Research_IMAGE_COLLECTION_MAPS.canvas",
+    "20 - All Canvases/Research_Buddha_Notes.canvas",
+    "20 - All Canvases/Research_BUDDHA RESEARCH CANVAS.canvas",
+    "20 - All Canvases/Research_articls buddha.canvas",
+    "20 - All Canvases/project_OB__AI_OB_AI.canvas",
+    "Philosophers Canvas/CANVAS_NOTES.md",
+    "Philosophers Canvas/images/aquinas.jpg",
+    "Philosophers Canvas/images/download_script.sh",
+    "Philosophers Canvas/images/wittgenstein.jpg",
+    "Philosophers Canvas/images/spinoza.jpg",
+    "Philosophers Canvas/images/hegel.jpg",
+    "Philosophers Canvas/images/buddha.jpg",
+    "Philosophers Canvas/images/locke.jpg",
+    "Philosophers Canvas/images/augustine.jpg",
+    "Philosophers Canvas/images/heidegger.jpg",
+    "Philosophers Canvas/images/add_all_images.py",
+    "Philosophers Canvas/images/marx.jpg",
+    "02 - Areas/Political Analysis/2026-02-20_quality-assessment-and-improvement.md",
+    "GRAPHIFY KNOWLEDGE GRAPH.md",
+    "02 - Areas/Ancient Civilizations/Shinto - Shrine Statistics.md",
+    "BUDDHA/Jainism - Statue Statistics.md",
+    "BUDDHA/Buddhism - Statue Statistics.md",
+    "02 - Areas/Ancient Civilizations/Research - Statue Count Comparison.md",
+    "02 - Areas/Ancient Civilizations/RESEARCH - Origins vs Evidence in Religions.md",
+    "QwenVault/bjp-vs-congress-corruption-analysis.md",
+    "QwenVault/00_Qwen_Index.md",
+    "02 - Areas/Ancient Civilizations/Pasted image 20260403021648.jpg",
+    "02 - Areas/Ancient Civilizations/RESEARCH - Epics Languages Mythology.md",
+    "02 - Areas/Ancient Civilizations/Oldest Civilizations Before Indus Valley.md",
+    "02 - Areas/Ancient Civilizations/2026-04-11_sanatana-dharma-oldest-religion-critical-analysis.md",
+    "BUDDHA/IVC_Shramana_Buddhism_Jainism_Comparison.md",
+    "BUDDHA/BUDDHA_GRAPH_REPORT.md",
+    "BUDDHA/BUDDHA_DEEP_GRAPH_REPORT.md",
+    "BUDDHA/02_COMPARATIVE_ANALYSIS.md",
+    "BUDDHA/00_BUDDHA_RESEARCH_HUB.md",
+    "BUDDHA/BUDDHA_DEEP_graph.json",
+    "BUDDHA/BUDDHA_graph.json",
+    "BUDDHA/BUDDHA_DEEP_graph.html",
+    "BUDDHA/BUDDHA_graph.html",
+    "02 - Areas/graphify-out/converted"
+  ]
+}
