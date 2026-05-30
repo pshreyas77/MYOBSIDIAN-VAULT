@@ -1,0 +1,28 @@
+# PDFs - too large for GitHub without LFS
+*.pdf
+BOOKS/
+
+# Obsidian app data
+.obsidian/
+
+# AI agent and skill data
+.claude/
+
+# Raw/cache data
+.raw/
+.smart-env/
+
+# Trash
+.trash/
+
+# Generated/cache directories
+__pycache__/
+temp_autoresearch/
+graphify-out/
+graphify-repo/
+graphify/
+InfiniteBrain/
+GitNexus/
+ruflo/
+tolaria/
+genericagent/
