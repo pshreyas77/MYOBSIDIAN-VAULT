@@ -1,4 +1,20 @@
-## [2026-05-31] restore | Full vault restore from https://github.com/pshreyas77/MYOBSIDIAN-VAULT.git (windows-clean branch) — 15,604 files restored via git checkout; graphify-out/ cache excluded from sync; local entity pages preserved (GitNexus, graphify-repo, tolaria, genericagent, temp_autoresearch, Autonomous-Agent-Research)
+## [2026-05-31] entity-setup | Created 8 wiki entity pages for projects
+
+**New entity pages:**
+- wiki/entities/GitNexus.md — 59-file TypeScript monorepo, AI Git analysis, COBOL support
+- wiki/entities/graphify-repo.md — 17-module Python knowledge graph extraction
+- wiki/entities/genericagent.md — Python autonomous agent with BaseHandler class
+- wiki/entities/tolaria.md — Tauri + React Obsidian-like app
+- wiki/entities/temp_autoresearch.md — Karpathy's autonomous LLM training
+- wiki/entities/InfiniteBrain.md — Personal PKM (wiki + raw sources)
+- wiki/entities/ruflo.md — MCP/Ruflo integration (memory, task-execution)
+- wiki/entities/QwenVault.md — Qwen model integration (dormant)
+
+**New concept pages:**
+- wiki/concepts/Autonomous-Agent-Research.md — AI agents conducting research
+- wiki/concepts/AI-First-Workflow.md — AI-first vault organization
+
+**Total: wiki/entities/ now has 18 entity pages, wiki/concepts/ has 7 concept pages**
 ## [2026-05-24] obsidian-save | Saved conversation about ancient civilizations educational resources and comparisons
 ## [2026-05-24] daily-note | Created daily note for 2026-05-24
 ## [2026-05-24] wiki-link | Linked Ancient Civilizations Educational Resources in wiki/index.md
