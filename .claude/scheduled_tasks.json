@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "id": "c20d6627",
+      "cron": "0 8 * * *",
+      "prompt": "Read _CLAUDE.md. Create today's daily note in Daily/ using the Daily Note template.\nPull in any tasks from kanban boards that are due today or overdue.\nList any projects with status active that have no recent activity in the last 7 days.\nDo not ask questions — infer everything from the vault. Save and stop.",
+      "createdAt": 1779986233335,
+      "lastFiredAt": 1780216678842,
+      "recurring": true
+    },
+    {
+      "id": "156fa25c",
+      "cron": "0 22 * * *",
+      "prompt": "Read _CLAUDE.md. This is a sleeptime consolidation pass — the vault should be smarter when the user wakes up.\n\nPhase 1 — Close the day:\n- Read today's daily note. Append a ## End of Day section with a 3-5 bullet summary.\n- Move any completed kanban tasks to Done.\n\nPhase 2 — Reconcile:\n- Scan wiki/entities/ for outdated roles, companies, or descriptions that conflict with newer daily notes.\n- Scan wiki/concepts/ for claims contradicted by recently ingested sources.\n- Auto-resolve clear winners. Flag ambiguous ones in wiki/decisions/.\n\nPhase 3 — Synthesize:\n- Scan sources ingested today and yesterday. Find concepts that appear in 2+ unrelated sources.\n- If patterns found: create wiki/concepts/Synthesis — Title.md with evidence and interpretation.\n\nPhase 4 — Heal:\n- Find notes created today with no incoming links. Add links from relevant existing pages.\n- Check if any entity pages reference old timeline entries without an \"until\" date that should be closed.\n- Rebuild index.md to reflect today's changes.\n\nPhase 5 — Log:\n- Append to log.md: ## [YYYY-MM-DD] nightly | End of day + X reconciled, Y synthesized, Z orphans linked\n\nDo not ask questions. Do not fix anything destructive — only add, update, link. Save and stop.",
+      "createdAt": 1779986253523,
+      "lastFiredAt": 1780216678842,
+      "recurring": true
+    },
+    {
+      "id": "d25cab67",
+      "cron": "0 18 * * 5",
+      "prompt": "Read _CLAUDE.md. Run /obsidian-recap week to gather this week's activity.\nGenerate a weekly review note using the Review template (or standard structure if none exists).\nSave to Reviews/YYYY-MM-DD — Weekly Review.md.\nLink it from this week's last daily note.\nDo not ask questions. Save and stop.",
+      "createdAt": 1779986276467,
+      "lastFiredAt": 1780058923322,
+      "recurring": true
+    },
+    {
+      "id": "884cfa30",
+      "cron": "0 21 * * 0",
+      "prompt": "Read _CLAUDE.md. Run: python scripts/vault_health.py --path ~/path/to/vault --json\nParse the output. Write a health report to Knowledge/Vault Health YYYY-MM-DD.md\nsummarizing findings by severity (critical, warning, info).\nDo not fix anything autonomously — only report.\nDo not ask questions. Save and stop.",
+      "createdAt": 1779986298787,
+      "recurring": true
+    }
+  ]
+}
