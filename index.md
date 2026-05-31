@@ -21,11 +21,15 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
   - [[wiki/entities/graphify-repo]] — Python knowledge graph extraction toolkit
   - [[wiki/entities/tolaria]] — Tauri + React Obsidian-like app
   - [[wiki/entities/genericagent]] — Python autonomous agent (memory, SOP, frontends)
-  - [[wiki/entities/autoresearch]] — Karpathy's autonomous LLM training project
-  - [[wiki/entities/ruflo]] — MCP/Ruflo integration (v3/src/ with memory, task-execution)
-  - [[wiki/entities/QwenVault]] — Qwen model integration
+  - [[wiki/entities/temp_autoresearch]] — Karpathy's autonomous LLM training project (2026-05-31)
+  - [[wiki/entities/ruflo]] — MCP/Ruflo integration (v3/src/ with memory, task-execution) (2026-05-31)
+  - [[wiki/entities/QwenVault]] — Qwen model integration (dormant) (2026-05-31)
   - [[wiki/entities/InfiniteBrain]] — Personal PKM (wiki + raw sources structure)
+  - Plus 14 historical figure entities (B. R. Ambedkar, Bhagat Singh, Che Guevara, etc.)
 - [[wiki/concepts/]] — Concept/synthesis notes
+  - [[wiki/concepts/Autonomous-Agent-Research]] — AI agents conducting research autonomously (2026-05-31)
+  - [[wiki/concepts/AI-First-Workflow]] — AI-first vault organization methodology (2026-05-31)
+  - Plus 5 existing concept pages on Indian history/rationalism
 - [[wiki/analyses/]] — Analysis notes
 - [[wiki/summaries/]] — Summary notes
 - [[wiki/decisions/]] — Flagged reconciliation items
