@@ -1,0 +1,48 @@
+{
+	"nodes":[
+		{"id":"header","type":"text","text":"# THE PEOPLING OF SOUTH ASIA\n**Ancient DNA · Archaeology · Linguistics · Religious History**\n27 May 2026","x":260,"y":-900,"width":700,"height":120},
+		{"id":"verdict","type":"text","text":"## THE VERDICT\n### A CLINE, NOT A CONFLICT\n\nSouth Asian civilization is the product of **three ancestral streams** mixing over **4,000 years**.\nNo ethnic war. No violent invasion. No pure races.\n\nReject: ~~Aryan Invasion~~ · ~~Out-of-India~~ · ~~Dravidian vs Aryan War~~","x":260,"y":-740,"width":700,"height":160,"color":"1a365d"},
+		{"id":"sec1-title","type":"text","text":"## ① ANCESTRAL STREAMS","x":-480,"y":-540,"width":220,"height":50},
+		{"id":"stream-aasi","type":"text","text":"**AASI**\nAncient Ancestral South Indians\n\n• Origin: Out-of-Africa ~65,000 BCE\n• Modern: Andamanese, South Indian tribals\n• Language: Substrate for Dravidian/Munda","x":-480,"y":-470,"width":200,"height":130,"color":"553c9a"},
+		{"id":"stream-ivc","type":"text","text":"**IVC-RELATED**\nIndus Periphery Population\n\n• Ancestry: AASI + Iranian farmers\n• Civilization: 3300–1900 BCE\n• Key: **Zero steppe DNA confirmed**\n  (Rakhigarhi genome, 2019)","x":-240,"y":-470,"width":220,"height":130,"color":"2b6cb0"},
+		{"id":"stream-steppe","type":"text","text":"**STEPPE PASTORALISTS**\nIndo-European Origin\n\n• From: Yamnaya, Pontic-Caspian steppe\n• Arrived: ~2000–1500 BCE\n• Pattern: Male-mediated gene flow\n  (migrated, didn't conquer)","x":20,"y":-470,"width":200,"height":130,"color":"c05621"},
+		{"id":"sec2-title","type":"text","text":"## ② CHRONOLOGY","x":-480,"y":-280,"width":220,"height":50},
+		{"id":"time1","type":"text","text":"**65,000 BCE**\nFirst humans\narrive","x":-480,"y":-210,"width":140,"height":70,"color":"553c9a"},
+		{"id":"time2","type":"text","text":"**3300 BCE**\nIVC begins\nUrban phase","x":-280,"y":-210,"width":140,"height":70,"color":"2b6cb0"},
+		{"id":"time3","type":"text","text":"**~1900 BCE**\nIVC collapses\nClimate change","x":-80,"y":-210,"width":140,"height":70,"color":"4a5568"},
+		{"id":"time4","type":"text","text":"**2000–1500 BCE**\nSteppe arrives\nGradual mix","x":120,"y":-210,"width":140,"height":70,"color":"c05621"},
+		{"id":"time5","type":"text","text":"**1500–500 BCE**\nVedic period\nSynthesis begins","x":320,"y":-210,"width":140,"height":70,"color":"2d3748"},
+		{"id":"sec3-title","type":"text","text":"## ③ EVIDENCE PILLARS","x":-480,"y":-80,"width":220,"height":50},
+		{"id":"ev-genetics","type":"text","text":"**GENETICS**\nNarasimhan et al. 2019 (Science)\nShinde et al. 2019 (Cell)\n\n✓ 523 ancient genomes sequenced\n✓ IVC had ZERO steppe ancestry\n✓ Steppe enters after 2000 BCE\n✓ Sex-biased admixture confirmed\n✓ Modern South Indians = all 3 streams\n\n**Conclusion:** Dravidians preceded\nIndo-Aryans by ~2,500–3,500 years","x":-480,"y":-10,"width":260,"height":180,"color":"3182ce"},
+		{"id":"ev-archaeology","type":"text","text":"**ARCHAEOLOGY**\nGiosan et al. 2012 (PNAS)\nPetrie et al. 2020\n\n✓ IVC collapse ~1900 BCE\n✓ Monsoon weakened after 2100 BCE\n✓ Ghaggar-Hakra river dried up\n✓ Climate change → de-urbanization\n✓ Harappa declined BEFORE steppe arrived\n\n**Conclusion:** No \"destruction of Harappa\"\n— already collapsed from climate","x":-180,"y":-10,"width":260,"height":180,"color":"38a169"},
+		{"id":"ev-linguistics","type":"text","text":"**LINGUISTICS**\nKrishnamurti 2003\nWitzel 1999 · Kuiper 1955\nSouthworth 2005\n\n✓ Proto-Dravidian dated ~5th millennium BCE\n✓ Rigveda has 383 non-IE loanwords\n✓ Substrate: Para-Munda → Dravidian\n✓ Multiple language families present\n  before Indo-Aryan arrival\n\n**Conclusion:** Languages mixed over\nmillennia, not a sudden invasion","x":120,"y":-10,"width":260,"height":180,"color":"d69e2e"},
+		{"id":"sec4-title","type":"text","text":"## ④ RELIGIOUS SYNTHESIS","x":-480,"y":210,"width":220,"height":50},
+		{"id":"rel-rudra","type":"text","text":"**RUDRA IN RIGVEDA**\n\n• Only **3 dedicated hymns**\n• Excluded from central Soma ritual\n• Described as terrifying archer\n• NOT the cosmic god later Śiva becomes\n\n\"Śiva\" in Rigveda = adjective\n\"auspicious\" — applied to many gods","x":-480,"y":270,"width":240,"height":120,"color":"744210"},
+		{"id":"rel-shiva","type":"text","text":"**ŚIVA = 1,000-YEAR FUSION**\nVedic Rudra\n+ Yoga/Asceticism (IVC?)\n+ Liṅga worship (Dravidian)\n+ Goddess cults (indigenous)\n+ Nāga serpent worship\n= Puranic Mahādeva\n\n**Syncretism, not conquest.**","x":-200,"y":270,"width":260,"height":120,"color":"9c4221"},
+		{"id":"rel-ravana","type":"text","text":"**RĀVAṆA MYTH**\n\n• Brahmin father (Viśrava)\n• Scholar, physician, musician\n• Devout Śiva worshipper\n• 4 Vedas + 6 śāstras mastery\n\n**\"Dravidian hero\" and\n\"Brahmin villain\" are both\n20th-century political myths.**","x":100,"y":270,"width":260,"height":120,"color":"742a2a"},
+		{"id":"indus","type":"text","text":"## ⑤ INDUS SCRIPT — UNDECIPHERED\n\n• ~2600–1900 BCE, ~4–5 signs avg per inscription\n• **Parpola:** Dravidian encoding (rebus system) — respected, not proven\n• **Farmer/Sproat/Witzel:** Non-linguistic (heraldic/religious symbols)\n• **Rao et al.:** Statistical structure closer to language than random\n• **Reality:** May be proto-writing (logo-syllabic like early Sumerian)\n• No bilingual \"Rosetta Stone\" exists — may never be deciphered","x":-480,"y":430,"width":500,"height":100,"color":"2d3748"},
+		{"id":"sources","type":"text","text":"## ⑥ KEY SOURCES (Verified 2026-05-27)\n\n**Genetics:**\n· Narasimhan 2019 — doi.org/10.1126/science.aat7487\n· Shinde 2019 — cell.com/cell/fulltext/S0092-8674(19)31078-5\n\n**Archaeology:**\n· Giosan 2012 — pmc.ncbi.nlm.nih.gov/articles/PMC3387054 (FREE)\n\n**Linguistics:**\n· Witzel 1999 — hasp.ub.uni-heidelberg.de (FREE PDF)\n· Krishnamurti 2003 — Cambridge University Press\n\n**Religion:**\n· Samuel 2008 — Cambridge University Press\n· Thapar 2002, 2019 — UC Press, Aleph Book Company","x":-480,"y":560,"width":500,"height":150,"color":"4a5568"},
+		{"id":"vault-links","type":"text","text":"## RELATED IN VAULT\n\n[[2026-05-27_peopling-of-south-asia-synthesis]]\nFull 9-section synthesis note\n\n[[2026-05-27_political-framework-analysis]]\nPolitical myths: Hindutva & Dravidian nationalism\n\n[[.raw/2026-05-27_peopling-of-south-asia-raw]]\nRaw source with all verified URLs","x":80,"y":560,"width":320,"height":100,"color":"4a5568"}
+	],
+	"edges":[
+		{"id":"e1","toFloating":false,"fromNode":"stream-aasi","fromSide":"right","toNode":"stream-ivc","toSide":"left"},
+		{"id":"e2","toFloating":false,"fromNode":"stream-ivc","fromSide":"right","toNode":"stream-steppe","toSide":"left"},
+		{"id":"e3","toFloating":false,"fromNode":"time1","fromSide":"right","toNode":"time2","toSide":"left"},
+		{"id":"e4","toFloating":false,"fromNode":"time2","fromSide":"right","toNode":"time3","toSide":"left"},
+		{"id":"e5","toFloating":false,"fromNode":"time3","fromSide":"right","toNode":"time4","toSide":"left"},
+		{"id":"e6","toFloating":false,"fromNode":"time4","fromSide":"right","toNode":"time5","toSide":"left"},
+		{"id":"e7","toFloating":false,"fromNode":"ev-genetics","fromSide":"right","toNode":"ev-archaeology","toSide":"left"},
+		{"id":"e8","toFloating":false,"fromNode":"ev-archaeology","fromSide":"right","toNode":"ev-linguistics","toSide":"left"},
+		{"id":"e9","toFloating":false,"fromNode":"rel-rudra","fromSide":"right","toNode":"rel-shiva","toSide":"left"},
+		{"id":"e10","toFloating":false,"fromNode":"rel-shiva","fromSide":"right","toNode":"rel-ravana","toSide":"left"},
+		{"id":"e11","toFloating":false,"fromNode":"ev-linguistics","fromSide":"bottom","toNode":"rel-rudra","toSide":"top"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{
+			"date":"2026-05-27",
+			"tags":["canvas","ancient-history","south-asia","research"],
+			"ai-first":true
+		}
+	}
+}

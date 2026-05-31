@@ -1,0 +1,27 @@
+{
+  "action": "duplicate_cleanup",
+  "deleted_count": 10,
+  "kept_count": 8,
+  "deleted_files": [
+    "04 - ARCHIVE/ClaudeVault_Archive/2025-11-11_untitled.md",
+    "04 - ARCHIVE/ClaudeVault_Archive/2026-02-20_device-lag-fix-command-script.md",
+    "04 - ARCHIVE/ClaudeVault_Archive/2026-02-24_untitled.md",
+    "04 - ARCHIVE/ClaudeVault_Archive/2026-03-18_untitled.md",
+    "04 - ARCHIVE/ClaudeVault_Archive/2025-08-21_untitled.md",
+    "04 - ARCHIVE/ClaudeVault_Archive/2025-08-18_untitled.md",
+    "04 - ARCHIVE/ClaudeVault_Archive/2025-08-23_untitled.md",
+    "graphify-out/converted/Buddhism_Hinduism_Research_Report_f96899f8.md",
+    "graphify-out/converted/Buddhism_Hinduism_Research_Report_698f09e3.md",
+    "graphify-out/converted/Buddhism_Hinduism_Research_Report_7c3c50ab.md"
+  ],
+  "kept_files": [
+    "02 - AREAS/02 AI & Technology/year-2025/2025-11-11_untitled.md",
+    "02 - AREAS/02 AI & Technology/programming/2026-02-20_device-lag-fix-command-script.md",
+    "02 - AREAS/02 AI & Technology/year-2026/2026-02-24_untitled.md",
+    "02 - AREAS/02 AI & Technology/year-2026/2026-03-18_untitled.md",
+    "02 - AREAS/02 AI & Technology/year-2025/2025-08-21_untitled.md",
+    "02 - AREAS/02 AI & Technology/year-2025/2025-08-18_untitled.md",
+    "02 - AREAS/02 AI & Technology/year-2025/2025-08-23_untitled.md",
+    "02 - AREAS/01 Philosophy & Religion/Buddhism & Hinduism Areas/Research/graphify-out/converted/Buddhism_Hinduism_Research_Report_e4034349.md"
+  ]
+}

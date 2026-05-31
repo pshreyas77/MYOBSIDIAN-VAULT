@@ -1,0 +1,2753 @@
+{
+  "total_duplicate_groups": 392,
+  "total_duplicate_files": 787,
+  "groups": [
+    {
+      "hash": "fbb58cb565c4e26266dc7249925e1f46",
+      "files": [
+        "04 - ARCHIVE/ClaudeVault_Archive/2025-11-11_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-11_untitled.md"
+      ]
+    },
+    {
+      "hash": "711173c9584a0ffb8d909872234bbb1a",
+      "files": [
+        "04 - ARCHIVE/ClaudeVault_Archive/2026-02-20_device-lag-fix-command-script.md",
+        "02 - AREAS/02 AI & Technology/programming/2026-02-20_device-lag-fix-command-script.md"
+      ]
+    },
+    {
+      "hash": "f2441b7af7dc7ecf0815b9f67ba67cc2",
+      "files": [
+        "04 - ARCHIVE/ClaudeVault_Archive/2026-02-24_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-24_untitled.md"
+      ]
+    },
+    {
+      "hash": "4e6f0f23908a338a8916b508f673e1fd",
+      "files": [
+        "04 - ARCHIVE/ClaudeVault_Archive/2026-03-18_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-18_untitled.md"
+      ]
+    },
+    {
+      "hash": "7bd6a3ca2ee49eeb60ddc66efeac89b4",
+      "files": [
+        "04 - ARCHIVE/ClaudeVault_Archive/2025-08-21_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-21_untitled.md"
+      ]
+    },
+    {
+      "hash": "3e67594add3c5da0d04fabba903f2319",
+      "files": [
+        "04 - ARCHIVE/ClaudeVault_Archive/2025-08-18_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-18_untitled.md"
+      ]
+    },
+    {
+      "hash": "a352efe5ebd7ee1510e884062293f4a5",
+      "files": [
+        "04 - ARCHIVE/ClaudeVault_Archive/2025-08-23_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-23_untitled.md"
+      ]
+    },
+    {
+      "hash": "38b1b2d6e9229199b71731c19878c175",
+      "files": [
+        "graphify-out/converted/Buddhism_Hinduism_Research_Report_f96899f8.md",
+        "graphify-out/converted/Buddhism_Hinduism_Research_Report_698f09e3.md",
+        "graphify-out/converted/Buddhism_Hinduism_Research_Report_7c3c50ab.md",
+        "02 - AREAS/05 Knowledge Management/graphify-out-areas/converted/Buddhism_Hinduism_Research_Report_698f09e3.md",
+        "02 - AREAS/01 Philosophy & Religion/Buddhism & Hinduism Areas/Research/graphify-out/converted/Buddhism_Hinduism_Research_Report_e4034349.md"
+      ]
+    },
+    {
+      "hash": "0e687f4b755c41cff7db08e334ddbf1c",
+      "files": [
+        "02 - AREAS/04 Political Analysis/web-dev/2025-12-30_3d-website-creation.md",
+        "02 - AREAS/04 Political Analysis/web-dev/2025-12-30_3d-website-creation_1.md"
+      ]
+    },
+    {
+      "hash": "3d896026f6d52c6bb116f53d0073252b",
+      "files": [
+        "02 - AREAS/04 Political Analysis/movies/2026-03-10_adani-and-ambani-media-ownership-in-india.md",
+        "02 - AREAS/05 Knowledge Management/movies/2026-03-10_adani-and-ambani-media-ownership-in-india.md"
+      ]
+    },
+    {
+      "hash": "1e548b24b4e788a4230c82d123f107af",
+      "files": [
+        "02 - AREAS/04 Political Analysis/movies/2026-03-10_adani-ambani-media-ownership.md",
+        "02 - AREAS/05 Knowledge Management/movies/2026-03-10_adani-ambani-media-ownership.md"
+      ]
+    },
+    {
+      "hash": "88c85e18c072f3ff39e5aae91d6f9158",
+      "files": [
+        "02 - AREAS/04 Political Analysis/communism/2026-03-12_collapse-of-ussr-causes.md",
+        "02 - AREAS/02 AI & Technology/communism/2026-03-12_collapse-of-ussr-causes.md"
+      ]
+    },
+    {
+      "hash": "2905fd2babb930cc9f8e3107dc50a973",
+      "files": [
+        "02 - AREAS/04 Political Analysis/communism/2026-03-04_india-vs-ussr-hypothetical-war_1.md",
+        "02 - AREAS/04 Political Analysis/communism/2026-03-04_india-vs-ussr-hypothetical-war.md"
+      ]
+    },
+    {
+      "hash": "b4b64fa597a6049ca2bfd6f03c836658",
+      "files": [
+        "02 - AREAS/04 Political Analysis/communism/2026-03-14_communist-leaders-comparison_1.md",
+        "02 - AREAS/04 Political Analysis/communism/2026-03-14_communist-leaders-comparison.md"
+      ]
+    },
+    {
+      "hash": "839b5107903e5ec7e922451a74508440",
+      "files": [
+        "02 - AREAS/04 Political Analysis/communism/2026-03-08_karl-marx-audiobook-compilation.md",
+        "02 - AREAS/04 Political Analysis/communism/2026-03-08_karl-marx-audiobook-compilation_1.md"
+      ]
+    },
+    {
+      "hash": "eacb7bc1fe2dcf7f6088c69383a42035",
+      "files": [
+        "02 - AREAS/04 Political Analysis/communism/2026-03-15_stalin-vs-putin-power-comparison_1.md",
+        "02 - AREAS/04 Political Analysis/communism/2026-03-15_stalin-vs-putin-power-comparison.md"
+      ]
+    },
+    {
+      "hash": "691a936f09bdff59dba827c806cd1d45",
+      "files": [
+        "02 - AREAS/04 Political Analysis/communism/2026-03-13_stalin-vs-lenin-leadership.md",
+        "02 - AREAS/02 AI & Technology/communism/2026-03-13_stalin-vs-lenin-leadership.md"
+      ]
+    },
+    {
+      "hash": "6bdcdd83355061737a3fd046b235a9bb",
+      "files": [
+        "02 - AREAS/04 Political Analysis/communism/2026-03-08_hitler-vs-stalin-comparison.md",
+        "02 - AREAS/02 AI & Technology/communism/2026-03-08_hitler-vs-stalin-comparison.md"
+      ]
+    },
+    {
+      "hash": "d03ecee345e049b542b2833e6cc6f1b0",
+      "files": [
+        "02 - AREAS/04 Political Analysis/data-science/2026-03-07_data-centers-in-india.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-07_data-centers-in-india.md"
+      ]
+    },
+    {
+      "hash": "4b9e1dd007874a1852ee14db28d888f0",
+      "files": [
+        "02 - AREAS/04 Political Analysis/data-science/2026-03-17_aadhaar-data-government-storage.md",
+        "02 - AREAS/04 Political Analysis/data-science/2026-03-17_aadhaar-data-government-storage_1.md"
+      ]
+    },
+    {
+      "hash": "95f44d1165b678a4f281a5169164466e",
+      "files": [
+        "02 - AREAS/04 Political Analysis/data-science/2026-03-03_global-conflict-analysis_1.md",
+        "02 - AREAS/04 Political Analysis/data-science/2026-03-03_global-conflict-analysis.md"
+      ]
+    },
+    {
+      "hash": "9c33bd8fb89e2be8e00ecc233bc53e97",
+      "files": [
+        "02 - AREAS/04 Political Analysis/data-science/2026-03-17_global-conflicts-analysis.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-17_global-conflicts-analysis.md"
+      ]
+    },
+    {
+      "hash": "9829a268d994c32413100ec63025e612",
+      "files": [
+        "02 - AREAS/04 Political Analysis/data-science/2026-03-16_ambani-adani-net-worth-growth-analysis.md",
+        "02 - AREAS/05 Knowledge Management/data-science/2026-03-16_ambani-adani-net-worth-growth-analysis.md"
+      ]
+    },
+    {
+      "hash": "9451a6dd9075be0498698fdb6a6ab3d8",
+      "files": [
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2025-09-08_dr-manhattan-vs-franklin-richards-battle.md",
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2025-09-08_dr-manhattan-vs-franklin-richards-battle_1.md"
+      ]
+    },
+    {
+      "hash": "a92d18d8ad3d58a9d6a13b0de5648754",
+      "files": [
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2026-02-08_north-vs-south-india-population.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-02-08_north-vs-south-india-population.md"
+      ]
+    },
+    {
+      "hash": "5585ff7b8814fcf34d2f2605b05e7632",
+      "files": [
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2026-03-02_america-vs-russia-war-defence-compare_1.md",
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2026-03-02_america-vs-russia-war-defence-compare.md"
+      ]
+    },
+    {
+      "hash": "780b9837ce19973393a06ad95cf0fe34",
+      "files": [
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2025-07-26_dr-manhattan-vs-alien-x-showdown.md",
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2025-07-26_dr-manhattan-vs-alien-x-showdown_1.md"
+      ]
+    },
+    {
+      "hash": "0910dc593d1487570daa09cdf44152a6",
+      "files": [
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2026-02-19_south-india-vs-north-india-growth-comparison.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-02-19_south-india-vs-north-india-growth-comparison.md"
+      ]
+    },
+    {
+      "hash": "25667b8e46b7f329e42c82d51f3d5bbd",
+      "files": [
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2026-03-03_nuclear-vs-atom-bomb-strength.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-03-03_nuclear-vs-atom-bomb-strength.md"
+      ]
+    },
+    {
+      "hash": "15d4c857e1c36e95240651b5c7946091",
+      "files": [
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2025-08-08_dr-manhattan-vs-franklin-richards.md",
+        "02 - AREAS/04 Political Analysis/philosophy-comparison/2025-08-08_dr-manhattan-vs-franklin-richards_1.md"
+      ]
+    },
+    {
+      "hash": "3492d72f249831085099de2840040d2e",
+      "files": [
+        "02 - AREAS/04 Political Analysis/world-politics/2026-03-03_iran-israel-conflict-update_1.md",
+        "02 - AREAS/04 Political Analysis/world-politics/2026-03-03_iran-israel-conflict-update.md"
+      ]
+    },
+    {
+      "hash": "b668d06793eb4361686d16a6256a0091",
+      "files": [
+        "02 - AREAS/04 Political Analysis/career/2026-03-14_future-jobs-trends-analysis.md",
+        "02 - AREAS/05 Knowledge Management/career/2026-03-14_future-jobs-trends-analysis.md"
+      ]
+    },
+    {
+      "hash": "0ddc237acca4bd0f9e95a6952aaa52a1",
+      "files": [
+        "02 - AREAS/04 Political Analysis/career/2026-03-18_jobs-for-freshers-in-hyderabad.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-18_jobs-for-freshers-in-hyderabad.md"
+      ]
+    },
+    {
+      "hash": "b82718a7c9c17a99ac17103f2094ce99",
+      "files": [
+        "02 - AREAS/04 Political Analysis/career/2026-03-04_job-market-comparison-india-china.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-04_job-market-comparison-india-china.md"
+      ]
+    },
+    {
+      "hash": "c264ebec0a721b5ff9b2dcbe1d64f47a",
+      "files": [
+        "02 - AREAS/04 Political Analysis/career/2025-12-11_hiit-workout-plan-for-85-kg.md",
+        "02 - AREAS/02 AI & Technology/career/2025-12-11_hiit-workout-plan-for-85-kg.md"
+      ]
+    },
+    {
+      "hash": "8df4d24ebf0ca4f8ad53bb604b4a1cd6",
+      "files": [
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-08-07_cosmic-pantheon-showdown-dc-vs-marvel.md",
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-08-07_cosmic-pantheon-showdown-dc-vs-marvel_1.md"
+      ]
+    },
+    {
+      "hash": "fe298ec0d51588871e01de46489cec6f",
+      "files": [
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-07-26_beyonder-vs-endless-cosmic-showdown.md",
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-07-26_beyonder-vs-endless-cosmic-showdown_1.md"
+      ]
+    },
+    {
+      "hash": "fb7d6865802b71e4ba6cc74a3fdbbac8",
+      "files": [
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-08-28_beyonder-vs-lucifer-cosmic-power-scaling.md",
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-08-28_beyonder-vs-lucifer-cosmic-power-scaling_1.md"
+      ]
+    },
+    {
+      "hash": "50eb86a2a6a5c33295a7574bf63e85c7",
+      "files": [
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-08-09_dc-vs-marvel-cosmic-entities-showdown.md",
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-08-09_dc-vs-marvel-cosmic-entities-showdown_1.md"
+      ]
+    },
+    {
+      "hash": "298f56d897148b85eb137ff24127b136",
+      "files": [
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-09-02_dc-cosmic-beings-power-chart_1.md",
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-09-02_dc-cosmic-beings-power-chart.md"
+      ]
+    },
+    {
+      "hash": "2a55a0e4bd0e9bef18f89e8154b9433f",
+      "files": [
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-07-26_dc-multiverse-cosmic-hierarchy_1.md",
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-07-26_dc-multiverse-cosmic-hierarchy.md"
+      ]
+    },
+    {
+      "hash": "1977f1e75d5ef19d0466e8711fe74128",
+      "files": [
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-10-12_superhero-power-comparison.md",
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-10-12_superhero-power-comparison_1.md"
+      ]
+    },
+    {
+      "hash": "3ad736fb6b1f74949e32fd653c6a9f4f",
+      "files": [
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-08-11_marvel-vs-dc-cosmic-power-rankings_1.md",
+        "02 - AREAS/04 Political Analysis/marvel-dc/2025-08-11_marvel-vs-dc-cosmic-power-rankings.md"
+      ]
+    },
+    {
+      "hash": "0648e6c7c3c6d5eed710e35b922ef3f6",
+      "files": [
+        "02 - AREAS/04 Political Analysis/os-systems/India Cross Border Attacks 2014-2025.md",
+        "02 - AREAS/04 Political Analysis/os-systems/India Cross Border Attacks 2014-2025_1.md"
+      ]
+    },
+    {
+      "hash": "415bb1520799076cda59c28bde520d81",
+      "files": [
+        "02 - AREAS/04 Political Analysis/os-systems/2025-08-11_michael-demiurgos-vs-living-tribunal_1.md",
+        "02 - AREAS/04 Political Analysis/os-systems/2025-08-11_michael-demiurgos-vs-living-tribunal.md"
+      ]
+    },
+    {
+      "hash": "e8efee20592e7b0cf3b62e6d56924729",
+      "files": [
+        "02 - AREAS/04 Political Analysis/os-systems/2026-03-16_ricing-system-for-performance.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-16_ricing-system-for-performance.md"
+      ]
+    },
+    {
+      "hash": "ab8c7cb054584d4992db8aeff3571ec9",
+      "files": [
+        "02 - AREAS/04 Political Analysis/os-systems/2026-03-07_chinas-social-credit-system.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-07_chinas-social-credit-system.md"
+      ]
+    },
+    {
+      "hash": "2d18f961f9215ada068d0d6677998d5c",
+      "files": [
+        "02 - AREAS/04 Political Analysis/os-systems/2026-02-22_system-optimization-and-bloatware-removal.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-02-22_system-optimization-and-bloatware-removal.md"
+      ]
+    },
+    {
+      "hash": "da102df9d54ff7045821feb3acd429ea",
+      "files": [
+        "02 - AREAS/04 Political Analysis/power-scaling/2026-03-02_simplified-48-laws-of-power.md",
+        "02 - AREAS/02 AI & Technology/power-scaling/2026-03-02_simplified-48-laws-of-power.md"
+      ]
+    },
+    {
+      "hash": "0467d471ace71ecb3cbdd5df8f3f07f1",
+      "files": [
+        "02 - AREAS/04 Political Analysis/power-scaling/2026-02-28_simplified-48-laws-of-power.md",
+        "02 - AREAS/02 AI & Technology/power-scaling/2026-02-28_simplified-48-laws-of-power.md"
+      ]
+    },
+    {
+      "hash": "6d1d177eded6714744a9ec83e17ed986",
+      "files": [
+        "02 - AREAS/04 Political Analysis/power-scaling/2026-03-11_battle-of-powers.md",
+        "02 - AREAS/02 AI & Technology/power-scaling/2026-03-11_battle-of-powers.md"
+      ]
+    },
+    {
+      "hash": "8abb3ac538c136ac5fac7e6484c757d5",
+      "files": [
+        "02 - AREAS/04 Political Analysis/power-scaling/2026-02-17_free-power-bi-course-and-certification_1.md",
+        "02 - AREAS/04 Political Analysis/power-scaling/2026-02-17_free-power-bi-course-and-certification.md"
+      ]
+    },
+    {
+      "hash": "24202a5fb592f767cbf267004441c07b",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-02-19_best-indian-political-party.md",
+        "02 - AREAS/04 Political Analysis/year-2026/2026-02-19_best-indian-political-party_1.md"
+      ]
+    },
+    {
+      "hash": "900e9733234be698616d8ad4745c6e37",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-06_india-china-petrol-prices.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-06_india-china-petrol-prices.md"
+      ]
+    },
+    {
+      "hash": "2b6942736b3ea6212e13eed53599fcca",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-17_indian-constitution-simplified.md",
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-17_indian-constitution-simplified_1.md"
+      ]
+    },
+    {
+      "hash": "99f95e335f80c02e68b493c866bf5ceb",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-04-01_organizational-behavior-fundamentals-for-btech.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-04-01_organizational-behavior-fundamentals-for-btech.md"
+      ]
+    },
+    {
+      "hash": "08fa3f2b447bf8e93104ea5ed54cac25",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-02-11_epstein-files-search-assistant.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-11_epstein-files-search-assistant.md"
+      ]
+    },
+    {
+      "hash": "b51f69e7ad393e8e0fb35900e2255b5d",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-28_iran-public-satisfaction-levels.md",
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-28_iran-public-satisfaction-levels_1.md"
+      ]
+    },
+    {
+      "hash": "a02ec13a80bffd4e1f200041ebcf6e0a",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-16_india-internet-tax-query.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-16_india-internet-tax-query.md"
+      ]
+    },
+    {
+      "hash": "013407c1a96875efcdca0d7535eb85d3",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-31_creating-readable-pdf-with-definitions-and-diagrams.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-31_creating-readable-pdf-with-definitions-and-diagrams.md"
+      ]
+    },
+    {
+      "hash": "590af3d4e2311ff8f841c98f07e826f0",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-16_nuclear-weapons-basics.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-16_nuclear-weapons-basics.md"
+      ]
+    },
+    {
+      "hash": "17465c2d917c2b38f943f7ce865e2b73",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-03_kerala-story-budget-collection.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-03_kerala-story-budget-collection.md"
+      ]
+    },
+    {
+      "hash": "c48eb77166b1db4692eff9a90158ad41",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-16_india-oil-import-sources.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-16_india-oil-import-sources.md"
+      ]
+    },
+    {
+      "hash": "b24a88c05cb8b4e0aee09360257fdffb",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-14_war-defense-stock-opportunities_1.md",
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-14_war-defense-stock-opportunities.md"
+      ]
+    },
+    {
+      "hash": "9c1ffafaf2aca21cb1c7efff4c77fbf9",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-25_modi-family-tree.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-25_modi-family-tree.md"
+      ]
+    },
+    {
+      "hash": "a277a44d2ea5b5ee6f05c065bb1f79b4",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-28_educated-leaders-by-party.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-28_educated-leaders-by-party.md"
+      ]
+    },
+    {
+      "hash": "5f2b124c9580a0129a3c939e7101b004",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-14_automated-stock-analyzer-for-indian-market.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-14_automated-stock-analyzer-for-indian-market.md"
+      ]
+    },
+    {
+      "hash": "6ab7c0f2173a6ccd5414a3d1fcdacf87",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-11_israeli-weapons-manufacturing-in-hyderabad.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-11_israeli-weapons-manufacturing-in-hyderabad.md"
+      ]
+    },
+    {
+      "hash": "63e88d213272c5ce1b8bac076977dfce",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-02-21_telegram-as-unlimited-cloud-storage_1.md",
+        "02 - AREAS/04 Political Analysis/year-2026/2026-02-21_telegram-as-unlimited-cloud-storage.md"
+      ]
+    },
+    {
+      "hash": "81e57883251d60b591de733cf7b3573b",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-02-20_quality-assessment-and-improvement.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-20_quality-assessment-and-improvement.md"
+      ]
+    },
+    {
+      "hash": "1b5bda95b5a6ae4ae1e864239fdd5578",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-11_best-open-source-cloud-models-for-ollama.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-11_best-open-source-cloud-models-for-ollama.md"
+      ]
+    },
+    {
+      "hash": "3350058a4aa7d319d6697d34c6780775",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-27_best-stocks-for-indian-market.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-27_best-stocks-for-indian-market.md"
+      ]
+    },
+    {
+      "hash": "9559e8e2d228f197f69c927c4cf0caef",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-04_american-presidents-net-worths.md",
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-04_american-presidents-net-worths_1.md"
+      ]
+    },
+    {
+      "hash": "7ff774afb04c370aae493b0f519a8d90",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-01-05_efficient-morning-warm-up-guide.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-01-05_efficient-morning-warm-up-guide.md"
+      ]
+    },
+    {
+      "hash": "3661613d7da0468e9113fa780686a818",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-27_download-stock-portfolio.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-27_download-stock-portfolio.md"
+      ]
+    },
+    {
+      "hash": "a0a43df8c44b9da1fb678464df79ff68",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-18_top-polluted-cities-worldwide.md",
+        "02 - AREAS/05 Knowledge Management/year-2026/2026-03-18_top-polluted-cities-worldwide.md"
+      ]
+    },
+    {
+      "hash": "924957b55f2947ad032903fdf89be98b",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-04_xi-jinpings-net-worth.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-04_xi-jinpings-net-worth.md"
+      ]
+    },
+    {
+      "hash": "6c5c403735ee6c3c749e517c939601d1",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-13_british-raj-casualty-count.md",
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-13_british-raj-casualty-count.md"
+      ]
+    },
+    {
+      "hash": "5282991f36dff30d1f42a116d48c9ce5",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-02-04_organizational-behaviour-fundamentals.md",
+        "02 - AREAS/05 Knowledge Management/year-2026/2026-02-04_organizational-behaviour-fundamentals.md"
+      ]
+    },
+    {
+      "hash": "348859dc3819cb2af4c2ad99fa336840",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-04-03_swarm-intelligence-prediction-engine.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-04-03_swarm-intelligence-prediction-engine.md"
+      ]
+    },
+    {
+      "hash": "1e40d53d49e229c70d26233c677478fd",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-04-02_india-population-statewise-map_1.md",
+        "02 - AREAS/04 Political Analysis/year-2026/2026-04-02_india-population-statewise-map.md"
+      ]
+    },
+    {
+      "hash": "184cf950a8bcb24b0d7150a386d65177",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-04-03_best-value-recharge-packs-in-india.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-04-03_best-value-recharge-packs-in-india.md"
+      ]
+    },
+    {
+      "hash": "807d632eb5477827b4ca8e923a267247",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-22_countries-impacted-by-tsar-bomb.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-22_countries-impacted-by-tsar-bomb.md"
+      ]
+    },
+    {
+      "hash": "b0a944c6f3c6b18f97930c4c1ab7df73",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-03-16_nuclear-weapons-explanation.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-16_nuclear-weapons-explanation.md"
+      ]
+    },
+    {
+      "hash": "be08d03a06a3da1b36f606e7cb150f02",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2026/2026-02-04_report-compilation-guide.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-04_report-compilation-guide.md"
+      ]
+    },
+    {
+      "hash": "9198dd973534e71f9f401b5f014a411e",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-08-08_ai-skin-lesion-diagnosis-website-design.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-08_ai-skin-lesion-diagnosis-website-design.md"
+      ]
+    },
+    {
+      "hash": "ab364459749829d68fa6e1f20b0d645f",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-11-06_rust-toolchain-installation-failure-during-pip-install.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-11-06_rust-toolchain-installation-failure-during-pip-install.md"
+      ]
+    },
+    {
+      "hash": "895d8b996e32c1718688eb86a3e378d1",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-02-26_claude-code-login-method-selection.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-26_claude-code-login-method-selection.md"
+      ]
+    },
+    {
+      "hash": "8e039e07ccf200a2bfdd67d74e4eeba6",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-07-21_automated-daily-phone-call-reminder-script.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-07-21_automated-daily-phone-call-reminder-script.md"
+      ]
+    },
+    {
+      "hash": "66d033dfee803ec0023225cef80dace7",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-03-31_btech-performance-appraisal-strategic-concepts.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-31_btech-performance-appraisal-strategic-concepts.md"
+      ]
+    },
+    {
+      "hash": "57fb14f72b91379c3fae8a995ce80dc0",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-03-17_indian-constitution-explained-simply-with-examples.md",
+        "02 - AREAS/05 Knowledge Management/ai/2026-03-17_indian-constitution-explained-simply-with-examples.md"
+      ]
+    },
+    {
+      "hash": "bcfe2cd552ed7ca550a488af4cf13e23",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-08-18_ai-chatbot-development-guide.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-18_ai-chatbot-development-guide.md"
+      ]
+    },
+    {
+      "hash": "b29121bfb66ba2ef0f3115813db386cd",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-02-19_claude-vs-grok-comparing-least-thinking-models.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-19_claude-vs-grok-comparing-least-thinking-models.md"
+      ]
+    },
+    {
+      "hash": "2d4f2e1d20bc0798b0259b4b002ec3f0",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-08-31_free-agentic-ai-browsers-for-windows.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-31_free-agentic-ai-browsers-for-windows.md"
+      ]
+    },
+    {
+      "hash": "c3b1344ad4d388bd36e60fa4ee8424c1",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-08-09_best-free-ai-iphone-chatbots.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-09_best-free-ai-iphone-chatbots.md"
+      ]
+    },
+    {
+      "hash": "7a394ddad7380e25c71235e04a1da251",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-11-06_langchain-memory-module-import-error.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-11-06_langchain-memory-module-import-error.md"
+      ]
+    },
+    {
+      "hash": "554834f86f554ba42384300b5b5a761e",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-02-09_ai-portfolio-design-guide.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-09_ai-portfolio-design-guide.md"
+      ]
+    },
+    {
+      "hash": "0fa208ab457972cb334ad7e6c410c147",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-03-09_retail-shopping-trends-analysis.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-09_retail-shopping-trends-analysis.md"
+      ]
+    },
+    {
+      "hash": "8d9e9a5cdcfd84bbc1f57f30018ad353",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-03-27_connecting-groww-account-to-claude.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-27_connecting-groww-account-to-claude.md"
+      ]
+    },
+    {
+      "hash": "0b2f5906173362992b173117fe021525",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-03-26_checking-job-application-acceptance-emails.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-26_checking-job-application-acceptance-emails.md"
+      ]
+    },
+    {
+      "hash": "51c9c7817badffce6ffa277540d23d1a",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-08-23_ai-powered-agentic-browser-options.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-23_ai-powered-agentic-browser-options.md"
+      ]
+    },
+    {
+      "hash": "0ebd498665f2a13f1c8ed94935ccfef2",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-02-27_explaining-key-concepts-with-simple-words.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-27_explaining-key-concepts-with-simple-words.md"
+      ]
+    },
+    {
+      "hash": "e718175fb8da46bf202978a27933154a",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-02-19_claude-vs-grok-comparison.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-19_claude-vs-grok-comparison.md"
+      ]
+    },
+    {
+      "hash": "516d828114d5458547fdf419c3cff809",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-02-21_building-a-batman-style-ai-research-system.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-21_building-a-batman-style-ai-research-system.md"
+      ]
+    },
+    {
+      "hash": "6013b984154b55bc01f160398c181dc7",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-02-23_kimi-k2-jailbreak-prompt.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-23_kimi-k2-jailbreak-prompt.md"
+      ]
+    },
+    {
+      "hash": "c86051764076a14055c141433805c3c8",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-03-02_indian-llm-chatbots-directory.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-02_indian-llm-chatbots-directory.md"
+      ]
+    },
+    {
+      "hash": "257d695422c1b4e5bffc7616e54b55e3",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-03-15_claude-march-2026-usage-promotion.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-15_claude-march-2026-usage-promotion.md"
+      ]
+    },
+    {
+      "hash": "0c65ed513612082bf598324689a52fc0",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2026-02-20_open-source-os-for-cpu-based-ai-research.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-20_open-source-os-for-cpu-based-ai-research.md"
+      ]
+    },
+    {
+      "hash": "097d97a5404c149ac1332b50024b038e",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-07-25_ai-image-realism-enhancement.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-07-25_ai-image-realism-enhancement.md"
+      ]
+    },
+    {
+      "hash": "412bbcf67200ba7821112ffb20a4a7f1",
+      "files": [
+        "02 - AREAS/04 Political Analysis/ai/2025-12-12_hiit-workout-protocol-details.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-12-12_hiit-workout-protocol-details.md"
+      ]
+    },
+    {
+      "hash": "7a6c95864f6c21716dd6bbd2c81ddde3",
+      "files": [
+        "02 - AREAS/04 Political Analysis/games/2025-07-23_innovative-game-design-concept.md",
+        "02 - AREAS/02 AI & Technology/games/2025-07-23_innovative-game-design-concept.md"
+      ]
+    },
+    {
+      "hash": "4bc7ad09d5f69fc01c290c46461aa620",
+      "files": [
+        "02 - AREAS/04 Political Analysis/games/2025-09-07_retro-pygame-snake-game.md",
+        "02 - AREAS/02 AI & Technology/games/2025-09-07_retro-pygame-snake-game.md"
+      ]
+    },
+    {
+      "hash": "561cbcd92da7382fd1ec724327478af8",
+      "files": [
+        "02 - AREAS/04 Political Analysis/security/Pegasus Spyware India.md",
+        "02 - AREAS/04 Political Analysis/security/Pegasus Spyware India_1.md"
+      ]
+    },
+    {
+      "hash": "f3d5373c7a02edc95004a9914bbc180e",
+      "files": [
+        "02 - AREAS/04 Political Analysis/security/2025-11-26_transport-layer-security-overview.md",
+        "02 - AREAS/02 AI & Technology/security/2025-11-26_transport-layer-security-overview.md"
+      ]
+    },
+    {
+      "hash": "73a8c23b579d823eac494026282f4cd7",
+      "files": [
+        "02 - AREAS/04 Political Analysis/security/2026-03-18_pegasusspywareindiascandal.md",
+        "02 - AREAS/01 Philosophy & Religion/2026-03-18_pegasusspywareindiascandal.md"
+      ]
+    },
+    {
+      "hash": "eb8d977699ffcac8a6ad95638187d8d8",
+      "files": [
+        "02 - AREAS/04 Political Analysis/security/2025-11-28_web-security-cryptography-and-digital-identification.md",
+        "02 - AREAS/05 Knowledge Management/security/2025-11-28_web-security-cryptography-and-digital-identification.md"
+      ]
+    },
+    {
+      "hash": "1fbb0a582f332f79f7d57b7e1591186f",
+      "files": [
+        "02 - AREAS/04 Political Analysis/metaphysics/2025-09-09_zoom-vs-giovanna-reality-warpers-clash.md",
+        "02 - AREAS/04 Political Analysis/metaphysics/2025-09-09_zoom-vs-giovanna-reality-warpers-clash_1.md"
+      ]
+    },
+    {
+      "hash": "e834eca2f8fe12e25a00e1ffaa57418c",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-11-30_hci-unit-12-comprehensive-notes.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-30_hci-unit-12-comprehensive-notes.md"
+      ]
+    },
+    {
+      "hash": "00020759cc2de0a19245fcbe8e5360ad",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-11-05_open-source-agent-starter-kit-development.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-05_open-source-agent-starter-kit-development.md"
+      ]
+    },
+    {
+      "hash": "6d60cae5f971a220d9fcba0c6bc2f07b",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-12-02_cognitive-computing-comprehensive-notes.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-02_cognitive-computing-comprehensive-notes.md"
+      ]
+    },
+    {
+      "hash": "c6012090ff216de955ccf2c9cf63d9b6",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-11-09_movries-app-prototype.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-09_movries-app-prototype.md"
+      ]
+    },
+    {
+      "hash": "4a51308a26215628a2f2bec5e675d895",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-12-30_documents-and-templates.md",
+        "02 - AREAS/05 Knowledge Management/year-2025/2025-12-30_documents-and-templates.md"
+      ]
+    },
+    {
+      "hash": "6edfa4e78e5059f9aa4e4c03d73b370f",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-08-03_grub-bootloader-recovery-guide.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-03_grub-bootloader-recovery-guide.md"
+      ]
+    },
+    {
+      "hash": "cbf00f9799f7ce490b437bb87385fdee",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-09-14_compile-time-bnf-grammar-parser.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-14_compile-time-bnf-grammar-parser.md"
+      ]
+    },
+    {
+      "hash": "087946c7e2b29d3e0a386aab5430ed30",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-11-30_hci-notes.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-30_hci-notes.md"
+      ]
+    },
+    {
+      "hash": "3dec1f03d5b3c6385e136a8c556070ac",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-12-09_discrete-mathematics-comprehensive-notes_1.md",
+        "02 - AREAS/04 Political Analysis/year-2025/2025-12-09_discrete-mathematics-comprehensive-notes.md"
+      ]
+    },
+    {
+      "hash": "662dcc2cb578a3d41d6df1af201f03a3",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-12-30_coldweathersprintwarmupguide_1.md",
+        "02 - AREAS/04 Political Analysis/year-2025/2025-12-30_coldweathersprintwarmupguide.md"
+      ]
+    },
+    {
+      "hash": "0e76d1d3d42307f62d50918513d8450f",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-11-30_hci-unit-i-ii-comprehensive-notes.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-30_hci-unit-i-ii-comprehensive-notes.md"
+      ]
+    },
+    {
+      "hash": "b2761a34f24ae55aabe150395bd193a8",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-07-24_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-07-24_untitled.md"
+      ]
+    },
+    {
+      "hash": "83b2ef9bda652aa3d3e954f6d9735973",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-12-27_fourier-series-and-periodic-functions.md",
+        "02 - AREAS/06 Society & Culture/year-2025/2025-12-27_fourier-series-and-periodic-functions.md"
+      ]
+    },
+    {
+      "hash": "3a55af1e76ba9c4811d0fd5b544ed18b",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-12-02_cognitive-computing-fundamentals.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-02_cognitive-computing-fundamentals.md"
+      ]
+    },
+    {
+      "hash": "be8f579f947c39fd3a5d47c5311df7a9",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-11-30_human-computer-interaction-fundamentals-and-design-prin.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-30_human-computer-interaction-fundamentals-and-design-prin.md"
+      ]
+    },
+    {
+      "hash": "2b02afdbe47e5516624df16540026e62",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-09-28_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-28_untitled.md"
+      ]
+    },
+    {
+      "hash": "05214de24a75e04243f3f771f8cb4e4c",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-11-30_hci-unit-iii-models-theories.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-30_hci-unit-iii-models-theories.md"
+      ]
+    },
+    {
+      "hash": "b50c9b7993733a290d4b8488a94010c6",
+      "files": [
+        "02 - AREAS/04 Political Analysis/year-2025/2025-11-30_notes-on-human-computer-interaction.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-30_notes-on-human-computer-interaction.md"
+      ]
+    },
+    {
+      "hash": "f806be573af82dc1b95bc910bd92f40d",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/2026-03-09_deep-web-research-tools.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2026-03-09_deep-web-research-tools.md"
+      ]
+    },
+    {
+      "hash": "35c65a5e865b37812dcf6dec01ccacd5",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/data-science/2025-11-13_data-protection-on-lost-laptops.md",
+        "02 - AREAS/02 AI & Technology/data-science/2025-11-13_data-protection-on-lost-laptops.md"
+      ]
+    },
+    {
+      "hash": "0b528a93dfe7c5e7f6f2bb22748924f0",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/data-science/2026-04-04_data-transfer-to-obsidian.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-04-04_data-transfer-to-obsidian.md"
+      ]
+    },
+    {
+      "hash": "7627114f1f7d7c768fb13a042d99f7f6",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/Other/MASTER LINK INDEX_1.md",
+        "02 - AREAS/05 Knowledge Management/Other/MASTER LINK INDEX.md"
+      ]
+    },
+    {
+      "hash": "f42e114611719e998e067f1dbcfe7611",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/Other/Multiple Agents Research Destroyed Libraries.md",
+        "02 - AREAS/01 Philosophy & Religion/Other/Multiple Agents Research Destroyed Libraries.md"
+      ]
+    },
+    {
+      "hash": "f07b9404a71a45b783c9ebe550db4459",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/Other/AGENTS.md",
+        "02 - AREAS/05 Knowledge Management/ai/CLAUDE.md"
+      ]
+    },
+    {
+      "hash": "e2dff8875a2458ffe85a9e265a79add0",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/Reports/BUDDHA_DEEP_GRAPH_REPORT.md",
+        "02 - AREAS/06 Society & Culture/BUDDHA_DEEP_GRAPH_REPORT.md"
+      ]
+    },
+    {
+      "hash": "b74a8cc1608240779e57a2f7516fa97c",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/year-2026/2026-03-17_omniresearch-local-intelligence-platform.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-17_omniresearch-local-intelligence-platform.md"
+      ]
+    },
+    {
+      "hash": "6319a8e28f9d3d841cccc52e69c29a1c",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/security/2025-11-28_web-security-notebook-template.md",
+        "02 - AREAS/02 AI & Technology/security/2025-11-28_web-security-notebook-template.md"
+      ]
+    },
+    {
+      "hash": "053c12229d8b9d88af6ab25613bf5278",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/year-2025/2025-07-29_document-template-creation.md",
+        "02 - AREAS/05 Knowledge Management/year-2025/2025-07-29_document-template-creation_1.md"
+      ]
+    },
+    {
+      "hash": "62f4e74367952b1da6c1f0526ffc8023",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/year-2025/2025-12-01_documents-and-templates.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-01_documents-and-templates.md"
+      ]
+    },
+    {
+      "hash": "2b9b9897efa796a94c7d42ad27b57da3",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/year-2025/2025-08-20_document-template-design.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-20_document-template-design.md"
+      ]
+    },
+    {
+      "hash": "473a86023489d6f6b3be048b23b4d171",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/year-2025/2025-08-12_youtube-video-link-shared.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-12_youtube-video-link-shared.md"
+      ]
+    },
+    {
+      "hash": "f3182f093ed27801dd7ca5746674e3e1",
+      "files": [
+        "02 - AREAS/05 Knowledge Management/year-2025/2025-12-02_documents-and-templates.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-02_documents-and-templates.md"
+      ]
+    },
+    {
+      "hash": "c7b89b55373e1b4461a43af0a8bfc9d1",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/2025-07-17_react-media-tracking-app-review.md",
+        "02 - AREAS/02 AI & Technology/movies/2025-07-17_react-media-tracking-app-review.md"
+      ]
+    },
+    {
+      "hash": "650d40020a698a0730dae569d6cf2e3e",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/2026-03-29_script-to-remove-unwanted-files-and-free-disk-space.md",
+        "02 - AREAS/02 AI & Technology/programming/2026-03-29_script-to-remove-unwanted-files-and-free-disk-space.md"
+      ]
+    },
+    {
+      "hash": "2766b4b4b428dc8e2f8742409ee5aad5",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/web-dev/2026-03-07_audio-website-book-project.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2026-03-07_audio-website-book-project.md"
+      ]
+    },
+    {
+      "hash": "0a0860916b1b09520fdfb7fb93c7b994",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/web-dev/2025-11-13_photorealistic-3-d-deep-space-web-experience.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2025-11-13_photorealistic-3-d-deep-space-web-experience.md"
+      ]
+    },
+    {
+      "hash": "69d12a449dc14f7005366d217806c43e",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/data-science/2025-12-04_fictiondatabaseprototype.md",
+        "02 - AREAS/02 AI & Technology/data-science/2025-12-04_fictiondatabaseprototype.md"
+      ]
+    },
+    {
+      "hash": "0e9363af0e20236f280ce9bbb6980d5e",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/data-science/2026-03-20_building-project-from-provided-data.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-20_building-project-from-provided-data.md"
+      ]
+    },
+    {
+      "hash": "7d6cf3a6e48b811af4939684031520b2",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/data-science/2025-12-04_comprehensive-fiction-character-database-website.md",
+        "02 - AREAS/02 AI & Technology/data-science/2025-12-04_comprehensive-fiction-character-database-website.md"
+      ]
+    },
+    {
+      "hash": "c551976d23d4fe69954d9b1fcff6e4ec",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/data-science/2026-03-15_social-media-fact-checking-analysis-platform.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-15_social-media-fact-checking-analysis-platform.md"
+      ]
+    },
+    {
+      "hash": "0431cbaafdb3e2b6b4c8181683a5def9",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/data-science/2025-11-12_interactive-3d-solar-system-visualization.md",
+        "02 - AREAS/02 AI & Technology/data-science/2025-11-12_interactive-3d-solar-system-visualization.md"
+      ]
+    },
+    {
+      "hash": "b5c556e049e74ecf79f560035bf26d22",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/philosophy-comparison/2026-04-10_epics-dating-mythology-language-comparison.md",
+        "02 - AREAS/03 Ancient Civilizations/Other/RESEARCH - Epics Languages Mythology.md"
+      ]
+    },
+    {
+      "hash": "fa445ba9e2dc94ed62d8305ccbe854c3",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/philosophy-comparison/2026-04-02_india-vs-china-crime-and-unemployment-rates.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-04-02_india-vs-china-crime-and-unemployment-rates.md"
+      ]
+    },
+    {
+      "hash": "c32f3dad573c264f58f06b42752a7d82",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/career/2026-03-15_how-compound-interest-works.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-15_how-compound-interest-works.md"
+      ]
+    },
+    {
+      "hash": "12f66a223809e5149ffd87c2b3df88aa",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/career/2026-03-09_standout-data-analysis-project-for-fresher-resume.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-09_standout-data-analysis-project-for-fresher-resume.md"
+      ]
+    },
+    {
+      "hash": "e818a603aecde0705207568b347ef3ed",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/career/2026-02-24_data-analyst-projects-for-resume-freshers.md",
+        "02 - AREAS/02 AI & Technology/career/2026-02-24_data-analyst-projects-for-resume-freshers.md"
+      ]
+    },
+    {
+      "hash": "8c4511d32a0a0a5760da69e5fce1e6e4",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/career/2026-03-13_jobs-disappearing-and-growing-in-next-1-2-years.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-13_jobs-disappearing-and-growing-in-next-1-2-years.md"
+      ]
+    },
+    {
+      "hash": "2da64dc9859ce1aefa1f283b70fcd9f6",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/marvel-dc/2025-07-26_dc-multiverse-image-enhancement.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-26_dc-multiverse-image-enhancement.md"
+      ]
+    },
+    {
+      "hash": "89dc953473a70d797ac510b10761a33e",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/marvel-dc/2025-08-16_remix-of-dcvertigo-cosmology-flowchart.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-08-16_remix-of-dcvertigo-cosmology-flowchart.md"
+      ]
+    },
+    {
+      "hash": "578f2a0c9c6c4fc9a4cba3c5808b2d0c",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/marvel-dc/2025-08-23_dc-comics-power-hierarchy.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-08-23_dc-comics-power-hierarchy.md"
+      ]
+    },
+    {
+      "hash": "1cffd04b6375c07e9a8eb96d97e2ba42",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/os-systems/2026-03-16_system-ricing-without-performance-impact.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-16_system-ricing-without-performance-impact.md"
+      ]
+    },
+    {
+      "hash": "a69c7344e819bc392569d33aa00be1ec",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/os-systems/2025-08-02_batman-poster-design-concept.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2025-08-02_batman-poster-design-concept.md"
+      ]
+    },
+    {
+      "hash": "5f7fe015eb81f5680e7804645cc3f069",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/os-systems/2026-03-20_system-storage-usage-scanner-script.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-20_system-storage-usage-scanner-script.md"
+      ]
+    },
+    {
+      "hash": "01e4787acda732bd90e534acd99412ed",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/os-systems/2026-03-25_religious-texts-and-dinosaurs.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-25_religious-texts-and-dinosaurs.md"
+      ]
+    },
+    {
+      "hash": "d6dec774323f66d23dabc8c37b0bf346",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/power-scaling/2026-02-28_48-laws-of-power-simplified-with-examples.md",
+        "02 - AREAS/02 AI & Technology/power-scaling/2026-02-28_48-laws-of-power-simplified-with-examples.md"
+      ]
+    },
+    {
+      "hash": "ecb76e571e7f66a07685149526f75f36",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/power-scaling/2026-03-08_future-leaders-of-major-world-powers.md",
+        "02 - AREAS/02 AI & Technology/power-scaling/2026-03-08_future-leaders-of-major-world-powers.md"
+      ]
+    },
+    {
+      "hash": "92ef41831a7a03a3569a225cf85be13c",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-02-09_building-a-unique-professional-portfolio.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-09_building-a-unique-professional-portfolio.md"
+      ]
+    },
+    {
+      "hash": "06267227e9739891da6418c28e77a0fd",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-24_was-rama-a-historical-figure.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-24_was-rama-a-historical-figure.md"
+      ]
+    },
+    {
+      "hash": "498e019b8c7f951e6b4afc3ef013184a",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-15_krishna-birth-time-period.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-15_krishna-birth-time-period.md"
+      ]
+    },
+    {
+      "hash": "91855245df5a98efc68729a42f6c39f8",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-24_historical-evidence-for-ramas-existence.md",
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-24_historical-evidence-for-ramas-existence_1.md"
+      ]
+    },
+    {
+      "hash": "2dbcfb2feae779caab702c6e9ee9dc69",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-07_side-hustle-ideas-for-students.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-07_side-hustle-ideas-for-students.md"
+      ]
+    },
+    {
+      "hash": "de8c4bafa863d52279296c1677f5a973",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-23_oldest-civilizations-in-human-history.md",
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-23_oldest-civilizations-in-human-history_1.md"
+      ]
+    },
+    {
+      "hash": "59f9e756f3977cd19d47a8e696c541be",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-09_anonymous-research-methods-and-tools.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-09_anonymous-research-methods-and-tools.md"
+      ]
+    },
+    {
+      "hash": "a11ef1207910d4b82c9c332208fc1b93",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-22_top-10-oldest-archaeological-finds.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-22_top-10-oldest-archaeological-finds.md"
+      ]
+    },
+    {
+      "hash": "aea310992c397c75b6b2783f2f3b485b",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-04-02_india-population-map-by-state.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-04-02_india-population-map-by-state.md"
+      ]
+    },
+    {
+      "hash": "48dd2b11f9982a38249faa92288c06fb",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-20_complete-stock-analyzer-prompt-with-news-tracking.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-20_complete-stock-analyzer-prompt-with-news-tracking.md"
+      ]
+    },
+    {
+      "hash": "ec1cdd8bf686bca9c052dc17f0035018",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-01-05_ben-10-comic-master-prompt.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-01-05_ben-10-comic-master-prompt.md"
+      ]
+    },
+    {
+      "hash": "385bc9b92241de35908c5abbdd10c7e0",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-15_comparing-worlds-oldest-architectural-monuments.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-15_comparing-worlds-oldest-architectural-monuments.md"
+      ]
+    },
+    {
+      "hash": "2b2d98e81a7d45d3bcff24136f819b92",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-17_monochrome-design-ideas.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-17_monochrome-design-ideas.md"
+      ]
+    },
+    {
+      "hash": "3cee211472f5446ec9c71a6e59dbe4d0",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-18_connecting-dots-map-generator-prompt.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-18_connecting-dots-map-generator-prompt.md"
+      ]
+    },
+    {
+      "hash": "1ee61a8b061fea049483966c5ad85bdb",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-29_obsidian-personal-vault-with-local-ollama-integration.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-29_obsidian-personal-vault-with-local-ollama-integration.md"
+      ]
+    },
+    {
+      "hash": "6d77aff7f33b5993cf33b65253f4e31f",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-02-23_origins-of-religions.md",
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-02-23_origins-of-religions_1.md"
+      ]
+    },
+    {
+      "hash": "c1ac446d69f324c6eb9ed7312a8af831",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-22_top-kings-of-india.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-22_top-kings-of-india.md"
+      ]
+    },
+    {
+      "hash": "858b68497fabf3f0ab0c42d3da2b137a",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-22_download-and-organize-images-by-date.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-22_download-and-organize-images-by-date.md"
+      ]
+    },
+    {
+      "hash": "145f536e02d91ff61425941ce055ca27",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-22_oldest-archaeological-discoveries-in-the-world.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-22_oldest-archaeological-discoveries-in-the-world.md"
+      ]
+    },
+    {
+      "hash": "6cfcea7e8bcacc7f8ca425ea301847df",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-04_advanced-attendance-innovations.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-04_advanced-attendance-innovations.md"
+      ]
+    },
+    {
+      "hash": "2625c6df87c1b93e80bce6cc95ece5fd",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-13_quiz-or-survey.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-13_quiz-or-survey.md"
+      ]
+    },
+    {
+      "hash": "6af8864b9ca9458450093cc50ef026a9",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-23_oldest-civilizations-research.md",
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-23_oldest-civilizations-research_1.md"
+      ]
+    },
+    {
+      "hash": "221c05bdc288f5140b2144f8081472dd",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2026/2026-03-09_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-09_untitled.md"
+      ]
+    },
+    {
+      "hash": "d588959f8df949ab2a864879486a2275",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-02-18_claude-vs-grok-latest-model-comparison.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-18_claude-vs-grok-latest-model-comparison.md"
+      ]
+    },
+    {
+      "hash": "e4811a39aa6fb725297c65ac1102d585",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-02-01_food-nutrition-search-website-with-detailed-data.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-01_food-nutrition-search-website-with-detailed-data.md"
+      ]
+    },
+    {
+      "hash": "e6a0f15b0743a345cb56bc0f4ff595c6",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2025-09-02_custom-project-brainstorming.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-09-02_custom-project-brainstorming.md"
+      ]
+    },
+    {
+      "hash": "67a99503ed19753fe2c2d7ae8792b2d9",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-03-17_building-an-ai-research-tool.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-17_building-an-ai-research-tool.md"
+      ]
+    },
+    {
+      "hash": "b5bfc917bd4e4da91044897d634ecc71",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-02-17_comparing-kimi-claude-and-glm-latest-models.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-17_comparing-kimi-claude-and-glm-latest-models.md"
+      ]
+    },
+    {
+      "hash": "8329a04bc0206696ef897d75768c7a65",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2025-08-09_bat-ai-conversational-agent-design.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-09_bat-ai-conversational-agent-design.md"
+      ]
+    },
+    {
+      "hash": "30297d45f1a7a5909a37d52a8a05dda0",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-03-07_making-5-daily-from-home-with-a-laptop.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-07_making-5-daily-from-home-with-a-laptop.md"
+      ]
+    },
+    {
+      "hash": "fbad6ac55b7c41488e137b06a5fb944b",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2025-08-30_brainiac-vs-reed-richards-battle.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-30_brainiac-vs-reed-richards-battle.md"
+      ]
+    },
+    {
+      "hash": "16d1f17415e37fc881ecede1d13a90a4",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-03-19_free-anthropic-claude-courses-with-certificates.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-19_free-anthropic-claude-courses-with-certificates.md"
+      ]
+    },
+    {
+      "hash": "ac049a0ffbcea0898e45eea7c536a89d",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-02-11_epstein-case-files-chatbot-verification.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-11_epstein-case-files-chatbot-verification.md"
+      ]
+    },
+    {
+      "hash": "f04d0300879e08f65f2c2873d156e9e1",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-03-13_comparing-latest-ai-models-for-research-and-analysis.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-13_comparing-latest-ai-models-for-research-and-analysis.md"
+      ]
+    },
+    {
+      "hash": "57a457a04bcfbd88ec8d5665146827c1",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/ai/2026-02-25_video-analysis-and-detailed-prompt-creation.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-25_video-analysis-and-detailed-prompt-creation.md"
+      ]
+    },
+    {
+      "hash": "185cdb0f875a27b27ace81cd728c4d09",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/games/2026-03-24_gilgamesh-king-or-god.md",
+        "02 - AREAS/03 Ancient Civilizations/games/2026-03-24_gilgamesh-king-or-god_1.md"
+      ]
+    },
+    {
+      "hash": "366060ef1982f9dff05c07ea339c133e",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/games/2026-02-27_creating-a-fun-retro-game-prompt.md",
+        "02 - AREAS/02 AI & Technology/games/2026-02-27_creating-a-fun-retro-game-prompt.md"
+      ]
+    },
+    {
+      "hash": "f49921b0acd49590173feac602ea0872",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2025/2025-10-30_neoattend-facial-recognition-mono-repo.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-10-30_neoattend-facial-recognition-mono-repo.md"
+      ]
+    },
+    {
+      "hash": "44998df5200d4975cb4cdc1836f489eb",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2025/2025-11-16_remix-of-mutual-exclusion-in-dsm.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-16_remix-of-mutual-exclusion-in-dsm.md"
+      ]
+    },
+    {
+      "hash": "9cfdbf3052aae13fda22841166133c64",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2025/2025-10-31_neoattend-production-mono-repo-scaffold.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-10-31_neoattend-production-mono-repo-scaffold.md"
+      ]
+    },
+    {
+      "hash": "6ebad76477a40207fd5f3f38d5112aa7",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2025/2025-11-27_exercisewiki-project-implementation-guide.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-27_exercisewiki-project-implementation-guide.md"
+      ]
+    },
+    {
+      "hash": "6ee8c4952d2e6caa8db0eaf68ee194ff",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2025/2025-07-16_develop-project-estimates.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-07-16_develop-project-estimates.md"
+      ]
+    },
+    {
+      "hash": "eb0776a65a34a686acccf66b227fec27",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2025/2025-08-18_personalized-healthy-meal-planning.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-18_personalized-healthy-meal-planning.md"
+      ]
+    },
+    {
+      "hash": "bab71dfd48132ad8e0933b6ced7f8d62",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/year-2025/2025-11-13_deep-space-universe-explorer.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-13_deep-space-universe-explorer.md"
+      ]
+    },
+    {
+      "hash": "fc9e302557f8f8bb0c308a0ebb93ac2a",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/buddhism/2026-03-30_buddhisms-origins-and-global-influence.md",
+        "02 - AREAS/01 Philosophy & Religion/buddhism/2026-03-30_buddhisms-origins-and-global-influence.md"
+      ]
+    },
+    {
+      "hash": "47a565aeb6f66dac3f52c88b3b536ee9",
+      "files": [
+        "02 - AREAS/03 Ancient Civilizations/indus-valley/2026-04-02_oldest-civilizations-before-the-indus-valley.md",
+        "02 - AREAS/03 Ancient Civilizations/indus-valley/2026-04-02_oldest-civilizations-before-the-indus-valley_1.md"
+      ]
+    },
+    {
+      "hash": "eb423581ad51518a5a26f30a76071769",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/00_Memories.md",
+        "02 - AREAS/02 AI & Technology/00_Memories.md"
+      ]
+    },
+    {
+      "hash": "389ac489474f734bc21512b5ff9639a1",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/00_Qwen_Index_1.md",
+        "02 - AREAS/01 Philosophy & Religion/00_Qwen_Index.md"
+      ]
+    },
+    {
+      "hash": "649a14a007646d5c573e000023fc52a6",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/00_Projects.md",
+        "02 - AREAS/02 AI & Technology/00_Projects.md"
+      ]
+    },
+    {
+      "hash": "28baea52d1c45d9ac03ae3056a5c5254",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/00_DEEPSEEK INDEX.md",
+        "02 - AREAS/02 AI & Technology/00_DEEPSEEK INDEX.md"
+      ]
+    },
+    {
+      "hash": "2069771f74424a682c83b32db5700c04",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/2026-03-07_audio-website-for-civilization-rebuilding-guide.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2026-03-07_audio-website-for-civilization-rebuilding-guide.md"
+      ]
+    },
+    {
+      "hash": "709351ecba46f2cce81a70b9e760ec0e",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/2025-09-08_hyderabad-city-night-animation.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-08_hyderabad-city-night-animation.md"
+      ]
+    },
+    {
+      "hash": "0581c07e05a5e2ca5cfbed2020d80eff",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/hinduism/Zionism Hindu Nationalism Similarities_1.md",
+        "02 - AREAS/01 Philosophy & Religion/hinduism/Zionism Hindu Nationalism Similarities.md"
+      ]
+    },
+    {
+      "hash": "705603d518cfdc401567ea802c54a12f",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/data-science/2026-02-25_bjp-vs-congress-corruption-analysis.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-02-25_bjp-vs-congress-corruption-analysis.md"
+      ]
+    },
+    {
+      "hash": "31383413e9b3e76c26c253ffc72b7a94",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/data-science/2026-03-18_nia-counter-terror-operation-analysis.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-18_nia-counter-terror-operation-analysis.md"
+      ]
+    },
+    {
+      "hash": "c75e1c03e33db801d6e0d729b2df1702",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/data-science/2026-03-26_comparative-analysis-of-two-parties-with-diagrams.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-26_comparative-analysis-of-two-parties-with-diagrams.md"
+      ]
+    },
+    {
+      "hash": "8facb084910de1fa37109a17a7134d17",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/data-science/2026-03-07_india-data-center-locations-and-future-installations.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-07_india-data-center-locations-and-future-installations.md"
+      ]
+    },
+    {
+      "hash": "742b26d45d856e71e9f72ec1e65da03f",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/philosophy-comparison/2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-02-26_peter-thiel-vs-alex-karp-power-dynamics-at-palantir.md"
+      ]
+    },
+    {
+      "hash": "dc7854dea94dd1cd4f85bf40d181f280",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/philosophy-comparison/2026-03-22_real-comparison-images-from-authentic-sources_1.md",
+        "02 - AREAS/01 Philosophy & Religion/philosophy-comparison/2026-03-22_real-comparison-images-from-authentic-sources.md"
+      ]
+    },
+    {
+      "hash": "468b2f4873534986ad37144c491b11e5",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/philosophy-comparison/2026-03-06_india-vs-china-petrol-prices-comparison.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-03-06_india-vs-china-petrol-prices-comparison.md"
+      ]
+    },
+    {
+      "hash": "c437e85f2a13d484bbe26b4333130d6c",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/philosophy-comparison/2026-03-22_religiouscomparisonimages_1.md",
+        "02 - AREAS/01 Philosophy & Religion/philosophy-comparison/2026-03-22_religiouscomparisonimages.md"
+      ]
+    },
+    {
+      "hash": "2b65b5ddd20b363755e0efc1605179f8",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/career/2026-03-10_automated-job-applications-for-data-analysis-roles.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-10_automated-job-applications-for-data-analysis-roles.md"
+      ]
+    },
+    {
+      "hash": "04fbc6fd7bfef72dc45209cd551c8b52",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/career/2026-03-28_checking-for-job-offers.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-28_checking-for-job-offers.md"
+      ]
+    },
+    {
+      "hash": "1648f87f2f937031e0866d3c94a9e3a2",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/career/2026-03-10_adding-data-analysis-project-to-fresher-resume.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-10_adding-data-analysis-project-to-fresher-resume.md"
+      ]
+    },
+    {
+      "hash": "0b530fcc7f0dc8eac9e9e9de6726dac2",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/career/2026-03-18_automated-job-applications-for-data-analyst-roles-in-hy.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-18_automated-job-applications-for-data-analyst-roles-in-hy.md"
+      ]
+    },
+    {
+      "hash": "9b2631b9f8800fae7aed86eaa66cf0c3",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/marvel-dc/2026-02-17_marvel-vs-dcvertigo-cosmology-comparison.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-02-17_marvel-vs-dcvertigo-cosmology-comparison.md"
+      ]
+    },
+    {
+      "hash": "963b79ccbfd12b7cae6e62ff8599f5f3",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/marvel-dc/2026-03-23_superhero-character-match-and-search-rating.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-03-23_superhero-character-match-and-search-rating.md"
+      ]
+    },
+    {
+      "hash": "8c30ec883b7807d08f2d8f3bb1ccc872",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/os-systems/2025-08-24_top-10-fictional-cosmological-powers.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2025-08-24_top-10-fictional-cosmological-powers.md"
+      ]
+    },
+    {
+      "hash": "4f407daa3746067de7b7079fa049b2c0",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/os-systems/2026-02-21_checking-laptop-specs-on-linux.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-02-21_checking-laptop-specs-on-linux.md"
+      ]
+    },
+    {
+      "hash": "663f4cc397eaae19798c68f3f11b269d",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/os-systems/2026-03-15_indian-stock-analyzer-system.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-15_indian-stock-analyzer-system.md"
+      ]
+    },
+    {
+      "hash": "c5a7d3346d31beea295781db8d521782",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/os-systems/2026-03-29_cosmologiesofmajorreligions.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-29_cosmologiesofmajorreligions.md"
+      ]
+    },
+    {
+      "hash": "06ef370d670875f146c4e98511affd04",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/os-systems/2026-03-11_cross-platform-mouse-and-keyboard-sharing-app.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-11_cross-platform-mouse-and-keyboard-sharing-app.md"
+      ]
+    },
+    {
+      "hash": "19cc24ed017647b00cf26c0014adc560",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-22_image-collection-guide_1.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-22_image-collection-guide.md"
+      ]
+    },
+    {
+      "hash": "80abdaaad41e049a00c51e15268fd15d",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-02-17_origins-of-religion-divine-or-human-creation_1.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-02-17_origins-of-religion-divine-or-human-creation.md"
+      ]
+    },
+    {
+      "hash": "76d53f08b38a1df641140cccb965744f",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-14_war-affected-stocks-under-25-rupees.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-14_war-affected-stocks-under-25-rupees.md"
+      ]
+    },
+    {
+      "hash": "3d933f1f20fd524492d3ad86ce51df4e",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-12_telangana-si-preparation-books-free-download-sources.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-12_telangana-si-preparation-books-free-download-sources.md"
+      ]
+    },
+    {
+      "hash": "e2973d4b027fd2e3e973e314bd0f1eb4",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-08_chinas-current-policies-in-tibet.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-08_chinas-current-policies-in-tibet.md"
+      ]
+    },
+    {
+      "hash": "8ebbe3d0efbe6497709f127c372a18ff",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-02-26_religions-oldest-to-newest_1.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-02-26_religions-oldest-to-newest.md"
+      ]
+    },
+    {
+      "hash": "642e2b86577390fe46953672a115cc24",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-24_war-driven-stock-picks-under-500-rupees.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-24_war-driven-stock-picks-under-500-rupees.md"
+      ]
+    },
+    {
+      "hash": "08f5e34174912ce83eff5841e1e68323",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-02-25_religious-texts-overview.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-02-25_religious-texts-overview_1.md"
+      ]
+    },
+    {
+      "hash": "07016f81fcb2795f36d5a7ac421ccdca",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-27_best-stocks-for-1-lakh-rupee-portfolio.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-27_best-stocks-for-1-lakh-rupee-portfolio.md"
+      ]
+    },
+    {
+      "hash": "9e300bbf70f019ef28991ff005f0f3b7",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-22_comparative-religious-iconography_1.md",
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-22_comparative-religious-iconography.md"
+      ]
+    },
+    {
+      "hash": "6b16cc7a3201840c288dd8a9efa59a60",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-28_dialogue-of-the-conquerors.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-28_dialogue-of-the-conquerors.md"
+      ]
+    },
+    {
+      "hash": "511d72a47d1ebf60a6e505091730792b",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-03-29_cleaning-up-obsidians-cluttered-graph.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-29_cleaning-up-obsidians-cluttered-graph.md"
+      ]
+    },
+    {
+      "hash": "9a9eb0c90b20f252eb524698e6f70ece",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/year-2026/2026-02-11_popular-apps-their-alternatives.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-11_popular-apps-their-alternatives.md"
+      ]
+    },
+    {
+      "hash": "01180f0495f9a95456508ae0b2ccbc18",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-04-04_exporting-claude-search-history-to-obsidian.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-04-04_exporting-claude-search-history-to-obsidian.md"
+      ]
+    },
+    {
+      "hash": "f2df1f3ce923cb21bd53c22f70ff5c1a",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-03-28_buddha-vs-jain-timeline_1.md",
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-03-28_buddha-vs-jain-timeline.md"
+      ]
+    },
+    {
+      "hash": "0fcf644914b315cfeed299ff4495ac7e",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-02-21_open-source-os-for-ai-research-on-cpu-only-systems.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-21_open-source-os-for-ai-research-on-cpu-only-systems.md"
+      ]
+    },
+    {
+      "hash": "4f4a0c569bea4c14b739f0177ae25365",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-03-30_interfaith-wisdom-synthesis.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-30_interfaith-wisdom-synthesis.md"
+      ]
+    },
+    {
+      "hash": "4ff08a37b1e9dd5d65925b852a460f56",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-02-27_open-source-ai-news-verification-system.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-27_open-source-ai-news-verification-system.md"
+      ]
+    },
+    {
+      "hash": "aa8c763a5a129aae150f52f797944481",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-03-27_creating-a-comic-book-from-a-story-using-ai.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-27_creating-a-comic-book-from-a-story-using-ai.md"
+      ]
+    },
+    {
+      "hash": "0d550c6bcfd3fdba31515bb0bd384daa",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-03-04_ai-powered-project-enhancement-and-innovation-strategy.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-04_ai-powered-project-enhancement-and-innovation-strategy.md"
+      ]
+    },
+    {
+      "hash": "f7cea0033620ed43fa5f7f54ec9ec0a4",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-03-22_interfaith-gods-moral-story-script.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-22_interfaith-gods-moral-story-script.md"
+      ]
+    },
+    {
+      "hash": "1bdcc852e031ec40ba8118b1301d0a20",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ai/2026-03-13_correcting-aionui-docker-filenames-for-v1826.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-13_correcting-aionui-docker-filenames-for-v1826.md"
+      ]
+    },
+    {
+      "hash": "5cea90553cb4174f9e6968405cfb4e04",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/games/2025-12-14_interactive-3d-particle-system-with-hand-gesture-contro.md",
+        "02 - AREAS/02 AI & Technology/games/2025-12-14_interactive-3d-particle-system-with-hand-gesture-contro.md"
+      ]
+    },
+    {
+      "hash": "d5d9f66c14a3bb78cf60d7e681620c08",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/games/2025-12-03_interactive-3d-particle-system.md",
+        "02 - AREAS/02 AI & Technology/games/2025-12-03_interactive-3d-particle-system.md"
+      ]
+    },
+    {
+      "hash": "061b70142da1e650f61d4b72903ef70f",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/games/2025-12-03_interactive-3d-particle-system-with-hand-gesture-contro.md",
+        "02 - AREAS/02 AI & Technology/games/2025-12-03_interactive-3d-particle-system-with-hand-gesture-contro.md"
+      ]
+    },
+    {
+      "hash": "5198f580607ebbfeae4845c51d8b14cd",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/caste/2026-03-24_caste-system-origins.md",
+        "02 - AREAS/06 Society & Culture/caste/2026-03-24_caste-system-origins.md"
+      ]
+    },
+    {
+      "hash": "86898d9a2d9a0bb42f19bc9511b5d847",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/ancient-india/2026-03-22_chanakya-vs-buddha-comparison.md",
+        "02 - AREAS/01 Philosophy & Religion/ancient-india/2026-03-22_chanakya-vs-buddha-comparison_1.md"
+      ]
+    },
+    {
+      "hash": "49bf42ec4957f32f1bbd31aca82b6cd3",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/buddhism/Buddhism Hinduism Historical Relationship_1.md",
+        "02 - AREAS/01 Philosophy & Religion/buddhism/Buddhism Hinduism Historical Relationship.md"
+      ]
+    },
+    {
+      "hash": "bd7300038fba299e236b05b4af57d75e",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/buddhism/2026-03-25_buddha-statue-album-guide_1.md",
+        "02 - AREAS/01 Philosophy & Religion/buddhism/2026-03-25_buddha-statue-album-guide.md"
+      ]
+    },
+    {
+      "hash": "03976bc4823d0d9036311ac1c3a0873a",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/buddhism/2026-03-28_mahavira-and-buddhas-birth-order_1.md",
+        "02 - AREAS/01 Philosophy & Religion/buddhism/2026-03-28_mahavira-and-buddhas-birth-order.md"
+      ]
+    },
+    {
+      "hash": "c2ae4e0ad26995c3eed507b9d4d78362",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/buddhism/2026-03-21_buddha-media-collection.md",
+        "02 - AREAS/01 Philosophy & Religion/buddhism/2026-03-21_buddha-media-collection_1.md"
+      ]
+    },
+    {
+      "hash": "eee078aa23b77feeec0c8a930d776b9f",
+      "files": [
+        "02 - AREAS/01 Philosophy & Religion/buddhism/2026-03-21_buddha-media-resources-and-free-viewing-links.md",
+        "02 - AREAS/02 AI & Technology/2026-03-21_buddha-media-resources-and-free-viewing-links.md"
+      ]
+    },
+    {
+      "hash": "551b4fafbd2b9e5a86f719ef55ffaa96",
+      "files": [
+        "02 - AREAS/02 AI & Technology/web-dev/2026-03-18_web-replication-guide.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2026-03-18_web-replication-guide_1.md"
+      ]
+    },
+    {
+      "hash": "2341784ee1b370fc7bb3a7dd78bc909b",
+      "files": [
+        "02 - AREAS/02 AI & Technology/web-dev/2025-12-02_satirical-tribute-website-design.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2025-12-02_satirical-tribute-website-design_1.md"
+      ]
+    },
+    {
+      "hash": "acf1e323dfd2de415ad87c428de18136",
+      "files": [
+        "02 - AREAS/02 AI & Technology/web-dev/2026-03-12_minimalist-website-design-guide_1.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2026-03-12_minimalist-website-design-guide.md"
+      ]
+    },
+    {
+      "hash": "5cb25071645e642507cdd151906609e5",
+      "files": [
+        "02 - AREAS/02 AI & Technology/web-dev/2026-02-01_build-a-food-nutrition-search-website.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2026-02-01_build-a-food-nutrition-search-website_1.md"
+      ]
+    },
+    {
+      "hash": "38f2e2227cdd121a6c18c33211bdf783",
+      "files": [
+        "02 - AREAS/02 AI & Technology/web-dev/2025-08-17_basic-web-calculator-implementation.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2025-08-17_basic-web-calculator-implementation_1.md"
+      ]
+    },
+    {
+      "hash": "2f4acd3fe1e332641cc475fc5c27d3f7",
+      "files": [
+        "02 - AREAS/02 AI & Technology/web-dev/2025-11-27_exercisewiki-frontend-prototype_1.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2025-11-27_exercisewiki-frontend-prototype.md"
+      ]
+    },
+    {
+      "hash": "e55be3b1c7fc9294ec323eae038c3a76",
+      "files": [
+        "02 - AREAS/02 AI & Technology/web-dev/2025-07-26_app-and-website-development_1.md",
+        "02 - AREAS/02 AI & Technology/web-dev/2025-07-26_app-and-website-development.md"
+      ]
+    },
+    {
+      "hash": "4189ab1a6f21019ca5ac8d377fc47bd9",
+      "files": [
+        "02 - AREAS/02 AI & Technology/programming/2025-07-30_python-boolean-or-operator-logic.md",
+        "02 - AREAS/02 AI & Technology/programming/2025-07-30_python-boolean-or-operator-logic_1.md"
+      ]
+    },
+    {
+      "hash": "12667692d170ff58cabcc9aa1a7eaad3",
+      "files": [
+        "02 - AREAS/02 AI & Technology/programming/2026-02-09_converting-to-latex-code.md",
+        "02 - AREAS/02 AI & Technology/programming/2026-02-09_converting-to-latex-code_1.md"
+      ]
+    },
+    {
+      "hash": "3191d76a4f9cba7e3454d8b96179266e",
+      "files": [
+        "02 - AREAS/02 AI & Technology/programming/2025-07-28_python-programming-comprehensive-guide.md",
+        "02 - AREAS/02 AI & Technology/programming/2025-07-28_python-programming-comprehensive-guide_1.md"
+      ]
+    },
+    {
+      "hash": "06f9431a387993727b06b556ca5de00d",
+      "files": [
+        "02 - AREAS/02 AI & Technology/programming/2025-07-31_python-square-calculator.md",
+        "02 - AREAS/02 AI & Technology/programming/2025-07-31_python-square-calculator_1.md"
+      ]
+    },
+    {
+      "hash": "41996c92fd9de1fa9af099a0fdd956f8",
+      "files": [
+        "02 - AREAS/02 AI & Technology/programming/2025-08-02_python-string-slicing-example.md",
+        "02 - AREAS/02 AI & Technology/programming/2025-08-02_python-string-slicing-example_1.md"
+      ]
+    },
+    {
+      "hash": "3cc88ba4d7fe5b7b842cebc22ec36e86",
+      "files": [
+        "02 - AREAS/02 AI & Technology/movies/2025-07-18_personal-movie-tracker-website_1.md",
+        "02 - AREAS/02 AI & Technology/movies/2025-07-18_personal-movie-tracker-website.md"
+      ]
+    },
+    {
+      "hash": "ebe522e3271ca7e150cf817b97a3b9e3",
+      "files": [
+        "02 - AREAS/02 AI & Technology/movies/2025-07-25_top-10-animated-movies_1.md",
+        "02 - AREAS/02 AI & Technology/movies/2025-07-25_top-10-animated-movies.md"
+      ]
+    },
+    {
+      "hash": "c0aa498eee56b78eba35a70904686113",
+      "files": [
+        "02 - AREAS/02 AI & Technology/communism/2026-03-13_stalin-mao-meeting_1.md",
+        "02 - AREAS/02 AI & Technology/communism/2026-03-13_stalin-mao-meeting.md"
+      ]
+    },
+    {
+      "hash": "7bc9433ed53a44937b8730be3f6cda14",
+      "files": [
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-23_superherocharacteranalysis.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-23_superherocharacteranalysis_1.md"
+      ]
+    },
+    {
+      "hash": "85a567fc1618933d55d4965521dc8b13",
+      "files": [
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-07_data-analysis-project-ideas.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-03-07_data-analysis-project-ideas_1.md"
+      ]
+    },
+    {
+      "hash": "444d9eef803b1437f4f045609266b59b",
+      "files": [
+        "02 - AREAS/02 AI & Technology/data-science/2026-02-06_missing-children-cases-analysis.md",
+        "02 - AREAS/02 AI & Technology/data-science/2026-02-06_missing-children-cases-analysis_1.md"
+      ]
+    },
+    {
+      "hash": "ed2cedafe1eaa04965f6bd48af7dd3f1",
+      "files": [
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-01-27_dream-vs-vaermina-showdown_1.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-01-27_dream-vs-vaermina-showdown.md"
+      ]
+    },
+    {
+      "hash": "715898d7620ca284725f1a7f734d0664",
+      "files": [
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-02-21_rothschilds-vs-rockefellers.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-02-21_rothschilds-vs-rockefellers_1.md"
+      ]
+    },
+    {
+      "hash": "44a4090fd9f9e1a18ab358db9347a9de",
+      "files": [
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-03-18_truecaller-guardify-livecaller-comparison.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-03-18_truecaller-guardify-livecaller-comparison_1.md"
+      ]
+    },
+    {
+      "hash": "997274917d8bcc7d2c99f71d488be863",
+      "files": [
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-03-04_hannibal-vs-patrick-jane.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2026-03-04_hannibal-vs-patrick-jane_1.md"
+      ]
+    },
+    {
+      "hash": "ce4f474d444872538fd232a38c8d7278",
+      "files": [
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2025-07-26_cas-vs-tdk-comparison.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2025-07-26_cas-vs-tdk-comparison_1.md"
+      ]
+    },
+    {
+      "hash": "b4761e1cdfeee3fc36a73bee45fbc99e",
+      "files": [
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2025-07-31_reverse-flash-vs-iron-man-battle.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2025-07-31_reverse-flash-vs-iron-man-battle_1.md"
+      ]
+    },
+    {
+      "hash": "905874c41ec645956050fd85912d6c46",
+      "files": [
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2025-08-13_wally-west-vs-the-runner-speedster-showdown.md",
+        "02 - AREAS/02 AI & Technology/philosophy-comparison/2025-08-13_wally-west-vs-the-runner-speedster-showdown_1.md"
+      ]
+    },
+    {
+      "hash": "66e24278173922772e40f8faf2d81615",
+      "files": [
+        "02 - AREAS/02 AI & Technology/career/2025-11-30_hci-models-and-cognitive-frameworks.md",
+        "02 - AREAS/02 AI & Technology/career/2025-11-30_hci-models-and-cognitive-frameworks_1.md"
+      ]
+    },
+    {
+      "hash": "6874185f22bae3878605a3fc87e708c1",
+      "files": [
+        "02 - AREAS/02 AI & Technology/career/2026-03-13_future-job-market-trends_1.md",
+        "02 - AREAS/02 AI & Technology/career/2026-03-13_future-job-market-trends.md"
+      ]
+    },
+    {
+      "hash": "d53c5724d9864b787b0f163274f48048",
+      "files": [
+        "02 - AREAS/02 AI & Technology/career/2026-02-18_resume-based-job-application-assistance_1.md",
+        "02 - AREAS/02 AI & Technology/career/2026-02-18_resume-based-job-application-assistance.md"
+      ]
+    },
+    {
+      "hash": "446b9289f105beeb53c0775d81ab7ba0",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-02-26_dc-vertigo-vs-marvel-cosmology_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-02-26_dc-vertigo-vs-marvel-cosmology.md"
+      ]
+    },
+    {
+      "hash": "0955a1ec5e3764e9de2decd6be9bfa8c",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-08-21_superhero-power-tier-rankings_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-08-21_superhero-power-tier-rankings.md"
+      ]
+    },
+    {
+      "hash": "b4a7e20175d9c98f7c3d7f830a5fc2ee",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-02-25_marvel-dc-canon-cosmology.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-02-25_marvel-dc-canon-cosmology_1.md"
+      ]
+    },
+    {
+      "hash": "9e04cd9dd3de38e5539deb009fded293",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-09-11_marvel-vs-dc-cosmic-hierarchy_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-09-11_marvel-vs-dc-cosmic-hierarchy.md"
+      ]
+    },
+    {
+      "hash": "4fef6a6cf26444bf9fced69743be65b5",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-08-19_dc-vs-marvel-cosmic-abstracts.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-08-19_dc-vs-marvel-cosmic-abstracts_1.md"
+      ]
+    },
+    {
+      "hash": "46d2c67d9f027335c65892106933a1c0",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-11-15_cosmic-atlas-web-application-builder.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-11-15_cosmic-atlas-web-application-builder_1.md"
+      ]
+    },
+    {
+      "hash": "a1ba4fb81adcd44db4f007b6b54cf8c8",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-23_dc-comics-media-catalog_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-23_dc-comics-media-catalog.md"
+      ]
+    },
+    {
+      "hash": "3f384c2cdebfb62b7e62a13ead10a4a7",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-26_dc-multiverse-cosmological-mapping_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-26_dc-multiverse-cosmological-mapping.md"
+      ]
+    },
+    {
+      "hash": "efa1616e58764966056e6bdfb1374ef6",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-26_dc-multiverse-cosmological-hierarchy.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-26_dc-multiverse-cosmological-hierarchy_1.md"
+      ]
+    },
+    {
+      "hash": "d4ac264dd58f2cbcb0c63412ee09ecf5",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-09-04_ultimate-superhero-showdown_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-09-04_ultimate-superhero-showdown.md"
+      ]
+    },
+    {
+      "hash": "011cc26725fd27bfe9e558bcca49c22b",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-12-23_3d-scroll-website-for-dc-comics.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-12-23_3d-scroll-website-for-dc-comics_1.md"
+      ]
+    },
+    {
+      "hash": "917b85b9ca2f86233f0bd313ff10e095",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-01-27_marvel-vs-dc-cosmology_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-01-27_marvel-vs-dc-cosmology_3.md"
+      ]
+    },
+    {
+      "hash": "b7d7102b5aee9eb5f138b82ee5517722",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-01-27_marvel-vs-dc-cosmology.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2026-01-27_marvel-vs-dc-cosmology_2.md"
+      ]
+    },
+    {
+      "hash": "d75cad114a16adee2797d1939520295d",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-09-08_the-endless-vs-marvel-cosmic-order_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-09-08_the-endless-vs-marvel-cosmic-order.md"
+      ]
+    },
+    {
+      "hash": "61d81c17181594cd8ddb830eea6937d3",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-08-01_marvel-vs-dc-cosmology_1.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-08-01_marvel-vs-dc-cosmology.md"
+      ]
+    },
+    {
+      "hash": "9a64354861a4b0530d9f91402924a971",
+      "files": [
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-26_dc-cosmology-web-design.md",
+        "02 - AREAS/02 AI & Technology/marvel-dc/2025-07-26_dc-cosmology-web-design_1.md"
+      ]
+    },
+    {
+      "hash": "d291642e247133819e6f5afcc9e5d060",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-13_installing-avion-ui-on-linux_1.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-13_installing-avion-ui-on-linux.md"
+      ]
+    },
+    {
+      "hash": "2f7e84cb9c211cc158417a17c64896e9",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2026-02-20_zorin-os-lag-fix-script_1.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-02-20_zorin-os-lag-fix-script.md"
+      ]
+    },
+    {
+      "hash": "3aa64bed5eab0d7c1fb82448ab032b65",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2026-02-21_linux-setup-review-and-feedback_1.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-02-21_linux-setup-review-and-feedback.md"
+      ]
+    },
+    {
+      "hash": "041ba69b6ea1aee44188eaa0dcb39b1d",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-11_sharing-mouse-and-keyboard-across-windows-and-linux_1.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-11_sharing-mouse-and-keyboard-across-windows-and-linux.md"
+      ]
+    },
+    {
+      "hash": "932d9b866e28b1a892142689fc323f58",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2026-02-27_trip-planning-across-india.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-02-27_trip-planning-across-india_1.md"
+      ]
+    },
+    {
+      "hash": "c8848753ca78b3172af2ef92eea73e74",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2025-10-14_custom-vs-poster-design_1.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2025-10-14_custom-vs-poster-design.md"
+      ]
+    },
+    {
+      "hash": "11a67c4978d3af41b1727778990d2f24",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2025-09-07_triple-pendulum-chaos-animation.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2025-09-07_triple-pendulum-chaos-animation_1.md"
+      ]
+    },
+    {
+      "hash": "ea962b474b7b028b88d9468feabf175f",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-09_install-run-dexter-linux-system.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-09_install-run-dexter-linux-system_1.md"
+      ]
+    },
+    {
+      "hash": "03ff26be4dbd3504724ae891d5d3a797",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2025-11-12_3d-solar-system-debug-guide.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2025-11-12_3d-solar-system-debug-guide_1.md"
+      ]
+    },
+    {
+      "hash": "da9d034df927beabbac9b63eebcf7d86",
+      "files": [
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-11_multios-peripheral-sharing.md",
+        "02 - AREAS/02 AI & Technology/os-systems/2026-03-11_multios-peripheral-sharing_1.md"
+      ]
+    },
+    {
+      "hash": "9c6918c7f98aa55448ca870bd8f2d9dd",
+      "files": [
+        "02 - AREAS/02 AI & Technology/power-scaling/2026-02-01_battle-simulation-webpage_1.md",
+        "02 - AREAS/02 AI & Technology/power-scaling/2026-02-01_battle-simulation-webpage.md"
+      ]
+    },
+    {
+      "hash": "198a54af56aa02b7b2b1c469b84197ad",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-22_video-creation-duration.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-22_video-creation-duration_1.md"
+      ]
+    },
+    {
+      "hash": "4067bcb21a6970081a3f1ce6e927edb7",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-15_rearranged-room-image_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-15_rearranged-room-image.md"
+      ]
+    },
+    {
+      "hash": "664f2a4b50a107fefee63402521b980d",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-07_build-it-project_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-07_build-it-project.md"
+      ]
+    },
+    {
+      "hash": "282b4e85bf8a03043431fbb3f8c37bf0",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-24_skin-problem-causes-and-cures.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-24_skin-problem-causes-and-cures_1.md"
+      ]
+    },
+    {
+      "hash": "5e32cb69de14d36b96d205b2381f4e28",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-04_pdf-name-report.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-04_pdf-name-report_1.md"
+      ]
+    },
+    {
+      "hash": "215af503ae80625cdeb31d9bfd08ceea",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-15_room-rearrangement-and-layout-ideas.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-15_room-rearrangement-and-layout-ideas_1.md"
+      ]
+    },
+    {
+      "hash": "be664b3a52f99b29d992c4fdc99bb329",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-12_construction-solutions_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-12_construction-solutions.md"
+      ]
+    },
+    {
+      "hash": "a20ed16426761461b861f8a94d2f503c",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-21_greatest-tv-shows.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-21_greatest-tv-shows_1.md"
+      ]
+    },
+    {
+      "hash": "006e5ed3bf3f79887a55f36139c47010",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-24_phoenix-force-showdown.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-24_phoenix-force-showdown_1.md"
+      ]
+    },
+    {
+      "hash": "8bf66d5b5798f2669c281d176198ce92",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-13_user-registration-api-test_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-13_user-registration-api-test.md"
+      ]
+    },
+    {
+      "hash": "f2581064ee25be6060d51ffdde6e84d1",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-26_quiz-or-survey_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-26_quiz-or-survey.md"
+      ]
+    },
+    {
+      "hash": "a388399cecdabeba8062099820bf2a91",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-10_stretch-marks-on-body-skin.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-10_stretch-marks-on-body-skin_1.md"
+      ]
+    },
+    {
+      "hash": "7a79870fe8e0bd46656608d6355f13c0",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-06_missing-children-cases-table.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-06_missing-children-cases-table_1.md"
+      ]
+    },
+    {
+      "hash": "7c0b35485d736ae4a1ff95247802de7c",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-26_setting-up-openclaw-locally-for-free.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-26_setting-up-openclaw-locally-for-free_1.md"
+      ]
+    },
+    {
+      "hash": "413e0b42e14074398ff4d62c215b32bb",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-22_prompt-injection-attempt-detection_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-22_prompt-injection-attempt-detection.md"
+      ]
+    },
+    {
+      "hash": "e60c634ea2b6eb2efb80415d145ba9f2",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-24_skin-condition-concerns_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-24_skin-condition-concerns.md"
+      ]
+    },
+    {
+      "hash": "af15f61a01f4bbf3d0232ae0544ab557",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-27_best-stocks-to-buy-with-1-lakh-rupees_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-27_best-stocks-to-buy-with-1-lakh-rupees.md"
+      ]
+    },
+    {
+      "hash": "1e9ec692c61cbb8c62eae010686737f6",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-26_hr-analytics-dashboard-guide.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-26_hr-analytics-dashboard-guide_1.md"
+      ]
+    },
+    {
+      "hash": "3f1868f8406dcaec07c4281b42b06f54",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-04_build-my-project.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-04_build-my-project_1.md"
+      ]
+    },
+    {
+      "hash": "a41dcff98144f646d724a5e5a45c309f",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-10_skin-condition-concerns_1.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-02-10_skin-condition-concerns.md"
+      ]
+    },
+    {
+      "hash": "5794d435e9cb7b09a7a264a75a2f842d",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-18_new-chat.md",
+        "02 - AREAS/02 AI & Technology/year-2026/2026-03-18_new-chat_1.md"
+      ]
+    },
+    {
+      "hash": "e76095db2b1ea9c025a0232812a169d5",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2026-02-20_best-open-source-os-for-ai-research_1.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-20_best-open-source-os-for-ai-research.md"
+      ]
+    },
+    {
+      "hash": "c8bc9e74ff07f39faff747bdcee36967",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2026-03-09_retail-customer-shopping-trends-analysis_1.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-09_retail-customer-shopping-trends-analysis.md"
+      ]
+    },
+    {
+      "hash": "7b837a49f9a0e749fdb2212e441d40ee",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2025-08-07_dermatologist-ai-web-demo-design_1.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-07_dermatologist-ai-web-demo-design.md"
+      ]
+    },
+    {
+      "hash": "4e80fba47c8003c356144572ebb448cc",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2026-03-13_us-aid-to-israel-1948-2026_1.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-13_us-aid-to-israel-1948-2026.md"
+      ]
+    },
+    {
+      "hash": "b5b88761e2cfcd1814a6a4660591001c",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2026-02-21_building-a-research-oriented-ai-assistant.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-21_building-a-research-oriented-ai-assistant_1.md"
+      ]
+    },
+    {
+      "hash": "bdca09744741c4c4c188658e87e01054",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2025-09-05_anime-power-clash-aizen-vs-gojo-and-makima.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-09-05_anime-power-clash-aizen-vs-gojo-and-makima_1.md"
+      ]
+    },
+    {
+      "hash": "6a5951935bf62901f772c58e95c3ada8",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2026-03-01_kimi-ai-vs-longcat-ai-for-research.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-03-01_kimi-ai-vs-longcat-ai-for-research_1.md"
+      ]
+    },
+    {
+      "hash": "70468f7bf24da765b2700d882d94a8e4",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2025-09-06_ai-system-security-vulnerability-exploration_1.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-09-06_ai-system-security-vulnerability-exploration.md"
+      ]
+    },
+    {
+      "hash": "8fe9bd97a093aefa3d3a20150f45e16b",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2026-02-23_recognizing-jailbreak-attempts_1.md",
+        "02 - AREAS/02 AI & Technology/ai/2026-02-23_recognizing-jailbreak-attempts.md"
+      ]
+    },
+    {
+      "hash": "ae028092882a904a48e57786630c58ba",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2025-07-25_game-design-brainstorming_1.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-07-25_game-design-brainstorming.md"
+      ]
+    },
+    {
+      "hash": "9f23a2cb47d1cf081bbac5524a0aca8a",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2025-08-16_creative-project-brainstorming_1.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-08-16_creative-project-brainstorming.md"
+      ]
+    },
+    {
+      "hash": "53fdbffcc2deb0f0870765325caba471",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2025-11-10_turnitin-ai-detection-report.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-11-10_turnitin-ai-detection-report_1.md"
+      ]
+    },
+    {
+      "hash": "3805c76327fa6423e3351c1ee969969e",
+      "files": [
+        "02 - AREAS/02 AI & Technology/ai/2025-12-03_ai-image-generator-mock-up.md",
+        "02 - AREAS/02 AI & Technology/ai/2025-12-03_ai-image-generator-mock-up_1.md"
+      ]
+    },
+    {
+      "hash": "0ebcbaeea0ebd51b3aca46008e26e1ef",
+      "files": [
+        "02 - AREAS/02 AI & Technology/games/2025-11-12_interactive-3d-solar-system-website_1.md",
+        "02 - AREAS/02 AI & Technology/games/2025-11-12_interactive-3d-solar-system-website.md"
+      ]
+    },
+    {
+      "hash": "49a96c4b348e96e7e14a8735ae02338b",
+      "files": [
+        "02 - AREAS/02 AI & Technology/games/2025-08-01_innovative-game-design-challenge.md",
+        "02 - AREAS/02 AI & Technology/games/2025-08-01_innovative-game-design-challenge_1.md"
+      ]
+    },
+    {
+      "hash": "9e105e9fde94c4e4ffe897de9ec3b2e7",
+      "files": [
+        "02 - AREAS/02 AI & Technology/knowledge/2025-12-09_discrete-mathematics-study-support.md",
+        "02 - AREAS/02 AI & Technology/knowledge/2025-12-09_discrete-mathematics-study-support_1.md"
+      ]
+    },
+    {
+      "hash": "812ed1d18a069bd5058258c45f85b1de",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-12_opendia-tab-listing_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-12_opendia-tab-listing.md"
+      ]
+    },
+    {
+      "hash": "ad767708ef45805052915ad2d93c152e",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-11_discrete-maths-exam-prep-units-i-v_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-11_discrete-maths-exam-prep-units-i-v.md"
+      ]
+    },
+    {
+      "hash": "2c2dffdd400450649a7b432a2effaf19",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-07-17_mylisty-interface-redesign_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-07-17_mylisty-interface-redesign.md"
+      ]
+    },
+    {
+      "hash": "033b65a3ed0ec0cf582f80d870cbe54e",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-29_problem-solving_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-29_problem-solving.md"
+      ]
+    },
+    {
+      "hash": "41889d84e9ede3aa4e62f5548a0422cc",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-07-17_project-file-preview-request.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-07-17_project-file-preview-request_1.md"
+      ]
+    },
+    {
+      "hash": "37c0707f93869a64a368d680ea66164d",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-30_latex-error-correction.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-30_latex-error-correction_1.md"
+      ]
+    },
+    {
+      "hash": "bdfa129ca7e2d81f2fc8521c258dc821",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-30_mobile-hci-lecture-summary.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-30_mobile-hci-lecture-summary_1.md"
+      ]
+    },
+    {
+      "hash": "8489f264a1de3229e03a4d3df7ce1097",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-12_launching-opendia-via-npx_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-12_launching-opendia-via-npx.md"
+      ]
+    },
+    {
+      "hash": "855d50bca8387929cda966f34a826cae",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-13_deep-space-explorer.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-13_deep-space-explorer_1.md"
+      ]
+    },
+    {
+      "hash": "4f1f37d9dae5daffcae1bd7034664caa",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-26_clone-command-assistance_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-11-26_clone-command-assistance.md"
+      ]
+    },
+    {
+      "hash": "f226bc71c436a0b285c5bd4ddf123a76",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-01_cognitive-computing-notes-units-1-2.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-01_cognitive-computing-notes-units-1-2_1.md"
+      ]
+    },
+    {
+      "hash": "f96f4583aab6a158718e190e9f1f21ba",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-07_triple-pendulum-physics-animation_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-07_triple-pendulum-physics-animation.md"
+      ]
+    },
+    {
+      "hash": "e6c131d784f4549b9b94da4706e51222",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-12_opendia-page-summary-request.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-12_opendia-page-summary-request_1.md"
+      ]
+    },
+    {
+      "hash": "783fc36573b49fc366f58448d5910b2f",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-10_custom-gym-loader-animation.md",
+        "02 - AREAS/06 Society & Culture/year-2025/2025-12-10_custom-gym-loader-animation.md"
+      ]
+    },
+    {
+      "hash": "03ca9819138e44d19daa904bb586d1e6",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-06_best-stretches-for-recovery-and-sleep.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-06_best-stretches-for-recovery-and-sleep_1.md"
+      ]
+    },
+    {
+      "hash": "078bc7c60495deba4a6d0e0010d57796",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-01_check-once.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-09-01_check-once_1.md"
+      ]
+    },
+    {
+      "hash": "040891d029b02b677c5a3e36e805ad6f",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-10_realistic-muscle-anatomy-in-animation_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-10_realistic-muscle-anatomy-in-animation.md"
+      ]
+    },
+    {
+      "hash": "8ea6ab5171d4c8cff43adb67c3ea9f51",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-01_cognitive-computing-fundamentals.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-01_cognitive-computing-fundamentals_1.md"
+      ]
+    },
+    {
+      "hash": "4d6744b5686d4c87a387d34142352612",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-09_untitled.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-09_untitled_1.md"
+      ]
+    },
+    {
+      "hash": "3466ad17b17a24172fed53f2b7a67863",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-03_satellitecommunicationsimulation.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-03_satellitecommunicationsimulation_1.md"
+      ]
+    },
+    {
+      "hash": "69b1bb6934f1d7c770f52f7831d12d9b",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-15_youtube-shorts-video-link.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-08-15_youtube-shorts-video-link_1.md"
+      ]
+    },
+    {
+      "hash": "ac3fefc1710c9d5ed37b9e483a8811c8",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-01_cognitive-computing-course-syllabus_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-12-01_cognitive-computing-course-syllabus.md"
+      ]
+    },
+    {
+      "hash": "f45ac3348307f25d7c2af6da8fe14ae1",
+      "files": [
+        "02 - AREAS/02 AI & Technology/year-2025/2025-07-26_image-enhancement-and-upscaling_1.md",
+        "02 - AREAS/02 AI & Technology/year-2025/2025-07-26_image-enhancement-and-upscaling.md"
+      ]
+    }
+  ]
+}

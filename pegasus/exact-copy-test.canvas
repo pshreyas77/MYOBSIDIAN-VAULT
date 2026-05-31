@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"test-node","type":"text","text":"Test Node Content","x":-300,"y":-200,"width":600,"height":800,"color":"blue"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0",
+		"frontmatter":{}
+	}
+}

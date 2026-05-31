@@ -1,29 +1,57 @@
-# PDFs - too large for GitHub without LFS
-*.pdf
-BOOKS/
-
-# Obsidian app data
+# Obsidian System Files
 .obsidian/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/plugins/
+.obsidian/cache/
+.obsidian/graph.json
 
-# AI agent and skill data
-.claude/
-
-# Raw/cache data
-.raw/
+# Claude/AI System Files (keep .claude-plugin for hooks)
+.claude/skills/
+.claude/config/
 .smart-env/
-
-# Trash
 .trash/
+.raw/
 
-# Generated/cache directories
+# Large Binary Files (exclude or use Git LFS)
+Attachments/*.pdf
+Attachments/*.mp4
+Attachments/*.mov
+Attachments/*.avi
+Attachments/*.zip
+Attachments/*.rar
+Attachments/*.dmg
+Attachments/*.iso
+
+# System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python Cache
 __pycache__/
-temp_autoresearch/
-graphify-out/
-graphify-repo/
-graphify/
-InfiniteBrain/
-GitNexus/
-ruflo/
-tolaria/
-genericagent/
-.smart-env/
+*.pyc
+*.pyo
+.Python
+*.so
+
+# Node Modules (if any)
+node_modules/
+
+# Log Files
+*.log
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+
+# Keep these IMPORTANT files
+!.mcp.json
+!mempalace.yaml
+!GRAPHIFY*.md
+!_CLAUDE.md
+!MEMPALACE_INTEGRATION.md
+!CLAUDE_SECOND_BRAIN_INTEGRATION.md

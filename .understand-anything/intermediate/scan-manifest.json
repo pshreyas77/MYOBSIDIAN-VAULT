@@ -1,0 +1,543 @@
+{
+  "format": "karpathy",
+  "stats": {
+    "articles": 13,
+    "sources": 0,
+    "topics": 2,
+    "wikilinks": 144,
+    "unresolved": 130
+  },
+  "categories": [
+    {
+      "name": "Recently Updated",
+      "count": 1
+    },
+    {
+      "name": "By Category",
+      "count": 9
+    }
+  ],
+  "logEntries": 11,
+  "nodes": [
+    {
+      "id": "article:README",
+      "type": "article",
+      "name": "LLM Wiki Second Brain System",
+      "filePath": "README.md",
+      "summary": "This directory contains the implementation of an LLM Wiki system for your Obsidian vault - a persistent, self-maintaining knowledge base that gets richer with every source added and question asked.",
+      "tags": [],
+      "complexity": "simple",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "Second Brain",
+          "Knowledge Compounding",
+          "orphan notes report",
+          "link density report",
+          "orphan notes report"
+        ],
+        "category": null,
+        "content": "# LLM Wiki Second Brain System\n\nThis directory contains the implementation of an LLM Wiki system for your Obsidian vault - a persistent, self-maintaining knowledge base that gets richer with every source added and question asked.\n\n## Overview\n\nThe LLM Wiki pattern transforms your Obsidian vault from a static collection of notes into a dynamic, self-organizing second brain where:\n\n1. **Knowledge is compiled once and kept current** - Not re-derived on every query\n2. **The LLM handles all bookkeeping** - Cross-references, updates, consistency\n3. **Explorations compound in the knowledge base** - Like ingested sources\n4. **You focus on sourcing and asking questions** - The LLM does the grunt work\n\n## Core Components\n\n### 1. Index and Logging System\n- **`index.md`** - Content-oriented catalog of all wiki pages\n- **`log.md`** - Chronological append-only record of all operations\n\n### 2. Ingestion Workflow\nSemi-automated process for adding new sources:\n```\n[New Source] \u2192 LLM processes & discusses \u2192 Creates/updates summary \u2192 Updates index/entities \u2192 Logs ingest\n```\n\n### 3. Query-to-Wiki Feedback Loop\nValuable answers from queries are saved back to the wiki as new pages.\n\n### 4. Regular Linting & Maintenance\nPeriodic health checks to detect contradictions, stale claims, orphan pages, and missing cross-references.\n\n## Files Created\n\n### Helper Scripts\n- `wiki_ingest_helper.py` - Assists with ingesting new sources\n- `wiki_query_helper.py` - Saves query answers as wiki pages\n- `wiki_lint_helper.py` - Performs health checks on the wiki\n- `wiki.py` - Unified CLI interface for all operations\n\n### Template Directory\n- `wiki/_templates/` - Templates for entity, concept, and source pages\n\n### Core Wiki Files\n- `wiki/index.md` - Master catalog\n- `wiki/log.md` - Operation log\n- `wiki/sources/` - Source summary pages\n- `wiki/entities/` - Entity pages\n- `wiki/concepts/` - Concept pages\n- `wiki/comparisons/` - Query answers and analyses\n\n## Usage\n\n### Initialize the System\n```bash\npython3 wiki.py init\n```\n\n### Ingest a New Source\n```bash\npython3 wiki.py source \"04 - RESOURCES/Inbox/article.pdf\" \"Article Title\"\n```\n\n### Save a Query Answer\n```bash\npython3 wiki.py query \"What is the LLM wiki pattern?\" \"It's a pattern for...\" \"[[Second Brain]] [[Knowledge Compounding]]\"\n```\n\n### Run Health Checks\n```bash\npython3 wiki.py lint full\n# or specific checks:\npython3 wiki.py lint orphans\npython3 wiki.py lint stale\npython3 wiki.py lint missing\n```\n\n### Update Index\n```bash\npython3 wiki.py index\n```\n\n## Integration with Existing Systems\n\nThis LLM Wiki system integrates with your existing:\n\n- **MemPalace** - Configured rooms for targeted operations\n- **Graphify** - For ongoing knowledge graph analysis\n- **Jarvis** - AI assistant capabilities\n- **Obsidian Second Brain skill** - Enhanced with LLM Wiki commands\n\n## Next Steps\n\n1. **Regular Linting Schedule** - Run `wiki.py lint full` weekly\n2. **Source Ingestion Workflow** - Develop consistent process for adding new materials\n3. **Query-",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:_templates/concept",
+      "type": "article",
+      "name": "[[Concept Name]]",
+      "filePath": "_templates/concept.md",
+      "summary": "[Clear definition]",
+      "tags": [
+        "_templates"
+      ],
+      "complexity": "moderate",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "Concept Name",
+          "Concept Name",
+          "Entity",
+          "Context",
+          "Entity",
+          "Context",
+          "Entity1",
+          "Entity2",
+          "Related Concept",
+          "Opposing Concept",
+          "Source Title"
+        ],
+        "category": null,
+        "content": "---\ntitle: [[Concept Name]]\ntype: concept\naliases: [Alternative Names]\ndate: {{DATE}}\nupdated: {{DATE}}\nrelated_entities: []\n---\n\n# [[Concept Name]]\n\n## Definition\n[Clear definition]\n\n## Applications/Domains\n- Domain 1: [[Entity]] in [[Context]]\n- Domain 2: [[Entity]] in [[Context]]\n\n## Relationships\n- Connects: [[Entity1]] and [[Entity2]]\n- Similar to: [[Related Concept]]\n- Contrasts with: [[Opposing Concept]]\n\n## Sources\n- [[Source Title]] - How it defines/explains the concept\n\n## Examples\n- Example 1: [Description]\n- Example 2: [Description]\n\n## Notes\n[Debates, evolving understanding, open questions]\n\n## Last Updated\n{{DATE}}",
+        "backlinks": [
+          "article:_templates/source",
+          "article:_templates/source",
+          "article:analysis/cross-area-opportunities",
+          "article:sources/Test_Article_for_LLM_Wiki_Ingestion",
+          "article:sources/Test_Article_for_LLM_Wiki_Ingestion"
+        ]
+      }
+    },
+    {
+      "id": "article:_templates/entity",
+      "type": "article",
+      "name": "[[Entity Name]]",
+      "filePath": "_templates/entity.md",
+      "summary": "[Brief description]",
+      "tags": [
+        "_templates"
+      ],
+      "complexity": "moderate",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "Entity Name",
+          "Entity Name",
+          "Related Entity",
+          "Category",
+          "Sub-entity",
+          "Source Title"
+        ],
+        "category": null,
+        "content": "---\ntitle: [[Entity Name]]\ntype: entity\naliases: [Alternative Names]\ndate: {{DATE}}\nupdated: {{DATE}}\nsources: []\n---\n\n# [[Entity Name]]\n\n## Overview\n[Brief description]\n\n## Key Attributes\n- Attribute: Value\n- ...\n\n## Relationships\n- Related to: [[Related Entity]]\n- Part of: [[Category]]\n- Contains: [[Sub-entity]]\n\n## Sources\n- [[Source Title]] - Key insights\n\n## Notes\n[Additional context, contradictions, open questions]\n\n## Last Updated\n{{DATE}}",
+        "backlinks": [
+          "article:_templates/concept",
+          "article:_templates/concept",
+          "article:_templates/source",
+          "article:_templates/source",
+          "article:sources/Test_Article_for_LLM_Wiki_Ingestion",
+          "article:sources/Test_Article_for_LLM_Wiki_Ingestion"
+        ]
+      }
+    },
+    {
+      "id": "article:_templates/link-enrichment",
+      "type": "article",
+      "name": "Link Enrichment Template",
+      "filePath": "_templates/link-enrichment.md",
+      "summary": "Add valuable contextual links between related concepts without modifying existing content.",
+      "tags": [
+        "_templates"
+      ],
+      "complexity": "complex",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "Related Concept 1",
+          "Related Concept 2",
+          "Related Topic",
+          "Application Area",
+          "Concept A",
+          "Concept B",
+          "Concept C",
+          "Concept D",
+          "Field:Philosophy",
+          "Buddhism",
+          "Epistemology",
+          "Field:Technology",
+          "LLM",
+          "Knowledge-Representation",
+          "Ancient Wisdom",
+          "Modern AI",
+          "Ethical Frameworks"
+        ],
+        "category": null,
+        "content": "# Link Enrichment Template\n\n## Purpose\nAdd valuable contextual links between related concepts without modifying existing content.\n\n## Methods\n\n### Method 1: Contextual \"See Also\" Sections\n```markdown\n## See Also\n- [[Related Concept 1]] - Brief explanation of why these are connected\n- [[Related Concept 2]] - Brief explanation of connection\n```\n*Added at end of note or in appropriate logical location*\n\n### Method 2: Inline Contextual Enhancement\n```markdown\nAs explored in greater detail in [[Related Topic]], this principle applies to [[Application Area]] by [explanation].\n```\n*Added where contextually appropriate, never replacing existing text*\n\n### Method 3: Frontmatter Enhancement (for plugins that support it)\n```markdown\n---\n# These additions don't alter core content, only metadata\nrelated: [[Concept A]], [[Concept B]]\nsee_also: [[Concept C]], [[Concept D]]\ngraph_group: \"Knowledge Domain\"\n---\n```\n*Only adds to existing frontmatter, never removes*\n\n### Method 4: Structural Connection Blocks\n```markdown\n---\n## Knowledge Connections\n### Field Connections\n- [[Field:Philosophy]] [[Buddhism]] [[Epistemology]]\n- [[Field:Technology]] [[LLM]] [[Knowledge-Representation]]\n### Topic Bridges\n- [[Ancient Wisdom]] [[Modern AI]] [[Ethical Frameworks]]\n---\n```\n*Added as footer or sidebar content*",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:_templates/source",
+      "type": "article",
+      "name": "[[Source Title]]",
+      "filePath": "_templates/source.md",
+      "summary": "[Brief summary of source]",
+      "tags": [
+        "_templates"
+      ],
+      "complexity": "moderate",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "Source Title",
+          "path/to/original",
+          "Source Title",
+          "Entity",
+          "Concept",
+          "Entity",
+          "Concept",
+          "Entity1",
+          "Entity2",
+          "Concept1",
+          "Concept2"
+        ],
+        "category": null,
+        "content": "---\ntitle: [[Source Title]]\ntype: source\ndate: {{DATE}}\nadded: {{DATE}}\nsource_type: [article/book/podcast/video/etc]\nauthor: [Author Name]\nsource_path: [[path/to/original]]\nentities_mentioned: []\nconcepts_discussed: []\n---\n\n# [[Source Title]]\n\n## Overview\n[Brief summary of source]\n\n## Key Takeaways\n- Takeaway 1: [Summary with links to [[Entity]]/[[Concept]]]\n- Takeaway 2: [Summary with links to [[Entity]]/[[Concept]]]\n- ...\n\n## Entities Mentioned\n- [[Entity1]] - Role in source\n- [[Entity2]] - Role in source\n\n## Concepts Discussed\n- [[Concept1]] - How presented\n- [[Concept2]] - How presented\n\n## Relevance to Wiki\n- Updates/changes to existing understanding\n- Contradictions with current knowledge\n- New connections suggested\n\n## Personal Notes\n[Why this source was added, relevance to goals]\n\n## Last Updated\n{{DATE}}",
+        "backlinks": [
+          "article:analysis/cross-area-opportunities",
+          "article:analysis/cross-area-opportunities",
+          "article:analysis/cross-area-opportunities"
+        ]
+      }
+    },
+    {
+      "id": "article:analysis/cross-area-opportunities",
+      "type": "article",
+      "name": "Cross-Area Linking Opportunities Report",
+      "filePath": "analysis/cross-area-opportunities.md",
+      "summary": "*Generated: 2026-04-23 22:57:06*",
+      "tags": [
+        "analysis"
+      ],
+      "complexity": "moderate",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "Buddha",
+          "Nagarjuna",
+          "Nagarjuna",
+          "Nagarjuna",
+          "Source",
+          "Nagarjuna",
+          "Source",
+          "Concept",
+          "Source",
+          "Buddha",
+          "Caste System Origins"
+        ],
+        "category": null,
+        "content": "# Cross-Area Linking Opportunities Report\n*Generated: 2026-04-23 22:57:06*\n\n## Summary\nThis report identifies opportunities where concepts are mentioned in notes but not linked to their corresponding notes in other areas.\nThese represent chances to build bridges between knowledge domains.\n\n## Total Opportunities Found: 11\n\n## Top Opportunities\n\n| Source Note | Mentioned Concept | Suggested Link | Target Area | Context Preview |\n|-------------|------------------|----------------|-------------|-----------------|\n| 00 - SYSTEM/01_KNOWLEDGE_HUB.md | Buddha | [[Buddha]] | Knowledge Areas | e analysis, and religious studies.\n\n**Topics:**\n- ... |\n| 00 - SYSTEM/01_KNOWLEDGE_HUB.md | Nagarjuna | [[Nagarjuna]] | Knowledge Areas | Links]]\nCurated video, book, and organizational li... |\n| 00 - SYSTEM/03_PHILOSOPHY_TRACKER_CANVAS_FIX.md | Nagarjuna | [[Nagarjuna]] | Knowledge Areas | Krishnamurti | `ug_krishnamurti.jpg` | \u274c **Missing... |\n| 00 - SYSTEM/CANVAS_IMAGES_STATUS.md | Nagarjuna | [[Nagarjuna]] | Knowledge Areas | G_Krishnamurti` | `all canvas/images/ug_krishnamur... |\n| 00 - SYSTEM/CANVAS_IMAGES_STATUS.md | Source | [[Source]] | Knowledge Areas | All images have connecting edges to headers\n5. \u2705 P... |\n| 00 - SYSTEM/VISUAL_CONTENT_INVENTORY.md | Nagarjuna | [[Nagarjuna]] | Knowledge Areas | U.G. Krishnamurti | `ug_krishnamurti.jpg` | \u2705 **Do... |\n| 03 - RESOURCES/00_Philosophy_Link_Tracker.md | Source | [[Source]] | Knowledge Areas | |\n|--------|---------|\n| \ud83d\udfe1 | Not started |\n| \ud83d\udfe2 | I... |\n| wiki/README.md | Concept | [[Concept]] | Knowledge Areas | log\n- `wiki/sources/` - Source summary pages\n- `wi... |\n| wiki/README.md | Source | [[Source]] | Knowledge Areas | f all operations\n\n### 2. Ingestion Workflow\nSemi-a... |\n| wiki/concepts/Religion Civilization Contributions - Complete Analysis.md | Buddha | [[Buddha]] | Knowledge Areas | ical Notes:**\n- Vedic religion \u2260 Modern \"Hinduism\"... |\n| wiki/concepts/Religion Civilization Contributions - Complete Analysis.md | Caste System Origins | [[Caste System Origins]] | Knowledge Areas | in their proper analytical domain.\"*\n\n---\n\n## \ud83d\udd17 Re... |\n\n## Analysis\nThese opportunities represent moments where your knowledge already contains the concepts\nthat would benefit from linking, but the explicit connections are missing.\nAdding these links will:\n- Strengthen cross-disciplinary connections\n- Improve knowledge discoverability\n- Enhance the overall coherence of your knowledge graph\n- Create pathways for serendipitous discovery\n\n## Recommended Actions\n1. **Review opportunities**: Validate that suggested connections make sense\n2. **Prioritize by relevance**: Focus on connections that add genuine knowledge value\n3. **Add contextually**: Insert links where they naturally flow in the text\n4. **Consider bidirectionality**: If A mentions B, does B also mention or relate to A?\n5. **Batch process**: Handle similar opportunities together for consistency\n\n## Safety Note\nAll suggested connections are additive-only - they will only",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:analysis/graph-communities-report",
+      "type": "article",
+      "name": "Graph Communities Analysis Report",
+      "filePath": "analysis/graph-communities-report.md",
+      "summary": "*Generated: 2026-04-23 22:57:26*",
+      "tags": [
+        "analysis"
+      ],
+      "complexity": "simple",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "link"
+        ],
+        "category": null,
+        "content": "# Graph Communities Analysis Report\n*Generated: 2026-04-23 22:57:26*\n\n## Summary\nThis report analyzes the community structure of your knowledge graph based on graphify analysis.\n\n## Overall Graph Statistics\n- **Nodes (Concepts/Notes)**: 269\n- **Edges (Connections)**: 405\n- **Communities (Knowledge Clusters)**: 33\n\n## Community Health Indicators\n- **Isolated Nodes**: 1 notes with no connections\n- **Thin Communities (<3 nodes)**: 1 small/isolated knowledge clusters\n\n## Detailed Analysis\n## Interpretation\n- **Nodes**: Individual concepts or notes in your knowledge graph\n- **Edges**: Explicit links between notes ([[link]] style)\n- **Communities**: Clusters of tightly interconnected knowledge\n- **Isolated Notes**: Knowledge that exists but isn't connected to anything else\n- **Thin Communities**: Small knowledge clusters that may benefit from bridging connections\n\n## Recommended Actions Based on Graph Analysis\n1. **Address isolated notes**: Use orphaned notes report to find and connect them\n2. **Strengthen thin communities**: Look for cross-area opportunities to bridge small clusters\n3. **Enhance hub nodes**: Strengthen connections for high-betweenness nodes (like Config, LLMClient)\n4. **Balance communities**: Work toward more evenly sized, interconnected knowledge clusters\n5. **Monitor progress**: Re-run this analysis periodically to track improvement\n\n## Integration with LLM Wiki System\nThis analysis complements the LLM Wiki system by:\n- Identifying where the LLM should focus enrichment efforts\n- Providing feedback on knowledge graph health\n- Guiding query-to-wiki savings toward under-connected areas\n- Informing linting routines about connection gaps\n\n---\n*Analysis based on existing graphify data. For latest insights, run graphify analysis.*\n",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:analysis/link-density-report",
+      "type": "article",
+      "name": "Link Density Analysis Report",
+      "filePath": "analysis/link-density-report.md",
+      "summary": "*Generated: 2026-04-24 00:03:57*",
+      "tags": [
+        "analysis"
+      ],
+      "complexity": "simple",
+      "knowledgeMeta": {
+        "wikilinks": [],
+        "category": null,
+        "content": "# Link Density Analysis Report\n*Generated: 2026-04-24 00:03:57*\n\n## Summary\nThis report analyzes the average number of wiki-style links per note in each vault area.\n\n## Results by Area\n\n| Area | Notes | Total Links | Avg Links/Note | Density |\n|------|-------|-------------|----------------|---------|\n| System & Knowledge Hub | 14 | 158 | 11.29 | Very High |\n| Active Projects | 0 | 0 | 0 | N/A (Area not found) |\n| Knowledge Areas | 1152 | 24247 | 21.05 | Very High |\n| Reference Materials | 1 | 18 | 18.0 | Very High |\n| Archived Items | 0 | 0 | 0 | N/A (Area not found) |\n| Media Files | 0 | 0 | 0.0 | Very Low |\n| LLM Wiki System | 11 | 79 | 7.18 | High |\n\n## Analysis\n- **Very High Density** (10+ links/note): Highly interconnected knowledge\n- **High Density** (6-9 links/note): Well-connected\n- **Medium Density** (3-5 links/note): Moderately connected\n- **Low Density** (1-2 links/note): Could benefit from more connections\n- **Very Low Density** (<1 link/note): Largely isolated or orphaned\n\n## Recommendations\n1. Focus enhancement efforts on areas with Low or Very Low density\n2. Use orphaned notes report to find specific notes needing connections\n3. Leverage cross-area opportunities to build bridges between knowledge domains\n4. Consider creating hub notes for areas with many low-density notes\n\n---\n*This analysis is additive-only and safe to run repeatedly.*\n",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:analysis/orphan-notes-report",
+      "type": "article",
+      "name": "Orphaned Notes Report",
+      "filePath": "analysis/orphan-notes-report.md",
+      "summary": "*Generated: 2026-04-24 00:37:11*",
+      "tags": [
+        "analysis"
+      ],
+      "complexity": "complex",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "03_PHILOSOPHY_TRACKER_CANVAS_FIX",
+          "VISUAL_CONTENT_INVENTORY",
+          "VAULT_HEALTH_DASHBOARD",
+          "_COMMUNITY_Greek_Philosophers",
+          "_COMMUNITY_Miscellaneous_Nodes",
+          "_COMMUNITY_Vault_Organization_Systems",
+          "_COMMUNITY_Chinese_Philosophers",
+          "_COMMUNITY_Indian_Philosophy_Topics",
+          "_COMMUNITY_Smart_Tools",
+          "00_Politics_and_Governance_MOC",
+          "00_Security_and_Privacy_MOC",
+          "00_Political Analysis MOC",
+          "00_FILE_INDEX",
+          "skill-vscode",
+          "00_TOPICS_MASTER_INDEX",
+          "skill-windows",
+          "README_2",
+          "00_Education_and_Learning_MOC",
+          "00_Uncategorized_MOC",
+          "00_Science_and_Space_MOC",
+          "README.zh-CN",
+          "00_Finance_and_Economics_MOC",
+          "MOC",
+          "00_Health_and_Fitness_MOC",
+          "README_3",
+          "Buddhism_Hinduism_Research_Report_698f09e3",
+          "00_Ancient Civilizations MOC",
+          "00_FILE_INDEX_1",
+          "00_Religion_and_Cosmology_MOC",
+          "00_Qwen_Index",
+          "00_CROSS_TOPIC_LINKS",
+          "Shankara_vs_Ibn_Rushd_Mystic_Meets_Commentator",
+          "00_Ancient_Indian_Philosophical_Timeline",
+          "Buddhism_Hinduism_Research_Report_e4034349",
+          "00_FILE_INDEX_6",
+          "00_FILE_INDEX_2",
+          "README.ko-KR",
+          "00_GenericAgent_MOC",
+          "2026-04-13_Science_Journey_Video_Analysis_Critical_Review",
+          "00_AI_and_Machine_Learning_MOC",
+          "00_AI & Technology MOC",
+          "00_FILE_INDEX_7",
+          "00_Technology_and_Development_MOC",
+          "00_FILE_INDEX_4",
+          "00_FILE_INDEX_3",
+          "00_Media_and_Entertainment_MOC",
+          "00_FILE_INDEX_8",
+          "00_FILE_INDEX_5",
+          "README.ja-JP"
+        ],
+        "category": null,
+        "content": "# Orphaned Notes Report\n*Generated: 2026-04-24 00:37:11*\n\n## Summary\nThis report identifies notes that exist in the vault but have zero incoming links from other notes.\nThese notes are \"orphans\" in the knowledge graph and may benefit from intentional connections.\n\n## Total Orphaned Notes Found: 49\n\n## Orphaned Notes List\n\n| Note Title | File Path | Suggested Connections |\n|------------|-----------|----------------------|\n| 03_PHILOSOPHY_TRACKER_CANVAS_FIX | 00 - SYSTEM/03_PHILOSOPHY_TRACKER_CANVAS_FIX.md | [[03_PHILOSOPHY_TRACKER_CANVAS_FIX]] |\n| VISUAL_CONTENT_INVENTORY | 00 - SYSTEM/VISUAL_CONTENT_INVENTORY.md | [[VISUAL_CONTENT_INVENTORY]] |\n| VAULT_HEALTH_DASHBOARD | 00 - SYSTEM/VAULT_HEALTH_DASHBOARD.md | [[VAULT_HEALTH_DASHBOARD]] |\n| _COMMUNITY_Greek_Philosophers | 00 - SYSTEM/MOCs/_COMMUNITY_Greek_Philosophers.md | [[_COMMUNITY_Greek_Philosophers]] |\n| _COMMUNITY_Miscellaneous_Nodes | 00 - SYSTEM/MOCs/_COMMUNITY_Miscellaneous_Nodes.md | [[_COMMUNITY_Miscellaneous_Nodes]] |\n| _COMMUNITY_Vault_Organization_Systems | 00 - SYSTEM/MOCs/_COMMUNITY_Vault_Organization_Systems.md | [[_COMMUNITY_Vault_Organization_Systems]] |\n| _COMMUNITY_Chinese_Philosophers | 00 - SYSTEM/MOCs/_COMMUNITY_Chinese_Philosophers.md | [[_COMMUNITY_Chinese_Philosophers]] |\n| _COMMUNITY_Indian_Philosophy_Topics | 00 - SYSTEM/MOCs/_COMMUNITY_Indian_Philosophy_Topics.md | [[_COMMUNITY_Indian_Philosophy_Topics]] |\n| _COMMUNITY_Smart_Tools | 00 - SYSTEM/MOCs/_COMMUNITY_Smart_Tools.md | [[_COMMUNITY_Smart_Tools]] |\n| 00_Politics_and_Governance_MOC | 02 - AREAS/04 Political Analysis/00_Politics_and_Governance_MOC.md | [[00_Politics_and_Governance_MOC]] |\n| 00_Security_and_Privacy_MOC | 02 - AREAS/04 Political Analysis/00_Security_and_Privacy_MOC.md | [[00_Security_and_Privacy_MOC]] |\n| 00_Political Analysis MOC | 02 - AREAS/04 Political Analysis/00_Political Analysis MOC.md | [[00_Political Analysis MOC]] |\n| 00_FILE_INDEX | 02 - AREAS/06 Society & Culture/00_FILE_INDEX.md | [[00_FILE_INDEX]] |\n| skill-vscode | 02 - AREAS/05 Knowledge Management/skill-vscode.md | [[skill-vscode]] |\n| 00_TOPICS_MASTER_INDEX | 02 - AREAS/05 Knowledge Management/00_TOPICS_MASTER_INDEX.md | [[00_TOPICS_MASTER_INDEX]] |\n| skill-windows | 02 - AREAS/05 Knowledge Management/skill-windows.md | [[skill-windows]] |\n| README_2 | 02 - AREAS/02 AI & Technology/README_2.md | [[README_2]] |\n| 00_Education_and_Learning_MOC | 02 - AREAS/05 Knowledge Management/00_Education_and_Learning_MOC.md | [[00_Education_and_Learning_MOC]] |\n| 00_Uncategorized_MOC | 02 - AREAS/05 Knowledge Management/00_Uncategorized_MOC.md | [[00_Uncategorized_MOC]] |\n| 00_Science_and_Space_MOC | 02 - AREAS/05 Knowledge Management/00_Science_and_Space_MOC.md | [[00_Science_and_Space_MOC]] |\n| README.zh-CN | 02 - AREAS/05 Knowledge Management/README.zh-CN.md | [[README.zh-CN]] |\n| 00_Finance_and_Economics_MOC | 02 - AREAS/05 Knowledge Management/00_Finance_and_Economics_MOC.md | [[00_Finance_and_Economics_MOC]] |\n| MOC | 02 - AREAS/05 Kno",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:comparisons/How_does_the_LLM_wiki_pattern",
+      "type": "article",
+      "name": "How does the LLM wiki pattern",
+      "filePath": "comparisons/How_does_the_LLM_wiki_pattern.md",
+      "summary": "Answer to: How does the LLM wiki pattern solve the problem of knowledge rediscovery in traditional RAG systems?",
+      "tags": [
+        "comparisons"
+      ],
+      "complexity": "moderate",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "[[Second",
+          "Brain",
+          "[[Knowledge",
+          "Compounding",
+          "[[Persistent",
+          "Knowledge",
+          "Base",
+          "[[LLM",
+          "Wiki",
+          "Query Answers",
+          "Unknown/Unverified Information",
+          "LLM Wiki Pattern"
+        ],
+        "category": null,
+        "content": "---\ntitle: How does the LLM wiki pattern\ntype: concept\naliases: [Alternative Names]\ndate: 2026-04-23\nupdated: 2026-04-23\nrelated_entities: []\n---\n\n# How does the LLM wiki pattern\n\n## Definition\nAnswer to: How does the LLM wiki pattern solve the problem of knowledge rediscovery in traditional RAG systems?\n\n## Applications/Domains\n- Based on wiki knowledge synthesis\n- Related pages: [[[[Second]], [[Brain]]]], [[[[Knowledge]], [[Compounding]]]], [[[[Persistent]], [[Knowledge]], [[Base]]]], [[[[LLM]], [[Wiki]]]]\n\n## Relationships\n- Connects question to answer through knowledge synthesis\n- Similar to: [[Query Answers]]\n- Contrasts with: [[Unknown/Unverified Information]]\n\n## Sources\n- [[LLM Wiki Pattern]] - Provides framework for this synthesis\n\n## Examples\n- Example 1: This very answer demonstrating the query-to-wiki pattern\n- Example 2: Building compounding knowledge over time\n\n## Notes\nOpen questions: How to improve automatic linking? What sources could enhance this answer?\n\n## Last Updated\n2026-04-23",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:comparisons/What_is_the_LLM_wiki_pattern",
+      "type": "article",
+      "name": "What is the LLM wiki pattern",
+      "filePath": "comparisons/What_is_the_LLM_wiki_pattern.md",
+      "summary": "Answer to: What is the LLM wiki pattern and how does it differ from traditional RAG?",
+      "tags": [
+        "comparisons"
+      ],
+      "complexity": "moderate",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "[[Second Brain",
+          "Knowledge Compounding",
+          "Persistent Knowledge Base",
+          "Query Answers",
+          "Unknown/Unverified Information",
+          "LLM Wiki Pattern"
+        ],
+        "category": null,
+        "content": "---\ntitle: What is the LLM wiki pattern\ntype: concept\naliases: [Alternative Names]\ndate: 2026-04-23\nupdated: 2026-04-23\nrelated_entities: []\n---\n\n# What is the LLM wiki pattern\n\n## Definition\nAnswer to: What is the LLM wiki pattern and how does it differ from traditional RAG?\n\n## Applications/Domains\n- Based on wiki knowledge synthesis\n- Related pages: [[[[Second Brain]] [[Knowledge Compounding]] [[Persistent Knowledge Base]]]]\n\n## Relationships\n- Connects question to answer through knowledge synthesis\n- Similar to: [[Query Answers]]\n- Contrasts with: [[Unknown/Unverified Information]]\n\n## Sources\n- [[LLM Wiki Pattern]] - Provides framework for this synthesis\n\n## Examples\n- Example 1: This very answer demonstrating the query-to-wiki pattern\n- Example 2: Building compounding knowledge over time\n\n## Notes\nOpen questions: How to improve automatic linking? What sources could enhance this answer?\n\n## Last Updated\n2026-04-23",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:concepts/Religion Civilization Contributions - Complete Analysis",
+      "type": "article",
+      "name": "Religion \u2192 Civilization Contributions (Complete Analysis)",
+      "filePath": "concepts/Religion Civilization Contributions - Complete Analysis.md",
+      "summary": "Each major religion contributed to human wellness, societal infrastructure, and innovation primarily by creating enduring institutions, ethical frameworks, and patronage systems. However, **religio...",
+      "tags": [
+        "[concept",
+        "civilization",
+        "concepts",
+        "philosophy]",
+        "religion",
+        "synthesis"
+      ],
+      "complexity": "moderate",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "2026-03-24_caste-system-origins",
+          "00_philosophy-comparison_MOC",
+          "00_hinduism_MOC",
+          "00_buddhism_MOC",
+          "00_jainism_MOC",
+          "Shankara_Caste_Brahminism_Promotion_Analysis"
+        ],
+        "category": null,
+        "content": "---\ntitle: Religion \u2192 Civilization Contributions (Complete Analysis)\ndate: 2026-04-23\ntags: [concept, religion, civilization, synthesis, philosophy]\naliases: [Religious Contributions to Civilization]\n---\n\n# Religion \u2192 Civilization Contributions (Complete Analysis)\n\n> **Research Type:** Multi-source synthesis combining web research, uploaded documents, and critical historiographic analysis\n> **Sources:** Multiple religious traditions, historical records, archaeological evidence\n> **Evidence Tiers:** Tier 1 (archaeological/inscription), Tier 2 (near-contemporary texts), Tier 3 (later texts)\n\n---\n\n## \ud83c\udfaf Executive Summary\n\nEach major religion contributed to human wellness, societal infrastructure, and innovation primarily by creating enduring institutions, ethical frameworks, and patronage systems. However, **religions both innovated AND suppressed** \u2014 same institutions that built hospitals burned heretics; same texts that codified ethics justified slavery.\n\n**Critical Principle:** Full historical accuracy requires acknowledging both contributions and harms. Anyone claiming religion = only good or only harm = not doing history correctly.\n\n---\n\n## \ud83d\udcca Complete Contribution Matrix\n\n### HINDUISM (~1500 BCE Vedic, older oral traditions)\n\n| Category | Contribution | Evidence Status |\n|----------|-------------|-----------------|\n| **Math** | Zero concept foundational, decimal system (Brahmagupta, Aryabhata) | \u2705 Verified |\n| **Medicine** | Ayurveda \u2014 surgery concepts (Sushruta), cataract ops, rhinoplasty ~600 BCE | \u2705 Verified |\n| **Astronomy** | Planetary motion models, eclipses predicted | \u2705 Verified |\n| **Philosophy** | Logic systems (Nyaya), consciousness frameworks | \u26a0\ufe0f Conceptual parallels to modern neuroscience, not direct lineage |\n| **Society** | Caste = societal harm, BUT guild specialization \u2192 skill preservation | \u26a0\ufe0f Mixed \u2014 caste's benefits debatable vs. documented harms |\n\n**Critical Notes:**\n- Vedic religion \u2260 Modern \"Hinduism\" (temple worship, idols, Puranic deities postdate Buddha by 800+ years)\n- Original Vedic religion (fire sacrifice, aniconic) effectively obsolete\n- Brahmanism = legitimate academic term for intermediate phase (~500 BCE\u2013300 CE)\n\n---\n\n### BUDDHISM (~500 BCE)\n\n| Category | Contribution | Evidence Status |\n|----------|-------------|-----------------|\n| **Education** | Nalanda (5th CE), Takshashila (~7th BCE) | \u26a0\ufe0f Takshashila predates Buddhism; multi-traditional center, not exclusive |\n| **Manuscripts** | Nalanda housed ~9M manuscripts | \u274c Legendary \u2014 no evidence for exact number |\n| **Medicine** | Hospitals institutionalized in Mauryan empire (Ashoka edicts) | \u2705 Verified |\n| **Ethics** | First large-scale animal welfare laws (Ashoka edicts) | \u2705 Verified |\n| **Spread** | Connected India-China-SE Asia \u2192 trade, ideas, art cross-pollination | \u2705 Verified |\n| **Psychology** | Mindfulness \u2192 modern CBT, MBSR trace lineage | \u26a0\ufe0f Modern mindfulness = secularized adaptation; CBT from Western cognitive psychology |\n\n**Critical Notes:**\n- Bud",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "article:sources/Test_Article_for_LLM_Wiki_Ingestion",
+      "type": "article",
+      "name": "Test Article for LLM Wiki Ingestion",
+      "filePath": "sources/Test_Article_for_LLM_Wiki_Ingestion.md",
+      "summary": "[Brief summary of source]",
+      "tags": [
+        "sources"
+      ],
+      "complexity": "moderate",
+      "knowledgeMeta": {
+        "wikilinks": [
+          "04 - RESOURCES/Inbox/test_article.txt",
+          "Entity",
+          "Concept",
+          "Entity",
+          "Concept",
+          "Entity1",
+          "Entity2",
+          "Concept1",
+          "Concept2"
+        ],
+        "category": null,
+        "content": "---\ntitle: Test Article for LLM Wiki Ingestion\ntype: source\ndate: 2026-04-23\nadded: 2026-04-23\nsource_type: unknown\nauthor: Unknown\nsource_path: [[04 - RESOURCES/Inbox/test_article.txt]]\nentities_mentioned: []\nconcepts_discussed: []\n---\n\n# Test Article for LLM Wiki Ingestion\n\n## Overview\n[Brief summary of source]\n\n## Key Takeaways\n- Takeaway 1: [Summary with links to [[Entity]]/[[Concept]]]\n- Takeaway 2: [Summary with links to [[Entity]]/[[Concept]]]\n- ...\n\n## Entities Mentioned\n- [[Entity1]] - Role in source\n- [[Entity2]] - Role in source\n\n## Concepts Discussed\n- [[Concept1]] - How presented\n- [[Concept2]] - How presented\n\n## Relevance to Wiki\n- Updates/changes to existing understanding\n- Contradictions with current knowledge\n- New connections suggested\n\n## Personal Notes\n[Why this source was added, relevance to goals]\n\n## Last Updated\n2026-04-23",
+        "backlinks": []
+      }
+    },
+    {
+      "id": "topic:recently-updated",
+      "type": "topic",
+      "name": "Recently Updated",
+      "summary": "Category from index: Recently Updated (1 articles)",
+      "tags": [
+        "category"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "topic:by-category",
+      "type": "topic",
+      "name": "By Category",
+      "summary": "Category from index: By Category (9 articles)",
+      "tags": [
+        "category"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "article:_templates/concept",
+      "target": "article:_templates/entity",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "article:_templates/source",
+      "target": "article:_templates/entity",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "article:_templates/source",
+      "target": "article:_templates/concept",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "article:analysis/cross-area-opportunities",
+      "target": "article:_templates/source",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "article:analysis/cross-area-opportunities",
+      "target": "article:_templates/concept",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "article:sources/Test_Article_for_LLM_Wiki_Ingestion",
+      "target": "article:_templates/entity",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "article:sources/Test_Article_for_LLM_Wiki_Ingestion",
+      "target": "article:_templates/concept",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.7
+    }
+  ],
+  "warnings": [
+    "Unresolved wikilink: [[Second Brain]] in README.md",
+    "Unresolved wikilink: [[Knowledge Compounding]] in README.md",
+    "Unresolved wikilink: [[orphan notes report]] in README.md",
+    "Unresolved wikilink: [[link density report]] in README.md",
+    "Unresolved wikilink: [[orphan notes report]] in README.md",
+    "Unresolved wikilink: [[Concept Name]] in _templates/concept.md",
+    "Unresolved wikilink: [[Concept Name]] in _templates/concept.md",
+    "Unresolved wikilink: [[Context]] in _templates/concept.md",
+    "Unresolved wikilink: [[Context]] in _templates/concept.md",
+    "Unresolved wikilink: [[Entity1]] in _templates/concept.md",
+    "Unresolved wikilink: [[Entity2]] in _templates/concept.md",
+    "Unresolved wikilink: [[Related Concept]] in _templates/concept.md",
+    "Unresolved wikilink: [[Opposing Concept]] in _templates/concept.md",
+    "Unresolved wikilink: [[Source Title]] in _templates/concept.md",
+    "Unresolved wikilink: [[Entity Name]] in _templates/entity.md",
+    "Unresolved wikilink: [[Entity Name]] in _templates/entity.md",
+    "Unresolved wikilink: [[Related Entity]] in _templates/entity.md",
+    "Unresolved wikilink: [[Category]] in _templates/entity.md",
+    "Unresolved wikilink: [[Sub-entity]] in _templates/entity.md",
+    "Unresolved wikilink: [[Source Title]] in _templates/entity.md",
+    "Unresolved wikilink: [[Related Concept 1]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Related Concept 2]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Related Topic]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Application Area]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Concept A]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Concept B]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Concept C]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Concept D]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Field:Philosophy]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Buddhism]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Epistemology]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Field:Technology]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[LLM]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Knowledge-Representation]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Ancient Wisdom]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Modern AI]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Ethical Frameworks]] in _templates/link-enrichment.md",
+    "Unresolved wikilink: [[Source Title]] in _templates/source.md",
+    "Unresolved wikilink: [[path/to/original]] in _templates/source.md",
+    "Unresolved wikilink: [[Source Title]] in _templates/source.md",
+    "Unresolved wikilink: [[Entity1]] in _templates/source.md",
+    "Unresolved wikilink: [[Entity2]] in _templates/source.md",
+    "Unresolved wikilink: [[Concept1]] in _templates/source.md",
+    "Unresolved wikilink: [[Concept2]] in _templates/source.md",
+    "Unresolved wikilink: [[Buddha]] in analysis/cross-area-opportunities.md",
+    "Unresolved wikilink: [[Nagarjuna]] in analysis/cross-area-opportunities.md",
+    "Unresolved wikilink: [[Nagarjuna]] in analysis/cross-area-opportunities.md",
+    "Unresolved wikilink: [[Nagarjuna]] in analysis/cross-area-opportunities.md",
+    "Unresolved wikilink: [[Nagarjuna]] in analysis/cross-area-opportunities.md",
+    "Unresolved wikilink: [[Buddha]] in analysis/cross-area-opportunities.md"
+  ]
+}

@@ -1,0 +1,35 @@
+# J.A.R.V.I.S. Dependencies - FREE VERSION
+# Install with: pip install -r requirements.txt
+
+# ===== CORE (Required) =====
+requests>=2.31.0
+python-dotenv>=1.0.0
+rich>=13.7.0
+
+# ===== LLM BACKENDS (Install based on your choice) =====
+
+# Option 1: Ollama (Free, Local)
+# No pip package needed - install from: https://ollama.com
+
+# Option 2: Anthropic Claude (Paid API - optional)
+anthropic>=0.21.0
+
+# Option 3: OpenAI-compatible APIs (NVIDIA, DeepSeek, etc.)
+openai>=1.12.0
+
+# ===== OPTIONAL FEATURES =====
+
+# Voice recognition and TTS (optional)
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.11
+
+# Alternative: Whisper for local STT (more accurate)
+# openai-whisper
+
+# Alternative: Piper TTS for local voice (better quality)
+# piper-tts
+
+# Utilities
+pyperclip>=1.8.2
+keyboard>=0.13.5

@@ -1,0 +1,19 @@
+# Test Article for LLM Wiki Ingestion
+
+This is a test article to verify the LLM wiki ingestion workflow works correctly.
+
+## Key Points
+- The LLM wiki pattern helps build compounding knowledge
+- Sources should be processed to extract entities and concepts
+- Cross-references should be maintained automatically
+- The system should get smarter with each source added
+
+## Entities Mentioned
+- LLM Wiki Pattern
+- Second Brain
+- Knowledge Compounding
+
+## Concepts Discussed
+- Persistent Knowledge Base
+- Incremental Learning
+- Knowledge Synthesis

@@ -1,0 +1,83 @@
+# MemPalace Configuration for Obsidian Vault
+# Defines rooms (folders) for different types of knowledge and operations
+
+# Core Knowledge Rooms
+core:
+  - 00 - SYSTEM
+  - 01 - Projects
+  - 02 - AREAS
+  - 03 - RESOURCES
+  - 04 - ARCHIVES
+
+# LLM Wiki Specific Rooms
+llm_wiki:
+  - wiki
+  - wiki/_templates
+  - graphify-out
+
+# Ingestion Rooms (where new sources go for processing)
+ingestion:
+  - 04 - RESOURCES/Inbox
+  - 04 - RESOURCES/ToProcess
+  - 04 - RESOURCES/RawSources
+
+# Query Rooms (where answers and insights get stored)
+query:
+  - wiki
+  - 02 - AREAS/02 AI & Technology/ai
+  - 02 - AREAS/01 Philosophy & Religion
+
+# Maintenance Rooms
+maintenance:
+  - wiki/log.md
+  - wiki/index.md
+  - .openclaude/plans
+  - .openclaude/tasks
+
+# Reference Rooms (static knowledge)
+reference:
+  - 00 - SYSTEM/01_KNOWLEDGE_HUB.md
+  - 00 - SYSTEM/MOCs/00_Master MOC.md
+  - 02 - AREAS/02 AI & Technology/00_AI & Technology MOC.md
+  - 02 - AREAS/01 Philosophy & Religion/00_Philosophy & Religion MOC.md
+
+# Templates for different memory operations
+templates:
+  ingest: |
+    ## [{date}] ingest | {source_title}
+    - Processed: {file_path}
+    - Pages created/updated: {pages_list}
+    - Key entities extracted: {entities_list}
+    - Contradictions noted: {contradictions}
+    - Actions taken: {actions_summary}
+
+  query: |
+    ## [{date}] query | {question}
+    - Question: {full_question}
+    - Answer summary: {answer_summary}
+    - Pages consulted: {pages_consulted}
+    - New insights saved as: {new_pages}
+    - Follow-up questions suggested: {followup_questions}
+
+  lint: |
+    ## [{date}] lint | Health Check
+    - Issues found: {issues_found}
+    - Actions taken: {actions_taken}
+    - Recommendations: {recommendations}
+
+# Operations Configuration
+operations:
+  # Auto-indexing after ingest
+  auto_index_after_ingest: true
+
+  # Auto-logging of operations
+  auto_log_operations: true
+
+  # Graphify integration
+  graphify_integration: true
+
+  # MemPalace mining depth
+  mine_depth: 2
+
+  # Maximum pages to process in one ingest
+  max_pages_per_ingest: 15

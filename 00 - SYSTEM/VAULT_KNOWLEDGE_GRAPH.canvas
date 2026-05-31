@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"hub","type":"text","x":1100,"y":500,"width":500,"height":300,"text":"# 🧠 VAULT KNOWLEDGE GRAPH\n\n*Your Complete 2nd Brain*\n\n📊 526 files | 263 nodes | 27 communities\n\n→ Open graph view (Ctrl+G) for full visualization\n→ See [[00_OBSIDIAN RESEARCH SKILLS HUB]] for tools"},
+		{"id":"mocs","type":"text","x":100,"y":100,"width":400,"height":400,"text":"# 📚 Topic MOCs\n*Main Content Organizers*\n\n• [[00_AI_and_Machine_Learning_MOC]]\n• [[00_Ancient_Civilizations_MOC]]\n• [[00_Buddhism_and_Hinduism_MOC]]\n• [[00_Education_and_Learning_MOC]]\n• [[00_Philosophy_and_Ethics_MOC]]\n• [[00_Politics_and_Governance_MOC]]\n• [[00_Religion_and_Cosmology_MOC]]\n• [[00_Science_and_Space_MOC]]\n• [[00_Society_and_Culture_MOC]]"},
+		{"id":"vaults","type":"text","x":100,"y":600,"width":400,"height":350,"text":"# 🔐 AI Vaults\n*Research Agent Outputs*\n\n• [[ClaudeVault]]\n  Deep research, analysis\n• [[QwenVault]]\n  Quick queries, summaries\n• [[DeepseekVault]]\n  Specialized research\n• [[KIMI_VAULT]]\n  Templates, chat history"},
+		{"id":"projects","type":"text","x":1600,"y":100,"width":400,"height":350,"text":"# ⚡ Active Projects\n*In-Progress Work*\n\n• [[Obsidian RAG System]]\n  AI-powered retrieval\n• [[OB_AI]]\n  Agent automation\n• [[Ancient Civilizations]]\n  Research ongoing\n• [[Buddhism Research]]\n  Evidence compilation"},
+		{"id":"system","type":"text","x":1600,"y":600,"width":400,"height":300,"text":"# ⚙️ System Docs\n*Vault Configuration*\n\n• [[OBSIDIAN SETUP GUIDE]]\n• [[VAULT ORGANIZATION MAP]]\n• [[GRAPHIFY KNOWLEDGE GRAPH]]\n• [[RESEARCH HUB]]"},
+		{"id":"areas","type":"text","x":850,"y":100,"width":400,"height":400,"text":"# 🎯 Areas\n*Focus Areas & Projects*\n\n• [[Buddhism & Hinduism]]\n• [[Ancient Civilizations]]\n• [[Religion & Cosmology]]\n• [[Politics & Governance]]\n• [[AI & Machine Learning]]\n• [[Science & Space]]"},
+		{"id":"stats","type":"text","x":850,"y":600,"width":400,"height":300,"text":"# 📈 Vault Statistics\n\n**File Distribution:**\n• ClaudeVault: 245 files\n• QwenVault: 100+ files\n• BUDDHA: 8 files\n• System: ~50 files\n\n**Knowledge Graph:**\n• 27 communities detected\n• Top clusters: AI Agents, Ancient Civ, Religion"},
+		{"id":"insights","type":"text","x":400,"y":1100,"width":800,"height":250,"text":"# 💡 Key Insights\n\n**Cross-Vault Connections:**\n1. Buddhism ↔ Jainism (contemporary traditions)\n2. Three.js ↔ React (web projects)\n3. AI Agents workflow dependencies\n\n**Research Threads:**\n• Ancient Civilizations: Göbekli Tepe → Indus Valley\n• Religion: Christianity ↔ Islam ↔ Hinduism\n• Politics: Marxist → Soviet → Hindu nationalism"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"hub","toNode":"mocs","fromSide":"left","toSide":"top"},
+		{"id":"e2","fromNode":"hub","toNode":"vaults","fromSide":"left","toSide":"top"},
+		{"id":"e3","fromNode":"hub","toNode":"areas","fromSide":"right","toSide":"top"},
+		{"id":"e4","fromNode":"hub","toNode":"projects","fromSide":"right","toSide":"top"},
+		{"id":"e5","fromNode":"hub","toNode":"system","fromSide":"right","toSide":"bottom"},
+		{"id":"e6","fromNode":"hub","toNode":"stats","fromSide":"bottom","toSide":"top"},
+		{"id":"e7","fromNode":"hub","toNode":"insights","fromSide":"bottom","toSide":"top"},
+		{"id":"e8","fromNode":"mocs","toNode":"areas","fromSide":"right","toSide":"left"},
+		{"id":"e9","fromNode":"vaults","toNode":"projects","fromSide":"right","toSide":"left"},
+		{"id":"e10","fromNode":"areas","toNode":"stats","fromSide":"bottom","toSide":"top"},
+		{"id":"e11","fromNode":"projects","toNode":"stats","fromSide":"bottom","toSide":"bottom"},
+		{"id":"e12","fromNode":"insights","toNode":"mocs","fromSide":"left","toSide":"bottom"},
+		{"id":"e13","fromNode":"insights","toNode":"vaults","fromSide":"left","toSide":"bottom"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{
+			"position":{"x":100,"y":50}
+		}
+	}
+}

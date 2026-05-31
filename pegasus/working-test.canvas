@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"test-image","type":"image","file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-06-38 find me information of what ha - Perplexica.png","x":100,"y":100,"width":400,"height":300}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0",
+		"frontmatter":{}
+	}
+}

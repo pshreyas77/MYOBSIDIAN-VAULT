@@ -1,0 +1,156 @@
+{
+	"nodes":[
+		{
+			"id":"pegasus-research-header",
+			"type":"text",
+			"text":"# Pegasus Spyware Visual Research Collection\n\nCollection of screenshots and visual references related to Pegasus spyware research, including technical details, victim lists, and investigation findings.",
+			"x":100,
+			"y":50,
+			"width":250,
+			"height":100,
+			"color":{
+				"background":"#1e293b",
+				"border":"#3b82f6"
+			},
+			"fontSize":24,
+			"textAlign":"center"
+		},
+		{
+			"id":"screenshot-1",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-06-38 find me information of what ha - Perplexica.png",
+			"x":50,
+			"y":200,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-2",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-07-02 find me information of what ha - Perplexica.png",
+			"x":500,
+			"y":200,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-3",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-07-20 find me information of what ha - Perplexica.png",
+			"x":950,
+			"y":200,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-4",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-07-39 find me information of what ha - Perplexica.png",
+			"x":50,
+			"y":550,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-5",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-08-06 find me information of what ha - Perplexica.png",
+			"x":500,
+			"y":550,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-6",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-09-35 find me information of what ha - Perplexica.png",
+			"x":950,
+			"y":550,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-7",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-09-54 find me information of what ha - Perplexica.png",
+			"x":50,
+			"y":900,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-8",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-10-06 find me information of what ha - Perplexica.png",
+			"x":500,
+			"y":900,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-9",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-10-33 find me information of what ha - Perplexica.png",
+			"x":950,
+			"y":900,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-10",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-10-40 find me information of what ha - Perplexica.png",
+			"x":50,
+			"y":1250,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-11",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-10-48 find me information of what ha - Perplexica.png",
+			"x":500,
+			"y":1250,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-12",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-11-14 find me information of what ha - Perplexica.png",
+			"x":950,
+			"y":1250,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"screenshot-13",
+			"type":"image",
+			"file":"/home/sunny77/Pictures/pegasus/Screenshot 2026-04-24 at 21-11-25 find me information of what ha - Perplexica.png",
+			"x":500,
+			"y":1600,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"conclusion-box",
+			"type":"text",
+			"text":"## Key Research Connections\n\nThis visual collection connects to the main research document:\n- Technical capabilities and zero-click exploits\n- Victim lists including politicians, journalists, activists\n- Legal proceedings and Supreme Court intervention\n- Recent shift toward corporate espionage\n- Tripartite responsibility framework (NSO Group, Client Governments, Israeli Govt)\n\nAll images sourced from Perplexica research sessions on 2026-04-24",
+			"x":500,
+			"y":1600,
+			"width":300,
+			"height":200,
+			"color":{
+				"background":"#0f172a",
+				"border":"#6366f1"
+			},
+			"fontSize":16,
+			"textAlign":"left"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0",
+		"frontmatter":{}
+	}
+}
