@@ -63,8 +63,8 @@
 		{"id":"712288106b566573","type":"file","file":"all canvas/images/j_krishnamurti.jpg","x":-894,"y":-858,"width":294,"height":400},
 		{"id":"459df1a8684da7d2","type":"file","file":"all canvas/images/ug_krishnamurti.jpg","x":10,"y":-1160,"width":200,"height":280},
 		{"id":"6ac9df6533a9fd1c","type":"file","file":"all canvas/images/nagarjuna.jpg","x":600,"y":-1080,"width":300,"height":400},
-		{"id":"6855d83918100572","type":"file","file":"all canvas/images/batman_twitter.jpg","x":1260,"y":-680,"width":400,"height":267},
-		{"id":"162833f84f211b73","type":"file","file":"all canvas/images/charvaka.jpg","x":2400,"y":-566,"width":170,"height":213}
+		{"id":"162833f84f211b73","type":"file","file":"all canvas/images/charvaka.jpg","x":2400,"y":-566,"width":170,"height":213},
+		{"id":"6855d83918100572","type":"file","file":"all canvas/images/batman_twitter.jpg","x":1140,"y":-640,"width":400,"height":267}
 	],
 	"edges":[
 		{"id":"e1","fromNode":"header_Osho","fromSide":"bottom","toNode":"node_1","toSide":"top"},

@@ -1,0 +1,315 @@
+{
+  "working": [
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn": "978-0-14-028329-7",
+      "tier": "S",
+      "category": "banned",
+      "why": "Surveillance state + doublethink",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-028329-7-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "isbn": "978-0-06-085052-4",
+      "tier": "S",
+      "category": "banned",
+      "why": "Soma-drugged dystopia",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-06-085052-4-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "isbn": "978-0-14-028334-1",
+      "tier": "S",
+      "category": "banned",
+      "why": "Unreliable narrator",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-028334-1-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "isbn": "978-0-14-118280-4",
+      "tier": "S",
+      "category": "banned",
+      "why": "Changed literature permanently",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-118280-4-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "isbn": "978-0-14-118295-8",
+      "tier": "S",
+      "category": "banned",
+      "why": "Short, devastating",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-118295-8-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "isbn": "978-1-4516-7331-5",
+      "tier": "S",
+      "category": "banned",
+      "why": "Book about book burning",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-1-4516-7331-5-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "isbn": "978-0-14-118395-5",
+      "tier": "A",
+      "category": "banned",
+      "why": "Free will vs state control",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-118395-5-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "author": "Erich Maria Remarque",
+      "isbn": "978-0-446-33122-0",
+      "tier": "A",
+      "category": "banned",
+      "why": "Best anti-war novel",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-446-33122-0-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "isbn": "978-0-14-118240-8",
+      "tier": "A",
+      "category": "banned",
+      "why": "Human nature without civilization",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-118240-8-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn": "978-0-06-112008-4",
+      "tier": "A",
+      "category": "banned",
+      "why": "Race + justice + moral courage",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-06-112008-4-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "On the Origin of Species",
+      "author": "Charles Darwin",
+      "isbn": "978-0-14-303207-9",
+      "tier": "A",
+      "category": "banned",
+      "why": "Religion-as-construct thesis",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-303207-9-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "isbn": "978-0-316-76948-0",
+      "tier": "B",
+      "category": "banned",
+      "why": "Alienation + authenticity",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-316-76948-0-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "The 48 Laws of Power",
+      "author": "Robert Greene",
+      "isbn": "978-0-14-028019-7",
+      "tier": "S",
+      "category": "psychology",
+      "why": "Amoral power codification",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-028019-7-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Influence",
+      "author": "Robert Cialdini",
+      "isbn": "978-0-06-112042-8",
+      "tier": "S",
+      "category": "psychology",
+      "why": "6 principles of influence",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-06-112042-8-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "The Prince",
+      "author": "Machiavelli",
+      "isbn": "978-0-14-044764-3",
+      "tier": "S",
+      "category": "psychology",
+      "why": "OG political manipulation",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-044764-3-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Without Conscience",
+      "author": "Robert Hare",
+      "isbn": "978-1-57675-434-4",
+      "tier": "S",
+      "category": "psychology",
+      "why": "PCL-R psychopathy checklist",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-1-57675-434-4-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Escape from Freedom",
+      "author": "Erich Fromm",
+      "isbn": "978-0-374-52341-9",
+      "tier": "A",
+      "category": "psychology",
+      "why": "Why people choose authoritarianism",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-374-52341-9-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Thinking Fast and Slow",
+      "author": "Daniel Kahneman",
+      "isbn": "978-0-374-53375-3",
+      "tier": "A",
+      "category": "psychology",
+      "why": "Every cognitive bias exploited",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-374-53375-3-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "isbn": "978-1-59030-225-2",
+      "tier": "B",
+      "category": "psychology",
+      "why": "Strategy at scale",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-1-59030-225-2-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Propaganda",
+      "author": "Edward Bernays",
+      "isbn": "978-0-8021-4374-6",
+      "tier": "B",
+      "category": "psychology",
+      "why": "Modern PR invented",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-8021-4374-6-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "The Crowd",
+      "author": "Gustave Le Bon",
+      "isbn": "978-0-14-021748-8",
+      "tier": "B",
+      "category": "psychology",
+      "why": "How mobs form",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-021748-8-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "The Ego Tunnel",
+      "author": "Thomas Metzinger",
+      "isbn": "978-0-465-06168-2",
+      "tier": "S",
+      "category": "consciousness",
+      "why": "No-self neuroscience",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-465-06168-2-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Being You",
+      "author": "Anil Seth",
+      "isbn": "978-1-5266-2242-0",
+      "tier": "S",
+      "category": "consciousness",
+      "why": "Consciousness as hallucination",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-1-5266-2242-0-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "The Conscious Mind",
+      "author": "David Chalmers",
+      "isbn": "978-0-19-511789-9",
+      "tier": "S",
+      "category": "consciousness",
+      "why": "Hard Problem defined",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-19-511789-9-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "How to Change Your Mind",
+      "author": "Michael Pollan",
+      "isbn": "978-0-14-044727-8",
+      "tier": "A",
+      "category": "consciousness",
+      "why": "Psilocybin + contemplative",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-044727-8-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Free Will",
+      "author": "Sam Harris",
+      "isbn": "978-1-4391-7201-4",
+      "tier": "B",
+      "category": "consciousness",
+      "why": "Free will demolished",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-1-4391-7201-4-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Quiet",
+      "author": "Susan Cain",
+      "isbn": "978-0-300-18319-5",
+      "tier": "S",
+      "category": "introvert",
+      "why": "Power of introverts",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-300-18319-5-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "The Glass Bead Game",
+      "author": "Hermann Hesse",
+      "isbn": "978-0-374-10035-4",
+      "tier": "S",
+      "category": "introvert",
+      "why": "Intellectual solitude",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-374-10035-4-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "isbn": "978-0-14-044815-2",
+      "tier": "S",
+      "category": "introvert",
+      "why": "Stoic self-dialogue",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-044815-2-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Stoner",
+      "author": "John Williams",
+      "isbn": "978-1-59030-560-4",
+      "tier": "A",
+      "category": "introvert",
+      "why": "Inner life over achievement",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-1-59030-560-4-M.jpg",
+      "status": 200
+    },
+    {
+      "title": "Notes from Underground",
+      "author": "Dostoevsky",
+      "isbn": "978-0-14-044763-6",
+      "tier": "A",
+      "category": "introvert",
+      "why": "First introvert antihero",
+      "cover_url": "https://covers.openlibrary.org/b/isbn/978-0-14-044763-6-M.jpg",
+      "status": 200
+    }
+  ],
+  "missing": []
+}

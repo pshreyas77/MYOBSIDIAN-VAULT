@@ -57,6 +57,10 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 
 ## Research
 - [[Research/2026-05-31 — India China Population Growth Comparison.md]]
+- [[Research/2026-06-01 — Banned Books Reading List.md]]
+- [[Research/2026-06-01 — Dark Psychology Books.md]]
+- [[Research/2026-06-01 — Consciousness Books.md]]
+- [[Research/2026-06-01 — Introvert Reading List.md]]
 
 ## Active Projects
 
