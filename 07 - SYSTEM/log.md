@@ -1,3 +1,13 @@
+## [2026-06-02] obsidian-save | Caveman political analysis — BJP political geography + South India saved to vault — 8 notes created/linked:
+  - Research/2026-06-02 — BJP Political Geography & South India Analysis.md (main briefing)
+  - 02 - PERMANENT/people/K. Annamalai.md
+  - 02 - PERMANENT/people/Vijay.md
+  - 02 - PERMANENT/people/Rajeev Chandrasekhar.md
+  - 02 - PERMANENT/people/E. Sreedharan.md
+  - 02 - PERMANENT/concepts/Liberal in Indian Political Context.md
+  - 02 - PERMANENT/concepts/BJP Dominance Map — Indian States.md
+  - 06 - OUTPUTS/analyses/Caveman Analysis — TVK vs BJP Tamil Nadu.md
+
 ## [2026-05-29] vault-propagate | Research on Justice Party (1916–1944) and Non-Brahmin Movement saved to vault — 7 new/updated notes created:
   - 01 - LITERATURE/articles/2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md (200+ line research synthesis)
   - 02 - PERMANENT/concepts/Justice Party.md (core distillation)

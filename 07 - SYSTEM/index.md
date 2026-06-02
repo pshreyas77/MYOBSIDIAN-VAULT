@@ -35,9 +35,15 @@ Atomic notes in your own words. The atoms of your second brain.
 
 - `02 - PERMANENT/concepts/Justice Party.md` — Justice Party 1916–1944: founding, ideology, Periyar takeover, Dravidar Kazhagam (2026-05-29)
 - `02 - PERMANENT/concepts/Dravidar Kazhagam.md` — DK 1944–1949: Periyar's anti-electoral reform movement, DMK split (2026-05-29)
+- `02 - PERMANENT/concepts/Liberal in Indian Political Context.md` — "liberal" = tribal signal in Indian politics, not policy (2026-06-02)
+- `02 - PERMANENT/concepts/BJP Dominance Map — Indian States.md` — BJP ~15-17 state dominance + structural walls in South India (2026-06-02)
 - `02 - PERMANENT/people/T. M. Nair.md` — Justice Party co-founder; named the party; died 1926 (2026-05-29)
 - `02 - PERMANENT/people/P. Theagaraya Chetty.md` — Justice Party first president; businessman; died 1925 (2026-05-29)
 - `02 - PERMANENT/people/C. Natesa Mudaliar.md` — Justice Party co-founder; finance/admin; died 1936 (2026-05-29)
+- `02 - PERMANENT/people/K. Annamalai.md` — TN BJP president (resigned 2025), never real CM candidate (2026-06-02)
+- `02 - PERMANENT/people/Vijay.md` — TVK leader, CM of Tamil Nadu since May 10, 2026 (2026-06-02)
+- `02 - PERMANENT/people/Rajeev Chandrasekhar.md` — Kerala BJP state president, won Nemom 2026 (2026-06-02)
+- `02 - PERMANENT/people/E. Sreedharan.md` — Metro Man, BJP prestige CM candidate (dropped 2021) (2026-06-02)
 - `01 - LITERATURE/articles/2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md` — 200+ line research synthesis; 50+ sources; full coverage (2026-05-29)
 - `02 - PERMANENT/people/` — person notes
 - `02 - PERMANENT/questions/` — open questions
@@ -66,11 +72,16 @@ Topic synthesis maps — connections between permanent notes on a subject.
 Finished writing — essays, analyses, frameworks.
 
 - `06 - OUTPUTS/essays/` — essays
+- `06 - OUTPUTS/analyses/Caveman Analysis — TVK vs BJP Tamil Nadu.md` — TVK vs BJP Tamil Nadu manifesto comparison (2026-06-02)
 - `06 - OUTPUTS/analyses/` — analyses
 - `06 - OUTPUTS/frameworks/` — frameworks
 
 **Linked legacy folders:**
 - `Ideas/` — idea captures and explorations
+
+## Research Briefings (Active)
+- `Research/2026-06-02 — BJP Political Geography & South India Analysis.md` — BJP dominance map, South India walls, Vijay TVK analysis, liberal label critique (2026-06-02)
+- `Research/2026-05-31 — India China Population Growth Comparison.md` — geopolitical context
 
 ## 07 — SYSTEM
 Vault infrastructure — rules, templates, logs, and the operating manual.
