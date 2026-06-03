@@ -39,6 +39,7 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 - [[wiki/concepts/Autonomous-Agent-Research.md]] — Research on autonomous AI agents
 - [[wiki/concepts/Indian Atheism, Rationalism, and Anti-Caste Struggle.md]] — Synthesis of rationalist traditions
 - [[wiki/concepts/Religion Civilization Contributions - Complete Analysis.md]] — Religion's role in civilization
+- [[wiki/concepts/Dravidian Religion Origins of Hinduism — Synthesis.md]] — Dravidian religion absorbed into Vedic framework
 - [[wiki/concepts/Revolutionary Legacies - Bhagat Singh and Che Guevara.md]] — Comparative revolutionary analysis
 - [[wiki/concepts/Youth Revolution Solutions in India.md]] — Youth-driven reform
 - [[wiki/concepts/Youth Revolution in India.md]] — Youth revolution movements

@@ -1,3 +1,19 @@
+## [2026-06-02] synthesis | Created Dravidian Religion Origins of Hinduism — Synthesis
+
+**New synthesis note:**
+- wiki/concepts/Dravidian Religion Origins of Hinduism — Synthesis.md
+
+**Thesis:** Modern Hinduism is predominantly Dravidian/IVC religion absorbed, Sanskritized, and rebranded as "Vedic" by Brahminical priests over 2000+ years. Dravidians received no credit.
+
+**Key sources connected:**
+- Religion Civilization Contributions (Vedic ≠ Puranic Hinduism)
+- Indian Atheism Rationalism (Ambedkar/Periyar/Phule anti-caste critique)
+- Ancient Civilizations Resources (IVC documentary warnings)
+
+**Core argument:** Shiva, Mother Goddess, temple worship — all Dravidian/IVC in origin, absent from Vedas. Brahmification = absorption + renaming + intermediary insertion + credit claimed as "Vedic."
+
+**Key irony documented:** Upper castes claiming Vedic purity carry the most steppe (foreign) DNA. Dravidians they claim to have "civilized" are genetically more indigenous.
+
 ## [2026-06-01] research | Saved caveman skill book lists to vault
 
 **New research notes (4):**

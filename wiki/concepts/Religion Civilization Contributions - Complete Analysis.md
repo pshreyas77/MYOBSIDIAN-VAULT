@@ -224,6 +224,7 @@ Innovations rarely emerged in isolation. Islamic translation preserved Greek tex
 - [[00_buddhism_MOC|Buddhism MOC]]
 - [[00_jainism_MOC|Jainism MOC]]
 - [[Shankara_Caste_Brahminism_Promotion_Analysis|Shankara Caste Brahminism Analysis]]
+- [[Dravidian Religion Origins of Hinduism — Synthesis]] — Vedic ≠ Puranic Hinduism; core deity system from IVC/Dravidian sources
 
 ---
 
