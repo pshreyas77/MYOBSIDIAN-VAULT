@@ -9,11 +9,17 @@ aliases: [communism Map of Content]
 **Area:** [[04_Political_Analysis_MOC|04 Political Analysis]]  
 **Topic:** communism  
 **Files:** 11  
-**Updated:** 2026-04-20
+**Updated:** 2026-06-04
 
 ---
 
 ## 📑 Files in This Topic
+
+### 2026-06 New
+
+- [[Communist Manifesto — Marx|Communist Manifesto]] — core text study, 1848
+- [[Karl Marx|Karl Marx]] — entity, philosopher & economist
+- [[Class Struggle - Marx|Class Struggle]] — Marx's central analytical framework
 
 ### 2026
 
@@ -28,6 +34,11 @@ aliases: [communism Map of Content]
 - [[2026-03-08_hitler-vs-stalin-comparison|Hitler Vs Stalin Comparison]]
 - [[2026-03-04_india-vs-ussr-hypothetical-war_1|India Vs Ussr Hypothetical War 1]]
 - [[2026-03-04_india-vs-ussr-hypothetical-war|India Vs Ussr Hypothetical War]]
+
+### 2026-06 New
+- [[Communist Manifesto — Marx|Communist Manifesto]] — core text study, 1848
+- [[Karl Marx|Karl Marx]] — entity, philosopher & economist
+- [[Class Struggle - Marx|Class Struggle]] — Marx's central analytical framework
 
 
 ---
