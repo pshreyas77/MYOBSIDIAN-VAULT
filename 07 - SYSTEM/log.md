@@ -1,3 +1,18 @@
+## [2026-06-05] obsidian-save | Justice Party Modern Revival Strategies — "Modern Revival and Application" section (6 frameworks) appended to existing note:
+  - 02 - PERMANENT/concepts/Justice Party.md (Social Justice/Reservation, Rationalism, Gender Equality, Educational Outreach, Cultural Transformation/Self-Respect, State Autonomy/Federalism + Mass Movement Insight)
+
+## [2026-06-05] obsidian-save | Justice Party Periyar–Ambedkar Enhancement — Periyar's path from Congress (1925), Self-Respect Movement, 1938/1939 Party Presidency from prison, 1944 Salem DK transformation; Ambedkar–Periyar 1954 Rangoon meeting added to existing note
+
+## [2026-06-05] obsidian-save | Justice Party Regional Legacy — "Regional Legacy Across Dravidian States" section appended to existing note:
+  - 02 - PERMANENT/concepts/Justice Party.md (Tamil Nadu, Andhra Pradesh, Karnataka, Kerala breakdowns + constitutional legacy)
+
+## [2026-06-05] obsidian-save | Ethno-Religious Nationalism Synthesis — comparative analysis of 5 ideologies saved to vault:
+  - 02 - PERMANENT/concepts/Ethno-Religious-Nationalism-Synthesis.md (full comparative analysis)
+
+## [2026-06-05] obsidian-save | Ethno-Religious Nationalism + Secularism — Relationship with Secularism section added to existing note
+
+## [2026-06-05] obsidian-save | Ethno-Religious Nationalism Counter-Strategies — "Countering Ethno-Religious Nationalist Groups" section (5 frameworks) appended to existing synthesis note
+
 ## [2026-06-02] obsidian-save | Caveman political analysis — BJP political geography + South India saved to vault — 8 notes created/linked:
   - Research/2026-06-02 — BJP Political Geography & South India Analysis.md (main briefing)
   - 02 - PERMANENT/people/K. Annamalai.md

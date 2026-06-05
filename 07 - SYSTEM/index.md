@@ -37,6 +37,7 @@ Atomic notes in your own words. The atoms of your second brain.
 - `02 - PERMANENT/concepts/Dravidar Kazhagam.md` — DK 1944–1949: Periyar's anti-electoral reform movement, DMK split (2026-05-29)
 - `02 - PERMANENT/concepts/Liberal in Indian Political Context.md` — "liberal" = tribal signal in Indian politics, not policy (2026-06-02)
 - `02 - PERMANENT/concepts/BJP Dominance Map — Indian States.md` — BJP ~15-17 state dominance + structural walls in South India (2026-06-02)
+- `02 - PERMANENT/concepts/Ethno-Religious-Nationalism-Synthesis.md` — Comparative analysis of 5 ethno-religious nationalist ideologies: Christian Nationalism, Hindutva, Islamism, Zionism, Serbian Nationalism (2026-06-05)
 - `02 - PERMANENT/people/T. M. Nair.md` — Justice Party co-founder; named the party; died 1926 (2026-05-29)
 - `02 - PERMANENT/people/P. Theagaraya Chetty.md` — Justice Party first president; businessman; died 1925 (2026-05-29)
 - `02 - PERMANENT/people/C. Natesa Mudaliar.md` — Justice Party co-founder; finance/admin; died 1936 (2026-05-29)
