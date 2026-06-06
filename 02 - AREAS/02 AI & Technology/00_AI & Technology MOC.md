@@ -24,6 +24,10 @@ AI research, agents, and development
 - [[QwenVault]]
 - [[DeepseekVault]]
 
+## 🧠 Open Source Models (Ollama)
+- [[Best open source AI models for Ollama]] — June 2026 updated (Kimi K2.6, DeepSeek V4, Gemma 4, Qwen3, vLLM, Ollama v0.24.0)
+- [[Setting up OpenClaw locally for free]] — OpenClaw 302k+ GitHub stars, local AI platform
+
 ---
 
 *Linked from: [[00_Master MOC]] | [[00_Vault Dashboard]]*

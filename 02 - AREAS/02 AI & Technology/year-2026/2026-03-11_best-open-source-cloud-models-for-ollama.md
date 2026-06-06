@@ -1,68 +1,117 @@
 ---
-title: "Best open source cloud models for Ollama"
-date: 2026-03-11
+title: "Best open source AI models for Ollama"
+date: 2026-06-06
 tags:
   - machine-learning
   - llm-ai
   - linux
-  - geopolitics
+  - ollama
+  - open-source
 source: claude-export
 ---
 
-# Best open source cloud models for Ollama
+# Best open source AI models for Ollama
 
-> **Conversation Overview**
+> **For future Claude**: This note tracks the best open-source models available through Ollama as of June 2026. Hardware constraints (8GB RAM, integrated GPU on HP ProBook) limit local runs — cloud/API access required for larger models. Updated from March 2026 version with Kimi K2.6, DeepSeek V4, Qwen3 235B, Gemma 4, OpenClaw, vLLM, and Ollama v0.24.0.
 
-The person asked for recommendations on which open source cloud models are best to use through Ollama, referencing a list of available models. Claude provided a structured breakdown of top models organized by use case categories: best overall and coding/agent models (Qwen3-Coder, Devstral-Small-2, Devstral-2), best reasoning/thinking models (DeepSeek-V3.1, Qwen3-Next, Nemotron-3-Nano), best lightweight/efficient models (Qwen3.5, Gemma3, Ministral-3), and best multimodal/vision models (Qwen3-VL, Kimi-K2.5).
-
-Claude noted the person is running a local setup on Feren OS, with VRAM as the primary hardware constraint, and tailored the final recommendations accordingly. A summary table was provided mapping specific use cases to recommended models, with Qwen3.5 and Gemma3 highlighted as the most flexible options for scaling based on available system resources. Key technical details referenced include model parameter sizes, pull counts, and capability flags such as tools support, vision, and thinking mode.
-
-**Date:** 2026-03-11  
-**Topics:** [[Machine-Learning]] · [[LLM-AI]] · [[Linux]] · [[Geopolitics]]
+**Date:** 2026-06-06 (updated from 2026-03-11) · **Hardware:** HP ProBook (8GB RAM, integrated GPU) · **Topics:** [[Machine-Learning]] · [[LLM-AI]] · [[Linux]] · [[Ollama]]
 
 ---
 
-### 🧑 You
+## Top Models by Category (June 2026)
 
-which open source cloud models are best to use through ollama from this
+### 🏆 Best Coding / Agentic
+
+| Model | Size | Key Strengths | Local? |
+|-------|------|---------------|--------|
+| **Kimi K2.6** | — | Top open-source coding model, native multimodal (vision + language + agentic) | ❌ |
+| **Qwen3-Coder** | 30B / 480B | 3.5M pulls, tools support, long context, great for agents | ❌ |
+| **Devstral-Small-2** | 24B | Vision + tools, multi-file editing, built for SWE agents | ❌ |
+| **Devstral-2** | 123B | Beefier Devstral, same agentic focus | ❌ |
+
+> **Kimi K2.6 note:** K2.6 is the current top open-source coding model as of June 2026. Native multimodal with vision + language + agentic capabilities. (Source: research, 2026-06)
+
+### 🧠 Best Reasoning / Thinking
+
+| Model | Size | Key Strengths | Local? |
+|-------|------|---------------|--------|
+| **DeepSeek V4** | 671B | 1M token context window, hybrid thinking + non-thinking, tools support | ❌ |
+| **Qwen3-Next** | 80B | Strong performance-per-parameter, thinking mode, tools | ❌ |
+| **DeepSeek-V3.1** | 671B | Previous generation, still very capable | ❌ |
+| **Nemotron-3-Nano** | 30B | Thinking + tools at manageable size | ❌ |
+
+> **DeepSeek V4 note:** Released with 1M token context (up from V3.1). Apache 2.0 licensed. (Source: research, 2026-06)
+
+### ⚡ Best Lightweight / Efficient
+
+| Model | Size | Key Strengths | Local? |
+|-------|------|---------------|--------|
+| **Qwen3.5** | 0.8B–122B | Runs from 0.8B to 122B, vision + tools + thinking, most flexible | ✅ small sizes |
+| **Gemma 4** | 26B | Google MoE, 85 tok/s on consumer GPU, Apache 2.0 | ✅ |
+| **Gemma3** | — | 33M pulls, single GPU, solid general purpose | ✅ |
+| **Ministral-3** | 3B–14B | Vision + tools, edge-focused | ✅ |
+
+> **Gemma 4 note:** Google MoE architecture, 26B parameters, achieves 85 tok/s on consumer hardware. Apache 2.0 licensed. (Source: research, 2026-06)
+
+### 👁️ Best Multimodal / Vision
+
+| Model | Size | Key Strengths | Local? |
+|-------|------|---------------|--------|
+| **Qwen3-VL** | 2M–30B pulls | Strongest vision-language in Qwen family, tools + thinking | ❌ large |
+| **Kimi K2.6** | — | Native multimodal with vision + language + agentic | ❌ |
+| **Qwen3.5** | 4B–122B | Vision support across size range | ✅ small sizes |
+
+### 🔧 Tooling & Infrastructure
+
+| Tool | Note |
+|------|------|
+| **Ollama v0.24.0** | 4,500+ models, Gemma 4 support, regular releases |
+| **vLLM** | #1 GitHub contributors 2025, top inference engine |
+| **OpenClaw** | 302k+ GitHub stars, fastest-growing project, local AI with 50+ integrations |
+
+> **OpenClaw note:** As of June 2026, OpenClaw has 302k+ GitHub stars — fastest-growing GitHub project. Local AI with 50+ integrations. Previous note (Feb 2026) was unclear on what OpenClaw was; now confirmed as a major open-source local AI platform. (Source: research, 2026-06)
 
 ---
 
-### 🤖 Claude
+## Recommendations for HP ProBook (8GB RAM, Integrated GPU)
 
-Looking at this list, the standout open-source cloud models worth using through Ollama depend on what you need:
+**Hardware constraint:** 8GB RAM, integrated GPU — large models cannot run locally.
 
-**Best overall / coding & agents**
-- **Qwen3-Coder** (30B or 480B) — massive pull count (3.5M), tools support, long context. Great for agentic coding.
-- **Devstral-Small-2** (24B) — vision + tools, built specifically for software engineering agents and multi-file editing.
-- **Devstral-2** (123B) — same as above but beefier, if you have the VRAM.
+### What CAN run locally:
 
-**Best reasoning / thinking**
-- **DeepSeek-V3.1** (671B) — hybrid thinking + non-thinking, tools support. Very capable but massive.
-- **Qwen3-Next** (80B) — strong performance-per-parameter, thinking mode, tools.
-- **Nemotron-3-Nano** (30B) — thinking + tools at a more manageable size.
+| Use Case | Model | Size | Notes |
+|----------|-------|------|-------|
+| General chat | **Gemma 4** | 26B | 85 tok/s, Apache 2.0 |
+| Lightweight tasks | **Qwen3.5** | 4B–9B | Vision + tools + thinking |
+| Fast inference | **Gemma3** | — | 33M pulls, single GPU |
 
-**Best lightweight / efficient**
-- **Qwen3.5** — runs from 0.8B to 122B, vision + tools + thinking. Best range of size options here.
-- **Gemma3** — 33M pulls (most popular on the list), runs on a single GPU, solid general purpose.
-- **Ministral-3** — vision + tools, edge-focused, 3B–14B range.
+### What requires cloud/API:
 
-**Best multimodal (vision)**
-- **Qwen3-VL** (2M pulls) — strongest vision-language in the Qwen family, tools + thinking.
-- **Kimi-K2.5** — native multimodal with vision + language + agentic capabilities.
+- Kimi K2.6 (coding)
+- DeepSeek V4 (reasoning, 1M context)
+- Qwen3 235B-A22B (Apache 2.0)
+- Qwen3-Coder 480B
+- Devstral-2 123B
+- DeepSeek-V3.1 671B
 
 ---
 
-**My top picks for practical local use:**
+## Quick Reference (Updated Table)
 
-| Use case | Pick |
-|---|---|
-| Coding agent | Qwen3-Coder (30B) |
-| General chat | Gemma3 (27B) |
-| Vision tasks | Qwen3-VL (8B or 30B) |
-| Reasoning/thinking | Qwen3-Next (80B) |
-| Low VRAM | Qwen3.5 (4B or 9B) |
+| Use Case | Recommended Model | Why |
+|----------|-------------------|-----|
+| Coding agent | **Kimi K2.6** | Top open-source coding model (June 2026) |
+| General chat | **Gemma 4** (26B) | Fast, Apache 2.0, runs on consumer GPU |
+| Vision tasks | **Qwen3-VL** (8B) or **Kimi K2.6** | Both strong, pick based on size |
+| Reasoning/thinking | **DeepSeek V4** (cloud) | 1M token context |
+| Low VRAM | **Qwen3.5** (4B–9B) | Most flexible size range |
+| Local inference | **Ollama v0.24.0** | 4,500+ models, Gemma 4 support |
 
-Since you're on Feren OS with a local setup, VRAM is likely the main constraint — Qwen3.5 and Gemma3 give you the most flexibility to scale up or down based on what your system can handle.
+---
+
+## Changelog
+
+- **2026-06-06**: Major update — added Kimi K2.6 (top coding), DeepSeek V4 (1M context), Qwen3 235B-A22B (Apache 2.0), Gemma 4 (Google MoE, 26B, 85 tok/s), OpenClaw (302k stars), vLLM (#1 contributors 2025), Ollama v0.24.0. Updated hardware section for HP ProBook.
+- **2026-03-11**: Original note — Qwen3-Coder, Devstral, DeepSeek-V3.1, Qwen3.5, Gemma3, Qwen3-VL, Kimi-K2.5
 
 ---

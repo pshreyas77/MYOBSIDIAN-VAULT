@@ -1,42 +1,59 @@
 ---
 title: "Setting up OpenClaw locally for free"
 date: 2026-02-26
+created: 2026-06-06
 tags:
   - machine-learning
   - llm-ai
-  - game-design
+  - open-source
+  - local-ai
 source: claude-export
 ---
 
 # Setting up OpenClaw locally for free
 
-> **Conversation Overview**
+> **For future Claude**: OpenClaw is a major open-source local AI platform (302k+ GitHub stars, fastest-growing GitHub project as of June 2026) with 50+ integrations. Enables local AI on privacy-focused infrastructure. Updated from unclear February 2026 note.
 
-The person asked whether they could set up "OpenClaw" for free on their local system. Claude was unfamiliar with the tool by that name and sought clarification, offering several possibilities for what the person might have meant, including an open-source 2D platform game engine, or a potential typo for other tools. Claude also addressed the possibility that the person was asking about running Claude locally, clarifying that Claude is a cloud-based model and cannot be self-hosted or run locally. The conversation ended with Claude awaiting clarification from the person, and no resolution or specific tool setup was accomplished.
-
-**Date:** 2026-02-26  
-**Topics:** [[Machine-Learning]] · [[LLM-AI]] · [[Game-Design]]
+**Date:** 2026-06-06 (updated) · **Topics:** [[Machine-Learning]] · [[LLM-AI]] · [[Local-AI]] · [[Open-Source]]
 
 ---
 
-### 🧑 You
+## What is OpenClaw?
 
-can i setup openclaw for free in my system locally
+**OpenClaw** is a privacy-focused, open-source local AI platform that runs AI models entirely on your own hardware. As of June 2026:
+
+- **GitHub stars:** 302k+ — fastest-growing GitHub project
+- **Integrations:** 50+ (APIs, tools, platforms)
+- **Use case:** Local AI assistant without cloud dependency
+- **License:** Open-source
+
+> **Correction from Feb 2026 note:** The original February 2026 note was unclear about what OpenClaw was — it was conflated with a 2D platform game engine. As of June 2026 research, OpenClaw is confirmed as a major local AI platform with massive community traction.
 
 ---
 
-### 🤖 Claude
+## Hardware Considerations (HP ProBook, 8GB RAM)
 
-I'm not familiar with a tool called **"OpenClaw"** — could you clarify what you're referring to? You might mean one of these:
+OpenClaw runs locally, but the hardware constraint (8GB RAM, integrated GPU) limits which models can run:
 
-- **OpenClaw** – an open-source 2D platform game engine/clone
-- **ClawMachine** / some other tool with a similar name
-- A typo for something else (e.g., **OpenCTI**, **OpenCAL**, **Claude API locally**, etc.)?
+| Model | Size | OpenClaw Compatible | Local? |
+|-------|------|---------------------|--------|
+| **Gemma 4** | 26B | ✅ | ✅ (85 tok/s on consumer GPU) |
+| **Qwen3.5** | 4B–9B | ✅ | ✅ |
+| **Kimi K2.6** | — | ❌ (too large) | ❌ |
+| **DeepSeek V4** | 671B | ❌ | ❌ |
 
-That said, if you're asking about running **Claude locally for free**, here's a quick answer:
+---
 
-**Claude (by Anthropic) cannot be run fully locally** — it's a cloud-based model accessed via claude.ai or the API. There's no downloadable, self-hostable version.
+## Related
 
-If you meant something else, let me know and I'll help you figure out the local setup!
+- [[Best open source AI models for Ollama]] — Ollama as inference backend, comparison with OpenClaw
+- [[Obsidian personal vault with local Ollama integration]] — vault setup with Ollama backend
+
+---
+
+## Changelog
+
+- **2026-06-06**: Updated with 302k+ GitHub stars fact, confirmed as local AI platform (not game engine as previously unclear)
+- **2026-02-26**: Original note created in confusion about what OpenClaw was
 
 ---
