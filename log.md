@@ -1,3 +1,24 @@
+## [2026-06-09] create | Ancient Religions Comparative Analysis.md + RSS Funding Analysis.md
+**New notes:**
+- Research/Articles/2026-06-09 — Ancient Religions Comparative Analysis.md (Part 2 of /caveman)
+- Research/Articles/2026-06-09 — RSS Funding Mechanisms Analysis.md (Part 1 of /caveman)
+- Updated: index.md with both entries
+- Ancient Religions: Proto-Indo-Iranian, Mittani Treaty c.1380 BCE, Indo-European religion tree, Trinity (Christianity vs Hinduism), Punic/Carthaginian, Sumerian/Akkadian/Egyptian, ancient names for India (Meluhha/Hindush/Indoi)
+- RSS Funding: Guru Dakshina, Bhutada Family Foundation ($1M+ 2005-2018), Jack Dorsey $2.5M, Sewa International, IDRF, corporate conduits
+
+**New note:**
+- 02 - AREAS/01 Philosophy & Religion/year-2026/2026-06-08_portfolio-dashboard.md
+
+**Portfolio verdict:** 42/100 — Small portfolio, big problems to fix
+
+**Exits:** Reliance Power, Sampre Nutritions, Lemon Tree Hotels, Jaipraprakash Power (~₹1,800 freed)
+**Hold:** IDFC First Bank, BHEL (+65%), NIFTYBEES, Zerodha Midcap
+**Buy (deploy freed capital):** HDFC Bank, BEL, ICICI Bank
+
+**Algorithm:** Composite scoring (fundamentals 40% + price momentum 30% + debt safety 30%)
+
+---
+
 ## [2026-06-02] synthesis | Created Dravidian Religion Origins of Hinduism — Synthesis
 
 **New synthesis note:**
@@ -45,3 +66,10 @@
 ## [2026-05-24] wiki-link | Linked Ancient Civilizations Educational Resources in wiki/index.md
 ## [2026-05-27] ingest | RIGHT vs LEFT WING — SIMPLE Political Ideology Comparison (text) — 1 created, 1 updated
 ## [2026-05-27] graphify | THE PEOPLING OF SOUTH ASIA: A SYNTHESIS OF GENETIC, LINGUISTIC, AND ARCHAEOLOGICAL EVIDENCE — 1 created, 1 updated## [2026-06-04] save | Communist Manifesto study — created [[Karl Marx]] entity, [[Class Struggle - Marx]] concept, [[Communist Manifesto — Marx]] book note, updated [[00_communism_MOC|Communism MOC]]
+
+## [2026-06-09] ingest | RSS Funding Mechanisms Analysis — 3 notes created
+- Created: Research/Articles/2026-06-09 — RSS Funding Mechanisms Analysis.md
+- Created: Research/Articles/Entities/Bhutada Family Foundation.md
+- Created: Research/Articles/Entities/Sewa International.md
+- Updated: index.md (added 3 entries)
+- Topic: RSS funding mechanisms (Guru Dakshina, international diaspora funding, corporate conduits, Sangh Parivar affiliate network)

@@ -62,6 +62,11 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 - [[Research/2026-06-01 — Dark Psychology Books.md]]
 - [[Research/2026-06-01 — Consciousness Books.md]]
 - [[Research/2026-06-01 — Introvert Reading List.md]]
+- [[Research/Articles/2026-06-09 — RSS Funding Mechanisms Analysis.md]] — RSS funding: Guru Dakshina, diaspora foundations, corporate conduits
+- [[Research/Articles/2026-06-09 — Ancient Religions Comparative Analysis.md]] — Proto-Indo-Iranian, Mittani Treaty, Indo-European religions, trinity analysis, Punic, Sumerian/Akkadian/Egyptian
+- [[Research/Articles/Entities/Bhutada Family Foundation.md]] — Largest identified U.S. funder of Sangh Parivar ($1M+ 2005-2018)
+- [[Research/Articles/Entities/Sewa International.md]] — Primary RSS funding hub in the U.S.
+- [[02 - AREAS/01 Philosophy & Religion/year-2026/2026-06-08_portfolio-dashboard.md]] — Portfolio analysis: 42/100 verdict, exits/holds/buys
 
 ## Active Projects
 
