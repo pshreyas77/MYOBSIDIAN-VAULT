@@ -167,6 +167,9 @@ Egyptian religion (~3200 BCE, same era as Sumer) was **independent** of Sumerian
 
 ## Related
 
+- [[Research/Articles/2026-06-09 — Mittani Treaty Religious Evidence]] — Akkadian/Hurrian deity names, phonetic variants, invocation formula (KBo I 3) — **detailed evidence**
+- [[Research/Articles/2026-06-09 — Vedic Evidence Chain Proven vs Inferred]] — manuscript gap problem, Sintashta as anchor, Mitanni treaty as "residual linguistic time capsule," proving vs inferring table
+- [[Research/Articles/2026-06-09 — Ancient Religions Physical Artifact Archive]] — museum catalog numbers: British Museum W_1913-1011-62, UNESCO Boğazköy, Rigveda oldest ms 1040 CE, Avesta oldest ms 1287 CE, Sanskrit inscriptions ~1st c BCE
 - [[Religion Civilization Contributions - Complete Analysis]] — religion's role in civilization
 - [[Dravidian Religion Origins of Hinduism — Synthesis]] — Dravidian/IVC absorption into Vedic framework
 - [[Religious Founders Intentions and Routinization of Charisma]] — Weberian analysis

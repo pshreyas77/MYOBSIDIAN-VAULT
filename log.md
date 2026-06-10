@@ -1,8 +1,14 @@
-## [2026-06-09] create | Ancient Religions Comparative Analysis.md + RSS Funding Analysis.md
+## [2026-06-09] create | Ancient Religions Comparative Analysis.md + RSS Funding Analysis.md + Mittani Treaty Religious Evidence.md
 **New notes:**
-- Research/Articles/2026-06-09 — Ancient Religions Comparative Analysis.md (Part 2 of /caveman)
-- Research/Articles/2026-06-09 — RSS Funding Mechanisms Analysis.md (Part 1 of /caveman)
-- Updated: index.md with both entries
+- Research/Articles/2026-06-09 — Vedic Evidence Chain Proven vs Inferred.md (Part 4 of /caveman) — Rigveda/Avesta manuscript gap (1040 CE / 13th century CE), Sintashta (2100-1800 BCE) as earliest chariot/horse evidence, Mitanni treaty = "residual linguistic time capsule" (not proof of RV composition), proving vs inferring table, Lamberg-Karlovsky ethnic-label warning
+- Updated: Ancient Religions Comparative Analysis.md (added link to Part 4), Mittani Treaty Religious Evidence.md (added link to Part 4), index.md (added Part 4 entry)
+
+**Stored evidence chain (COMPLETE — 5 parts):**
+- Part 1: RSS Funding Mechanisms (Guru Dakshina, Bhutada, Jack Dorsey, Sewa International, IDRF, corporate conduits)
+- Part 2: Ancient Religions Comparative Analysis (Proto-Indo-Iranian, Mittani Treaty, Indo-European tree, trinity, Punic, Sumerian/Akkadian/Egyptian)
+- Part 3: Mittani Treaty Religious Evidence (phonetic variants, invocation formula KBo I 3, deity names, Hurrian suffixes)
+- Part 4: Vedic Evidence Chain Proven vs Inferred (manuscript gap, Sintashta, residual time capsule framing, proving vs inferring, Lamberg-Karlovsky)
+- Part 5: Physical Artifact Archive (museum catalog numbers, British Museum W_1913-1011-62, UNESCO Boğazköy, Rigveda ms 1040 CE, Avesta ms 1287 CE, Sanskrit inscriptions ~1st c BCE, Ashoka in Prakrit)
 - Ancient Religions: Proto-Indo-Iranian, Mittani Treaty c.1380 BCE, Indo-European religion tree, Trinity (Christianity vs Hinduism), Punic/Carthaginian, Sumerian/Akkadian/Egyptian, ancient names for India (Meluhha/Hindush/Indoi)
 - RSS Funding: Guru Dakshina, Bhutada Family Foundation ($1M+ 2005-2018), Jack Dorsey $2.5M, Sewa International, IDRF, corporate conduits
 
@@ -11,7 +17,10 @@
 
 **Portfolio verdict:** 42/100 — Small portfolio, big problems to fix
 
-**Exits:** Reliance Power, Sampre Nutritions, Lemon Tree Hotels, Jaipraprakash Power (~₹1,800 freed)
+- Created: Research/Articles/2026-06-09 — Ancient Religions Physical Artifact Archive.md (Part 5 of /caveman) — British Museum Mitanni Treaty catalog (W_1913-1011-62), UNESCO Boğazköy, Rigveda oldest ms ~1040 CE (National Archives Nepal), Avesta oldest ms 1287-1324 CE (Codices Hafnienses Copenhagen), Sanskrit oldest inscription ~1st c BCE Ayodhya/Hathibada/Ghosundi, Ashoka Edicts in Prakrit NOT Sanskrit
+- Updated: index.md (added Part 5 entry)
+
+**Stored evidence chain (COMPLETE — 5 parts):** Reliance Power, Sampre Nutritions, Lemon Tree Hotels, Jaipraprakash Power (~₹1,800 freed)
 **Hold:** IDFC First Bank, BHEL (+65%), NIFTYBEES, Zerodha Midcap
 **Buy (deploy freed capital):** HDFC Bank, BEL, ICICI Bank
 
