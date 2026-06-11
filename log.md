@@ -1,3 +1,10 @@
+## [2026-06-11] save | Budget Tech Picks — 12-item hardware recommendations saved
+**Saved to:** Research/2026-06-11 — Budget Tech Picks.md
+**Content:** Budget tech recommendations for HP ProBook i5-8350U, Python/ML stack, Obsidian vault, local AI focus. 12 items prioritized by impact (RAM upgrade, USB-C hub, SSD, earbuds, Kindle Paperwhite) + 7 secondary items + skip list. India-market approximate prices.
+**Updated:** index.md
+
+---
+
 ## [2026-06-09] create | Ancient Religions Comparative Analysis.md + RSS Funding Analysis.md + Mittani Treaty Religious Evidence.md
 **New notes:**
 - Research/Articles/2026-06-09 — Vedic Evidence Chain Proven vs Inferred.md (Part 4 of /caveman) — Rigveda/Avesta manuscript gap (1040 CE / 13th century CE), Sintashta (2100-1800 BCE) as earliest chariot/horse evidence, Mitanni treaty = "residual linguistic time capsule" (not proof of RV composition), proving vs inferring table, Lamberg-Karlovsky ethnic-label warning

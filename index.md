@@ -24,6 +24,9 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 - [[wiki/entities/Savitribai Phule.md]] — Educator, social reformer
 - [[wiki/entities/Vidyasagar.md]] — Educator, reformer
 
+## Research — Hardware & Tech Recommendations
+- [[Research/2026-06-11 — Budget Tech Picks.md]] — Budget tech purchase recommendations for CSE student with HP ProBook i5-8350U, Python/ML stack, Obsidian heavy, local AI focus (12 items, India-market prices)
+
 ## Wiki — Projects & Tools
 - [[wiki/entities/GitNexus.md]] — AI-powered Git repository analysis tool
 - [[wiki/entities/InfiniteBrain.md]] — Personal knowledge management system
