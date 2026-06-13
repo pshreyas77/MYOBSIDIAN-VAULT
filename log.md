@@ -1,3 +1,10 @@
+## [2026-06-13] research | Aryan vs Dravidian Religious Cultural Synthesis — saved to Research/Deep/
+**Saved to:** Research/Deep/2026-06-13 — Aryan vs Dravidian Religious Cultural Synthesis.md
+**Content:** IVC (~2600 BCE) predates Vedic (~1500 BCE) by ~1000 years. Rakhigarhi genome = zero steppe ancestry. Modern Hinduism = synthesis absorbing Dravidian substrate (Shiva, Puja, retroflex consonants). ~90% defensible synthesis.
+**Updated:** Daily Notes/2026-06-13.md
+
+---
+
 ## [2026-06-11] save | Budget Tech Picks — 12-item hardware recommendations saved
 **Saved to:** Research/2026-06-11 — Budget Tech Picks.md
 **Content:** Budget tech recommendations for HP ProBook i5-8350U, Python/ML stack, Obsidian vault, local AI focus. 12 items prioritized by impact (RAM upgrade, USB-C hub, SSD, earbuds, Kindle Paperwhite) + 7 secondary items + skip list. India-market approximate prices.
