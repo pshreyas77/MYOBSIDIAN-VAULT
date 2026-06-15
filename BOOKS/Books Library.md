@@ -1,6 +1,6 @@
 # Books Library — Caveman Skill
 
-> 29 books across banned, psychology, consciousness, and introvert categories. Individual notes in `BOOKS/*.md`.
+> 38 books across banned, psychology, consciousness, and introvert categories. Individual notes in `BOOKS/*.md`.
 
 ---
 
@@ -20,9 +20,15 @@
 
 | | | | |
 |---|---|---|---|
-| ![Tropic of Cancer](https://covers.openlibrary.org/b/id/8231823-L.jpg) | ![The Color Purple](https://covers.openlibrary.org/b/id/10539287-L.jpg) | ![The Exorcist](https://covers.openlibrary.org/b/id/36314-L.jpg) | |
-| **Tropic of Cancer** · Miller | **The Color Purple** · Walker | **The Exorcist** · Blatty | |
-| US obscenity trial 1964. Frank sexuality as argument for life, not against it. | Pulitzer winner. Challenged everywhere for sexuality and violence. Epistolary structure. | Banned and burned. Masterclass in building existential dread about faith and evil. | |
+| ![Tropic of Cancer](https://covers.openlibrary.org/b/id/8231823-L.jpg) | ![The Color Purple](https://covers.openlibrary.org/b/id/10539287-L.jpg) | ![The Exorcist](https://covers.openlibrary.org/b/id/36314-L.jpg) | ![Slaughterhouse-Five](BOOKS/covers/slaughterhouse.jpg) |
+| **Tropic of Cancer** · Miller | **The Color Purple** · Walker | **The Exorcist** · Blatty | **Slaughterhouse-Five** · Vonnegut |
+| US obscenity trial 1964. Frank sexuality as argument for life, not against it. | Pulitzer winner. Challenged everywhere for sexuality and violence. Epistolary structure. | Banned and burned. Masterclass in building existential dread about faith and evil. | Anti-war novel. PTSD as non-linear time. "So it goes." Banned for anti-war message. |
+
+| | | | |
+|---|---|---|---|
+| ![Naked Lunch](BOOKS/covers/naked_lunch.jpg) | | | |
+| **Naked Lunch** · Burroughs | | | |
+| Cut-up technique. Addiction as control. Obscenity trial set literary free speech precedent. | | | |
 
 ---
 
@@ -36,9 +42,9 @@
 
 | | | | |
 |---|---|---|---|
-| ![Thinking, Fast and Slow](https://covers.openlibrary.org/b/id/8235161-L.jpg) | ![The Lucifer Effect](https://covers.openlibrary.org/b/id/8516506-L.jpg) | ![People of the Lie](https://covers.openlibrary.org/b/id/8749519-L.jpg) | ![The Psychology of Emotion](https://covers.openlibrary.org/b/id/431011-L.jpg) |
-| **Thinking, Fast and Slow** · Kahneman | **The Lucifer Effect** · Zimbardo | **People of the Lie** · Peck | **The Psychology of Emotion** · Various |
-| System 1 (fast/intuitive) vs System 2 (slow/deliberate). Nobel-winning behavioral economics. | Stanford Prison Experiment deconstructed. Abu Ghraib follow-up. How good people do bad things. | Clinical diagnosis of maliciousness — the refusal to ever face one's own guilt. | James-Lange, Cannon-Bard, Schachter-Singer. Broad survey of emotion research schools. |
+| ![Thinking, Fast and Slow](https://covers.openlibrary.org/b/id/8235161-L.jpg) | ![The Lucifer Effect](https://covers.openlibrary.org/b/id/8516506-L.jpg) | ![People of the Lie](https://covers.openlibrary.org/b/id/8749519-L.jpg) | ![Predictably Irrational](BOOKS/covers/predictably.jpg) |
+| **Thinking, Fast and Slow** · Kahneman | **The Lucifer Effect** · Zimbardo | **People of the Lie** · Peck | **Predictably Irrational** · Ariely |
+| System 1 (fast/intuitive) vs System 2 (slow/deliberate). Nobel-winning behavioral economics. | Stanford Prison Experiment deconstructed. Abu Ghraib follow-up. How good people do bad things. | Clinical diagnosis of maliciousness — the refusal to ever face one's own guilt. | Predictable irrationality. Why we make the same mistakes over and over. |
 
 ---
 
@@ -52,9 +58,9 @@
 
 | | | | |
 |---|---|---|---|
-| ![The Man Who Mistook His Wife for a Hat](https://covers.openlibrary.org/b/id/8261377-L.jpg) | ![Meditations](https://covers.openlibrary.org/b/id/3881631-L.jpg) | |
-| **The Man Who Mistook His Wife for a Hat** · Sacks | **Meditations** · Marcus Aurelius | |
-| Neurological disorders as windows into consciousness. Compassionate narrative approach to brain science. | Stoic foundational text. The emperor-philosopher's private notebook. Two thousand years of influence on thinkers. | |
+| ![The Man Who Mistook His Wife for a Hat](https://covers.openlibrary.org/b/id/8261377-L.jpg) | ![Meditations](https://covers.openlibrary.org/b/id/3881631-L.jpg) | ![The Origin of Consciousness](BOOKS/covers/origin.jpg) | |
+| **The Man Who Mistook His Wife for a Hat** · Sacks | **Meditations** · Marcus Aurelius | **The Origin of Consciousness** · Jaynes | |
+| Neurological disorders as windows into consciousness. Compassionate narrative approach to brain science. | Stoic foundational text. The emperor-philosopher's private notebook. Two thousand years of influence on thinkers. | Bicameral mind. Pre-conscious humans heard gods. Consciousness as historical accident. | |
 
 ---
 
@@ -68,9 +74,9 @@
 
 | | | | |
 |---|---|---|---|
-| ![The Introvert's Complete Guide](https://covers.openlibrary.org/b/id/12993656-L.jpg) | ![Introvert Survival Guide](https://covers.openlibrary.org/b/id/8684447-L.jpg) | |
-| **The Introvert's Complete Guide** · Immanuel | **Introvert Survival Guide** · Block | |
-| Career, relationships, self-care for introverts. More actionable than theoretical. | Thriving in social settings without pretending to be an extrovert. Strategic socializing. | |
+| ![The Introvert's Complete Guide](https://covers.openlibrary.org/b/id/12993656-L.jpg) | ![Introvert Survival Guide](https://covers.openlibrary.org/b/id/8684447-L.jpg) | ![The Highly Sensitive Person](BOOKS/covers/highly_sensitive.jpg) | |
+| **The Introvert's Complete Guide** · Immanuel | **Introvert Survival Guide** · Block | **The Highly Sensitive Person** · Aron | |
+| Career, relationships, self-care for introverts. More actionable than theoretical. | Thriving in social settings without pretending to be an extrovert. Strategic socializing. | Scientific basis for high reactivity. 20% of population is HSP. | |
 
 ---
 
@@ -93,6 +99,12 @@
 | ![Jonathan Livingston Seagull](https://covers.openlibrary.org/b/id/8749519-L.jpg) | ![Man's Search for Meaning](https://covers.openlibrary.org/b/id/8516506-L.jpg) | ![Mastery](https://covers.openlibrary.org/b/id/7561012-L.jpg) | |
 | **Jonathan Livingston Seagull** · Bach | **Man's Search for Meaning** · Frankl | **Mastery** · Greene | |
 | Fable about transcending limits. Flight as metaphor for self-perfection. Spiritual parable. | Logotherapy — the will to meaning. Survived the Holocaust to prove meaning survives anything. | How apprentices become masters. Apprenticeship, mentorship, ego surrender. The learning process dissected. | |
+
+| | | | |
+|---|---|---|---|
+| ![The Stranger](BOOKS/covers/stranger.jpg) | ![Heart of Darkness](BOOKS/covers/heart_of_darkness.jpg) | ![Beyond Good and Evil](BOOKS/covers/beyond_good_evil.jpg) | ![The Catcher in the Rye](BOOKS/covers/catcher.jpg) |
+| **The Stranger** · Camus | **Heart of Darkness** · Conrad | **Beyond Good and Evil** · Nietzsche | **The Catcher in the Rye** · Salinger |
+| Moral absurdity through an indifferent murder trial. | Imperialism, racism, the abyss. Most analyzed short novel in English. | Master vs slave morality. Will to power. Death of God. | Coming-of-age as alienation. Holden's voice IS the book's meaning. |
 
 ---
 
