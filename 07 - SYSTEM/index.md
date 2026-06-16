@@ -33,6 +33,8 @@ Notes from external sources. Everything ingested gets filed here and processed i
 ## 02 — PERMANENT
 Atomic notes in your own words. The atoms of your second brain.
 
+- `02 - PERMANENT/concepts/Digital Garden.md` — evergreen personal knowledge base with combinatorial growth (2026-06-16)
+- `02 - PERMANENT/concepts/Bidirectional Links.md` — backlinks enabling networked thought in digital gardens (2026-06-16)
 - `02 - PERMANENT/concepts/Justice Party.md` — Justice Party 1916–1944: founding, ideology, Periyar takeover, Dravidar Kazhagam (2026-05-29)
 - `02 - PERMANENT/concepts/Dravidar Kazhagam.md` — DK 1944–1949: Periyar's anti-electoral reform movement, DMK split (2026-05-29)
 - `02 - PERMANENT/concepts/Liberal in Indian Political Context.md` — "liberal" = tribal signal in Indian politics, not policy (2026-06-02)
