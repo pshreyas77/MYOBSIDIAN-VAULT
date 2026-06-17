@@ -27,7 +27,7 @@ The approach traces its lineage to Vannevar Bush's memex concept (1945) and Ward
 > — Vanessa Groot (2024), via [[2026-06-16 — Digital Gardens Article]], https://example.com/digital-gardens-2026
 
 ## Links
-- Related: [[Personal Knowledge Management]], [[Note Taking]], [[Evergreen Notes]], [[Bidirectional Links]]
+- Related: [[Personal Knowledge Management]], [[Note Taking]], [[Evergreen Notes]], [[2-atoms/Bidirectional Links]], [[2-atoms/Digital Garden — Evergreen Knowledge Base]], [[2-atoms/Combinatorial Growth — Ideas Connect Non-Linearly]], [[2-atoms/Appleton 2025 — Digital Gardeners Retain Better]], [[2-atoms/Daily Refinement — 15-20 Minutes Optimal]]
 - Contrasts with: [[Chronological Blogging]], [[Social Media Feeds]]
 - Builds on: [[memex]], [[WikiWikiWeb]]
 - Applied in: [[Obsidian.md]], [[Roam Research]], [[Logseq]]

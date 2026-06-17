@@ -35,6 +35,11 @@ Atomic notes in your own words. The atoms of your second brain.
 
 - `02 - PERMANENT/concepts/Digital Garden.md` — evergreen personal knowledge base with combinatorial growth (2026-06-16)
 - `02 - PERMANENT/concepts/Bidirectional Links.md` — backlinks enabling networked thought in digital gardens (2026-06-16)
+- `2-atoms/Digital Garden — Evergreen Knowledge Base.md` — LaFollette definition, evergreen/combinatorial/public thinking (2026-06-17)
+- `2-atoms/Combinatorial Growth — Ideas Connect Non-Linearly.md` — non-linear idea connections creating emergent patterns (2026-06-17)
+- `2-atoms/Appleton 2025 — Digital Gardeners Retain Better.md` — 67% retention improvement claim (2026-06-17)
+- `2-atoms/Daily Refinement — 15-20 Minutes Optimal.md` — PKMI 2026 daily practice recommendation (2026-06-17)
+- `1-desk/article/2026-06-17 — The Rise of Digital Gardens.md` — LaFollette on digital garden definition, Appleton 2025 study, technical requirements (2026-06-17, processed)
 - `02 - PERMANENT/concepts/Justice Party.md` — Justice Party 1916–1944: founding, ideology, Periyar takeover, Dravidar Kazhagam (2026-05-29)
 - `02 - PERMANENT/concepts/Dravidar Kazhagam.md` — DK 1944–1949: Periyar's anti-electoral reform movement, DMK split (2026-05-29)
 - `02 - PERMANENT/concepts/Liberal in Indian Political Context.md` — "liberal" = tribal signal in Indian politics, not policy (2026-06-02)

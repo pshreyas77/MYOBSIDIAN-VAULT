@@ -32,7 +32,7 @@ Modern tools implementing bidirectional linking:
 > — [[2026-06-16 — Digital Gardens Article]], https://example.com/digital-gardens-2026
 
 ## Links
-- Related: [[Digital Garden]], [[Graph Visualization]], [[Combinatorial Growth]], [[Personal Knowledge Management]]
+- Related: [[Digital Garden]], [[Graph Visualization]], [[Combinatorial Growth]], [[Personal Knowledge Management]], [[2-atoms/Digital Garden — Evergreen Knowledge Base]], [[2-atoms/Combinatorial Growth — Ideas Connect Non-Linearly]]
 - Builds on: [[Networked Thought]], [[Wikilinks]]
 - Applied in: [[Obsidian.md]], [[Roam Research]], [[Logseq]]
 - Contrasts with: [[Linear Note Taking]]
