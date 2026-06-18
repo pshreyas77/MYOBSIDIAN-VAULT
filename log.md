@@ -140,3 +140,14 @@
 - Created: Research/Articles/Entities/Sewa International.md
 - Updated: index.md (added 3 entries)
 - Topic: RSS funding mechanisms (Guru Dakshina, international diaspora funding, corporate conduits, Sangh Parivar affiliate network)
+## [2026-06-18 03:XX] Refinery Run | Extracted 5 atoms
+- Processed: 1 literature note from `1-desk/article/`
+- Created: 5 atomic notes in `2-atoms/`
+  1. [[Digital Garden Historical Lineage]]
+  2. [[Digital Garden Core Characteristics]]
+  3. [[Digital Garden Technical Requirements]]
+  4. [[Appleton 2025 Retention Study]]
+  5. [[Daily Refinement Practice Recommendation]]
+- Archived: 1 source to `sources/archived/`
+- [FRICTION] flags: 0 conflicts detected
+
