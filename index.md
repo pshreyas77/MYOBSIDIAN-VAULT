@@ -60,6 +60,7 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 - [[04 - DAILY/]] — No daily notes yet
 
 ## Research
+- [[Research/AI Tools/2026-06-19 — AI-Specific Researcher Tools 2026 — Complete Table.md]] — Pure AI research platforms, Chinese AI tools, optimal free stacks
 - [[Research/2026-05-31 — India China Population Growth Comparison.md]]
 - [[Research/2026-06-01 — Banned Books Reading List.md]]
 - [[Research/2026-06-01 — Dark Psychology Books.md]]
