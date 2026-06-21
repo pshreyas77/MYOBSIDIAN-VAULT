@@ -57,9 +57,13 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 - [[wiki/decisions/]] — Reconciliation items (empty)
 
 ## Daily Notes
-- [[04 - DAILY/]] — No daily notes yet
+- [[04 - DAILY/2026-06-21.md]] — Health/fitness research completion: 12-week integrated protocol (PPL + Tier A supplements), NotebookLM export ready, Week 4 checkpoint 2026-07-19
 
 ## Research
+- [[Research/2026-06-21-4 — NotebookLM Export — Integrated Health Protocol.md]] — NotebookLM-ready source: supplement timing tables, 3-day PPL workout tables, progression logic, India pricing (₹15-26k/12 weeks), Week 1 checklist
+- [[Research/2026-06-21-3 — Integrated Health Protocol — Training + Supplement Synthesis.md]] — 12-week integrated protocol: rotating PPL + Tier A supplement stack, 4kg progression tracking, India pricing (₹15-26k/12 weeks), evidence-based outcome projections
+- [[Research/2026-06-21-2 — Dumbbell Program Analysis & PPL Restructure.md]] — Darebee 5-PDF critique, 3-day PPL restructure for 4kg dumbbells, 45-60s rest protocol
+- [[Research/2026-06-21 — Supplement Evidence Audit & Master List.md]] — Supplement evidence audit (4 tiers), berberine contradiction resolved, India pricing, IR-targeted stack
 - [[Research/AI Tools/2026-06-19 — AI-Specific Researcher Tools 2026 — Complete Table.md]] — Pure AI research platforms, Chinese AI tools, optimal free stacks
 - [[Research/2026-05-31 — India China Population Growth Comparison.md]]
 - [[Research/2026-06-01 — Banned Books Reading List.md]]
