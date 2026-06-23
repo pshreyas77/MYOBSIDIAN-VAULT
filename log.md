@@ -1,3 +1,9 @@
+## [2026-06-23 06:30] Night Shift | Scout + Refinery + Editor — 0 new items (vault fully processed)
+- Scout: 00-INBOX empty, 0-raw had 1 processed file
+- Refinery: 1-desk items already status: processed
+- Editor: All 11 atoms in 2-atoms/ already linked, verified 2+ outgoing links each
+- Morning brief: BRIEFINGS/2026-06-23 — Morning Brief.md
+- Automation: Recurring Night Shift jobs scheduled (Scout 23:00, Refinery 03:00, Editor 06:00, Audit Sun 22:00)
 ## [2026-06-21 06:XX] Night Shift | Scout + Refinery + Editor — 0 new items (vault fully processed)
 - Scout: 00-INBOX empty, 0-raw had 1 processed file
 - Refinery: 1-desk items already status: processed

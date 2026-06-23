@@ -90,3 +90,25 @@ Modern Hinduism = **synthesis** where later Vedic tradition absorbed indigenous 
 - [[Research/Articles/2026-06-09 — Ancient Religions Comparative Analysis]]
 - [[Research/Articles/2026-06-09 — Vedic Evidence Chain Proven vs Inferred]]
 - [[dravidian-hinduism-synthesis]] (memory)
+- [[2026-06-22 — Aryan Migration Debate Evidence and Pre-Aryan India]]
+
+## Key Genetics Papers (Debate-Ready Links)
+
+Pull these up live during a debate — DOI links can't be waved away:
+
+1. **Narasimhan et al 2019** — "The Formation of Human Populations in South and Central Asia," *Science* 365(6457). 523 ancient genomes, establishes steppe-ancestry timeline.
+   - Free full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC6822619/
+   - DOI: https://doi.org/10.1126/science.aat7487
+
+2. **Shinde et al 2019** — "An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers," *Cell* 179(3). Rakhigarhi paper — zero steppe ancestry.
+   - Free full text: https://scholar.harvard.edu/files/vagheesh/files/piis0092867419309675.pdf
+   - PubMed: https://pubmed.ncbi.nlm.nih.gov/31495572/
+
+3. **Moorjani et al 2013** — "Genetic Evidence for Recent Population Mixture in India," *AJHG* 93(3):422–438. ANI-ASI mixture model, dated ~1900–4200 years ago.
+   - PubMed: https://pubmed.ncbi.nlm.nih.gov/23932107/
+
+4. **Reich et al 2009** — "Reconstructing Indian Population History," *Nature* 461. Original ANI/ASI paper.
+   - Free full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC2842210/
+
+5. **Anthony & Ringe 2015** — "The Indo-European Homeland from Linguistic and Archaeological Perspectives," *Annual Review of Linguistics* 1:199–219.
+   - DOI: https://doi.org/10.1146/annurev-linguist-030514-124812

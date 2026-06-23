@@ -1,0 +1,241 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 450,
+      "y": -50,
+      "width": 700,
+      "height": 80,
+      "text": "# Aryan Migration Debate\n## Research Paper Network & Evidence Chain\n\nCore claim: Steppe ancestry arrived in South Asia **after** IVC decline (1200-800 BCE), not during."
+    },
+    {
+      "id": "download-hub",
+      "type": "file",
+      "x": 50,
+      "y": 30,
+      "width": 320,
+      "height": 140,
+      "file": "Research/Papers/Aryan-Migration/00_Download_All_Papers.md"
+    },
+    {
+      "id": "narasimhan-2019",
+      "type": "file",
+      "x": 50,
+      "y": 200,
+      "width": 280,
+      "height": 200,
+      "file": "Research/Papers/Aryan-Migration/01_Narasimhan-2019-Summary.md"
+    },
+    {
+      "id": "shinde-2019",
+      "type": "file",
+      "x": 360,
+      "y": 200,
+      "width": 280,
+      "height": 200,
+      "file": "Research/Papers/Aryan-Migration/02_Shide-2019-Summary.md"
+    },
+    {
+      "id": "moorjani-2013",
+      "type": "file",
+      "x": 670,
+      "y": 200,
+      "width": 280,
+      "height": 200,
+      "file": "Research/Papers/Aryan-Migration/03_Moorjani-2013-Summary.md"
+    },
+    {
+      "id": "reich-2009",
+      "type": "file",
+      "x": 980,
+      "y": 200,
+      "width": 280,
+      "height": 200,
+      "file": "Research/Papers/Aryan-Migration/04_Reich-2009-Summary.md"
+    },
+    {
+      "id": "anthony-ringe-2015",
+      "type": "file",
+      "x": 1300,
+      "y": 200,
+      "width": 280,
+      "height": 200,
+      "file": "Research/Papers/Aryan-Migration/05_Anthony-Ringe-2015-Summary.md"
+    },
+    {
+      "id": "timeline-header",
+      "type": "text",
+      "x": 450,
+      "y": 450,
+      "width": 700,
+      "height": 50,
+      "text": "### ⏱️ Timeline Convergence"
+    },
+    {
+      "id": "timeline",
+      "type": "text",
+      "x": 450,
+      "y": 510,
+      "width": 700,
+      "height": 220,
+      "text": "| Date | Event | Key Paper |\n|------|-------|------------|\n| **2600-1900 BCE** | Mature IVC period | Shinde 2019 |\n| **~2500 BCE** | Rakhigarhi individual (zero steppe) | Shinde 2019 |\n| **1900-1500 BCE** | IVC decline, de-urbanization | |\n| **1500-1200 BCE** | Rigveda composition begins | |\n| **1200-800 BCE** | Steppe ancestry detected in Swat Valley | Narasimhan 2019 |\n| **200 BCE-2200 CE** | ANI-ASI mixture event | Moorjani 2013 |\n| **Modern** | 10-20% steppe in South Asians | All papers |\n\n**Conclusion:** Migration occurred **after** IVC, not during."
+    },
+    {
+      "id": "evidence-chain",
+      "type": "text",
+      "x": 50,
+      "y": 450,
+      "width": 350,
+      "height": 290,
+      "text": "### 🔗 Genetics Evidence Chain\n\n```\nReich 2009\n   ↓\nIdentifies ANI/ASI structure\n   ↓\nMoorjani 2013\n   ↓\nDates mixture: 1900-4200 ya\n   ↓\nShinde 2019 + Narasimhan 2019\n   ↓\nAncient DNA confirms:\n• IVC = zero steppe\n• Steppe arrives 1200-800 BCE\n```\n\n**Falsifies OIT:** If IVC = Aryan, Rakhigarhi should have steppe DNA. It doesn't."
+    },
+    {
+      "id": "linguistics-detail",
+      "type": "text",
+      "x": 1300,
+      "y": 450,
+      "width": 280,
+      "height": 290,
+      "text": "### 🔗 Linguistics Evidence Chain\n\n**PIE Vocabulary** (reconstructed):\n• *sneigʷh-* = snow ❄️\n• *bʰeh₂ǵos = beech tree 🌳\n• *kʷekʷlos = wheel 🛞\n• *h₁éḱwos = horse 🐴\n\n→ Matches **steppe ecology**, not tropical India\n\n**Archaeology:**\n• Earliest wheels: steppe ~3500 BCE\n• Earliest horseback riding: steppe ~4000 BCE\n\n**Independent confirmation** of genetic timeline."
+    },
+    {
+      "id": "debate-header",
+      "type": "text",
+      "x": 50,
+      "y": 790,
+      "width": 1530,
+      "height": 50,
+      "text": "### 🎯 Debate Strategy"
+    },
+    {
+      "id": "concede",
+      "type": "text",
+      "x": 50,
+      "y": 850,
+      "width": 350,
+      "height": 160,
+      "text": "#### ✅ Concede (Costs Nothing)\n\n- \"Aryan Invasion Theory is fake\" ✓\n  - 19th-c colonial race science\n  - No archaeological support\n\n- \"IVC people = ancestors of modern Indians\" ✓\n  - Genetics confirms IVC DNA persists\n  - Not replaced or erased"
+    },
+    {
+      "id": "hold-firm",
+      "type": "text",
+      "x": 430,
+      "y": 850,
+      "width": 350,
+      "height": 160,
+      "text": "#### ✋ Hold Firm\n\n- \"Migration didn't happen\" → **Reject**\n  - 523 ancient genomes prove otherwise\n  - Force opponent to argue against:\n\n**Narasimhan et al 2019 (Science)**\nDOI: 10.1126/science.aat7487"
+    },
+    {
+      "id": "prevent-misuse",
+      "type": "text",
+      "x": 810,
+      "y": 850,
+      "width": 350,
+      "height": 160,
+      "text": "#### ⚠️ Prevent Misuse\n\nGenetics shows:\n• **Admixture** + **Continuity**\n• NOT replacement/conquest\n\nWarn against:\n• Using \"migration\" for race supremacy\n• Using \"OIT\" for nationalist politics"
+    },
+    {
+      "id": "synthesis",
+      "type": "file",
+      "x": 1190,
+      "y": 850,
+      "width": 390,
+      "height": 160,
+      "file": "Research/Deep/2026-06-22 — Aryan Migration Debate Evidence and Pre-Aryan India.md"
+    }
+  ],
+  "edges": [
+    {
+      "fromNode": "download-hub",
+      "toNode": "narasimhan-2019",
+      "label": "PDF links"
+    },
+    {
+      "fromNode": "download-hub",
+      "toNode": "shinde-2019",
+      "label": "PDF links"
+    },
+    {
+      "fromNode": "download-hub",
+      "toNode": "moorjani-2013",
+      "label": "PDF links"
+    },
+    {
+      "fromNode": "download-hub",
+      "toNode": "reich-2009",
+      "label": "PDF links"
+    },
+    {
+      "fromNode": "download-hub",
+      "toNode": "anthony-ringe-2015",
+      "label": "PDF links"
+    },
+    {
+      "fromNode": "reich-2009",
+      "toNode": "moorjani-2013",
+      "label": "Built on"
+    },
+    {
+      "fromNode": "moorjani-2013",
+      "toNode": "shinde-2019",
+      "label": "Dated →"
+    },
+    {
+      "fromNode": "shinde-2019",
+      "toNode": "narasimhan-2019",
+      "label": "Companion papers"
+    },
+    {
+      "fromNode": "narasimhan-2019",
+      "toNode": "timeline",
+      "label": "1200-800 BCE anchor"
+    },
+    {
+      "fromNode": "shinde-2019",
+      "toNode": "timeline",
+      "label": "IVC = zero steppe"
+    },
+    {
+      "fromNode": "moorjani-2013",
+      "toNode": "timeline",
+      "label": "Mixture date"
+    },
+    {
+      "fromNode": "anthony-ringe-2015",
+      "toNode": "timeline",
+      "label": "Confirms"
+    },
+    {
+      "fromNode": "evidence-chain",
+      "toNode": "hold-firm",
+      "label": "Supports"
+    },
+    {
+      "fromNode": "linguistics-detail",
+      "toNode": "hold-firm",
+      "label": "Independent"
+    },
+    {
+      "fromNode": "synthesis",
+      "toNode": "concede",
+      "label": "Full guide"
+    },
+    {
+      "fromNode": "synthesis",
+      "toNode": "hold-firm",
+      "label": "Details"
+    },
+    {
+      "fromNode": "synthesis",
+      "toNode": "prevent-misuse",
+      "label": "Context"
+    }
+  ],
+  "metadata": {
+    "version": "1.0-1.0",
+    "frontmatter": {},
+    "title": "Aryan Migration Research Network",
+    "description": "Evidence chain from 5 foundational papers"
+  }
+}
