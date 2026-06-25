@@ -1,3 +1,10 @@
+## [2026-06-25 06:30] Night Shift | Scout + Refinery + Editor — 0 new items (vault fully processed)
+- Scout: 00-INBOX empty, 0-raw had 1 pre-processed file
+- Refinery: 1-desk items already status: processed
+- Editor: All 12 atoms in 2-atoms/ verified with 2+ outgoing links, index.md current
+- Morning brief: BRIEFINGS/2026-06-25 — Morning Brief.md
+- Automation: Recurring Night Shift jobs running (Scout 23:00, Refinery 03:00, Editor 06:00, Audit Sun 22:00)
+
 ## [2026-06-24 23:XX] Night Shift Complete | Scout + Refinery + Editor
 - Scout: 1 new item in 0-raw/ → 1-desk/article/2026-06-24 — The Rise of Digital Gardens.md
 - Refinery: Source duplicate of 2026-06-17 literature note; 6 atoms already exist in 2-atoms/
