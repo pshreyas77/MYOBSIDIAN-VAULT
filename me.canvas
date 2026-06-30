@@ -1,0 +1,79 @@
+{
+	"nodes":[
+		{
+			"id": "profile-header",
+			"type": "text",
+			"text": "# Shreyas Pilli (Sunny)\n## Final-Year CSE | MLR Institute of Technology, Hyderabad\n\n**Target:** Fresher DA/ML/AI Roles — Actively Applying\n\n**Core Stack:**\n- Python | SQL | FastAPI | React\n- LangChain | Ollama | ChromaDB\n- Linux (Feren OS) | Windows",
+			"x": 800,
+			"y": 50,
+			"width": 500,
+			"height": 220
+		},
+		{
+			"id": "active-projects",
+			"type": "text",
+			"text": "# Active Projects\n\n| Project | Tech | Status |\n|---------|------|--------|\n| NeoAttend Agent | Flask | 14/14 tests passing ✅ |\n| Open Source Agent | Multi-agent research | In Progress |\n| VerifAI | FastAPI, Whisper, spaCy | Building |\n| OmniResearch | ChromaDB, React/Vite | Active |\n| UCH Research | 3 papers written | Thesis stage |",
+			"x": 1000,
+			"y": 350,
+			"width": 420,
+			"height": 240
+		},
+		{
+			"id": "research-interests",
+			"type": "text",
+			"text": "# Research Interests\n\n**Comparative Religion & Philosophy:**\n- UCH: Universal enlightenment (Advaita, Buddhism, Jainism, Desert Fathers)\n- IVC-Vedic-Buddhist-Jain relationships\n- Nagarjuna (emptiness) | Shankara (Advaita) | Basavanna\n\n**Applied Analysis:**\n- Ancient history & OSINT\n- Indian election analysis\n- Vigyan Bhairav Tantra | Neti Neti | Vithoba-Buddha connections",
+			"x": 350,
+			"y": 350,
+			"width": 420,
+			"height": 240
+		},
+		{
+			"id": "tech-skills",
+			"type": "text",
+			"text": "# Technical Skills\n\n**Languages & Frameworks:**\n- Python (primary)\n- SQL\n- FastAPI (backend)\n- React (frontend)\n\n**AI/ML Tools:**\n- LangChain\n- Ollama (local LLMs)\n- ChromaDB (vector store)\n- Whisper (transcription)\n- spaCy (NLP)\n\n**OS & Environment:**\n- Linux (Feren OS)\n- Windows\n- Git, CLI workflows",
+			"x": 50,
+			"y": 700,
+			"width": 380,
+			"height": 280
+		},
+		{
+			"id": "soft-skills",
+			"type": "text",
+			"text": "# Profile & Values\n\n**Philosophy-Driven Thinker** — Applies deep philosophical frameworks to real-world problems (e.g., comparative religion → OSINT, ancient history → election analysis).\n\n**Open Source Contributor** — Building multi-agent research platforms.\n\n**Academic Rigor** — 3 research papers written; thesis on enlightenment-as-universal-capacity.\n\n**Self-Supervised Learner** — Active in exploring frontier AI tools, local-first workflows, and knowledge management systems.\n\n**Goal:** Data Analyst / ML Engineer / AI Researcher — Entry-level role where analytical depth and technical versatility create impact."
+		},
+		{
+			"id": "tech-interests",
+			"type": "text",
+			"text": "# Tech Interests\n\n- Local-first AI (Ollama, ChromaDB)\n- Multi-agent systems\n- Fact-checking & verification pipelines\n- Knowledge management automation\n- Open-source tooling"
+		},
+		{
+			"id": "philosophy-interests",
+			"type": "text",
+			"text": "# Philosophy Interests\n\n- Advaita Vedanta (Shankara)\n- Buddhism (Nagarjuna, emptiness)\n- Jainism\n- Vigyan Bhairav Tantra\n- Vithoba-Buddha connections"
+		},
+		{
+			"id": "projects-hub",
+			"type": "text",
+			"text": "# Projects Hub\n\n**NeoAttend Agent**\nAutonomous AI attendance system. Flask backend. 14/14 tests passing.\n\n**Open Source Agent**\nMulti-agent research platform for collaborative intelligence.\n\n**VerifAI**\nFact-checking pipeline built on FastAPI, Whisper, and spaCy.\n\n**OmniResearch**\nIntelligence platform using ChromaDB and React/Vite."
+		},
+		{
+			"id": "research-hub",
+			"type": "text",
+			"text": "# Research Hub\n\n**UCH (Universal Capacity for Human Enlightenment)**\n3 papers written. Thesis argues enlightenment as a universal human capacity across traditions.\n\n**Comparative Religion**\n- IVC-Vedic-Buddhist-Jain connections\n- Ancient history + OSINT methods\n- Indian election analysis from historical lens"
+		}
+	],
+	"edges":[
+		{"id": "edge-header-hub", "fromNode": "profile-header", "fromSide": "bottom", "toNode": "active-projects", "toSide": "top", "label": "projects"},
+		{"id": "edge-header-research", "fromNode": "profile-header", "fromSide": "bottom", "toNode": "research-interests", "toSide": "top", "label": "research"},
+		{"id": "edge-research-skills", "fromNode": "research-interests", "fromSide": "bottom", "toNode": "tech-skills", "toSide": "top", "label": "skills"},
+		{"id": "edge-projects-soft", "fromNode": "active-projects", "fromSide": "bottom", "toNode": "soft-skills", "toSide": "top", "label": "profile"},
+		{"id": "edge-projects-tech", "fromNode": "active-projects", "fromSide": "right", "toNode": "tech-interests", "toSide": "left", "label": "interests"},
+		{"id": "edge-research-phil", "fromNode": "research-interests", "fromSide": "left", "toNode": "philosophy-interests", "toSide": "right", "label": "philosophy"},
+		{"id": "edge-skills-projects-hub", "fromNode": "tech-skills", "fromSide": "bottom", "toNode": "projects-hub", "toSide": "top", "label": "details"},
+		{"id": "edge-soft-research-hub", "fromNode": "soft-skills", "fromSide": "bottom", "toNode": "research-hub", "toSide": "top", "label": "details"}
+	],
+	"metadata": {
+		"version": "1.0-1.0",
+		"frontmatter": {}
+	}
+}

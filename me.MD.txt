@@ -1,0 +1,98 @@
+# Me — Sunny (pshreyas77)
+
+## Core
+- Age: 22, Hyderabad, Telangana
+- B.Tech CSE grad, MLR Institute of Tech, Hyderabad
+- Status: job-search, fresher Data Analyst / AI-ML roles
+- Langs: Telugu, Hindi, Eng (fluent). Learning: Kannada, Tamil, Malayalam, Tulu (listen only)
+- Allergy: curd (dairy). Coffee: black, no sugar no milk
+
+## Tech Stack
+Python, SQL, FastAPI, React, LangChain, Ollama, LLM APIs
+
+## Hardware
+HP ProBook 640 G4 — i5-8350U, 8GB RAM, Intel iGPU. Dual-boot Win/Feren OS KDE.
+→ shapes tool choice: lightweight, CPU-only models (qwen2.5:1.5b primary local).
+
+## Projects
+- VerifAI — AI fact-checker
+- OmniResearch — multi-agent research platform
+- NeoAttend Agent — SIH project
+- TruthPulse
+- BAT AI — personal assistant
+- WorldView — geospatial intel dashboard
+- IMDB TV Shows dashboard
+- Customer churn pipeline
+- Dravidian civilization React reference app (Wikipedia API)
+- Obsidian AI second brain w/ Claude Code, GitHub auto-contrib scripts
+- OSINT toolkit (theHarvester, Sherlock, Maigret, Holehe) — venv at `~/osint/tools/osint_venv/`
+
+## Pending / Active (as of Jun 2026)
+- AutoCAD supplementary exam (Engineering Drawing)
+- JNTUH grace marks policy — 1 failed subject remaining
+- Job hunt ongoing, no offer yet
+- Outlier AI (Telugu Voice/Writer) — bridge income option
+- Helped family w/ Form 6 voter reg, Telangana SIR Phase 3
+
+## Interests
+Comparative religion, ancient history, Indian politics, philosophy, comics/fiction power-scaling
+Anti-caste thought: Periyar, Ambedkar, Basavanna, Bhagya Reddy Varma, Phule
+Indian philosophy: Charvaka, Advaita, Nagarjuna
+Dravidian political identity
+
+## Research Domains (deep, multi-month)
+### IVC / Indo-Aryan / Vedic — verified facts
+- Nanda 343–321 BCE vs Cyrus 559–530 BCE = NO overlap (190yr gap). Real Cyrus contemporary = Bimbisara 544–493 BCE (14yr overlap).
+- IVC (Rakhigarhi aDNA) = zero Steppe ancestry (Shinde 2019, Narasimhan 2019)
+- No material proof of Vedic before ~1000 BCE; oldest physical Rigveda MS = 1040 CE (Nepal)
+- Mitanni treaty KBo I 1/I 3 (~1380 BCE, Akkadian cuneiform, Bogazkoy Syria) = earliest indirect Vedic-name evidence, NOT in India
+- Kikkuli Manual CTH 284 (~1345 BCE) = Indo-Aryan numerals more archaic than Rigveda
+- Modern Hinduism (temple+bhakti) = formed 4th–15th CE, structurally diff from early Vedic
+- Zoroaster name = only attested in Sasanian-era inscriptions
+
+### Yoga/Ayurveda/Hindu Synthesis Model (mainstream view, research complete)
+- L1 (pre-2000 BCE): IVC pre-Aryan — proto-Shaiva, ascetic, herbalism, goddess cults
+- L2 (2000–1500 BCE): Steppe migration — Sanskrit, fire sacrifice, Indra pantheon
+- L3 (1500–500 BCE): early Vedic gradual acculturation
+- L4 (500 BCE): Shramana codified — Buddha/Mahavira NON-Vedic (Bronkhorst "Greater Magadha")
+- L5 (500 BCE–800 CE): Brahmanical crisis, mass absorption
+- Result: Modern Hinduism ≈ Vedic Sanskrit shell + ~70% pre-Aryan/Shramanic content
+- Hypotheses (unproven, strong): IVC=Proto-Dravidian (Parpola); Shramana=pre-Aryan indigenous (Zimmer); Dasa+Harappan=Shaiva-Shakta Tantrism (Parpola)
+
+### Corrected errors (don't repeat)
+- EA 19 (not EA 25) — maninnu necklace tablet
+- RV 10.125 ≠ verbatim Mitanni match
+- "40% agri vocabulary" claim = unverified
+- BM 93005 = unverifiable
+- Nuzi horse colors = conflated w/ Kikkuli text (different sources)
+- Nahali-predates-Dravidian = overclaim
+- Physical Hatha Yoga = medieval ~11th CE (Amritasiddhi text), NOT ancient
+- IVC lingas = archaeologically unproven claim
+- Formal Siddha system = medieval 12th–18th CE, NOT ancient
+
+### UCH (Universal Contemplative Hypothesis) — 3 papers written/corrected
+- Core: enlightenment = universal human capacity, cross-culture
+- Nalanda = 100,000s of manuscripts (scale claim)
+- Berenike Buddha = 2nd CE trade item (not proof of early transmission)
+- Smai Tawi = debated interpretation
+- Desert Fathers = independent (non-Buddhist-influenced) contemplative development
+
+### Written philosophy chronology (physical MS evidence only — strict)
+- Egypt: Teaching of Ptahhotep ~2390–2350 BCE (Papyrus Prisse) — oldest
+- Sumer: Instructions of Shuruppak tablets ~2600–2000 BCE
+- India: Rigveda physical MS only ~1040 CE (1200 BCE = composition estimate, NOT physical proof)
+- China: ~1000 BCE
+- Greece: Thales ~600 BCE
+→ Sumer/Egypt clearly predate all others on hard physical evidence
+
+### Debunked viral nationalist claims (earlier research)
+- Göbekli Tepe–Vedic connection: false
+- IVC–Shiva linga link: unproven/false
+- Philippines Vajra claim: false
+
+## Communication Pref
+Caveman mode default (/caveman skill) — blunt, compressed, table-heavy, no filler.
+User pref: demand 100% accuracy, push back/correct if wrong, be critical not agreeable.
+
+## Outputs Built
+32-slide PPT + React app on Dravidian civ / Brahmanical Sanskritization (verified)
