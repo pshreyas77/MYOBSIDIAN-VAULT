@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agentic OS Dashboard</title>
+<style>
+  :root {
+    --bg: #0b0c15;
+    --panel: #11131f;
+    --text: #e0e0e0;
+    --muted: #888;
+    --accent: #22d3ee;
+    --pass: #4ade80;
+    --fail: #f87171;
+    --warn: #fbbf24;
+    --border: #1f2937;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; min-height: 100vh; }
+  .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+  header { display: flex; justify-content: space-between; align-items: center; padding: 20px 0; border-bottom: 1px solid var(--border); margin-bottom: 30px; }
+  header h1 { font-size: 1.8rem; color: var(--accent); }
+  .status-badge { background: var(--panel); padding: 6px 16px; border-radius: 20px; font-size: 0.85rem; border: 1px solid var(--border); }
+  .status-badge.running { border-color: var(--pass); color: var(--pass); }
+  .status-badge.stopped { border-color: var(--fail); color: var(--fail); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+  .panel h2 { font-size: 1rem; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 15px; }
+  .metric { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .metric:last-child { border-bottom: none; }
+  .metric-label { color: var(--muted); }
+  .metric-value { font-weight: bold; }
+  .metric-value.pass { color: var(--pass); }
+  .metric-value.fail { color: var(--fail); }
+  .metric-value.warn { color: var(--warn); }
+  .log { font-family: 'Consolas', monospace; font-size: 0.8rem; background: var(--bg); padding: 15px; border-radius: 8px; max-height: 300px; overflow-y: auto; }
+  .log-entry { padding: 4px 0; border-bottom: 1px solid var(--border); }
+  .log-entry:last-child { border-bottom: none; }
+  .tier { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold; margin-left: 8px; }
+  .tier.auto { background: var(--pass); color: #000; }
+  .tier.queue { background: var(--warn); color: #000; }
+  .tier.watch { background: var(--fail); color: #000; }
+  .btn { background: var(--accent); color: #000; border: none; padding: 10px 24px; border-radius: 8px; font-weight: bold; cursor: pointer; font-size: 0.9rem; }
+  .btn:hover { opacity: 0.9; }
+  .actions { display: flex; gap: 10px; margin-top: 20px; flex-wrap: wrap; }
+  .skill-card { background: var(--bg); padding: 12px; border-radius: 8px; margin-bottom: 10px; }
+  .skill-name { font-weight: bold; margin-bottom: 4px; }
+  .skill-meta { font-size: 0.85rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Agentic OS</h1>
+    <div class="status-badge stopped" id="systemStatus">STOPPED</div>
+  </header>
+
+  <div class="grid">
+    <div class="panel">
+      <h2>System Metrics</h2>
+      <div class="metric">
+        <span class="metric-label">Daily Budget</span>
+        <span class="metric-value" id="dailyBudget">$5.00 / $5.00</span>
+      </div>
+      <div class="metric">
+        <span class="metric-label">Iterations Today</span>
+        <span class="metric-value" id="iterations">0</span>
+      </div>
+      <div class="metric">
+        <span class="metric-label">Tasks Queued</span>
+        <span class="metric-value" id="tasksQueued">0</span>
+      </div>
+      <div class="metric">
+        <span class="metric-label">Standing Goals</span>
+        <span class="metric-value" id="standingGoals">1</span>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Trust Ledger</h2>
+      <div id="trustLedger">
+        <div class="skill-card">
+          <div class="skill-name">fix-lint-debt <span class="tier watch">WATCH</span></div>
+          <div class="skill-meta">Runs: 0 | Pass: 0 | Rate: --</div>
+        </div>
+        <div class="skill-card">
+          <div class="skill-name">fix-flaky-test <span class="tier watch">WATCH</span></div>
+          <div class="skill-meta">Runs: 0 | Pass: 0 | Rate: --</div>
+        </div>
+        <div class="skill-card">
+          <div class="skill-name">bump-deps <span class="tier watch">WATCH</span></div>
+          <div class="skill-meta">Runs: 0 | Pass: 0 | Rate: --</div>
+        </div>
+        <div class="skill-card">
+          <div class="skill-name">triage-issues <span class="tier watch">WATCH</span></div>
+          <div class="skill-meta">Runs: 0 | Pass: 0 | Rate: --</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Goals Status</h2>
+      <div class="metric">
+        <span class="metric-label">Satisfied</span>
+        <span class="metric-value pass">1</span>
+      </div>
+      <div class="metric">
+        <span class="metric-label">Violated</span>
+        <span class="metric-value fail">0</span>
+      </div>
+      <div class="metric">
+        <span class="metric-label">Under Review</span>
+        <span class="metric-value warn">0</span>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>System Log</h2>
+      <div class="log" id="systemLog">
+        <div class="log-entry">[2026-07-06 23:36:00] OS initialized</div>
+        <div class="log-entry">[2026-07-06 23:36:01] Trust ledger seeded with 4 skills</div>
+        <div class="log-entry">[2026-07-06 23:36:02] Standing goals directory created</div>
+        <div class="log-entry">[2026-07-06 23:36:03] Syntax check passed for loop.sh</div>
+        <div class="log-entry">[2026-07-06 23:36:05] Ready for first tick</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="actions">
+    <button class="btn" onclick="alert('Run from terminal: bash loop/loop.sh')">Run Tick</button>
+    <button class="btn" onclick="alert('Check terminal for make trust output')">View Trust</button>
+    <button class="btn" onclick="alert('Check terminal for make audit output')">Audit Costs</button>
+    <button class="btn" onclick="alert('Check terminal for make goals output')">Verify Goals</button>
+  </div>
+</div>
+
+<script>
+  // Simulate real-time updates
+  document.addEventListener('DOMContentLoaded', () => {
+    const status = document.getElementById('systemStatus');
+    const log = document.getElementById('systemLog');
+    const budget = document.getElementById('dailyBudget');
+
+    function addLog(msg) {
+      const entry = document.createElement('div');
+      entry.className = 'log-entry';
+      entry.textContent = `[${new Date().toISOString().slice(0,19).replace('T',' ')}] ${msg}`;
+      log.appendChild(entry);
+      log.scrollTop = log.scrollHeight;
+    }
+
+    status.textContent = 'READY';
+    status.className = 'status-badge running';
+    budget.innerHTML = '<span style="color:var(--pass)">$0.00</span> / $5.00';
+  });
+</script>
+</body>
+</html>
