@@ -23,6 +23,14 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 - [[wiki/entities/Rammanohar Lohia.md]] — Socialist leader, freedom fighter
 - [[wiki/entities/Savitribai Phule.md]] — Educator, social reformer
 - [[wiki/entities/Vidyasagar.md]] — Educator, reformer
+- [[wiki/entities/TVK.md]] — Tamilaga Vettri Kazhagam (Vijay's party, 2026 election winner)
+- [[wiki/entities/Charvaka.md]] — Cārvāka/Lokāyata materialist school
+- [[wiki/entities/Nagarjuna.md]] — Madhyamaka founder, Buddhist philosopher
+- [[wiki/entities/Dharmakirti.md]] — Buddhist logician, Pramāṇavārttika author
+- [[wiki/entities/Atisha.md]] — 11th c. Bengali monk, Vikramashila → Tibet
+- [[wiki/entities/Bakhtiyar-Khalji.md]] — Turkic general, destroyed Nalanda/Vikramashila
+- [[wiki/entities/Kabir.md]] — Nirguṇa Bhakti poet, weaver (Julaha)
+- [[wiki/entities/Ravidas.md]] — Nirguṇa Bhakti poet, Chamar (Dalit), Begumpura
 
 ## Research — Hardware & Tech Recommendations
 - [[Research/2026-06-11 — Budget Tech Picks.md]] — Budget tech purchase recommendations for CSE student with HP ProBook i5-8350U, Python/ML stack, Obsidian heavy, local AI focus (12 items, India-market prices)
@@ -46,6 +54,7 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 - [[wiki/concepts/Revolutionary Legacies - Bhagat Singh and Che Guevara.md]] — Comparative revolutionary analysis
 - [[wiki/concepts/Youth Revolution Solutions in India.md]] — Youth-driven reform
 - [[wiki/concepts/Youth Revolution in India.md]] — Youth revolution movements
+- [[wiki/concepts/Lokayata-Epistemology.md]] — Cārvāka perception vs inference debate
 
 ## Wiki — Analyses
 - [[wiki/analyses/Religious Founders Intentions and Routinization of Charisma.md]] — Weberian analysis
@@ -59,25 +68,49 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 ## Daily Notes
 - [[04 - DAILY/2026-06-21.md]] — Health/fitness research completion: 12-week integrated protocol (PPL + Tier A supplements), NotebookLM export ready, Week 4 checkpoint 2026-07-19
 
-## Research
-- [[Research/2026-06-21-4 — NotebookLM Export — Integrated Health Protocol.md]] — NotebookLM-ready source: supplement timing tables, 3-day PPL workout tables, progression logic, India pricing (₹15-26k/12 weeks), Week 1 checklist
-- [[Research/2026-06-21-3 — Integrated Health Protocol — Training + Supplement Synthesis.md]] — 12-week integrated protocol: rotating PPL + Tier A supplement stack, 4kg progression tracking, India pricing (₹15-26k/12 weeks), evidence-based outcome projections
-- [[Research/2026-06-21-2 — Dumbbell Program Analysis & PPL Restructure.md]] — Darebee 5-PDF critique, 3-day PPL restructure for 4kg dumbbells, 45-60s rest protocol
-- [[Research/2026-06-21 — Supplement Evidence Audit & Master List.md]] — Supplement evidence audit (4 tiers), berberine contradiction resolved, India pricing, IR-targeted stack
-- [[Research/AI Tools/2026-06-19 — AI-Specific Researcher Tools 2026 — Complete Table.md]] — Pure AI research platforms, Chinese AI tools, optimal free stacks
-- [[Research/2026-05-31 — India China Population Growth Comparison.md]]
-- [[Research/2026-06-01 — Banned Books Reading List.md]]
-- [[Research/2026-06-01 — Dark Psychology Books.md]]
-- [[Research/2026-06-01 — Consciousness Books.md]]
-- [[Research/2026-06-01 — Introvert Reading List.md]]
-- [[Research/Articles/2026-06-09 — RSS Funding Mechanisms Analysis.md]] — RSS funding: Guru Dakshina, diaspora foundations, corporate conduits
-- [[Research/Articles/2026-06-09 — Ancient Religions Comparative Analysis.md]] — Proto-Indo-Iranian, Mittani Treaty, Indo-European religions, trinity analysis, Punic, Sumerian/Akkadian/Egyptian
-- [[Research/Articles/2026-06-09 — Vedic Evidence Chain Proven vs Inferred.md]] — manuscript gap problem, Sintashta (2100-1800 BCE), Mitanni treaty as residual time capsule, proving vs inferring table, Lamberg-Karlovsky caution
-- [[Research/Articles/2026-06-09 — Physical Artifact Archive.md]] — museum catalog numbers: British Museum Mitanni Treaty (W_1913-1011-62), UNESCO Boğazköy, Rigveda oldest ms (1040 CE Nepal), Avesta oldest ms (1287 CE Copenhagen), Sanskrit oldest inscription (~1st c BCE Ayodhya), Ashoka Edicts in Prakrit not Sanskrit
-- [[Research/Articles/2026-06-09 — Mittani Treaty Religious Evidence.md]] — Akkadian/Hurrian/Proto-Indo-Iranian deity names, phonetic variants (Indra/In-da-ra, Varuna/A-ru-na, Mitra/Mitrassil), invocation formula (KBo I 3)
-- [[Research/Articles/Entities/Bhutada Family Foundation.md]] — Largest identified U.S. funder of Sangh Parivar ($1M+ 2005-2018)
-- [[Research/Articles/Entities/Sewa International.md]] — Primary RSS funding hub in the U.S.
-- [[02 - AREAS/01 Philosophy & Religion/year-2026/2026-06-08_portfolio-dashboard.md]] — Portfolio analysis: 42/100 verdict, exits/holds/buys
+## Deep Research
+
+### Indian History & Politics
+- [[Research/Deep/2026-06-22 — Aryan Migration Debate Evidence and Pre-Aryan India]] — Genetics + linguistics + archaeology synthesis
+- [[Research/Deep/2026-06-13 — Aryan vs Dravidian Religious Cultural Synthesis]] — Cultural synthesis analysis
+- [[Research/2026-06-24 — Aryan Migration & Pre-Aryan Substrate — Final Verified Synthesis]] — Cross-verified synthesis
+- [[Research/Articles/2026-06-09 — Vedic Evidence Chain Proven vs Inferred]] — Manuscript gap, Sintashta, Mitanni treaty
+- [[Research/Articles/2026-06-09 — Mittani Treaty Religious Evidence]] — Proto-Indo-Iranian deity names
+- [[Research/Articles/2026-06-09 — Ancient Religions Comparative Analysis]] — Proto-Indo-Iranian, Mittani, IE religions
+- [[Research/Articles/2026-06-09 — Ancient Religions Physical Artifact Archive]] — Museum catalog numbers
+- [[Research/Politics/2026-TVK-Post-Election-Analysis.md]] — TVK post-election governance analysis
+- [[Research/Politics/BJP-Southern-Strategy-Post-2026.md]] — BJP southern strategy revision
+- [[Research/Politics/Caste-Census-2026-2027-Policy.md]] — Caste census policy deep dive
+
+### Philosophy & Religion
+- [[Research/Philosophy/Charvaka-Lokayata-Primary-Sources.md]] — Charvaka/Lokayata primary source deep dive
+- [[Research/Philosophy/Ambedkar-vs-Periyar-Comparative.md]] — Ambedkar vs Periyar comparative
+- [[Research/Philosophy/Buddhism-Decline-India-Historiography.md]] — Buddhism decline historiography
+- [[Research/Philosophy/Kabir-Ravidas-Bhakti-Anti-Caste.md]] — Kabir & Ravidas anti-caste lineage
+- [[Research/Philosophy/Modern-Rationalist-Orgs-Status.md]] — Modern rationalist organizations status
+
+### AI & Technology
+- [[Research/AI Tools/2026-06-19 — AI-Specific Researcher Tools 2026 — Complete Table]] — AI research tools reference
+- [[Research/AI Tools/2026-07 — Chinese AI Landscape Update.md]] — Chinese AI July 2026 update
+- [[Research/AI Tools/MCP-Ollama-Local-LLM-Production-Guide.md]] — MCP + Ollama production guide
+
+### Health
+- [[Research/Health/Ayurveda-Siddha-Evidence-Audit.md]] — Ayurveda/Siddha evidence audit
+- [[Research/Health/South-Asian-Genomic-Health-Protocol.md]] — South Asian genomic health protocol
+- [[Research/Health/Health-Protocol-Gaps-Update.md]] — Sleep, cardio, meal plan updates
+
+### PKM
+- [[Research/PKM/Writing-Publication-Pipeline.md]] — Writing & publication pipeline
+- [[Research/PKM/Knowledge-Graph-Construction-Methodology.md]] — Knowledge graph methodology (to create)
+
+---
+
+## Methods MOCs (New)
+- [[05 - MAPS/Population Genetics Methods MOC.md]] — Population genetics methods
+- [[05 - MAPS/Historical Linguistics MOC.md]] — Historical linguistics methods
+- [[05 - MAPS/Epigraphy Methods MOC.md]] — Epigraphy methods
+- [[05 - MAPS/Agentic Systems MOC.md]] — Agentic systems architecture
+- [[05 - MAPS/Digital Garden MOC.md]] — Digital garden methodology
 
 ## Active Projects
 
@@ -209,9 +242,12 @@ Python autonomous agent with memory and SOP
 - [[genericagent/memory/autonomous_operation_sop.md]]
 - [[genericagent/frontends/]], [[genericagent/assets/]]
 
-### autoresearch / temp_autoresearch (active)
-Karpathy's autonomous LLM training project
-- [[autoresearch/]], [[temp_autoresearch/]]
+### Local-AI-Stack (active)
+Local AI automation stack: Obsidian + NotebookLM + Hermes Agent on Mac Mini M4. Replaces $340/mo cloud subscriptions.
+- Main: [[03 - PROJECTS/Local-AI-Stack.md]]
+- Config: ~/.hermes/config.yaml → Ollama localhost:11434
+- Models: qwen3.5-coder:32b, gemma3:27b, deepseek-r1:14b
+- Bridges: Hermes↔Obsidian, Hermes↔NotebookLM (notebooklm-py), macos-computer-use
 
 ### ruflo (referenced)
 MCP/Ruflo integration project
@@ -241,6 +277,7 @@ Python knowledge graph extraction
 - [[fleeting/]] — Fleeting notes
 
 ## System
+- [[07 - SYSTEM/Obsidian-Graph-View-Config.md]] — Professional color-coded graph view configuration
 - [[00 - SYSTEM/01 - Dashboard & Navigation/]]
 - [[00 - SYSTEM/04 - Archive/]]
 - [[00 - SYSTEM/Journals/]]

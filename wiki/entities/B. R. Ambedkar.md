@@ -1,89 +1,76 @@
 ---
-title: [[B. R. Ambedkar]]
+date: 2026-07-08
 type: entity
-date: 2026-05-19
-updated: 2026-05-19
-aliases: [Bhimrao Ramji Ambedkar, Babasaheb Ambedkar]
-related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Buddhism]], [[Constitution of India]]
+tags: [entity, philosophy, politics, ambedkar, dalit, constitution, navayana]
+priority: critical
+source: "Report 3: Ambedkar vs Periyar Comparative Political Philosophy"
+status: historical
+ai-first: true
 ---
- 
-# [[B. R. Ambedkar]]
+
+# B. R. Ambedkar
 
 ## Overview
-Indian jurist, economist, social reformer and political leader who chaired the drafting committee of the Indian Constitution, campaigned against social discrimination towards Dalits (formerly untouchables), and supported the rights of women and laborers. He is widely regarded as the chief architect of the Indian Constitution and a pioneering advocate for social justice.
+**Born**: 14 April 1891  
+**Died**: 6 December 1956  
+**Core Identity**: Dalit (Untouchable) emancipation  
+**Strategy**: Transform state from within (constitutional-institutional)
 
-## Key Attributes
-- Born: April 14, 1891
-- Died: December 6, 1956 (aged 65)
-- Nationality: Indian
-- Ideology: Navayana Buddhism, Social democracy, Republicanism, Egalitarianism
-- Known for: Architect of Indian Constitution, Dalit Buddhist movement, Annihilation of Caste, Reservation policies
+## Key Roles
+- Chairman, Drafting Committee, Constitution of India
+- First Law Minister of Independent India (1947–1951)
+- Founder, Scheduled Castes Federation (1942), Republican Party of India (1956)
+- Architect of Hindu Code Bill (legal reform for women's rights)
 
-## Relationships
-- Related to: [[Jyotirao Phule]] - Anti-caste reformer and inspiration
-- Related to: [[Periyar E. V. Ramasamy]] - Fellow social reformer and rationalist
-- Related to: [[Kanshi Ram]] - Political heir who expanded Bahujan politics
-- Related to: [[Rammanohar Lohia]] - Socialist contemporary
-- Part of: [[Dalit Buddhist Movement]], [[Indian Constitution Making]]
-- Influenced by: Experiences of caste discrimination, Columbia University education, John Dewey's pragmatism
-- Influenced: Dalit rights movement, Indian social justice discourse, constitutional law
+## Core Philosophy
 
-## Major Works and Contributions
-- **"Annihilation of Caste" (1936)** - Critique of caste system and Hindu social order
-- **"The Buddha and His Dhamma" (1956)** - Interpretation of Buddhism for social liberation
-- **"Castes in India: Their Mechanism, Genesis and Development" (1916)** - Academic analysis of caste
-- **"Thoughts on Linguistic States" (1955)** - Advocacy for linguistic reorganization of states
-- **"States and Minorities" (1947)** - Framework for minority rights in independent India
+| Dimension | Position |
+|-----------|----------|
+| **Caste** | Annihilation via constitutional safeguards + legal abolition (Art. 17) + Buddhism as exit |
+| **Religion** | Navayana Buddhism (1956 conversion): "I was born a Hindu but will not die a Hindu" |
+| **State** | Law as instrument of liberation; reservation as reparative justice |
+| **Women** | Hindu Code Bill — legal equality in marriage, inheritance, divorce, adoption |
+| **Economics** | State socialism; land reform; labor rights |
 
-## Historical Contributions
-- **Constitution Architect**: Chairman of Drafting Committee, ensured fundamental rights, abolition of untouchability
-- **Dalit Liberation**: Led Mahad Satyagraha (1927) for temple entry, Kalaram Temple movement (1930)
-- **Labor Rights**: Founded Independent Labour Party (1936), advocated for workers' rights
-- **Political Representation**: Founded Scheduled Castes Federation (1942), Republican Party of India (1956)
-- **Religious Conversion**: Led mass conversion to Buddhism (1956) as rejection of caste-based Hinduism
-- **Women's Rights**: Advocated Hindu Code Bills for gender equality in marriage, divorce, inheritance
+## Critical Works
+- *Annihilation of Caste* (1936) — undelivered speech, published privately
+- *The Buddha and His Dhamma* (1957) — Navayana Buddhism exposition
+- *States and Minorities* (1947) — constitutional memorandum
+- *Who Were the Shudras?* (1946) — historical critique
 
-## Philosophical Contributions
-- **Navayana Buddhism**: Reinterpreted Buddhism as engaged, socially liberating path
-- **Critique of Hinduism**: Challenged religious justification of caste through textual analysis
-- **Social Democracy**: Combined political democracy with economic and social equality
-- **Constitutional Morality**: Emphasized adherence to constitutional values over mere formal compliance
-- **Rationalist Approach**: Applied reason and evidence to social reform rather than tradition
+## Key Breaks
+- **Poona Pact 1932**: Accepted joint electorates with reserved seats (vs separate electorates)
+- **1951 Resignation**: Resigned as Law Minister when Nehru diluted Hindu Code Bill
+- **1956 Conversion**: Public conversion to Buddhism with 500,000+ followers
 
-## Legacy
-- **Constitutional Legacy**: Fundamental rights, directive principles, reservation system
-- **Social Justice Movement**: Ambedkarite Buddhism, Dalit assertion, anti-caste struggles
-- **Academic Influence**: Economics, sociology, law, political science
-- **Political Influence**: Bahujan politics, social justice parties, reservation policy
-- **Cultural Icon**: Statues, memorials, commemorations worldwide
+## Legacy Assessment (2026)
 
-## Sources
-- [[Ambedkar's "Annihilation of Caste"]] - https://www.ambedkar.org/ambedkar/annihilation-of-caste.htm
-- [[Ambedkar's Buddhist Conversion Speech]] - https://www.ambedkar.org/ambedkar/buddhist-conversion-speech.htm
-- [[Ambedkar's "The Buddha and His Dhamma"]] - https://www.ambedkar.org/ambedkar/buddha-and-dhamma.htm
-- [[Constituent Assembly Debates]] - https://cadebates.nioc.in/
-- [[Mahad Satyagraha (1927)]] - https://www.ambedkar.org/ambedkar/mahad-satyagraha.htm
-- [[Poona Pact (1932)]] - https://www.ambedkar.org/ambedkar/poona-pact.htm
-- [[Round Table Conferences Participation]] - https://www.ambedkar.org/ambedkar/round-table-conferences.htm
-- [[Drafting of Indian Constitution]] - https://www.ambedkar.org/ambedkar/constitution-making.htm
-- [[Labour Leader Contributions]] - https://www.ambedkar.org/ambedkar/labour-reforms.htm
-- [[Women's Rights Advocacy]] - https://www.ambedkar.org/ambedkar/women's-rights.htm
-- [[Educational Contributions]] - https://www.ambedkar.org/ambedkar/education.htm
-- [[Columbia University Years]] - https://www.ambedkar.org/ambedkar/columbia-university.htm
-- [[London School of Economics Period]] - https://www.ambedkar.org/ambedkar/lse-years.htm
-- [[Marxist Influences on Ambedkar]] - https://www.ambedkar.org/ambedkar/marxist-influence.htm
-- [[Ambedkar and Periyar Dialogue]] - https://www.ambedkar.org/ambedkar/periyar-dialogue.htm
-- [[Ambedkar's Economic Thought]] - https://www.ambedkar.org/ambedkar/economic-thought.htm
-- [[Ambedkar's States and Minorities Memorandum]] - https://www.ambedkar.org/ambedkar/states-and-minorities.htm
+| Dimension | Status |
+|-----------|--------|
+| **Legal framework** | Constitution, reservation, Article 17 — foundational |
+| **Political parties** | BSP (declining), VBA, Republican factions — fragmented |
+| **Cultural** | Dalit pride, Buddhist revival, global icon for caste/race studies |
+| **Global** | Comparative caste/race studies; UN recognition |
 
-## Notes
-- First Indian to earn a doctorate in economics abroad
-- Served as India's first Law Minister in Nehru's cabinet
-- Resigned from cabinet in 1951 over Hindu Code Bill stall
-- Converted to Buddhism along with ~500,000 followers in 1956
-- Posthumously awarded Bharat Ratna (India's highest civilian honor) in 1990
-- Jayanti (birth anniversary) celebrated as Knowledge Day / Yuva Din across India
-- His writings continue to inspire anti-caste and social justice movements globally
-- Critiqued both Brahmanism and capitalism as systems of exploitation
-- Advocated "educate, agitate, organize" as methodology for social change
-- Emphasized constitutional remedies alongside social mobilization
+## Comparative: Ambedkar vs Periyar
+
+| Dimension | Ambedkar | Periyar |
+|-----------|----------|---------|
+| **Core Identity** | Dalit emancipation | Non-Brahmin (Shudra) assertion |
+| **Strategy** | Constitutional-institutional | Socio-cultural revolutionary |
+| **Religion** | Navayana Buddhism (exit) | Self-Respect atheism (reform within culture) |
+| **State Role** | Law Minister; Constitution drafting | Never held office; opposed electoral politics |
+| **Women** | Hindu Code Bill (legal) | Self-Respect Marriages (social) |
+| **Caste Focus** | Dalit-specific | Shudra/OBC (Dalits marginal) |
+
+**Key Tension**: Periyar's movement was primarily Shudra assertion. Dalits were often marginal in DK's early priorities. DMK later incorporated Dalit concerns instrumentally. **Ambedkar explicitly criticized Periyar for ignoring Untouchables.**
+
+## Cross-Link to TVK
+Vijay's TVK cites Ambedkar in rhetoric but practices neither constitutional method (no legal expertise) nor social revolution (no mass movement). This is populist recombination.
+
+## Cross-Links
+- [[Research/Philosophy/Ambedkar-vs-Periyar-Comparative.md]]
+- [[wiki/entities/Periyar E. V. Ramasamy.md]]
+- [[wiki/entities/TVK.md]]
+- [[05 - MAPS/Philosophy & Religion MOC.md]]
+- [[05 - MAPS/Indian Political History MOC.md]]
