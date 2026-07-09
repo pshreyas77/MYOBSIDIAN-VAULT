@@ -34,6 +34,7 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 
 ## Research — Hardware & Tech Recommendations
 - [[Research/2026-06-11 — Budget Tech Picks.md]] — Budget tech purchase recommendations for CSE student with HP ProBook i5-8350U, Python/ML stack, Obsidian heavy, local AI focus (12 items, India-market prices)
+- [[01 - LITERATURE/2026-07-08 — LLM Wiki Pattern — Karpathy.md]] — Karpathy's foundational LLM Wiki pattern (raw / wiki / schema layers; ingest / query / lint operations; index + log special files)
 
 ## Wiki — Projects & Tools
 - [[wiki/entities/GitNexus.md]] — AI-powered Git repository analysis tool
@@ -88,6 +89,7 @@ Auto-generated catalog of vault pages. Update when notes are created or deleted.
 - [[Research/Philosophy/Buddhism-Decline-India-Historiography.md]] — Buddhism decline historiography
 - [[Research/Philosophy/Kabir-Ravidas-Bhakti-Anti-Caste.md]] — Kabir & Ravidas anti-caste lineage
 - [[Research/Philosophy/Modern-Rationalist-Orgs-Status.md]] — Modern rationalist organizations status
+- [[Research/Philosophy/Tilak-Cultural-Origin-Analysis.md]] — Tilak cultural origin (corrected verdict: post-Vedic syncretic, neither Aryan nor Dravidian)
 
 ### AI & Technology
 - [[Research/AI Tools/2026-06-19 — AI-Specific Researcher Tools 2026 — Complete Table]] — AI research tools reference
@@ -277,6 +279,7 @@ Python knowledge graph extraction
 - [[fleeting/]] — Fleeting notes
 
 ## System
+- [[07 - SYSTEM/Hermes-Skill-Integration-Analysis.md]] — Best second-brain skills for Hermes Agent (obsidian, vault-research-synthesis, llm-wiki, arxiv)
 - [[07 - SYSTEM/Obsidian-Graph-View-Config.md]] — Professional color-coded graph view configuration
 - [[00 - SYSTEM/01 - Dashboard & Navigation/]]
 - [[00 - SYSTEM/04 - Archive/]]
