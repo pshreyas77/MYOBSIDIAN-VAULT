@@ -70,11 +70,12 @@ Your `graphify-repo` and `professional_vault_graph.py` need methodology document
 
 ## 4. Vault Updates Required
 
-- [ ] Create `05 - MAPS/Digital Garden MOC.md` with this content
+- [x] Create `05 - MAPS/Digital Garden MOC.md` with this content
 - [ ] Create `Research/PKM/Knowledge-Graph-Construction-Methodology.md` (detailed)
 - [ ] Link from `InfiniteBrain.md` project hub
 - [ ] Link from `graphify-repo` documentation
 - [ ] Update `house-rules.md` with garden maintenance rules
+- **New concept:** [[Contrarian Loop — Vault That Argues With Itself]] — CONTRA layer beyond standard DO layer
 
 ---
 

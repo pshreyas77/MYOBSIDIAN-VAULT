@@ -8,7 +8,12 @@ status: historical
 ai-first: true
 ---
 
-# Bakhtiyar Khalji
+## For future Claude
+Entity note for Bakhtiyar Khalji, the Turkic military leader whose late-12th-century campaigns destroyed Nalanda and Vikramashila and reshaped medieval Indian knowledge institutions.
+
+---
+
+# Bakhtiyar-Khalji
 
 ## Overview
 **Dates**: Late 12th – early 13th c. CE (died ~1206)  

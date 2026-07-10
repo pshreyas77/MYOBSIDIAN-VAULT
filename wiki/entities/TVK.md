@@ -8,6 +8,11 @@ status: active
 ai-first: true
 ---
 
+## For future Claude
+Entity note for TVK (Tamilaga Vettri Kazhagam), Tamil Nadu political party founded by actor-turned-politician Vijay, winner of the 2026 TN assembly election.
+
+---
+
 # TVK (Tamilaga Vettri Kazhagam)
 
 ## Overview

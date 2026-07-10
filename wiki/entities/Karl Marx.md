@@ -3,6 +3,9 @@ date: 2026-06-04
 tags: [entity, philosopher, political-theory, communism]
 type: entity
 aliases: [Marx]
+ai-first: true
+source: "Historical Political Theory (Marxist canon)"
+status: historical
 ---
 
 # Karl Marx

@@ -7,6 +7,12 @@ tags:
   - autonomous-agent
 type: entity
 status: active
+ai-first: true
+---
+
+## For future Claude
+Entity note for genericagent — Python autonomous agent with memory, SOP, and frontends (message/proactive/CLI).
+
 ---
 
 # genericagent

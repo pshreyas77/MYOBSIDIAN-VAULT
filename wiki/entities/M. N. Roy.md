@@ -5,8 +5,15 @@ date: 2026-05-19
 updated: 2026-05-19
 aliases: [Manabendra Nath Roy, Narendra Nath Bhattacharya]
 related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Communist Party of India]], [[Radical Humanism]]
+ai-first: true
+status: historical
 ---
- 
+
+## For future Claude
+Entity note for Manabendra Nath Roy (1887–1954), Indian revolutionary who founded the Communist Party of India and later advocated radical humanism.
+
+---
+
 # [[M. N. Roy]]
 
 ## Overview

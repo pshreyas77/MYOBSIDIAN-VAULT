@@ -9,6 +9,12 @@ tags:
   - task-execution
 type: entity
 status: referenced
+ai-first: true
+---
+
+## For future Claude
+Entity note for ruflo — MCP integration project; v3/src/ has memory, shared, and task-execution subsystems (referenced 2026-05-31).
+
 ---
 
 # ruflo

@@ -8,6 +8,11 @@ status: historical
 ai-first: true
 ---
 
+## For future Claude
+Entity note for E.V. Ramasamy Periyar (1879–1973), founder of Self-Respect Movement and Dravidar Kazhagam; pivotal Tamil social reformer and rationalist.
+
+---
+
 # Periyar E. V. Ramasamy
 
 ## Overview

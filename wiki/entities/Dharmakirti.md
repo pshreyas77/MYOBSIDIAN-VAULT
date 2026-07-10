@@ -8,6 +8,11 @@ status: historical
 ai-first: true
 ---
 
+## For future Claude
+Entity note for Dharmakirti, 7th-c. Buddhist logician of Nalanda, author of Pramāṇavārttika, foundational to Yogācāra epistemology.
+
+---
+
 # Dharmakirti
 
 ## Overview

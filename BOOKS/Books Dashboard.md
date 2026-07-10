@@ -1,7 +1,7 @@
 # Books Dashboard
 
 > [!INFO] Vault Books Gallery
-> `$= const books = dv.pages('"BOOKS"').where(p => p.file.frontmatter?.status); this.container.querySelector('.markdown-rendered').innerHTML = '<div class="book-gallery"><p style="color:#666;font-size:0.85rem;">⚠️ Enable the Dataview plugin and create notes in BOOKS/ folder using the Book Template.</p></div>'; "" `
+> `$= const books = dv.pages('"BOOKS/notes"').where(p => p.file.frontmatter?.status); this.container.querySelector('.markdown-rendered').innerHTML = '<div class="book-gallery"><p style="color:#666;font-size:0.85rem;">⚠️ Enable the Dataview plugin and create notes in BOOKS/notes/ folder using the Book Template.</p></div>'; ""`
 
 ## All Books
 
@@ -12,7 +12,7 @@ TABLE WITHOUT ID
   status AS Status,
   rating AS Rating,
   genre AS Genre
-FROM "BOOKS"
+FROM "BOOKS/notes"
 WHERE status
 SORT status ASC, rating DESC
 ```
@@ -25,7 +25,7 @@ TABLE WITHOUT ID
   authors AS Author,
   started AS Started,
   pages AS Pages
-FROM "BOOKS"
+FROM "BOOKS/notes"
 WHERE status = "Reading"
 SORT file.ctime DESC
 ```
@@ -38,7 +38,7 @@ TABLE WITHOUT ID
   authors AS Author,
   genre AS Genre,
   rating AS Interest
-FROM "BOOKS"
+FROM "BOOKS/notes"
 WHERE status = "To Read"
 SORT rating DESC
 ```
@@ -51,7 +51,7 @@ TABLE WITHOUT ID
   authors AS Author,
   finished AS Finished,
   rating AS Rating
-FROM "BOOKS"
+FROM "BOOKS/notes"
 WHERE status = "Read"
 SORT finished DESC
 ```
@@ -59,10 +59,10 @@ SORT finished DESC
 ## Stats
 
 > [!PANDAS]- Books Statistics
-> **Total books:** `$= dv.pages('"BOOKS"').length`
-> **Read:** `$= dv.pages('"BOOKS"').where(p => p.status === "Read").length`
-> **Reading:** `$= dv.pages('"BOOKS"').where(p => p.status === "Reading").length`
-> **To Read:** `$= dv.pages('"BOOKS"').where(p => p.status === "To Read").length`
+> **Total books:** `$= dv.pages('"BOOKS/notes"').length`
+> **Read:** `$= dv.pages('"BOOKS/notes"').where(p => p.status === "Read").length`
+> **Reading:** `$= dv.pages('"BOOKS/notes"').where(p => p.status === "Reading").length`
+> **To Read:** `$= dv.pages('"BOOKS/notes"').where(p => p.status === "To Read").length`
 
 ---
 

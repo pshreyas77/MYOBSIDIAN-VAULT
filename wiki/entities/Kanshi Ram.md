@@ -5,8 +5,15 @@ date: 2026-05-19
 updated: 2026-05-19
 aliases: [Kanshi Ram]
 related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Bahujan Samaj Party]], [[BAMCEF]]
+ai-first: true
+status: historical
 ---
- 
+
+## For future Claude
+Entity note for Kanshi Ram (1934–2006), founder of the Bahujan Samaj Party (BSP) and architect of Dalit political mobilization in late-20th-c. India.
+
+---
+
 # [[Kanshi Ram]]
 
 ## Overview

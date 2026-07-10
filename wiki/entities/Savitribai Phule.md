@@ -5,8 +5,15 @@ date: 2026-05-19
 updated: 2026-05-19
 aliases: [Savitribai Jyotirao Phule]
 related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Jyotirao Phule]], [[Women's Education]]
+ai-first: true
+status: historical
 ---
- 
+
+## For future Claude
+Entity note for Savitribai Phule (1831–1897), first female teacher in modern India, pioneer of women's education alongside Jyotirao Phule.
+
+---
+
 # [[Savitribai Phule]]
 
 ## Overview

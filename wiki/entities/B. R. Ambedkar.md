@@ -8,6 +8,11 @@ status: historical
 ai-first: true
 ---
 
+## For future Claude
+Entity note for B.R. Ambedkar (1891–1956), Indian Constitution's chief architect, Dalit Buddhist movement founder, anti-caste political theorist.
+
+---
+
 # B. R. Ambedkar
 
 ## Overview

@@ -5,8 +5,15 @@ date: 2026-05-19
 updated: 2026-05-19
 aliases: [Ishwar Chandra Vidyasagar]
 related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Women's Education]], [[Social Reform]]
+ai-first: true
+status: historical
 ---
- 
+
+## For future Claude
+Entity note for Ishwar Chandra Vidyasagar (1820–1891), Bengali educator and reformer who pioneered widow remarriage in 19th-c. colonial India.
+
+---
+
 # [[Vidyasagar]]
 
 ## Overview

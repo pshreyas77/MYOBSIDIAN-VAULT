@@ -10,6 +10,11 @@ confidence: high
 ai-first: true
 ---
 
+## For future Claude
+Concept synthesis on how indigenous Dravidian religious traditions were absorbed into the Vedic-Brahminical framework, with continuous substrate influence on Hinduism's ritual, linguistic, and iconographic core.
+
+---
+
 ## For Future Claude
 
 This note synthesizes the finding that modern Hinduism is predominantly Dravidian/IVC religion absorbed and Sanskritized by Brahmin/Aryan framework over 2000+ years, with Dravidians receiving no credit. Core thesis validated against vault research documents. Use for historical analysis of Hindu origins and anti-caste scholarship.

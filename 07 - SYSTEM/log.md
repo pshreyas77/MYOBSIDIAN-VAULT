@@ -9,6 +9,38 @@
 ## [2026-06-05] obsidian-save | Ethno-Religious Nationalism Synthesis — comparative analysis of 5 ideologies saved to vault:
   - 02 - PERMANENT/concepts/Ethno-Religious-Nationalism-Synthesis.md (full comparative analysis)
 
+## [2026-07-09] vault-cleanup | Waste audit + comprehensive fixes executed
+
+### RED (Deleted — zero knowledge loss)
+- `graphify-out/obsidian/` — 50+ auto-generated tool descriptor .md files (not user notes)
+- `wiki/hot.md` — dead cache file, never populated
+- `wiki/sources/Test_Article_for_LLM_Wiki_Ingestion.md` — test artifact
+- `wiki/index.md` — 13-line empty skeleton
+- `02 - PERMANENT/concepts/Inbox Processor.md` — 2026-05-28 test note
+- `wiki/comparisons/How_does_the_LLM_wiki_pattern.md` — auto-gen stub, broken wikilinks
+- `wiki/comparisons/What_is_the_LLM_wiki_pattern.md` — same
+- Empty wiki folders removed: `comparisons/`, `sources/`, `summaries/`, `decisions/`
+
+### YELLOW (Repositioned — content preserved)
+- `wiki/Ancient Civilizations Educational Resources.md` → `01 - LITERATURE/articles/2026-05-24 — ...`
+- `04 - DAILY/TS-EAMCET-Shortlist-Workflow.md` → `03 - PROJECTS/TS-EAMCET-Shortlist-Workflow.md`
+
+### GREEN (Cleaned)
+- `log.md` (root, Night Shift logs) renamed → `night-shift-log.md`
+- `CRITICAL_FACTS.md` — removed `[fill in]` placeholders, synced with IDENTITY.md
+- `index.md` (root) — 308-line stale index replaced with thin redirect to `07 - SYSTEM/index.md`
+- `07 - SYSTEM/index.md` — updated references: removed `BUDDHA/`, `graphify-out/`; added `IDENTITY.md`, `Hermes-Skill-Integration-Analysis.md`, `night-shift-log.md`
+
+### NEW
+- **Contrarian Loop concept saved:** `02 - PERMANENT/concepts/Contrarian Loop — Vault That Argues With Itself.md`
+- Linked into `05 - MAPS/Agentic Systems MOC.md` and `05 - MAPS/Digital Garden MOC.md`
+
+### NEW
+- **LLM Wiki Full Synthesis saved:** `01 - LITERATURE/articles/2026-07-09 — LLM Wiki Pattern — Full Synthesis.md`
+- Cross-linked from `01 - LITERATURE/2026-07-08 — LLM Wiki Pattern — Karpathy.md`
+
+Net result: ~65 waste files removed, 4 empty folders removed, 4 orphaned notes repositioned, 2 indexes cleaned, 2 new permanent/literature notes added.
+
 ## [2026-06-05] obsidian-save | Ethno-Religious Nationalism + Secularism — Relationship with Secularism section added to existing note
 
 ## [2026-06-05] obsidian-save | Ethno-Religious Nationalism Counter-Strategies — "Countering Ethno-Religious Nationalist Groups" section (5 frameworks) appended to existing synthesis note

@@ -7,6 +7,12 @@ tags:
   - personal
 type: entity
 status: active
+ai-first: true
+---
+
+## For future Claude
+Entity note for InfiniteBrain — the user's personal PKM system built on the wiki + raw sources structure (this vault).
+
 ---
 
 # InfiniteBrain

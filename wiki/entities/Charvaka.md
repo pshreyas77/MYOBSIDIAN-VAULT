@@ -8,6 +8,11 @@ status: historical
 ai-first: true
 ---
 
+## For future Claude
+Entity note for Cārvāka / Lokāyata, the ancient Indian materialist school endorsing perception as sole valid epistemology and rejecting inference, scripture, and afterlife.
+
+---
+
 # Charvaka / Lokayata
 
 ## Overview

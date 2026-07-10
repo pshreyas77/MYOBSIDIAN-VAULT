@@ -91,6 +91,7 @@ agent:
 - **Links to**: `03 - PROJECTS/Dravidian-Lineage-Graph.md`
 - **Links to**: `03 - PROJECTS/autoresearch.md`
 - **Links to**: `house-rules.md` (Night Shift rules)
+- **Concept:** [[Contrarian Loop — Vault That Argues With Itself]] — automated contradiction detection and steelmanning loop
 
 ---
 

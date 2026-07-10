@@ -8,6 +8,11 @@ status: historical
 ai-first: true
 ---
 
+## For future Claude
+Entity note for Atisa (Atish Dipankara), 11th-c. Bengali Buddhist monk of Vikramashila who traveled Tibet and founded the Kadampa lineage.
+
+---
+
 # Atisha
 
 ## Overview

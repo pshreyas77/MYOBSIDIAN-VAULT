@@ -5,6 +5,13 @@ aliases: [Ernesto "Che" Guevara]
 date: 2026-05-19
 updated: 2026-05-19
 sources: [[Revolutionary Legacies - Bhagat Singh and Che Guevara]]
+ai-first: true
+status: historical
+---
+
+## For future Claude
+Entity note for Ernesto 'Che' Guevara (1928–1967), Argentine Marxist revolutionary, central figure of Cuban Revolution, global icon of 20th-c. insurrection.
+
 ---
 
 # [[Che Guevara]]

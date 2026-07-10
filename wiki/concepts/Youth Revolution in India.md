@@ -5,6 +5,13 @@ tags:
   - political-analysis
   - youth-movement
   - india
+ai-first: true
+status: synthesis
+---
+
+## For future Claude
+Concept note on youth-driven revolutionary movements in India — historical patterns, contemporary expressions, generational grievances. Complements [[Youth Revolution Solutions in India]].
+
 ---
 
 # Youth Revolution in India

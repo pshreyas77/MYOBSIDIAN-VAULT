@@ -7,6 +7,12 @@ tags:
   - knowledge-graph
 type: entity
 status: active
+ai-first: true
+---
+
+## For future Claude
+Entity note for graphify-repo — Python knowledge graph extraction toolkit (4-of-n cluster/extrapolator for code, articles, etc). 17+ modules.
+
 ---
 
 # graphify-repo

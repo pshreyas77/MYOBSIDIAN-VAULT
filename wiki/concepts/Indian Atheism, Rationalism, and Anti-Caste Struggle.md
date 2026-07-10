@@ -4,8 +4,15 @@ type: concept
 date: 2026-05-19
 updated: 2026-05-19
 related_entities: [[B. R. Ambedkar]], [[E. V. Ramasamy Periyar]], [[Jyotirao Phule]], [[Bhagat Singh]], [[Kanshi Ram]], [[K. A. Abbas]], [[M. N. Roy]], [[Rammanohar Lohia]], [[Rahul Sankrityayan]], [[Savitribai Phule]], [[Vidyasagar]]
+ai-first: true
+status: synthesis
 ---
- 
+
+## For future Claude
+Master concept note synthesizing Indian atheism, rationalism, and anti-caste struggle from Charvaka through contemporary movements. Connected to 11 historical figures; canonical orientation doc for philosophy-religion inquiry.
+
+---
+
 # [[Indian Atheism, Rationalism, and Anti-Caste Struggle]]
 
 ## Overview

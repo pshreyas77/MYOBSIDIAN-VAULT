@@ -202,6 +202,8 @@ Your vault is **already substantially more sophisticated** than the baseline Kar
 - [[03 - PROJECTS/Cross-Domain Idea Synthesis.md]] — synthesis examples
 - [[house-rules.md]] — your schema
 - [[_CLAUDE.md]] — operating manual
+- [[01 - LITERATURE/articles/2026-07-09 — LLM Wiki Pattern — Full Synthesis (Second Brain Useless Until AI Maintains It)]] — full synthesis with maintenance argument
+- [[02 - PERMANENT/concepts/Contrarian Loop — Vault That Argues With Itself]] — CONTRA layer
 
 ---
 

@@ -8,6 +8,11 @@ status: historical
 ai-first: true
 ---
 
+## For future Claude
+Entity note for Nagarjuna, 2nd-3rd c. Indian Buddhist philosopher who founded the Madhyamaka (Middle Way) school and authored Mūlamadhyamakakārikā.
+
+---
+
 # Nagarjuna
 
 ## Overview

@@ -8,6 +8,11 @@ status: active
 ai-first: true
 ---
 
+## For future Claude
+Concept note on the Cārvāka/Lokāyata epistemological debate — perception (pratyakṣa) as the only valid means of knowledge vs the orthodox schools' acceptance of inference (anumāna), comparison (upamāna), and testimony (śabda).
+
+---
+
 # Lokayata Epistemology — Perception vs Inference Debate
 
 ## The Core Correction

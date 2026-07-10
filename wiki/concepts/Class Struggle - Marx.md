@@ -3,6 +3,8 @@ date: 2026-06-04
 tags: [concept, political-theory, marxism, class-analysis]
 type: concept
 stated: true
+ai-first: true
+status: historical
 ---
 
 # Class Struggle

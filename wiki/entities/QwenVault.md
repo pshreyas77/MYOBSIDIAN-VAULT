@@ -7,6 +7,12 @@ tags:
   - qwen
 type: entity
 status: dormant
+ai-first: true
+---
+
+## For future Claude
+Entity note for QwenVault — experimental Qwen-based vault integration project (status: dormant as of 2026-05-31).
+
 ---
 
 # QwenVault

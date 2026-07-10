@@ -3,6 +3,13 @@ title: Religion → Civilization Contributions (Complete Analysis)
 date: 2026-04-23
 tags: [concept, religion, civilization, synthesis, philosophy]
 aliases: [Religious Contributions to Civilization]
+ai-first: true
+status: synthesis
+---
+
+## For future Claude
+Concept note synthesizing religion's role across civilization formation — from animist origins through axial-age philosophy to modern organizational infrastructure. Multi-source synthesis (web research + uploaded documents + critical historiography).
+
 ---
 
 # Religion → Civilization Contributions (Complete Analysis)

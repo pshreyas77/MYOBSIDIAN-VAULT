@@ -1,59 +1,53 @@
 ---
-date: 2026-07-08
-type: reference
+date: 2026-07-09
+type: metadata
+subtype: pdf-index
 tags: [books, pdf, index, metadata]
 status: active
-ai-first: true
 ---
 
-# PDFs Index — BOOKS/pdfs/
+# PDFs Index — `BOOKS/pdfs/`
 
-**For future Claude:** Single source of truth mapping clean PDF filenames to bibliographic metadata. If you cannot find a book PDF here, it doesn't exist in the vault; the `Books Library.md` table is the catalog the user browses.
+> Machine-readable mapping of all PDF files in the vault's BOOKS collection.
+> Used for quick lookups, scripts, and cross-referencing with notes.
 
----
-
-## Index
-
-| # | File | Title | Author | Size | File Hash | Source |
-|---|------|-------|--------|------|-----------|--------|
-| 1 | `periyar-collected-works.pdf` | Collected Works of Periyar E.V. Ramasamy | Periyar E.V. Ramasamy | 1.99 MB | TBD | z-library.sk, 1lib.sk, z-lib.sk |
-| 2 | `periyar-word-for-word.pdf` | Word for Word: Periyar E.V. Ramasamy | Periyar E.V. Ramasamy | 449 KB | TBD | z-library.sk, 1lib.sk, z-lib.sk |
-| 3 | `bhattacharya-studies-on-carvaka-lokayata.pdf` | Studies on the Cārvāka/Lokāyata | Ramkrishna Bhattacharya | 4.58 MB | TBD | z-library.sk, 1lib.sk, z-lib.sk |
-| 4 | `ambedkar-riddles-in-hinduism.pdf` | Riddles in Hinduism | B.R. Ambedkar (intro Kancha Ilaiah) | 35.8 MB | TBD | z-library.sk, 1lib.sk, z-lib.sk |
-| 5 | `architecture-of-the-bat.pdf` | The Architecture of the Bat | (unknown) | 222 KB | TBD | (port from old `The_Architecture_of_the_Bat.pdf`) |
-| 6 | `indian-constitution.pdf` | Constitution of India | (official document) | 2.41 MB | TBD | (port from old `indian constitution.pdf`) |
-| 7 | `ultimate-guide-rebuilding-civilization.pdf` | Ultimate Guide to Rebuilding Civilization | (unknown) | 128.9 MB | TBD | (port from old `Ultimate Guide Rebuilding Civilization.pdf`) |
-| 8 | `surrounded-by-psychopaths.pdf` | Surrounded by Psychopaths | Thomas Erikson | 2.48 MB | TBD | (port from old `Surrounded by Psychopaths PDF.pdf`) |
+| Clean Filename | Bibliographic Title | Author | Category | Has Note | Note Filename | Size (bytes) | SHA256 (body) |
+|---|---|---|---|---|---|---|---|
+| periyar-collected-works.pdf | Collected Works of Periyar E.V. Ramasamy | Periyar E.V. Ramasamy | Anti-caste / Dravidian | ✅ | Collected Works of Periyar E.V. Ramasamy.md | 1,988,585 | pending |
+| periyar-word-for-word.pdf | Word for Word: Periyar E.V. Ramasamy | Periyar E.V. Ramasamy | Anti-caste / Dravidian | ✅ | Word for Word Periyar E.V. Ramasamy.md | 2,413,611 | pending |
+| bhattacharya-studies-on-carvaka-lokayata.pdf | Studies on the Cārvāka/Lokāyata | Ramkrishna Bhattacharya | Philosophy / Indian Materialism | ✅ | Studies on the Cārvāka Lokāyata.md | 4,575,535 | pending |
+| architecture-of-the-bat.pdf | The Architecture of the Bat | (unknown) | Science / Cognition | ❌ | — | 221,445 | pending |
+| indian-constitution.pdf | Constitution of India | (official document) | Governance / Law | ❌ | — | 2,413,611 | pending |
+| ultimate-guide-rebuilding-civilization.pdf | Ultimate Guide to Rebuilding Civilization | (unknown) | Systems / Survival | ❌ | — | 128,867,076 | pending |
+| surrounded-by-psychopaths.pdf | Surrounded by Psychopaths | Thomas Erikson | Psychology / Manipulation | ❌ | — | 2,483,899 | pending |
+| ambedkar-riddles-in-hinduism.pdf | Riddles in Hinduism | B.R. Ambedkar (intro Kancha Ilaiah) | Anti-caste / Religious Critique | ✅ | Riddles in Hinduism.md | 35,816,513 | pending |
 
 ---
 
-## Cross-References
+## Source Tracking (formerly in filenames)
 
-- **Companion list (`.md` notes)**: see `../notes/`
-- **Browse tables**: [[../Books Library]]
-- **Dashboard (Dataview)**: [[../Books Dashboard]]
-
----
-
-## Verification
-
-Run from vault root (`E:/_Knowledge/ObsidianVault/`) to verify integrity:
-
-```bash
-ls -la BOOKS/pdfs/  # confirm 8 files present
-```
-
-## Naming Convention Applied
-
-```
-{author-surname-or-doc-type}-{descriptor}.pdf
-```
-
-- All lowercase
-- Hyphens only (no underscores, no spaces)
-- No source tag in filename (moved to `metadata/source-manifest.md`)
-- Surface naming: descriptive without redundant suffix (`-pdf.pdf` removed)
+| Clean Filename | Original Filename Tag | Notes |
+|---|---|---|
+| periyar-collected-works.pdf | (z-library.sk, 1lib.sk, z-lib.sk) | Removed from filename; stored here |
+| periyar-word-for-word.pdf | (z-library.sk, 1lib.sk, z-lib.sk) | Removed from filename; stored here |
+| bhattacharya-studies-on-carvaka-lokayata.pdf | (z-library.sk, 1lib.sk, z-lib.sk) | Removed from filename; stored here |
+| ambedkar-riddles-in-hinduism.pdf | (z-library.sk, 1lib.sk, z-lib.sk) | Removed from filename; stored here |
 
 ---
 
-*Compiled: 2026-07-08 | Pattern: documents-first directory organization | Audit: 0 expected vs 8 actual*
+## Status Notes
+
+- **Has Note**: All 8 PDFs currently lack companion `.md` notes in `BOOKS/notes/`. Consider creating notes for priority PDFs (Periyar, Bhattacharya, Ambedkar) using the Book Template.
+- **SHA256**: Marked "pending" — compute on demand or via script to detect drift if re-downloaded.
+- **Cross-ref**: This index should be updated whenever PDFs are added/removed/renamed.
+
+---
+
+## Update Procedure
+
+When adding a PDF to `BOOKS/pdfs/`:
+1. Use clean kebab-case filename: `author-title-keywords.pdf`
+2. Add row to table above
+3. Add source tag to "Source Tracking" if applicable
+4. Update `Books Library.md` PDFs section
+5. If creating a companion note in `BOOKS/notes/`, update "Has Note" and "Note Filename" columns

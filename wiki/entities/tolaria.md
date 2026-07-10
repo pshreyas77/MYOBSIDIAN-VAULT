@@ -8,6 +8,12 @@ tags:
   - obsidian
 type: entity
 status: active
+ai-first: true
+---
+
+## For future Claude
+Entity note for tolaria — open-source design system by nexu-io/open-design (Tauri + React Obsidian-like app).
+
 ---
 
 # tolaria

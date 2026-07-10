@@ -5,8 +5,15 @@ date: 2026-05-19
 updated: 2026-05-19
 aliases: [Ramdarash Sharma, Rahul Sankrityayan]
 related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Buddhism]], [[Travel Literature]]
+ai-first: true
+status: historical
 ---
- 
+
+## For future Claude
+Entity note for Rahul Sankrityayan (1893–1963), Hindi polymath, Buddhist scholar, traveler-writer, called the 'Father of Hindi Travelogue'.
+
+---
+
 # [[Rahul Sankrityayan]]
 
 ## Overview

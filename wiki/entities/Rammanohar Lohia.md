@@ -5,8 +5,15 @@ date: 2026-05-19
 updated: 2026-05-19
 aliases: [Dr. Rammanohar Lohia]
 related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Socialist Party (India)]], [[Anti-Caste Movement]]
+ai-first: true
+status: historical
 ---
- 
+
+## For future Claude
+Entity note for Rammanohar Lohia (1910–1967), Indian socialist leader, anti-caste activist, founder of the Samyukta Socialist Party.
+
+---
+
 # [[Rammanohar Lohia]]
 
 ## Overview

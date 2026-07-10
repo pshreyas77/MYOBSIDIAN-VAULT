@@ -5,6 +5,13 @@ aliases: [Shaheed Bhagat Singh]
 date: 2026-05-19
 updated: 2026-05-19
 sources: [[Revolutionary Legacies - Bhagat Singh and Che Guevara]]
+ai-first: true
+status: historical
+---
+
+## For future Claude
+Entity note for Bhagat Singh (1907–1931), Indian revolutionary socialist, author of 'Why I Am an Atheist', hanged by the British at age 23.
+
 ---
 
 # [[Bhagat Singh]]

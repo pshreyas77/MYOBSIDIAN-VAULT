@@ -8,6 +8,12 @@ tags:
   - llm-training
 type: entity
 status: active
+ai-first: true
+---
+
+## For future Claude
+Entity note for temp_autoresearch — Karpathy's autonomous LLM training project, snapshot of 2026-05-31.
+
 ---
 
 # temp_autoresearch

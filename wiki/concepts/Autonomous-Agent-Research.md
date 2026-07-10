@@ -8,10 +8,15 @@ tags:
   - research
 type: concept
 status: active
+ai-first: true
+---
+
+## For future Claude
+Concept note on autonomous AI agents conducting research without continuous human supervision — ReAct loops, plan-and-execute, multi-agent routing, and middleware orchestration.
+
 ---
 
 # Autonomous Agent Research
-
 The practice of AI agents conducting research independently — modifying code, running experiments, evaluating results, and iterating without human intervention.
 
 ## Examples in Vault

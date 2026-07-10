@@ -5,8 +5,15 @@ date: 2026-05-19
 updated: 2026-05-19
 aliases: [Khwaja Ahmad Abbas]
 related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Indian People's Theatre Association]], [[Progressive Writers' Movement]]
+ai-first: true
+status: historical
 ---
- 
+
+## For future Claude
+Entity note for Khwaja Ahmad Abbas (1914–1987), Indian filmmaker, screenwriter, novelist, journalist, and rationalist atheist.
+
+---
+
 # [[K. A. Abbas]]
 
 ## Overview

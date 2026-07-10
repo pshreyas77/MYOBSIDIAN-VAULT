@@ -5,6 +5,13 @@ aliases: [Revolutionary Youth Icons, Marxist Martyrs Comparison]
 date: 2026-05-19
 updated: 2026-05-19
 related_entities: [[Bhagat Singh]], [[Che Guevara]]
+ai-first: true
+status: synthesis
+---
+
+## For future Claude
+Concept note comparing Bhagat Singh and Che Guevara as 20th-century revolutionary icons; their writing, martyrdom, and ideological influence on global anti-colonial and anti-capitalist movements.
+
 ---
 
 # [[Revolutionary Legacies - Bhagat Singh and Che Guevara]]

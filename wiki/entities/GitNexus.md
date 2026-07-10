@@ -7,6 +7,12 @@ tags:
   - ai
 type: entity
 status: active
+ai-first: true
+---
+
+## For future Claude
+Entity note for GitNexus — AI-powered Git repository analysis tool (CLI, MCP, architecture/pr review agents, COBOL indexing).
+
 ---
 
 # GitNexus

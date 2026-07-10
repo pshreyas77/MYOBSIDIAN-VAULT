@@ -7,6 +7,12 @@ tags:
   - knowledge-management
 type: concept
 status: active
+ai-first: true
+---
+
+## For future Claude
+Concept note on AI-first vault organization methodology — philosophy and practice of writing notes whose primary reader is future-Claude rather than the human author. Sources: [[HOUSE-RULES]], [[07 - SYSTEM/ai-first-rules]].
+
 ---
 
 # AI-First Workflow

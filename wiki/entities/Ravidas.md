@@ -8,6 +8,11 @@ status: historical
 ai-first: true
 ---
 
+## For future Claude
+Entity note for Ravidas the Nirguṇa Bhakti poet (Ravidass), 15th-16th c. Dalit saint of the Chamar community, Begumpura vision of casteless society.
+
+---
+
 # Ravidas
 
 ## Overview

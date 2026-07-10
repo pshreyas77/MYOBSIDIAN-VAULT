@@ -94,10 +94,14 @@ Finished writing — essays, analyses, frameworks.
 ## 07 — SYSTEM
 Vault infrastructure — rules, templates, logs, and the operating manual.
 
-- `07 - SYSTEM/index.md` — this file
+- `07 - SYSTEM/index.md` — this file (canonical vault index)
 - `07 - SYSTEM/log.md` — append-only vault operation log
 - `07 - SYSTEM/CRITICAL_FACTS.md` — identity facts for every session
+- `07 - SYSTEM/IDENTITY.md` — full personal profile
 - `07 - SYSTEM/ai-first-rules.md` — writing rules for every note
+- `07 - SYSTEM/Hermes-Skill-Integration-Analysis.md` — Hermes skill integration
+- `07 - SYSTEM/Obsidian-Graph-View-Config.md` — graph view configuration
+- `night-shift-log.md` (root) — autonomous Night Shift agent run logs
 - `00 - SYSTEM/` — legacy (morning briefings, scripts, dashboards, MOCs)
 - `Templates/` — note templates
 
@@ -107,13 +111,11 @@ Vault infrastructure — rules, templates, logs, and the operating manual.
 - `04 - ARCHIVE/` — frozen legacy (use 04 - DAILY and project close-out notes)
 
 ## Topic Folders (Active — Not Part of Karpathy Layers)
-- `BUDDHA/` — Buddhist philosophy research
 - `wiki/` — AI wiki knowledge base
 - `Topics/` — topic organization
 - `permanent/` — Zettelkasten notes (empty, use 02 - PERMANENT)
 
 ## Tooling & Experiments
-- `graphify-out/` — knowledge graph outputs
 - `pegasus/` — canvas research visuals
 - `autoresearch/`, `temp_autoresearch/` — auto-research agents
 - `QwenVault/`, `InfiniteBrain/`, `ruflo/` — experimental AI vaults

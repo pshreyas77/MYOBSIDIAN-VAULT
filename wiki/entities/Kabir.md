@@ -8,6 +8,11 @@ status: historical
 ai-first: true
 ---
 
+## For future Claude
+Entity note for Kabir, the Nirguṇa Bhakti weaver-poet (Julaha), 15th c. voice of vernacular universalism and anti-caste theology.
+
+---
+
 # Kabir
 
 ## Overview

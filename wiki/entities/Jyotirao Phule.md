@@ -5,8 +5,15 @@ date: 2026-05-19
 updated: 2026-05-19
 aliases: [Jotirao Govindrao Phule, Mahatma Phule]
 related_entities: [[Indian Atheism, Rationalism, and Anti-Caste Struggle]], [[Savitribai Phule]], [[Satyashodhak Samaj]]
+ai-first: true
+status: historical
 ---
- 
+
+## For future Claude
+Entity note for Jyotirao Phule (1827–1890), founder of Satyashodhak Samaj, anti-caste social reformer, educator of women and lower castes in 19th-c. Maharashtra.
+
+---
+
 # [[Jyotirao Phule]]
 
 ## Overview

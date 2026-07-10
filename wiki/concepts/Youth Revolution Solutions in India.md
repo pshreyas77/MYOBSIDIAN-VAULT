@@ -6,6 +6,13 @@ tags:
   - youth-movement
   - india
   - solutions
+ai-first: true
+status: synthesis
+---
+
+## For future Claude
+Concept note on actionable frameworks for engaging India's youth in political and social change. Companion to [[Youth Revolution in India]].
+
 ---
 
 # Youth Revolution Solutions in India
