@@ -48,8 +48,9 @@ def main():
         print(f"Could not determine branch: {e}", file=sys.stderr)
         branch = "windows"
 
-    # Status check
-    status_proc = run(["git", "status", "--porcelain"], check=False)
+    # Status check — exclude submodules from "nothing to do" check
+    # (submodules have their own git history; we treat their state as opaque)
+    status_proc = run(["git", "status", "--porcelain", "--ignore-submodules"], check=False)
     if status_proc.returncode != 0:
         print(f"git status failed: {status_proc.stderr}", file=sys.stderr)
         return 1
@@ -58,7 +59,7 @@ def main():
         # Silent — no changes
         return 0
 
-    # Add everything
+    # Add everything (submodules will be added as references, not their contents)
     add_proc = run(["git", "add", "-A"], check=False)
     if add_proc.returncode != 0:
         print(f"git add failed: {add_proc.stderr}", file=sys.stderr)
