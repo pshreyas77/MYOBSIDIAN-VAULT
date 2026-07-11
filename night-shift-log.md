@@ -1,4 +1,41 @@
-## [2026-06-25 06:30] Night Shift | Scout + Refinery + Editor — 0 new items (vault fully processed)
+## [2026-07-11 06:30] Night Shift | Pipeline Rebuilt — Hermes Cron Architecture (manual restart)
+
+### Context
+Night Shift was dead for 16 days (last automated run 2026-06-25). Original implementation used Windows PowerShell Scheduled Tasks which became unreachable. Pipeline rebuilt as durable Hermes cron jobs with identical schedule and protocols.
+
+### Manual Scout Run (Immediate)
+- Scout: 1 item in `00 INBOX/` — India Urban Flooding Report
+- Classification: research-brief, no source URLs preserved
+- Prime Directive Gate: **QUARANTINED** — moved to `1-desk/article/2026-07-11 — India Urban Flooding Report (Quarantined — No Sources).md`
+- Raw archived to `sources/archived/2026-07-11 — India Urban Flooding Report (Raw).md`
+- Original INBOX file moved — INBOX now empty
+
+### New Cron Architecture
+| Run | Schedule (IST) | Job ID | First Run |
+|-----|---------------|--------|-----------|
+| Scout | 23:30 daily | b60bd1a2ba42 | Tonight 23:30 |
+| Refinery | 03:00 daily | e5fa48dbb046 | Jul 12 03:00 |
+| Editor | 06:00 daily | 8e3ee9ca65d5 | Jul 12 06:00 |
+| Audit | 22:00 Sundays | 5981bc3a96fd | Jul 12 22:00 |
+
+### Items Queued for Refinery (Jul 12 03:00)
+4 unprocessed literature notes from Jul 6-9:
+1. `01 - LITERATURE/articles/2026-07-06 — Flow Flywheel Weekly Ritual.md`
+2. `01 - LITERATURE/articles/2026-07-06 — How to Build An Agentic OS using Fable 5.md`
+3. `01 - LITERATURE/2026-07-08 — LLM Wiki Pattern — Karpathy.md`
+4. `01 - LITERATURE/articles/2026-07-09 — LLM Wiki Pattern — Full Synthesis.md`
+
+Note: These bypassed Scout (created directly as literature notes). Refinery will need to check `status` field — may need to add `status: to-process` before processing.
+
+### Morning Brief
+Generated: `BRIEFINGS/2026-07-11 — Morning Brief.md`
+- Vault status, project tracker, MOC gaps, action items
+
+### Known Issues (deferred to Audit Run Jul 12)
+- 20+ broken wikilinks
+- 15+ orphans from Jul 8
+- Health Dashboard stale (Apr 23)
+- History Watchdog overdue
 - Scout: 00-INBOX empty, 0-raw had 1 pre-processed file
 - Refinery: 1-desk items already status: processed
 - Editor: All 12 atoms in 2-atoms/ verified with 2+ outgoing links, index.md current

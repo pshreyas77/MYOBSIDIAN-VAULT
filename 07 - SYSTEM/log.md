@@ -1,4 +1,33 @@
-## [2026-06-05] obsidian-save | Justice Party Modern Revival Strategies — "Modern Revival and Application" section (6 frameworks) appended to existing note:
+## [2026-07-11] night-shift-rebuild | Night Shift pipeline rebuilt as Hermes cron jobs — 4 durable jobs replacing dead Windows Task Scheduler pipeline
+
+### Pipeline Status (Before)
+- Night Shift dead since 2026-06-25 (16 days)
+- PowerShell scheduled tasks lost/unreachable
+- Only surviving cron: vault-auto-commit (10 PM IST)
+
+### New Hermes Cron Architecture
+| Job | Schedule | ID | Status |
+|-----|----------|-----|--------|
+| Scout Run | 23:30 IST daily | b60bd1a2ba42 | 🟢 Scheduled |
+| Refinery Run | 03:00 IST daily | e5fa48dbb046 | 🟢 Scheduled |
+| Editor Run | 06:00 IST daily | 8e3ee9ca65d5 | 🟢 Scheduled |
+| Audit Run | 22:00 IST Sundays | 5981bc3a96fd | 🟢 Scheduled |
+
+### Manual Run (Immediate)
+- Scout: Processed 1 INBOX item — India Urban Flooding Report → quarantined (no sources) to `1-desk/article/2026-07-11 — India Urban Flooding Report (Quarantined — No Sources).md`
+- Morning Brief: Generated `BRIEFINGS/2026-07-11 — Morning Brief.md` — vault status, project tracker, action items
+
+### Next Runs
+- Scout: Tonight 23:30 IST (2026-07-11)
+- Refinery: Tomorrow 03:00 IST (2026-07-12) — will process 4 unprocessed July literature notes
+- Editor: Tomorrow 06:00 IST (2026-07-12) — will link extracted atoms + generate morning brief
+- Audit: Sunday 22:00 IST (2026-07-12)
+
+### Known Gaps
+- 20+ broken wikilinks unresolved (Batman Philosophy Archive, Philosophy Links Tracker, Knowledge Hub, etc.)
+- 15+ orphans from Jul 8 analysis unfixed
+- History Watchdog overdue (Week 1 deliverable Jul 14 missed)
+- Health Dashboard stale since Apr 23 — "Modern Revival and Application" section (6 frameworks) appended to existing note:
   - 02 - PERMANENT/concepts/Justice Party.md (Social Justice/Reservation, Rationalism, Gender Equality, Educational Outreach, Cultural Transformation/Self-Respect, State Autonomy/Federalism + Mass Movement Insight)
 
 ## [2026-06-05] obsidian-save | Justice Party Periyar–Ambedkar Enhancement — Periyar's path from Congress (1925), Self-Respect Movement, 1938/1939 Party Presidency from prison, 1944 Salem DK transformation; Ambedkar–Periyar 1954 Rangoon meeting added to existing note

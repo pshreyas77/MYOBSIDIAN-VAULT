@@ -1,0 +1,226 @@
+# History Watchdog — Query Sets
+# First Run: 2026-07-11 | Updated by: Claude
+# Schedule: Weekly Monday 02:00 IST (runs automatically via Night Shift)
+# Tools: Elicit.org, Undermind.ai, DeepSeek Deep Research (chat.deepseek.com), Kimi (kimi.com)
+
+# =============================================================================
+# SET 1: Aryan Migration / IVC / Ancient DNA
+# Priority: 🔴 Critical — core to your research on pre-Aryan India and IVC origins
+# =============================================================================
+
+aryan_migration:
+  category: aryan_migration
+  priority: critical
+  queries:
+    - query: "ancient DNA South Asia 2024..2026"
+      tools: [elicit, undermind, deepseek-deep-research]
+      expected_results: 8
+
+    - query: "Rakhigarhi genome new analysis 2024..2026"
+      tools: [elicit, deepseek-deep-research]
+      expected_results: 5
+
+    - query: "Indus Valley Civilization ancient DNA 2024..2026"
+      tools: [elicit, undermind, deepseek-deep-research]
+      expected_results: 6
+
+    - query: "steppe ancestry South Asia 2024..2026"
+      tools: [elicit, undermind]
+      expected_results: 5
+
+    - query: "Indo-Aryan migration linguistics 2024..2026"
+      tools: [undermind, deepseek-deep-research]
+      expected_results: 4
+
+    - query: "Mitanni treaty Indo-Aryan 2024..2026"
+      tools: [deepseek-deep-research, kimi]
+      expected_results: 2
+
+    - query: "IVC migrationHarappan genetics 2024..2026"
+      tools: [elicit, undermind, deepseek-deep-research]
+      expected_results: 5
+
+    - query: "South Asia Bronze Age archaeology 2024..2026"
+      tools: [deepseek-deep-research, kimi]
+      expected_results: 4
+
+# =============================================================================
+# SET 2: Dravidian Politics / Tamil Nadu
+# Priority: 🔴 Critical — core to your Dravidian movement and political history research
+# =============================================================================
+
+dravidian_politics:
+  category: dravidian_politics
+  priority: critical
+  queries:
+    - query: "Dravidian politics Tamil Nadu 2024..2026"
+      tools: [deepseek-deep-research, elicit]
+      expected_results: 8
+
+    - query: "DMK AIADMK election 2024..2026"
+      tools: [deepseek-deep-research, elicit]
+      expected_results: 6
+
+    - query: "Tamil Nadu reservation policy 2024..2026"
+      tools: [deepseek-deep-research, undermind]
+      expected_results: 4
+
+    - query: "Justice Party Dravidian movement new scholarship 2024..2026"
+      tools: [undermind, deepseek-deep-research]
+      expected_results: 3
+
+    - query: "Periyar new scholarship 2024..2026"
+      tools: [deepseek-deep-research, kimi]
+      expected_results: 3
+
+    - query: "Dravidian ideology Tamil nationalism 2024..2026"
+      tools: [deepseek-deep-research, elicit]
+      expected_results: 4
+
+    - query: "Tamil Nadu caste politics 2024..2026"
+      tools: [undermind, deepseek-deep-research]
+      expected_results: 5
+
+    - query: "Ambedkar Periyar relationship scholarship 2024..2026"
+      tools: [deepseek-deep-research, elicit]
+      expected_results: 3
+
+# =============================================================================
+# SET 3: RSS / Hindutva Funding & Organization
+# Priority: 🟡 High — your existing research on Sangh Parivar funding and BJP strategy
+# =============================================================================
+
+rss_hindutva:
+  category: rss_hindutva
+  priority: high
+  queries:
+    - query: "RSS funding mechanisms 2024..2026"
+      tools: [deepseek-deep-research, elicit]
+      expected_results: 5
+
+    - query: "Sangh Parivar diaspora funding 2024..2026"
+      tools: [deepseek-deep-research]
+      expected_results: 4
+
+    - query: "BJP South India strategy 2024..2026"
+      tools: [deepseek-deep-research, elicit]
+      expected_results: 5
+
+    - query: "Hindutva organization research 2024..2026"
+      tools: [deepseek-deep-research, undermind]
+      expected_results: 4
+
+    - query: "Sewa International funding 2024..2026"
+      tools: [deepseek-deep-research]
+      expected_results: 2
+
+    - query: "RSSBhutada foundation funding India 2024..2026"
+      tools: [deepseek-deep-research]
+      expected_results: 2
+
+# =============================================================================
+# SET 4: Anti-Caste Movements & Shramana Traditions
+# Priority: 🟡 High — your research on Buddhist/Jain/Shramana origins of anti-caste thought
+# =============================================================================
+
+anti_caste:
+  category: anti_caste
+  priority: high
+  queries:
+    - query: "Shramana tradition Buddhism Jainism India 2024..2026"
+      tools: [deepseek-deep-research, undermind, kimi]
+      expected_results: 4
+
+    - query: "anti-caste movement India new research 2024..2026"
+      tools: [deepseek-deep-research, elicit]
+      expected_results: 5
+
+    - query: "Buddhism Dalit Indian scholarship 2024..2026"
+      tools: [deepseek-deep-research, undermind]
+      expected_results: 4
+
+    - query: "Nadiga Bhutada Seva International funding India 2024..2026"
+      tools: [deepseek-deep-research]
+      expected_results: 2
+
+# =============================================================================
+# Venue Filter (Refinery Stage)
+# Only retain papers from these venues for quality control
+# =============================================================================
+
+venue_filter:
+  tier1:
+    - "Science"
+    - "Cell"
+    - "Nature"
+    - "Nature Genetics"
+    - "PNAS"
+    - "Current Biology"
+    - "American Journal of Human Genetics (AJHG)"
+    - "PLOS Genetics"
+  tier2:
+    - "Annual Review of Linguistics"
+    - "Journal of South Asian Studies"
+    - "Indian Economic and Political Weekly (EPW)"
+    - "Modern Asian Studies"
+    - "Journal of Asian Studies"
+    - "Cambridge Archaeological Journal"
+  tier3:
+    - "arXiv preprint (q-bio.GN, cs.DL)"
+    - "bioRxiv"
+    - "Google Scholar (if no tier1/2 available)"
+
+# =============================================================================
+# Target Notes to Update (Editor Output)
+# These are the vault notes History Watchdog will refresh with new evidence
+# =============================================================================
+
+target_notes:
+  critical:
+    - path: "Research/Deep/2026-06-22 — Aryan Migration Debate Evidence and Pre-Aryan India.md"
+      update_type: evidence_refresh
+      last_updated: "2026-06-22"
+    - path: "Research/2026-06-24 — Aryan Migration & Pre-Aryan Substrate — Final Verified Synthesis.md"
+      update_type: evidence_refresh
+      last_updated: "2026-06-24"
+  high:
+    - path: "05 - MAPS/Indian Political History MOC.md"
+      update_type: political_events
+      last_updated: "2026-07-08"
+    - path: "Research/Articles/2026-06-09 — RSS Funding Mechanisms Analysis.md"
+      update_type: funding_updates
+      last_updated: "2026-06-09"
+    - path: "Research/Articles/Entities/Bhutada Family Foundation.md"
+      update_type: entity_updates
+      last_updated: "2026-06-09"
+  medium:
+    - path: "Research/Articles/Entities/Sewa International.md"
+      update_type: entity_updates
+      last_updated: "2026-06-09"
+
+# =============================================================================
+# Run Configuration
+# =============================================================================
+
+run_config:
+  schedule: "Monday 02:00 IST weekly"
+  max_runtime_minutes: 45
+  max_papers_to_scan: 50
+  high_quality_papers_to_retain: 5
+  tool_timeout_minutes: 10
+  output_format: "json"
+
+  # Scite.ai settings
+  scite:
+    check_support_dispute: true
+    min_evidence_count: 2
+    flag_if_disputed: true
+    flag_if_superseded: true
+
+  # Output paths
+  paths:
+    raw: "E:/_Knowledge/ObsidianVault/03 - PROJECTS/History-Watchdog/raw/"
+    processed: "E:/_Knowledge/ObsidianVault/03 - PROJECTS/History-Watchdog/processed/"
+    deltas: "E:/_Knowledge/ObsidianVault/03 - PROJECTS/History-Watchdog/deltas/"
+    audit: "E:/_Knowledge/ObsidianVault/03 - PROJECTS/History-Watchdog/audit/"
+    automated_sources: "E:/_Knowledge/ObsidianVault/Research/Automated/"
