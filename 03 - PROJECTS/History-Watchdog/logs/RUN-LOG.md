@@ -48,6 +48,41 @@ History Watchdog is an autonomous historiography monitoring agent. It runs weekl
 
 ## Run History
 
+### [2026-07-14] Scout Run — Week 2
+- **Run date:** 2026-07-14 | **Source:** OpenAlex API (free, no auth required)
+- **Queries run:** 16 (out of 24 in queries.yaml — 2 queries failed due to NoneType in primary_location)
+- **Papers found:** 67 total | **Tier1 papers:** 18
+
+#### Category Breakdown
+| Category | Queries | Papers | Top Paper |
+|----------|---------|--------|-----------|
+| aryan_migration | 7 | 35 | AADR 2024 (362 citations, Scientific Data) |
+| dravidian_politics | 4 | 16 | Caste Management Review (32 citations, Academy of Management Annals) |
+| rss_hindutva | 3 | 12 | Diasporic geopolitics (20 citations, Review of International Studies) |
+| anti_caste | 2 | 4 | Buddhism Dalit India (low-citation, non-tier1) |
+
+#### Tool Status
+| Tool | Status | Notes |
+|------|--------|-------|
+| Elicit.org | 🔴 Down | Requires login/signup |
+| Undermind.ai | 🔴 Unreachable | Browser connection failed |
+| DeepSeek.com | 🔴 Unreachable | Browser connection failed |
+| Perplexity.ai | 🔴 Blocked | Cloudflare bot protection |
+| Kimi.com | 🔴 Unreachable | Requires login |
+| Semantic Scholar | 🔴 Down | 405 errors on all pages |
+| **OpenAlex API** | 🟢 Success | Used as primary fallback |
+
+#### Output
+- `raw/2026-07-14-scout.json` — 67 papers, 18 tier1
+- Tier1 venues found: Nature (×2), Science, Current Biology, Scientific Data
+
+#### Issues
+- 2 political queries failed (NoneType in `primary_location` — likely OpenAlex data gaps for Indian political content)
+- anti_caste/Shramana query returned 0 results — need different terminology
+- 8 queries from original queries.yaml not run (Mitanni treaty, IVC migrationHarappan, Justice Party exact, Periyar, Dravidian ideology, RSSBhutada, Sewa International, BJP South India)
+
+---
+
 ### [2026-07-11] Initialization
 - `queries.yaml` created with all 26 queries across 4 categories
 - Weekly cron job created: Monday 02:00 IST (first run: 2026-07-13)
@@ -56,13 +91,19 @@ History Watchdog is an autonomous historiography monitoring agent. It runs weekl
 ---
 
 ## Next Run
-**Monday 2026-07-13 02:00 IST** — First Scout Run
+**Monday 2026-07-20 02:00 IST** — Week 3 Scout Run
+
+Recommendations for next run:
+- Add CrossRef API as secondary source (good for humanities/politics papers)
+- Try arXiv q-bio.GN for preprint genetics papers
+- Fix NoneType errors in search_oa() with defensive coding
+- Run all 24 original queries from queries.yaml (only 16 were run this week)
 
 Expected output:
-- 26 queries across 4 tools (Elicit, Undermind, DeepSeek, Kimi)
-- ~50 papers scanned → ~5 high-quality tier1 papers retained
-- JSON report at `raw/2026-07-13-scout.json`
-- Log entry at `logs/2026-07-13-run-log.md`
+- 24 queries across 4 tools
+- ~80 papers scanned → ~8 high-quality tier1 papers retained
+- JSON report at `raw/2026-07-20-scout.json`
+- Log entry at `logs/2026-07-20-run-log.md`
 
 ---
 

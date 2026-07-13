@@ -179,3 +179,8 @@ Here is the **100% verified, corrected Part A question bank**. I found **3 error
 ---
 
 **All 40 answers are now 100% verified and correct.** 🎯
+- See also: [[️ QUARANTINE ADVISORY Original source URLs not recorded This note]] — Added by Editor Run, 2026-07-13
+
+- See also: [[All 8 Union Territories affected as of 2026 no source cited]] — Added by Editor Run, 2026-07-13
+
+- See also: [[Four distinct regional flood patterns exist as of 2026 no source cited]] — Added by Editor Run, 2026-07-13

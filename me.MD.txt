@@ -10,9 +10,9 @@
 ## Tech Stack
 Python, SQL, FastAPI, React, LangChain, Ollama, LLM APIs
 
-## Hardware
-HP ProBook 640 G4 — i5-8350U, 8GB RAM, Intel iGPU. Dual-boot Win/Feren OS KDE.
-→ shapes tool choice: lightweight, CPU-only models (qwen2.5:1.5b primary local).
+## Hardware (ACTUAL specs — not the old ProBook entry)
+HP ProBook 640 G4 — i5-8350U, 8GB RAM, Intel iGPU. Dual-boot Win/Feren OS KDE. (NOTE: this is the OLD laptop entry — see below)
+→ DESKTOP (actual current machine): Win11 Home, i5-10500H (6c/12t @ 2.50GHz), 16GB RAM, NVIDIA GTX 1650 Max-Q 4GB VRAM, Kingston 256GB SSD + 1TB HDD. Cloud API for AI. Ollama备用.
 
 ## Projects
 - VerifAI — AI fact-checker

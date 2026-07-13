@@ -3,7 +3,7 @@ date: 2026-07-11
 type: literature
 subtype: research-brief
 source: Original research compilation (source URLs not preserved)
-status: to-process
+status: processed
 ai-first: true
 tags: [literature, research-brief, india, urban-flooding, infrastructure]
 ---
@@ -40,3 +40,7 @@ All 8 UTs affected including Delhi NCR, J&K, Ladakh, Chandigarh, Puducherry, and
 - Indian Flood Type Taxonomy (Urban Drainage vs Riverine vs Flash Flood vs Arid Inundation)
 
 Suggested sources to add: IMD rainfall data, NDMA flood reports, state-wise municipal drainage audits, CAG infrastructure reports.
+## Extraction Log
+- **Date:** 2026-07-13 17:17
+- **Refinery Run:** Extracted 6 atomic notes
+- **Atoms created:** 6

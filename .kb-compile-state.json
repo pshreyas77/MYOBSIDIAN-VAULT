@@ -1,0 +1,14 @@
+{
+  "last_full_compile": "2026-07-13T17:00:00Z",
+  "last_incremental": "2026-07-13T17:00:00Z",
+  "processed_files": {
+    "0-raw/test-source-article.md": "2026-06-16T12:28:00Z",
+    ".raw/2026-05-27_peopling-of-south-asia-raw.md": "2026-05-27T20:12:00Z"
+  },
+  "files_skipped": [
+    "0-raw/Untitled.canvas"
+  ],
+  "concepts_created": 1,
+  "pages_updated": 0,
+  "notes": "2 raw files found across 0-raw/ and .raw/. .raw/2026-05-27_peopling-of-south-asia-raw.md is provenance-only; its derived page 2026-05-27_peopling-of-south-asia-synthesis.md already exists and is comprehensive — no update needed. Created new Digital Gardens concept page in 05 Knowledge Management."
+}

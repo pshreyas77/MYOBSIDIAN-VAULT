@@ -8,6 +8,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+$StartTime = Get-Date
 $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
 $Date = Get-Date -Format "yyyy-MM-dd"
 
@@ -380,4 +381,4 @@ $BriefSection
 Write-Host "`n=== Refinery Run Complete ===" -ForegroundColor Cyan
 Write-Host "Atoms Created: $($Stats.AtomsCreated)" -ForegroundColor White
 Write-Host "Sources Archived: $($Stats.SourcesArchived)" -ForegroundColor Gray
-Write-Host "Duration: $([Math]::Round((Get-Date - $StartTime).TotalSeconds, 1)) seconds" -ForegroundColor Gray
+Write-Host "Duration: $([Math]::Round(((Get-Date) - $StartTime).TotalSeconds, 1)) seconds" -ForegroundColor Gray

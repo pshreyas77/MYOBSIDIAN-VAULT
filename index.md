@@ -13,3 +13,12 @@
 - **Research:** [[Research/]]
 - **Books:** [[BOOKS/Books Dashboard.md]]
 - **Log:** [[07 - SYSTEM/log.md]]
+## 2-atoms/concepts
+- 2-atoms/concepts/️ QUARANTINE ADVISORY Original source URLs not recorded This note.md — auto-indexed (2026-07-13)
+
+## 2-atoms/concepts
+- 2-atoms/concepts/All 8 Union Territories affected as of 2026 no source cited.md — auto-indexed (2026-07-13)
+
+## 2-atoms/people
+- 2-atoms/people/Four distinct regional flood patterns exist as of 2026 no source cited.md — auto-indexed (2026-07-13)
+

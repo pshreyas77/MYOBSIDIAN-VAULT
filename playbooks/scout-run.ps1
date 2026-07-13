@@ -8,6 +8,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+$StartTime = Get-Date
 $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
 $Date = Get-Date -Format "yyyy-MM-dd"
 
@@ -59,11 +60,18 @@ function Get-FileType {
             if ($Content -match "^(book|chapter)") { return "book" }
             return "article"
         }
-        ".txt" { return "article" }
-        ".html", ".htm" { return "article" }
-        ".mp4", ".mkv", ".avi" { return "video" }
-        ".mp3", ".wav", ".m4a" { return "podcast" }
-        ".jpg", ".jpeg", ".png" { return "idea" }
+        {".txt"} { return "article" }
+        {".html"} { return "article" }
+        {".htm"} { return "article" }
+        {".mp4"} { return "video" }
+        {".mkv"} { return "video" }
+        {".avi"} { return "video" }
+        {".mp3"} { return "podcast" }
+        {".wav"} { return "podcast" }
+        {".m4a"} { return "podcast" }
+        {".jpg"} { return "idea" }
+        {".jpeg"} { return "idea" }
+        {".png"} { return "idea" }
         default { return "article" }
     }
 }
@@ -310,4 +318,4 @@ if (!$DryRun) {
 Write-Host "`n=== Scout Run Complete ===" -ForegroundColor Cyan
 Write-Host "Processed: $($Stats.Processed) items" -ForegroundColor White
 Write-Host "Quarantined: $($Stats.Quarantined) items" -ForegroundColor $(if ($Stats.Quarantined -gt 0) { "Yellow" } else { "Gray" })
-Write-Host "Duration: $([Math]::Round((Get-Date - $StartTime).TotalSeconds, 1)) seconds" -ForegroundColor Gray
+Write-Host "Duration: $([Math]::Round(((Get-Date) - $StartTime).TotalSeconds, 1)) seconds" -ForegroundColor Gray

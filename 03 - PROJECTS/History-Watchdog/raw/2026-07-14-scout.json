@@ -1,0 +1,327 @@
+{
+  "run_date": "2026-07-14",
+  "queries_run": 16,
+  "papers_found": 67,
+  "by_category": {
+    "aryan_migration": {
+      "queries": 7,
+      "papers": 35,
+      "top_papers": [
+        {
+          "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+          "year": 2024,
+          "venue": "Scientific Data",
+          "cited_by": 362,
+          "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+          "authors": [
+            "Swapan Mallick",
+            "Adam Micco",
+            "Matthew Mah"
+          ]
+        },
+        {
+          "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+          "year": 2024,
+          "venue": "Scientific Data",
+          "cited_by": 362,
+          "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+          "authors": [
+            "Swapan Mallick",
+            "Adam Micco",
+            "Matthew Mah"
+          ]
+        },
+        {
+          "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+          "year": 2024,
+          "venue": "Scientific Data",
+          "cited_by": 362,
+          "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+          "authors": [
+            "Swapan Mallick",
+            "Adam Micco",
+            "Matthew Mah"
+          ]
+        },
+        {
+          "title": "The selection landscape and genetic legacy of ancient Eurasians",
+          "year": 2024,
+          "venue": "Nature",
+          "cited_by": 140,
+          "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+          "authors": [
+            "Evan K. Irving-Pease",
+            "Alba Refoyo-Martínez",
+            "William Barrie"
+          ]
+        },
+        {
+          "title": "The selection landscape and genetic legacy of ancient Eurasians",
+          "year": 2024,
+          "venue": "Nature",
+          "cited_by": 140,
+          "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+          "authors": [
+            "Evan K. Irving-Pease",
+            "Alba Refoyo-Martínez",
+            "William Barrie"
+          ]
+        }
+      ]
+    },
+    "dravidian_politics": {
+      "queries": 4,
+      "papers": 16,
+      "top_papers": [
+        {
+          "title": "An Integrative Review of Management Research on Caste: Broadening Our Horizons",
+          "year": 2024,
+          "venue": "Academy of Management Annals",
+          "cited_by": 32,
+          "doi": "https://doi.org/10.5465/annals.2022.0208",
+          "authors": [
+            "Hari Bapuji",
+            "Snehanjali Chrispal",
+            "Pardeep Singh Attri"
+          ]
+        },
+        {
+          "title": "An Integrative Review of Management Research on Caste: Broadening Our Horizons",
+          "year": 2024,
+          "venue": "Academy of Management Annals",
+          "cited_by": 32,
+          "doi": "https://doi.org/10.5465/annals.2022.0208",
+          "authors": [
+            "Hari Bapuji",
+            "Snehanjali Chrispal",
+            "Pardeep Singh Attri"
+          ]
+        },
+        {
+          "title": "“Nation at Repair, Women at Work”: Kinship, Dissent, and Citizenship in South India",
+          "year": 2024,
+          "venue": "South Asia Multidisciplinary Academic Journal",
+          "cited_by": 11,
+          "doi": "https://doi.org/10.4000/136ki",
+          "authors": [
+            "Harini Kumar"
+          ]
+        },
+        {
+          "title": "Detecting caste and migration hate speech in low-resource Tamil language",
+          "year": 2025,
+          "venue": "Language Resources and Evaluation",
+          "cited_by": 7,
+          "doi": "https://doi.org/10.1007/s10579-025-09848-x",
+          "authors": [
+            "Bharathi Raja Chakravarthi",
+            "R. Saranya",
+            "Rahul Ponnusamy"
+          ]
+        },
+        {
+          "title": "Creating Kaveri Delta beneath our feet: An experiment in grounding socio-hydrology in Tamil Nadu, India",
+          "year": 2024,
+          "venue": "Journal of Hydrology",
+          "cited_by": 7,
+          "doi": "https://doi.org/10.1016/j.jhydrol.2024.131896",
+          "authors": [
+            "Tanvi Agrawal",
+            "Richard Pompoes",
+            "Andres Verzijl"
+          ]
+        }
+      ]
+    },
+    "rss_hindutva": {
+      "queries": 3,
+      "papers": 12,
+      "top_papers": [
+        {
+          "title": "Diasporic geopolitics, rising powers, and the future of international order",
+          "year": 2024,
+          "venue": "Review of International Studies",
+          "cited_by": 20,
+          "doi": "https://doi.org/10.1017/s0260210524000123",
+          "authors": [
+            "Fiona B. Adamson",
+            "Enze Han"
+          ]
+        },
+        {
+          "title": "Rejuvenation of the Springs in the Hindu Kush Himalayas Through Transdisciplinary Approaches—A Review",
+          "year": 2024,
+          "venue": "Water",
+          "cited_by": 18,
+          "doi": "https://doi.org/10.3390/w16243675",
+          "authors": [
+            "Neeraj Pant",
+            "Dharmappa Hagare",
+            "Basant Maheshwari"
+          ]
+        },
+        {
+          "title": "Shadow Politics: Commercial Digital Influencers, “Data,” and Disinformation in India",
+          "year": 2024,
+          "venue": "Social Media + Society",
+          "cited_by": 16,
+          "doi": "https://doi.org/10.1177/20563051231224719",
+          "authors": [
+            "Sahana Udupa"
+          ]
+        },
+        {
+          "title": "Gender, intersectionality and climate smart agriculture in South Asia: A review",
+          "year": 2025,
+          "venue": "PLOS Climate",
+          "cited_by": 14,
+          "doi": "https://doi.org/10.1371/journal.pclm.0000482",
+          "authors": [
+            "Nitya Rao",
+            "Reema Sathe",
+            "Natasha Grist"
+          ]
+        },
+        {
+          "title": "Authoritarian Populism and Bovine Political Economy in Modi’s India",
+          "year": 2024,
+          "venue": "?",
+          "cited_by": 11,
+          "doi": "https://doi.org/10.4324/9781032709406",
+          "authors": [
+            "Jostein Jakobsen",
+            "Kenneth Bo Nielsen"
+          ]
+        }
+      ]
+    },
+    "anti_caste": {
+      "queries": 2,
+      "papers": 4,
+      "top_papers": []
+    }
+  },
+  "notes": "OpenAlex API used as primary source. Elicit.org requires login. Undermind.ai/DeepSeek.com unreachable via browser. Perplexity blocked by Cloudflare. Kimi.com requires login. Semantic Scholar returning 405 errors. 2 queries returned NoneType errors (political category). | Tier1 papers: 18",
+  "tier1_papers": [
+    {
+      "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+      "year": 2024,
+      "venue": "Scientific Data",
+      "cited_by": 362,
+      "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+      "authors": [
+        "Swapan Mallick",
+        "Adam Micco",
+        "Matthew Mah"
+      ]
+    },
+    {
+      "title": "100 ancient genomes show repeated population turnovers in Neolithic Denmark",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 114,
+      "doi": "https://doi.org/10.1038/s41586-023-06862-3",
+      "authors": [
+        "Morten E. Allentoft",
+        "Martin Sikora",
+        "Anders Fischer"
+      ]
+    },
+    {
+      "title": "The selection landscape and genetic legacy of ancient Eurasians",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 140,
+      "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+      "authors": [
+        "Evan K. Irving-Pease",
+        "Alba Refoyo-Martínez",
+        "William Barrie"
+      ]
+    },
+    {
+      "title": "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans",
+      "year": 2024,
+      "venue": "Science",
+      "cited_by": 40,
+      "doi": "https://doi.org/10.1126/science.adq3010",
+      "authors": [
+        "Leonardo Nicola Martin Iasi",
+        "Manjusha Chintalapati",
+        "Laurits Skov"
+      ]
+    },
+    {
+      "title": "Ancient Mycobacterium leprae genome reveals medieval English red squirrels as animal leprosy host",
+      "year": 2024,
+      "venue": "Current Biology",
+      "cited_by": 26,
+      "doi": "https://doi.org/10.1016/j.cub.2024.04.006",
+      "authors": [
+        "Christian Urban",
+        "Alette A. Blom",
+        "Charlotte Avanzi"
+      ]
+    },
+    {
+      "title": "The demic diffusion of Han culture into the Yunnan-Guizhou plateau inferred from ancient genomes",
+      "year": 2024,
+      "venue": "National Science Review",
+      "cited_by": 13,
+      "doi": "https://doi.org/10.1093/nsr/nwae387",
+      "authors": [
+        "Kongyang Zhu",
+        "Changguo Hu",
+        "Meiqing Yang"
+      ]
+    },
+    {
+      "title": "Ancient DNA reveals reproductive barrier despite shared Avar-period culture",
+      "year": 2025,
+      "venue": "Nature",
+      "cited_by": 26,
+      "doi": "https://doi.org/10.1038/s41586-024-08418-5",
+      "authors": [
+        "Ke Wang",
+        "Bendegúz Tóbiás",
+        "Doris Pany‐Kucera"
+      ]
+    },
+    {
+      "title": "Archaeological and molecular evidence for ancient chickens in Central Asia",
+      "year": 2024,
+      "venue": "Nature Communications",
+      "cited_by": 12,
+      "doi": "https://doi.org/10.1038/s41467-024-46093-2",
+      "authors": [
+        "Carli Peters",
+        "Kristine Korzow Richter",
+        "Shevan Wilkin"
+      ]
+    },
+    {
+      "title": "50,000 years of evolutionary history of India: Impact on health and disease variation",
+      "year": 2025,
+      "venue": "Cell",
+      "cited_by": 31,
+      "doi": "https://doi.org/10.1016/j.cell.2025.04.027",
+      "authors": [
+        "Élise Kerdoncuff",
+        "Laurits Rohden Skov",
+        "Nick Patterson"
+      ]
+    },
+    {
+      "title": "The selection landscape and genetic legacy of ancient Eurasians",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 140,
+      "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+      "authors": [
+        "Evan K. Irving-Pease",
+        "Alba Refoyo-Martínez",
+        "William Barrie"
+      ]
+    }
+  ]
+}

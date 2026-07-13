@@ -1,0 +1,1921 @@
+{
+  "results": {
+    "aryan_migration": {
+      "queries_run": 7,
+      "results": [
+        {
+          "query": "ancient DNA South Asia genome 2024",
+          "total_results": 5125,
+          "papers": [
+            {
+              "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+              "year": 2024,
+              "venue": "Scientific Data",
+              "cited_by": 362,
+              "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+              "authors": [
+                "Swapan Mallick",
+                "Adam Micco",
+                "Matthew Mah"
+              ],
+              "abstract": "",
+              "query": "ancient DNA South Asia genome 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "100 ancient genomes show repeated population turnovers in Neolithic Denmark",
+              "year": 2024,
+              "venue": "Nature",
+              "cited_by": 114,
+              "doi": "https://doi.org/10.1038/s41586-023-06862-3",
+              "authors": [
+                "Morten E. Allentoft",
+                "Martin Sikora",
+                "Anders Fischer"
+              ],
+              "abstract": "",
+              "query": "ancient DNA South Asia genome 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The selection landscape and genetic legacy of ancient Eurasians",
+              "year": 2024,
+              "venue": "Nature",
+              "cited_by": 140,
+              "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+              "authors": [
+                "Evan K. Irving-Pease",
+                "Alba Refoyo-Martínez",
+                "William Barrie"
+              ],
+              "abstract": "",
+              "query": "ancient DNA South Asia genome 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans",
+              "year": 2024,
+              "venue": "Science",
+              "cited_by": 40,
+              "doi": "https://doi.org/10.1126/science.adq3010",
+              "authors": [
+                "Leonardo Nicola Martin Iasi",
+                "Manjusha Chintalapati",
+                "Laurits Skov"
+              ],
+              "abstract": "",
+              "query": "ancient DNA South Asia genome 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Ancient Mycobacterium leprae genome reveals medieval English red squirrels as animal leprosy host",
+              "year": 2024,
+              "venue": "Current Biology",
+              "cited_by": 26,
+              "doi": "https://doi.org/10.1016/j.cub.2024.04.006",
+              "authors": [
+                "Christian Urban",
+                "Alette A. Blom",
+                "Charlotte Avanzi"
+              ],
+              "abstract": "",
+              "query": "ancient DNA South Asia genome 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The demic diffusion of Han culture into the Yunnan-Guizhou plateau inferred from ancient genomes",
+              "year": 2024,
+              "venue": "National Science Review",
+              "cited_by": 13,
+              "doi": "https://doi.org/10.1093/nsr/nwae387",
+              "authors": [
+                "Kongyang Zhu",
+                "Changguo Hu",
+                "Meiqing Yang"
+              ],
+              "abstract": "",
+              "query": "ancient DNA South Asia genome 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "A High-Coverage Mesolithic Aurochs Genome and Effective Leveraging of Ancient Cattle Genomes Using Whole Genome Imputation",
+              "year": 2024,
+              "venue": "Molecular Biology and Evolution",
+              "cited_by": 20,
+              "doi": "https://doi.org/10.1093/molbev/msae076",
+              "authors": [
+                "Jolijn A. M. Erven",
+                "Amelie Scheu",
+                "Marta Pereira Verdugo"
+              ],
+              "abstract": "",
+              "query": "ancient DNA South Asia genome 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Ancient DNA reveals reproductive barrier despite shared Avar-period culture",
+              "year": 2025,
+              "venue": "Nature",
+              "cited_by": 26,
+              "doi": "https://doi.org/10.1038/s41586-024-08418-5",
+              "authors": [
+                "Ke Wang",
+                "Bendegúz Tóbiás",
+                "Doris Pany‐Kucera"
+              ],
+              "abstract": "",
+              "query": "ancient DNA South Asia genome 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "Rakhigarhi genome analysis India genetics 2024",
+          "total_results": 3,
+          "papers": [
+            {
+              "title": "Unique demographic history and population substructure among the Coorgs of Southern India",
+              "year": 2025,
+              "venue": "Communications Biology",
+              "cited_by": 2,
+              "doi": "https://doi.org/10.1038/s42003-025-08073-0",
+              "authors": [
+                "Anirban Mukhopadhyay",
+                "Lomous Kumar",
+                "Kiran Sran"
+              ],
+              "abstract": "",
+              "query": "Rakhigarhi genome analysis India genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "A geoarchaeological timeline of India",
+              "year": 2025,
+              "venue": "Quaternary Environments and Humans",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.1016/j.qeh.2025.100089",
+              "authors": [
+                "Deepak Kumar Jha",
+                "Sujit Dasgupta",
+                "Rajat Sanyal"
+              ],
+              "abstract": "",
+              "query": "Rakhigarhi genome analysis India genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Genomic, Hydrogeomorphic, and Linguistic Syntaxis in the Indus Valley Civilization: Insights from Rakhigarhi DNA to Keezhadi and Quaternary Proxies",
+              "year": 2025,
+              "venue": "INTERNATIONAL JOURNAL OF CREATIVE RESEARCH THOUGHTS",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.56975/ijcrt.v13i11.296742",
+              "authors": [
+                "Ashokaditya P. Dhurandhar"
+              ],
+              "abstract": "",
+              "query": "Rakhigarhi genome analysis India genetics 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "Indus Valley Civilization ancient DNA genetics 2024",
+          "total_results": 56,
+          "papers": [
+            {
+              "title": "The core area of fruit-tree cultivation: central Jordan Valley (Levant), ca. 7000 BP",
+              "year": 2024,
+              "venue": "Palynology",
+              "cited_by": 16,
+              "doi": "https://doi.org/10.1080/01916122.2024.2347905",
+              "authors": [
+                "Dafna Langgut"
+              ],
+              "abstract": "",
+              "query": "Indus Valley Civilization ancient DNA genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "A High-Coverage Mesolithic Aurochs Genome and Effective Leveraging of Ancient Cattle Genomes Using Whole Genome Imputation",
+              "year": 2024,
+              "venue": "Molecular Biology and Evolution",
+              "cited_by": 20,
+              "doi": "https://doi.org/10.1093/molbev/msae076",
+              "authors": [
+                "Jolijn A. M. Erven",
+                "Amelie Scheu",
+                "Marta Pereira Verdugo"
+              ],
+              "abstract": "",
+              "query": "Indus Valley Civilization ancient DNA genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "A high coverage Mesolithic aurochs genome and effective leveraging of ancient cattle genomes using whole genome imputation",
+              "year": 2024,
+              "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+              "cited_by": 3,
+              "doi": "https://doi.org/10.1101/2024.01.23.576850",
+              "authors": [
+                "Jolijn A. M. Erven",
+                "Amelie Scheu",
+                "Marta Pereira Verdugo"
+              ],
+              "abstract": "",
+              "query": "Indus Valley Civilization ancient DNA genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "50,000 years of evolutionary history of India: Impact on health and disease variation",
+              "year": 2025,
+              "venue": "Cell",
+              "cited_by": 31,
+              "doi": "https://doi.org/10.1016/j.cell.2025.04.027",
+              "authors": [
+                "Élise Kerdoncuff",
+                "Laurits Rohden Skov",
+                "Nick Patterson"
+              ],
+              "abstract": "",
+              "query": "Indus Valley Civilization ancient DNA genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Female biased adult sex ratio in the Bronze Age cemetery of Shahr‐i Sokhta (Iran) as an indicator of long distance trade and matrilocality",
+              "year": 2024,
+              "venue": "American Journal of Biological Anthropology",
+              "cited_by": 2,
+              "doi": "https://doi.org/10.1002/ajpa.24911",
+              "authors": [
+                "Giorgia Vincenti",
+                "Ludovica Molinaro",
+                "Seyed Mansur Seyed Sajjadi"
+              ],
+              "abstract": "",
+              "query": "Indus Valley Civilization ancient DNA genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Maternal Genetic Ancestry of Gujarat: A Pleistocene Passage to India",
+              "year": 2025,
+              "venue": "American Journal of Biological Anthropology",
+              "cited_by": 2,
+              "doi": "https://doi.org/10.1002/ajpa.70193",
+              "authors": [
+                "Shailesh Desai",
+                "Mohammed H. M. Alqaisi",
+                "Prajjval Pratap Singh"
+              ],
+              "abstract": "",
+              "query": "Indus Valley Civilization ancient DNA genetics 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "steppe ancestry South Asia India genetics 2024",
+          "total_results": 112,
+          "papers": [
+            {
+              "title": "50,000 years of evolutionary history of India: Impact on health and disease variation",
+              "year": 2025,
+              "venue": "Cell",
+              "cited_by": 31,
+              "doi": "https://doi.org/10.1016/j.cell.2025.04.027",
+              "authors": [
+                "Élise Kerdoncuff",
+                "Laurits Rohden Skov",
+                "Nick Patterson"
+              ],
+              "abstract": "",
+              "query": "steppe ancestry South Asia India genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The selection landscape and genetic legacy of ancient Eurasians",
+              "year": 2024,
+              "venue": "Nature",
+              "cited_by": 140,
+              "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+              "authors": [
+                "Evan K. Irving-Pease",
+                "Alba Refoyo-Martínez",
+                "William Barrie"
+              ],
+              "abstract": "",
+              "query": "steppe ancestry South Asia India genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans",
+              "year": 2024,
+              "venue": "Science",
+              "cited_by": 40,
+              "doi": "https://doi.org/10.1126/science.adq3010",
+              "authors": [
+                "Leonardo Nicola Martin Iasi",
+                "Manjusha Chintalapati",
+                "Laurits Skov"
+              ],
+              "abstract": "",
+              "query": "steppe ancestry South Asia India genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+              "year": 2024,
+              "venue": "Scientific Data",
+              "cited_by": 362,
+              "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+              "authors": [
+                "Swapan Mallick",
+                "Adam Micco",
+                "Matthew Mah"
+              ],
+              "abstract": "",
+              "query": "steppe ancestry South Asia India genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Genome wide locus-specific ancestry analysis revealed adaptive admixtures in crossbred cattle of India",
+              "year": 2025,
+              "venue": "Scientific Reports",
+              "cited_by": 10,
+              "doi": "https://doi.org/10.1038/s41598-025-01971-7",
+              "authors": [
+                "Rangasai Chandra Goli",
+                "Kiyevi G Chishi",
+                "Karan Mahar"
+              ],
+              "abstract": "",
+              "query": "steppe ancestry South Asia India genetics 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "Indo-Aryan migration linguistics archaeology 2024",
+          "total_results": 66,
+          "papers": [
+            {
+              "title": "Steppe Ancestry in Western Eurasia and the Spread of the Germanic Languages",
+              "year": 2024,
+              "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+              "cited_by": 13,
+              "doi": "https://doi.org/10.1101/2024.03.13.584607",
+              "authors": [
+                "Hugh McColl",
+                "Guus Kroonen",
+                "J. Víctor Moreno-Mayar"
+              ],
+              "abstract": "",
+              "query": "Indo-Aryan migration linguistics archaeology 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Loanwords in Basic Vocabulary as an Indicator of Borrowing Profiles",
+              "year": 2024,
+              "venue": "Journal of Language Contact",
+              "cited_by": 40,
+              "doi": "https://doi.org/10.1163/19552629-bja10057",
+              "authors": [
+                "Mervi De Heer",
+                "Rogier Blokland",
+                "Michael Dunn"
+              ],
+              "abstract": "",
+              "query": "Indo-Aryan migration linguistics archaeology 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "REVIEW OF MONOGRAPH BY S. A. GRIGORIEV “THE ORIGIN AND MIGRATIONS OF THE INDO- ARYANS”. CHELYABINSK: CHELYABINSK STATE UNIVERSITY PUBL., 2024. 452 P",
+              "year": 2025,
+              "venue": "Magistra Vitae an electronic journal on historical sciences and archeology",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.47475/2542-0275-2025-10-2-100-104",
+              "authors": [
+                "Elena Kupriyanova"
+              ],
+              "abstract": "",
+              "query": "Indo-Aryan migration linguistics archaeology 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Indo-Aryans in the Bronze Age",
+              "year": 2025,
+              "venue": "Archaeopress Archaeology eBooks",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.32028/9781805830665",
+              "authors": [
+                "Grigoriev Stanislav"
+              ],
+              "abstract": "",
+              "query": "Indo-Aryan migration linguistics archaeology 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "Harappan genetics migration ancient DNA 2024",
+          "total_results": 32,
+          "papers": [
+            {
+              "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+              "year": 2024,
+              "venue": "Scientific Data",
+              "cited_by": 362,
+              "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+              "authors": [
+                "Swapan Mallick",
+                "Adam Micco",
+                "Matthew Mah"
+              ],
+              "abstract": "",
+              "query": "Harappan genetics migration ancient DNA 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The selection landscape and genetic legacy of ancient Eurasians",
+              "year": 2024,
+              "venue": "Nature",
+              "cited_by": 140,
+              "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+              "authors": [
+                "Evan K. Irving-Pease",
+                "Alba Refoyo-Martínez",
+                "William Barrie"
+              ],
+              "abstract": "",
+              "query": "Harappan genetics migration ancient DNA 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The genetic origin of the Indo-Europeans",
+              "year": 2025,
+              "venue": "Nature",
+              "cited_by": 86,
+              "doi": "https://doi.org/10.1038/s41586-024-08531-5",
+              "authors": [
+                "Iosif Lazaridis",
+                "Nick Patterson",
+                "David W. Anthony"
+              ],
+              "abstract": "",
+              "query": "Harappan genetics migration ancient DNA 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Ancient genomes illuminate Eastern Arabian population history and adaptation against malaria",
+              "year": 2024,
+              "venue": "Cell Genomics",
+              "cited_by": 8,
+              "doi": "https://doi.org/10.1016/j.xgen.2024.100507",
+              "authors": [
+                "Rui Martiniano",
+                "Marc Haber",
+                "Mohamed A. Almarri"
+              ],
+              "abstract": "",
+              "query": "Harappan genetics migration ancient DNA 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Linguistic, archaeological and genetic evidence suggests multiple agriculture-driven migrations of Sino-Tibetan speakers from Northern China to the Indian subcontinent",
+              "year": 2024,
+              "venue": "Quaternary International",
+              "cited_by": 6,
+              "doi": "https://doi.org/10.1016/j.quaint.2024.09.001",
+              "authors": [
+                "Guillaume Jacques",
+                "Chris J. Stevens"
+              ],
+              "abstract": "",
+              "query": "Harappan genetics migration ancient DNA 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "South Asia Bronze Age archaeology genetics 2024",
+          "total_results": 536,
+          "papers": [
+            {
+              "title": "A genomic history of the North Pontic Region from the Neolithic to the Bronze Age",
+              "year": 2025,
+              "venue": "Nature",
+              "cited_by": 16,
+              "doi": "https://doi.org/10.1038/s41586-024-08372-2",
+              "authors": [
+                "Alexey G. Nikitin",
+                "Iosif Lazaridis",
+                "Nick Patterson"
+              ],
+              "abstract": "",
+              "query": "South Asia Bronze Age archaeology genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Orphan crops of archaeology‐based crop history research",
+              "year": 2024,
+              "venue": "Plants People Planet",
+              "cited_by": 25,
+              "doi": "https://doi.org/10.1002/ppp3.10468",
+              "authors": [
+                "Daniel Fuks",
+                "Frijda Schmidt",
+                "Maite Iris García Collado"
+              ],
+              "abstract": "",
+              "query": "South Asia Bronze Age archaeology genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Bronze age Northern Eurasian genetics in the context of development of metallurgy and Siberian ancestry",
+              "year": 2024,
+              "venue": "Communications Biology",
+              "cited_by": 5,
+              "doi": "https://doi.org/10.1038/s42003-024-06343-x",
+              "authors": [
+                "Ainash Childebayeva",
+                "Fabian Fricke",
+                "Adam B. Rohrlach"
+              ],
+              "abstract": "",
+              "query": "South Asia Bronze Age archaeology genetics 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The selection landscape and genetic legacy of ancient Eurasians",
+              "year": 2024,
+              "venue": "Nature",
+              "cited_by": 140,
+              "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+              "authors": [
+                "Evan K. Irving-Pease",
+                "Alba Refoyo-Martínez",
+                "William Barrie"
+              ],
+              "abstract": "",
+              "query": "South Asia Bronze Age archaeology genetics 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        }
+      ],
+      "total_matched": 5930
+    },
+    "dravidian_politics": {
+      "queries_run": 4,
+      "results": [
+        {
+          "query": "Dravidian politics Tamil Nadu DMK AIADMK 2024 2025",
+          "total_results": 0,
+          "papers": []
+        },
+        {
+          "query": "Tamil Nadu reservation policy OBC 2024 2025",
+          "total_results": 54,
+          "papers": [
+            {
+              "title": "Reinforcing the Path: The Paradox of Failed Reform in India’s Minority Policies (2004–2024)",
+              "year": 2025,
+              "venue": "Journal of Contemporary Asia",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.1080/00472336.2025.2546370",
+              "authors": [
+                "Heewon Kim"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu reservation policy OBC 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Social determinants of health in India: a critical appraisal of the equity-oriented policies",
+              "year": 2025,
+              "venue": "The Evidence",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.61505/evidence.2025.3.1.126",
+              "authors": [
+                "Manmeet Kaur",
+                "Vyom Anil",
+                "Indranil Mukhopadhyay"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu reservation policy OBC 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Navigating authoritarian citizenship in India: a case study of the Irulars",
+              "year": 2026,
+              "venue": "Journal of Ethnic and Migration Studies",
+              "cited_by": 2,
+              "doi": "https://doi.org/10.1080/1369183x.2026.2631888",
+              "authors": [
+                "Raghavi Viswanath"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu reservation policy OBC 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Drop out v/s retention of female students: unfolding dynamics of the education system in Indian states",
+              "year": 2025,
+              "venue": "Discover Education",
+              "cited_by": 3,
+              "doi": "https://doi.org/10.1007/s44217-025-00552-0",
+              "authors": [
+                "Namitarani Gochhayat",
+                "Rekha Ravindran"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu reservation policy OBC 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Karnataka: A Dominant Caste ‘Revolt’?",
+              "year": 2025,
+              "venue": "Forum for Development Studies",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.1080/08039410.2025.2568381",
+              "authors": [
+                "M. Sudhir Selvaraj"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu reservation policy OBC 2024 2025",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+          "total_results": 10,
+          "papers": [
+            {
+              "title": "“Nation at Repair, Women at Work”: Kinship, Dissent, and Citizenship in South India",
+              "year": 2024,
+              "venue": "South Asia Multidisciplinary Academic Journal",
+              "cited_by": 11,
+              "doi": "https://doi.org/10.4000/136ki",
+              "authors": [
+                "Harini Kumar"
+              ],
+              "abstract": "",
+              "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The Emergence of Dravidian Politics: A Historical Analysis of Social Justice Movements",
+              "year": 2025,
+              "venue": "Journal of Advances in Developmental Research",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.71097/ijaidr.v16.i2.1988",
+              "authors": [
+                "P. Jayapal Reddy"
+              ],
+              "abstract": "",
+              "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Understanding the Prevalence of Caste: A Critical Discourse Analysis of Caste-based Marginalization on X",
+              "year": 2024,
+              "venue": "arXiv (Cornell University)",
+              "cited_by": 2,
+              "doi": "https://doi.org/10.48550/arxiv.2407.02810",
+              "authors": [
+                "Nayana Kirasur",
+                "Shagun Jhaver"
+              ],
+              "abstract": "",
+              "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Making Sense of Lohia’s Omission from Anti-caste Discourses in India",
+              "year": 2026,
+              "venue": "Studies in Indian Politics",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.1177/23210230261429674",
+              "authors": [
+                "P. Dharani Kumar"
+              ],
+              "abstract": "",
+              "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "Tamil Nadu caste politics social movements 2024 2025",
+          "total_results": 232,
+          "papers": [
+            {
+              "title": "Understanding the Prevalence of Caste: A Critical Discourse Analysis of Caste-based Marginalization on X",
+              "year": 2024,
+              "venue": "arXiv (Cornell University)",
+              "cited_by": 2,
+              "doi": "https://doi.org/10.48550/arxiv.2407.02810",
+              "authors": [
+                "Nayana Kirasur",
+                "Shagun Jhaver"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu caste politics social movements 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "The Intensification of the Caste Divide: Increasing Violence on the Dalits in Neoliberal India",
+              "year": 2025,
+              "venue": "Araucaria",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.12795/araucaria.2025.i58.23",
+              "authors": [
+                "Jyoti D. Bhosale"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu caste politics social movements 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Contesting Caste: Institutionalized Oppression and Circumventive Legal Resistance",
+              "year": 2024,
+              "venue": "Law & Social Inquiry",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.1017/lsi.2024.41",
+              "authors": [
+                "Shikha Silliman Bhattacharjee"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu caste politics social movements 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Social media as a platform for resistance: examining the language of dissent in Indian society",
+              "year": 2025,
+              "venue": "Frontiers in Communication",
+              "cited_by": 3,
+              "doi": "https://doi.org/10.3389/fcomm.2025.1648587",
+              "authors": [
+                "D. Y. Ashwini",
+                "Vishwanatha Vishwanatha",
+                "R. P. Puneeth"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu caste politics social movements 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "SAND, PLANTATION URBANISM AND THE EXTENDED POLITICAL ECOLOGY OF INFRASTRUCTURES IN INDIA",
+              "year": 2025,
+              "venue": "International Journal of Urban and Regional Research",
+              "cited_by": 3,
+              "doi": "https://doi.org/10.1111/1468-2427.13363",
+              "authors": [
+                "Siddharth Menon"
+              ],
+              "abstract": "",
+              "query": "Tamil Nadu caste politics social movements 2024 2025",
+              "source": "OpenAlex"
+            }
+          ]
+        }
+      ],
+      "total_matched": 296
+    },
+    "rss_hindutva": {
+      "queries_run": 3,
+      "results": [
+        {
+          "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+          "total_results": 8,
+          "papers": [
+            {
+              "title": "Mandir vs Mandal in 2024: are there limits to the BJP’s social engineering?",
+              "year": 2026,
+              "venue": "Contemporary South Asia",
+              "cited_by": 10,
+              "doi": "https://doi.org/10.1080/09584935.2026.2619074",
+              "authors": [
+                "Shashank Chaturvedi",
+                "David N. Gellner",
+                "Sanjay Kumar Pandey"
+              ],
+              "abstract": "",
+              "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "(Post)Colonial Complexities and World (Re)Ordering: Contestations from/within the “Margin(alized)”",
+              "year": 2024,
+              "venue": "Global Studies Quarterly",
+              "cited_by": 7,
+              "doi": "https://doi.org/10.1093/isagsq/ksae075",
+              "authors": [
+                "Siddharth Tripathi"
+              ],
+              "abstract": "",
+              "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "‘Hindutva’: Political Narrative in India and its Implication for South Asia",
+              "year": 2025,
+              "venue": "The Informal South Asian Journal of Human Rights and Social Justice.",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.3126/informal.v2i01.82400",
+              "authors": [
+                "Abu Ala Hasan"
+              ],
+              "abstract": "",
+              "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Rhetorics of Counternationalism: The Limitations of Digital Anti‐Hindutva in Combating Right‐Wing Extremism",
+              "year": 2025,
+              "venue": "Nations and Nationalism",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.1111/nana.70037",
+              "authors": [
+                "Mohammad Amaan Siddiqui"
+              ],
+              "abstract": "",
+              "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Brain Drain or Brain Gain? India’s Diaspora Outreach under Prime Minister Modi",
+              "year": 2026,
+              "venue": "Open MIND",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.26153/tsw/64083",
+              "authors": [
+                "Gavin Harris"
+              ],
+              "abstract": "",
+              "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Taking ideology out: finding the diasporic Hindu far-right down under",
+              "year": 2025,
+              "venue": "Australian Journal Of International Affairs",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.1080/10357718.2025.2519395",
+              "authors": [
+                "Felix Pal",
+                "Nisha Thapliyal",
+                "Gauri Gandbhir"
+              ],
+              "abstract": "",
+              "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+              "source": "OpenAlex"
+            }
+          ]
+        },
+        {
+          "query": "BJP South India election strategy 2024 2025",
+          "total_results": 0,
+          "papers": []
+        },
+        {
+          "query": "Sewa International Hindu organization funding 2024",
+          "total_results": 50,
+          "papers": [
+            {
+              "title": "Rejuvenation of the Springs in the Hindu Kush Himalayas Through Transdisciplinary Approaches—A Review",
+              "year": 2024,
+              "venue": "Water",
+              "cited_by": 18,
+              "doi": "https://doi.org/10.3390/w16243675",
+              "authors": [
+                "Neeraj Pant",
+                "Dharmappa Hagare",
+                "Basant Maheshwari"
+              ],
+              "abstract": "",
+              "query": "Sewa International Hindu organization funding 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Negotiating the salientization of identity: Hindu? Indian? American?",
+              "year": 2024,
+              "venue": "New Directions for Higher Education",
+              "cited_by": 2,
+              "doi": "https://doi.org/10.1002/he.20500",
+              "authors": [
+                "Gaurav Harshe"
+              ],
+              "abstract": "",
+              "query": "Sewa International Hindu organization funding 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Faith-based organizations and religious nationalism",
+              "year": 2025,
+              "venue": "NPL report DEM-TQD",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.1017/s1755048325000057",
+              "authors": [
+                "Nandini Deo",
+                "B. Rajeshwari",
+                "Farhat Naz"
+              ],
+              "abstract": "",
+              "query": "Sewa International Hindu organization funding 2024",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Gender, intersectionality and climate smart agriculture in South Asia: A review",
+              "year": 2025,
+              "venue": "PLOS Climate",
+              "cited_by": 14,
+              "doi": "https://doi.org/10.1371/journal.pclm.0000482",
+              "authors": [
+                "Nitya Rao",
+                "Reema Sathe",
+                "Natasha Grist"
+              ],
+              "abstract": "",
+              "query": "Sewa International Hindu organization funding 2024",
+              "source": "OpenAlex"
+            }
+          ]
+        }
+      ],
+      "total_matched": 58
+    },
+    "anti_caste": {
+      "queries_run": 2,
+      "results": [
+        {
+          "query": "Shramana Buddhist Jain anti-caste India scholarship 2024",
+          "total_results": 0,
+          "papers": []
+        },
+        {
+          "query": "Buddhism Dalit empowerment India 2024 2025",
+          "total_results": 69,
+          "papers": [
+            {
+              "title": "Beyond silence, beyond stigma: long-term ethnography with Dalits and women in India",
+              "year": 2025,
+              "venue": "Etnografica",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.4000/154si",
+              "authors": [
+                "Rosa Maria Perez"
+              ],
+              "abstract": "",
+              "query": "Buddhism Dalit empowerment India 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Kashmir Without History: Sheikh Abdullah, Jinnah and the Partition of India",
+              "year": 2025,
+              "venue": "Global Intellectual History",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.1080/23801883.2025.2478114",
+              "authors": [
+                "Amar Sohal"
+              ],
+              "abstract": "",
+              "query": "Buddhism Dalit empowerment India 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Personal and Social Dynamics of Marginalization and Demarginalization",
+              "year": 2025,
+              "venue": "Personality and Social Psychology Review",
+              "cited_by": 1,
+              "doi": "https://doi.org/10.1177/10888683251364487",
+              "authors": [
+                "Girishwar Misra",
+                "P.K. Singh",
+                "A. K. Mishra"
+              ],
+              "abstract": "",
+              "query": "Buddhism Dalit empowerment India 2024 2025",
+              "source": "OpenAlex"
+            },
+            {
+              "title": "Caste and Exclusion: Dalits in Contemporary Pakistan",
+              "year": 2025,
+              "venue": "Acta Humana",
+              "cited_by": 0,
+              "doi": "https://doi.org/10.32566/ah.2025.4.4",
+              "authors": [
+                "Das Heman"
+              ],
+              "abstract": "",
+              "query": "Buddhism Dalit empowerment India 2024 2025",
+              "source": "OpenAlex"
+            }
+          ]
+        }
+      ],
+      "total_matched": 69
+    }
+  },
+  "all_papers": [
+    {
+      "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+      "year": 2024,
+      "venue": "Scientific Data",
+      "cited_by": 362,
+      "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+      "authors": [
+        "Swapan Mallick",
+        "Adam Micco",
+        "Matthew Mah"
+      ],
+      "abstract": "",
+      "query": "ancient DNA South Asia genome 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "100 ancient genomes show repeated population turnovers in Neolithic Denmark",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 114,
+      "doi": "https://doi.org/10.1038/s41586-023-06862-3",
+      "authors": [
+        "Morten E. Allentoft",
+        "Martin Sikora",
+        "Anders Fischer"
+      ],
+      "abstract": "",
+      "query": "ancient DNA South Asia genome 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The selection landscape and genetic legacy of ancient Eurasians",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 140,
+      "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+      "authors": [
+        "Evan K. Irving-Pease",
+        "Alba Refoyo-Martínez",
+        "William Barrie"
+      ],
+      "abstract": "",
+      "query": "ancient DNA South Asia genome 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans",
+      "year": 2024,
+      "venue": "Science",
+      "cited_by": 40,
+      "doi": "https://doi.org/10.1126/science.adq3010",
+      "authors": [
+        "Leonardo Nicola Martin Iasi",
+        "Manjusha Chintalapati",
+        "Laurits Skov"
+      ],
+      "abstract": "",
+      "query": "ancient DNA South Asia genome 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Ancient Mycobacterium leprae genome reveals medieval English red squirrels as animal leprosy host",
+      "year": 2024,
+      "venue": "Current Biology",
+      "cited_by": 26,
+      "doi": "https://doi.org/10.1016/j.cub.2024.04.006",
+      "authors": [
+        "Christian Urban",
+        "Alette A. Blom",
+        "Charlotte Avanzi"
+      ],
+      "abstract": "",
+      "query": "ancient DNA South Asia genome 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The demic diffusion of Han culture into the Yunnan-Guizhou plateau inferred from ancient genomes",
+      "year": 2024,
+      "venue": "National Science Review",
+      "cited_by": 13,
+      "doi": "https://doi.org/10.1093/nsr/nwae387",
+      "authors": [
+        "Kongyang Zhu",
+        "Changguo Hu",
+        "Meiqing Yang"
+      ],
+      "abstract": "",
+      "query": "ancient DNA South Asia genome 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A High-Coverage Mesolithic Aurochs Genome and Effective Leveraging of Ancient Cattle Genomes Using Whole Genome Imputation",
+      "year": 2024,
+      "venue": "Molecular Biology and Evolution",
+      "cited_by": 20,
+      "doi": "https://doi.org/10.1093/molbev/msae076",
+      "authors": [
+        "Jolijn A. M. Erven",
+        "Amelie Scheu",
+        "Marta Pereira Verdugo"
+      ],
+      "abstract": "",
+      "query": "ancient DNA South Asia genome 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Ancient DNA reveals reproductive barrier despite shared Avar-period culture",
+      "year": 2025,
+      "venue": "Nature",
+      "cited_by": 26,
+      "doi": "https://doi.org/10.1038/s41586-024-08418-5",
+      "authors": [
+        "Ke Wang",
+        "Bendegúz Tóbiás",
+        "Doris Pany‐Kucera"
+      ],
+      "abstract": "",
+      "query": "ancient DNA South Asia genome 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Unique demographic history and population substructure among the Coorgs of Southern India",
+      "year": 2025,
+      "venue": "Communications Biology",
+      "cited_by": 2,
+      "doi": "https://doi.org/10.1038/s42003-025-08073-0",
+      "authors": [
+        "Anirban Mukhopadhyay",
+        "Lomous Kumar",
+        "Kiran Sran"
+      ],
+      "abstract": "",
+      "query": "Rakhigarhi genome analysis India genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A geoarchaeological timeline of India",
+      "year": 2025,
+      "venue": "Quaternary Environments and Humans",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.1016/j.qeh.2025.100089",
+      "authors": [
+        "Deepak Kumar Jha",
+        "Sujit Dasgupta",
+        "Rajat Sanyal"
+      ],
+      "abstract": "",
+      "query": "Rakhigarhi genome analysis India genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Genomic, Hydrogeomorphic, and Linguistic Syntaxis in the Indus Valley Civilization: Insights from Rakhigarhi DNA to Keezhadi and Quaternary Proxies",
+      "year": 2025,
+      "venue": "INTERNATIONAL JOURNAL OF CREATIVE RESEARCH THOUGHTS",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.56975/ijcrt.v13i11.296742",
+      "authors": [
+        "Ashokaditya P. Dhurandhar"
+      ],
+      "abstract": "",
+      "query": "Rakhigarhi genome analysis India genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The core area of fruit-tree cultivation: central Jordan Valley (Levant), ca. 7000 BP",
+      "year": 2024,
+      "venue": "Palynology",
+      "cited_by": 16,
+      "doi": "https://doi.org/10.1080/01916122.2024.2347905",
+      "authors": [
+        "Dafna Langgut"
+      ],
+      "abstract": "",
+      "query": "Indus Valley Civilization ancient DNA genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A High-Coverage Mesolithic Aurochs Genome and Effective Leveraging of Ancient Cattle Genomes Using Whole Genome Imputation",
+      "year": 2024,
+      "venue": "Molecular Biology and Evolution",
+      "cited_by": 20,
+      "doi": "https://doi.org/10.1093/molbev/msae076",
+      "authors": [
+        "Jolijn A. M. Erven",
+        "Amelie Scheu",
+        "Marta Pereira Verdugo"
+      ],
+      "abstract": "",
+      "query": "Indus Valley Civilization ancient DNA genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A high coverage Mesolithic aurochs genome and effective leveraging of ancient cattle genomes using whole genome imputation",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "cited_by": 3,
+      "doi": "https://doi.org/10.1101/2024.01.23.576850",
+      "authors": [
+        "Jolijn A. M. Erven",
+        "Amelie Scheu",
+        "Marta Pereira Verdugo"
+      ],
+      "abstract": "",
+      "query": "Indus Valley Civilization ancient DNA genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "50,000 years of evolutionary history of India: Impact on health and disease variation",
+      "year": 2025,
+      "venue": "Cell",
+      "cited_by": 31,
+      "doi": "https://doi.org/10.1016/j.cell.2025.04.027",
+      "authors": [
+        "Élise Kerdoncuff",
+        "Laurits Rohden Skov",
+        "Nick Patterson"
+      ],
+      "abstract": "",
+      "query": "Indus Valley Civilization ancient DNA genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Female biased adult sex ratio in the Bronze Age cemetery of Shahr‐i Sokhta (Iran) as an indicator of long distance trade and matrilocality",
+      "year": 2024,
+      "venue": "American Journal of Biological Anthropology",
+      "cited_by": 2,
+      "doi": "https://doi.org/10.1002/ajpa.24911",
+      "authors": [
+        "Giorgia Vincenti",
+        "Ludovica Molinaro",
+        "Seyed Mansur Seyed Sajjadi"
+      ],
+      "abstract": "",
+      "query": "Indus Valley Civilization ancient DNA genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Maternal Genetic Ancestry of Gujarat: A Pleistocene Passage to India",
+      "year": 2025,
+      "venue": "American Journal of Biological Anthropology",
+      "cited_by": 2,
+      "doi": "https://doi.org/10.1002/ajpa.70193",
+      "authors": [
+        "Shailesh Desai",
+        "Mohammed H. M. Alqaisi",
+        "Prajjval Pratap Singh"
+      ],
+      "abstract": "",
+      "query": "Indus Valley Civilization ancient DNA genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "50,000 years of evolutionary history of India: Impact on health and disease variation",
+      "year": 2025,
+      "venue": "Cell",
+      "cited_by": 31,
+      "doi": "https://doi.org/10.1016/j.cell.2025.04.027",
+      "authors": [
+        "Élise Kerdoncuff",
+        "Laurits Rohden Skov",
+        "Nick Patterson"
+      ],
+      "abstract": "",
+      "query": "steppe ancestry South Asia India genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The selection landscape and genetic legacy of ancient Eurasians",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 140,
+      "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+      "authors": [
+        "Evan K. Irving-Pease",
+        "Alba Refoyo-Martínez",
+        "William Barrie"
+      ],
+      "abstract": "",
+      "query": "steppe ancestry South Asia India genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans",
+      "year": 2024,
+      "venue": "Science",
+      "cited_by": 40,
+      "doi": "https://doi.org/10.1126/science.adq3010",
+      "authors": [
+        "Leonardo Nicola Martin Iasi",
+        "Manjusha Chintalapati",
+        "Laurits Skov"
+      ],
+      "abstract": "",
+      "query": "steppe ancestry South Asia India genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+      "year": 2024,
+      "venue": "Scientific Data",
+      "cited_by": 362,
+      "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+      "authors": [
+        "Swapan Mallick",
+        "Adam Micco",
+        "Matthew Mah"
+      ],
+      "abstract": "",
+      "query": "steppe ancestry South Asia India genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Genome wide locus-specific ancestry analysis revealed adaptive admixtures in crossbred cattle of India",
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "cited_by": 10,
+      "doi": "https://doi.org/10.1038/s41598-025-01971-7",
+      "authors": [
+        "Rangasai Chandra Goli",
+        "Kiyevi G Chishi",
+        "Karan Mahar"
+      ],
+      "abstract": "",
+      "query": "steppe ancestry South Asia India genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Steppe Ancestry in Western Eurasia and the Spread of the Germanic Languages",
+      "year": 2024,
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "cited_by": 13,
+      "doi": "https://doi.org/10.1101/2024.03.13.584607",
+      "authors": [
+        "Hugh McColl",
+        "Guus Kroonen",
+        "J. Víctor Moreno-Mayar"
+      ],
+      "abstract": "",
+      "query": "Indo-Aryan migration linguistics archaeology 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Loanwords in Basic Vocabulary as an Indicator of Borrowing Profiles",
+      "year": 2024,
+      "venue": "Journal of Language Contact",
+      "cited_by": 40,
+      "doi": "https://doi.org/10.1163/19552629-bja10057",
+      "authors": [
+        "Mervi De Heer",
+        "Rogier Blokland",
+        "Michael Dunn"
+      ],
+      "abstract": "",
+      "query": "Indo-Aryan migration linguistics archaeology 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "REVIEW OF MONOGRAPH BY S. A. GRIGORIEV “THE ORIGIN AND MIGRATIONS OF THE INDO- ARYANS”. CHELYABINSK: CHELYABINSK STATE UNIVERSITY PUBL., 2024. 452 P",
+      "year": 2025,
+      "venue": "Magistra Vitae an electronic journal on historical sciences and archeology",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.47475/2542-0275-2025-10-2-100-104",
+      "authors": [
+        "Elena Kupriyanova"
+      ],
+      "abstract": "",
+      "query": "Indo-Aryan migration linguistics archaeology 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Indo-Aryans in the Bronze Age",
+      "year": 2025,
+      "venue": "Archaeopress Archaeology eBooks",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.32028/9781805830665",
+      "authors": [
+        "Grigoriev Stanislav"
+      ],
+      "abstract": "",
+      "query": "Indo-Aryan migration linguistics archaeology 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+      "year": 2024,
+      "venue": "Scientific Data",
+      "cited_by": 362,
+      "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+      "authors": [
+        "Swapan Mallick",
+        "Adam Micco",
+        "Matthew Mah"
+      ],
+      "abstract": "",
+      "query": "Harappan genetics migration ancient DNA 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The selection landscape and genetic legacy of ancient Eurasians",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 140,
+      "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+      "authors": [
+        "Evan K. Irving-Pease",
+        "Alba Refoyo-Martínez",
+        "William Barrie"
+      ],
+      "abstract": "",
+      "query": "Harappan genetics migration ancient DNA 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The genetic origin of the Indo-Europeans",
+      "year": 2025,
+      "venue": "Nature",
+      "cited_by": 86,
+      "doi": "https://doi.org/10.1038/s41586-024-08531-5",
+      "authors": [
+        "Iosif Lazaridis",
+        "Nick Patterson",
+        "David W. Anthony"
+      ],
+      "abstract": "",
+      "query": "Harappan genetics migration ancient DNA 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Ancient genomes illuminate Eastern Arabian population history and adaptation against malaria",
+      "year": 2024,
+      "venue": "Cell Genomics",
+      "cited_by": 8,
+      "doi": "https://doi.org/10.1016/j.xgen.2024.100507",
+      "authors": [
+        "Rui Martiniano",
+        "Marc Haber",
+        "Mohamed A. Almarri"
+      ],
+      "abstract": "",
+      "query": "Harappan genetics migration ancient DNA 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Linguistic, archaeological and genetic evidence suggests multiple agriculture-driven migrations of Sino-Tibetan speakers from Northern China to the Indian subcontinent",
+      "year": 2024,
+      "venue": "Quaternary International",
+      "cited_by": 6,
+      "doi": "https://doi.org/10.1016/j.quaint.2024.09.001",
+      "authors": [
+        "Guillaume Jacques",
+        "Chris J. Stevens"
+      ],
+      "abstract": "",
+      "query": "Harappan genetics migration ancient DNA 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A genomic history of the North Pontic Region from the Neolithic to the Bronze Age",
+      "year": 2025,
+      "venue": "Nature",
+      "cited_by": 16,
+      "doi": "https://doi.org/10.1038/s41586-024-08372-2",
+      "authors": [
+        "Alexey G. Nikitin",
+        "Iosif Lazaridis",
+        "Nick Patterson"
+      ],
+      "abstract": "",
+      "query": "South Asia Bronze Age archaeology genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Orphan crops of archaeology‐based crop history research",
+      "year": 2024,
+      "venue": "Plants People Planet",
+      "cited_by": 25,
+      "doi": "https://doi.org/10.1002/ppp3.10468",
+      "authors": [
+        "Daniel Fuks",
+        "Frijda Schmidt",
+        "Maite Iris García Collado"
+      ],
+      "abstract": "",
+      "query": "South Asia Bronze Age archaeology genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Bronze age Northern Eurasian genetics in the context of development of metallurgy and Siberian ancestry",
+      "year": 2024,
+      "venue": "Communications Biology",
+      "cited_by": 5,
+      "doi": "https://doi.org/10.1038/s42003-024-06343-x",
+      "authors": [
+        "Ainash Childebayeva",
+        "Fabian Fricke",
+        "Adam B. Rohrlach"
+      ],
+      "abstract": "",
+      "query": "South Asia Bronze Age archaeology genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The selection landscape and genetic legacy of ancient Eurasians",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 140,
+      "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+      "authors": [
+        "Evan K. Irving-Pease",
+        "Alba Refoyo-Martínez",
+        "William Barrie"
+      ],
+      "abstract": "",
+      "query": "South Asia Bronze Age archaeology genetics 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Reinforcing the Path: The Paradox of Failed Reform in India’s Minority Policies (2004–2024)",
+      "year": 2025,
+      "venue": "Journal of Contemporary Asia",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.1080/00472336.2025.2546370",
+      "authors": [
+        "Heewon Kim"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu reservation policy OBC 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Social determinants of health in India: a critical appraisal of the equity-oriented policies",
+      "year": 2025,
+      "venue": "The Evidence",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.61505/evidence.2025.3.1.126",
+      "authors": [
+        "Manmeet Kaur",
+        "Vyom Anil",
+        "Indranil Mukhopadhyay"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu reservation policy OBC 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Navigating authoritarian citizenship in India: a case study of the Irulars",
+      "year": 2026,
+      "venue": "Journal of Ethnic and Migration Studies",
+      "cited_by": 2,
+      "doi": "https://doi.org/10.1080/1369183x.2026.2631888",
+      "authors": [
+        "Raghavi Viswanath"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu reservation policy OBC 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Drop out v/s retention of female students: unfolding dynamics of the education system in Indian states",
+      "year": 2025,
+      "venue": "Discover Education",
+      "cited_by": 3,
+      "doi": "https://doi.org/10.1007/s44217-025-00552-0",
+      "authors": [
+        "Namitarani Gochhayat",
+        "Rekha Ravindran"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu reservation policy OBC 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Karnataka: A Dominant Caste ‘Revolt’?",
+      "year": 2025,
+      "venue": "Forum for Development Studies",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.1080/08039410.2025.2568381",
+      "authors": [
+        "M. Sudhir Selvaraj"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu reservation policy OBC 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "“Nation at Repair, Women at Work”: Kinship, Dissent, and Citizenship in South India",
+      "year": 2024,
+      "venue": "South Asia Multidisciplinary Academic Journal",
+      "cited_by": 11,
+      "doi": "https://doi.org/10.4000/136ki",
+      "authors": [
+        "Harini Kumar"
+      ],
+      "abstract": "",
+      "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The Emergence of Dravidian Politics: A Historical Analysis of Social Justice Movements",
+      "year": 2025,
+      "venue": "Journal of Advances in Developmental Research",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.71097/ijaidr.v16.i2.1988",
+      "authors": [
+        "P. Jayapal Reddy"
+      ],
+      "abstract": "",
+      "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Understanding the Prevalence of Caste: A Critical Discourse Analysis of Caste-based Marginalization on X",
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "cited_by": 2,
+      "doi": "https://doi.org/10.48550/arxiv.2407.02810",
+      "authors": [
+        "Nayana Kirasur",
+        "Shagun Jhaver"
+      ],
+      "abstract": "",
+      "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Making Sense of Lohia’s Omission from Anti-caste Discourses in India",
+      "year": 2026,
+      "venue": "Studies in Indian Politics",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.1177/23210230261429674",
+      "authors": [
+        "P. Dharani Kumar"
+      ],
+      "abstract": "",
+      "query": "Justice Party Dravidian movement Periyar scholarship 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Understanding the Prevalence of Caste: A Critical Discourse Analysis of Caste-based Marginalization on X",
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "cited_by": 2,
+      "doi": "https://doi.org/10.48550/arxiv.2407.02810",
+      "authors": [
+        "Nayana Kirasur",
+        "Shagun Jhaver"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu caste politics social movements 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "The Intensification of the Caste Divide: Increasing Violence on the Dalits in Neoliberal India",
+      "year": 2025,
+      "venue": "Araucaria",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.12795/araucaria.2025.i58.23",
+      "authors": [
+        "Jyoti D. Bhosale"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu caste politics social movements 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Contesting Caste: Institutionalized Oppression and Circumventive Legal Resistance",
+      "year": 2024,
+      "venue": "Law & Social Inquiry",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.1017/lsi.2024.41",
+      "authors": [
+        "Shikha Silliman Bhattacharjee"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu caste politics social movements 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Social media as a platform for resistance: examining the language of dissent in Indian society",
+      "year": 2025,
+      "venue": "Frontiers in Communication",
+      "cited_by": 3,
+      "doi": "https://doi.org/10.3389/fcomm.2025.1648587",
+      "authors": [
+        "D. Y. Ashwini",
+        "Vishwanatha Vishwanatha",
+        "R. P. Puneeth"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu caste politics social movements 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "SAND, PLANTATION URBANISM AND THE EXTENDED POLITICAL ECOLOGY OF INFRASTRUCTURES IN INDIA",
+      "year": 2025,
+      "venue": "International Journal of Urban and Regional Research",
+      "cited_by": 3,
+      "doi": "https://doi.org/10.1111/1468-2427.13363",
+      "authors": [
+        "Siddharth Menon"
+      ],
+      "abstract": "",
+      "query": "Tamil Nadu caste politics social movements 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Mandir vs Mandal in 2024: are there limits to the BJP’s social engineering?",
+      "year": 2026,
+      "venue": "Contemporary South Asia",
+      "cited_by": 10,
+      "doi": "https://doi.org/10.1080/09584935.2026.2619074",
+      "authors": [
+        "Shashank Chaturvedi",
+        "David N. Gellner",
+        "Sanjay Kumar Pandey"
+      ],
+      "abstract": "",
+      "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "(Post)Colonial Complexities and World (Re)Ordering: Contestations from/within the “Margin(alized)”",
+      "year": 2024,
+      "venue": "Global Studies Quarterly",
+      "cited_by": 7,
+      "doi": "https://doi.org/10.1093/isagsq/ksae075",
+      "authors": [
+        "Siddharth Tripathi"
+      ],
+      "abstract": "",
+      "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "‘Hindutva’: Political Narrative in India and its Implication for South Asia",
+      "year": 2025,
+      "venue": "The Informal South Asian Journal of Human Rights and Social Justice.",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.3126/informal.v2i01.82400",
+      "authors": [
+        "Abu Ala Hasan"
+      ],
+      "abstract": "",
+      "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Rhetorics of Counternationalism: The Limitations of Digital Anti‐Hindutva in Combating Right‐Wing Extremism",
+      "year": 2025,
+      "venue": "Nations and Nationalism",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.1111/nana.70037",
+      "authors": [
+        "Mohammad Amaan Siddiqui"
+      ],
+      "abstract": "",
+      "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Brain Drain or Brain Gain? India’s Diaspora Outreach under Prime Minister Modi",
+      "year": 2026,
+      "venue": "Open MIND",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.26153/tsw/64083",
+      "authors": [
+        "Gavin Harris"
+      ],
+      "abstract": "",
+      "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Taking ideology out: finding the diasporic Hindu far-right down under",
+      "year": 2025,
+      "venue": "Australian Journal Of International Affairs",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.1080/10357718.2025.2519395",
+      "authors": [
+        "Felix Pal",
+        "Nisha Thapliyal",
+        "Gauri Gandbhir"
+      ],
+      "abstract": "",
+      "query": "RSS Sangh Parivar funding diaspora Hindutva 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Rejuvenation of the Springs in the Hindu Kush Himalayas Through Transdisciplinary Approaches—A Review",
+      "year": 2024,
+      "venue": "Water",
+      "cited_by": 18,
+      "doi": "https://doi.org/10.3390/w16243675",
+      "authors": [
+        "Neeraj Pant",
+        "Dharmappa Hagare",
+        "Basant Maheshwari"
+      ],
+      "abstract": "",
+      "query": "Sewa International Hindu organization funding 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Negotiating the salientization of identity: Hindu? Indian? American?",
+      "year": 2024,
+      "venue": "New Directions for Higher Education",
+      "cited_by": 2,
+      "doi": "https://doi.org/10.1002/he.20500",
+      "authors": [
+        "Gaurav Harshe"
+      ],
+      "abstract": "",
+      "query": "Sewa International Hindu organization funding 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Faith-based organizations and religious nationalism",
+      "year": 2025,
+      "venue": "NPL report DEM-TQD",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.1017/s1755048325000057",
+      "authors": [
+        "Nandini Deo",
+        "B. Rajeshwari",
+        "Farhat Naz"
+      ],
+      "abstract": "",
+      "query": "Sewa International Hindu organization funding 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Gender, intersectionality and climate smart agriculture in South Asia: A review",
+      "year": 2025,
+      "venue": "PLOS Climate",
+      "cited_by": 14,
+      "doi": "https://doi.org/10.1371/journal.pclm.0000482",
+      "authors": [
+        "Nitya Rao",
+        "Reema Sathe",
+        "Natasha Grist"
+      ],
+      "abstract": "",
+      "query": "Sewa International Hindu organization funding 2024",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Beyond silence, beyond stigma: long-term ethnography with Dalits and women in India",
+      "year": 2025,
+      "venue": "Etnografica",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.4000/154si",
+      "authors": [
+        "Rosa Maria Perez"
+      ],
+      "abstract": "",
+      "query": "Buddhism Dalit empowerment India 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Kashmir Without History: Sheikh Abdullah, Jinnah and the Partition of India",
+      "year": 2025,
+      "venue": "Global Intellectual History",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.1080/23801883.2025.2478114",
+      "authors": [
+        "Amar Sohal"
+      ],
+      "abstract": "",
+      "query": "Buddhism Dalit empowerment India 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Personal and Social Dynamics of Marginalization and Demarginalization",
+      "year": 2025,
+      "venue": "Personality and Social Psychology Review",
+      "cited_by": 1,
+      "doi": "https://doi.org/10.1177/10888683251364487",
+      "authors": [
+        "Girishwar Misra",
+        "P.K. Singh",
+        "A. K. Mishra"
+      ],
+      "abstract": "",
+      "query": "Buddhism Dalit empowerment India 2024 2025",
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Caste and Exclusion: Dalits in Contemporary Pakistan",
+      "year": 2025,
+      "venue": "Acta Humana",
+      "cited_by": 0,
+      "doi": "https://doi.org/10.32566/ah.2025.4.4",
+      "authors": [
+        "Das Heman"
+      ],
+      "abstract": "",
+      "query": "Buddhism Dalit empowerment India 2024 2025",
+      "source": "OpenAlex"
+    }
+  ]
+}

@@ -8,6 +8,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+$StartTime = Get-Date
 $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
 $Date = Get-Date -Format "yyyy-MM-dd"
 
@@ -435,4 +436,4 @@ Write-Host "`n=== Editor Run Complete ===" -ForegroundColor Cyan
 Write-Host "Atoms Processed: $($Stats.AtomsProcessed)" -ForegroundColor White
 Write-Host "Links Added: $($Stats.OutgoingLinks + $Stats.IncomingLinks)" -ForegroundColor Gray
 Write-Host "Friction Flags: $($Stats.FrictionFlags)" -ForegroundColor $(if ($Stats.FrictionFlags -gt 0) { "Red" } else { "Gray" })
-Write-Host "Duration: $([Math]::Round((Get-Date - $StartTime).TotalSeconds, 1)) seconds" -ForegroundColor Gray
+Write-Host "Duration: $([Math]::Round(((Get-Date) - $StartTime).TotalSeconds, 1)) seconds" -ForegroundColor Gray
