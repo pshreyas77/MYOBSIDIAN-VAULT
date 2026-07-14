@@ -31,8 +31,11 @@ stated
 - Extracted by: Refinery Run, 2026-07-13 17:17
 
 ## Links (Added by Editor Run)
-- Related: [[ED]] — Title match
-- Related: [[Source]] — Title match
-- Related: [[️ QUARANTINE ADVISORY Original source URLs not recorded This note]] — Title match
-- Related: [[note]] — Title match
-- Related: [[note]] — Title match
+- Related: [[India Urban Flooding]], [[Quarantine Protocol]]
+- Note: Quarantined atoms cannot be linked to external sources per Prime Directive
+
+## Editor Notes
+- This is a QUARANTINE ADVISORY note — the atom title itself signals source failure
+- House-rules.md enforcement: "Notes without sources → moved to `1-desk/_quarantine/`"
+- This atom should be in quarantine or deleted — the note title is the warning label
+- 2026-07-14: Confirmed quarantine status; flagged for morning review deletion
