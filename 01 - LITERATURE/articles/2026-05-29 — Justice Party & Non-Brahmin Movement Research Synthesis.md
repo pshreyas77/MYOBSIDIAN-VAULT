@@ -271,9 +271,18 @@ Based on this research, the following vault updates are recommended:
 | researchgate.net/publication/343229727 | Academic | ✅ |
 | ijpub.org/IJVRA2602396.pdf | Academic | ✅ |
 | jetir.org/JETIR2005339.pdf | Academic | ✅ |
-| en.wikipedia.org/wiki/E._V._Ramasamy | Web | ✅ |
-| en.wikipedia.org/wiki/Self-Respect_Movement | Web | ✅ |
-| en.wikipedia.org/wiki/Dravidian_movement | Web | ✅ |
-| dtnext.in/city/2019/07/28 (Theagaraya Chetty) | Web | ✅ |
-| india-seminar.com (Periyar article) | Web | ✅ |
-| epw.in (Justice Party EPW 2019) | Web | ✅ |
+|| en.wikipedia.org/wiki/E._V._Ramasamy | Web | ✅ |
+|| en.wikipedia.org/wiki/Self-Respect_Movement | Web | ✅ |
+|| en.wikipedia.org/wiki/Dravidian_movement | Web | ✅ |
+|| dtnext.in/city/2019/07/28 (Theagaraya Chetty) | Web | ✅ |
+|| india-seminar.com (Periyar article) | Web | ✅ |
+|| epw.in (Justice Party EPW 2019) | Web | ✅ |
+
+---
+
+## Related Notes (Backlinks)
+- [[Dravidian Folk Deities and Sanskritization]] — State-by-state evidence review of 10 folk deities across TN/Kerala/Karnataka/AP/Telangana. The Justice Party political movement documented here is the modern political analogue of the same non-Brahmin consciousness that the folk-deity record shows was always culturally present.
+- [[Periyar E. V. Ramasamy]] — Principal figure for Dravidian political consciousness
+- [[Dravidian Movement]] — Political expression of Dravidian identity
+- [[Dravidian vs North Indian Ancestry]] — Genetic cline underpinning the folk-vs-Sanskritic split
+- [[Complete Dravidian Folk-Tribal Deity Pantheon and Sanskritization Atlas]] — Master atlas (60+ deities, 9 regions). Documents that Periyar's Self-Respect rationalism and the DMK's Tamil-only cultural movement constitute genuine modern desanskritization — folk deities surviving in Tamil Nadu not because Brahminical Hinduism failed to reach them, but because Dravidian nationalism actively rejected the Sanskritized forms.

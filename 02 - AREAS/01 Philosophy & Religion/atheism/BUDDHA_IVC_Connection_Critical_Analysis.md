@@ -280,6 +280,7 @@ related: [
 - [[IVC-BUDDHA_Meditation_Continuity_Archaeological_Evidence]] - Main archaeological evidence file
 - [[critical arguments]] - Critical analysis repository
 - [[critical questions]] - Research questions
+- [[Complete Dravidian Folk-Tribal Deity Pantheon and Sanskritization Atlas]] — Full atlas (60+ deities, 9 regions). This note's critical overclaim methodology (Pashupati≠Shiva, IVC→Buddhism gap too large) is applied throughout the atlas: folk-deity IVC-continuity claims are treated cautiously per this same discipline.
 
 ### Buddhism
 - [[BUDDHA RESEARCH]] - Central Buddha research hub

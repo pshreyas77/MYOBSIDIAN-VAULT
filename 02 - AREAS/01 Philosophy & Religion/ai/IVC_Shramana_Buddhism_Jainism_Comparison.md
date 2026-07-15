@@ -163,6 +163,8 @@ Scholars note striking parallels between IVC ascetic figures and later Buddhist/
 - [[../DeepseekVault/Nalanda University Destruction]] (historical impact)
 - [[../02 - Areas/Ancient Civilizations/2026-04-11_older-religions-archaeological-evidence]] (archaeological timeline)
 - [[../ClaudeVault/2026-03-29_cleaning-up-obsidians-cluttered-graph]] (vault organization)
+- [[Dravidian Folk Deities and Sanskritization]] — State-by-state evidence review (10 deities, 5 states). Complements the IVC-substrate analysis here: the IVC values being "more compatible with Śramaṇa than Vedic" is corroborated by folk-deity data — some resisted absorption; some got Sanskritized; Vedic-Brahminical culture was selective, not total.
+- [[Complete Dravidian Folk-Tribal Deity Pantheon and Sanskritization Atlas]] — Full atlas (60+ deities, 9 regions, 42KB). Includes: cross-state absorption predictors, 6 pure survival cases, 4 resistance counter-cases (Gond Persa Pen, Lingayat, Muthappan, Sarna), and modern desanskritization movements (Periyar, DMK, Ambedkar Buddhism, Varkari, Sarna).
 
 ---
 

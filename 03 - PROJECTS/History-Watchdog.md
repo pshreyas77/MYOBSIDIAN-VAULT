@@ -172,6 +172,8 @@ Research/Automated/                         ← New source notes created by Edit
 - [[genericagent/memory/autonomous_operation_sop.md]] — Agent framework
 - [[house-rules.md]] — Night Shift rules
 - [[Research/AI Tools/2026-06-19 — AI-Specific Researcher Tools 2026 — Complete Table.md]] — Tool reference
+- [[Dravidian Folk Deities and Sanskritization]] — State-by-state evidence review for 10 folk deities. Scout queries on Aryan/Dravidian-DNA coverage could expand to include inscriptional discoveries for Mariamman and the Padmanabhapuram 855 CE inscription.
+- [[Complete Dravidian Folk-Tribal Deity Pantheon and Sanskritization Atlas]] — Master synthesis (60+ deities, 9 regions, 42KB). Sanskritization vs. resistance tracking for all major South Indian folk-tribal deities. Scout queries should expand to cover: (a) new inscriptional finds for Kerala Padmanabhapuram 855 CE, (b) Odisha Gond belt Danteshwari tribal ritual documentation, (c) Jharkhand Sarna census enumeration data, (d) Maharashtra Varkari Vithoba/Warkari demographics.
 
 ---
 

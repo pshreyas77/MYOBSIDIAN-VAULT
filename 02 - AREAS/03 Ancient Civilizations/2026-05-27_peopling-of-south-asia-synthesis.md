@@ -288,4 +288,6 @@ The framing of Rāmāyaṇa as an "Aryan vs. Dravidian" ethnographic record is a
 - [[Indus Valley Civilization]]
 - [[Dravidian Languages and Culture]]
 - [[Vedic Religion and early Hinduism]]
+- [[Complete Dravidian Folk-Tribal Deity Pantheon and Sanskritization Atlas]] — Master synthesis (60+ deities, 9 regions). Sanskritization vs. resistance tracking for all major South Indian folk-tribal deities. Complements the genetic cline framework here: AASI ancestry maps directly to which tribal-deity traditions are oldest and most resistant to absorption.
 - [[2026-05-27_political-framework-analysis]] — Related political context on Hindutva/Dravidian nationalism myths
+- [[Dravidian Folk Deities and Sanskritization]] — State-by-state evidence review covering 10 folk deities (TN/Kerala/Karnataka/AP/Telangana). Tracks sanskritization absorption paths, inscriptional anchors, and resistance counter-cases (Lingayat + Gond Persa Pen).

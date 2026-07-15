@@ -10,6 +10,16 @@
 
 ---
 
+## [2026-07-14 23:XX] Scout Run | Processed 0 items
+- Intake: 0 new items found
+- Scanned: `0-raw/` (2 files, all pre-existing from June), `04 - RESOURCES/Inbox/` (2 files, all pre-existing from May)
+- Classified: 0 literature notes, 0 ideas, 0 meeting notes
+- Quarantined: 0 items
+- Path: `1-desk/` — no new files created
+- Note: Vault intake clean. All items in intake folders pre-date last run (July 13). No new captures since last scout run.
+
+---
+
 ## [2026-07-14 03:15] Refinery Run | Extracted 0 atoms
 - Processed: 0 literature notes from `1-desk/`
 - Created: 0 atomic notes in `2-atoms/`

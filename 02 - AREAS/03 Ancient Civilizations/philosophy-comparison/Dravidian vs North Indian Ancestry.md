@@ -116,6 +116,12 @@ Truth: **False.** Dravidian-associated populations have ~48,000+ years of ancest
 - [[Ancient DNA Evidence India]]
 - [[Keeladi]]
 
+## Related Notes (Backlinks)
+- [[Dravidian Folk Deities and Sanskritization]] — State-by-state evidence review for 10 folk deities (TN/Kerala/Karnataka/AP/Telangana). Uses the genetic cline established here to anchor which deities were originally pre-Aryan.
+- [[IVC_Shramana_Buddhism_Jainism_Comparison]] — Archaeological artifact parallels (IVC → Śramaṇa).
+- [[2026-05-27_peopling-of-south-asia-synthesis]] — Comprehensive settlement-history synthesis.
+- [[Complete Dravidian Folk-Tribal Deity Pantheon and Sanskritization Atlas]] — Master atlas (60+ deities, 9 regions, 42KB). The genetic ANI/ASI/AASI framework established here directly predicts which tribal-deity traditions are oldest (highest AASI = most likely pre-Aryan) and which show active resistance. Maps the cline onto actual Sanskritization outcomes across all 5 core Dravidian states.
+
 ---
 
 *Evidence-based synthesis | Sources: Narasimhan et al. 2019, Reich Lab, Keeladi excavations*

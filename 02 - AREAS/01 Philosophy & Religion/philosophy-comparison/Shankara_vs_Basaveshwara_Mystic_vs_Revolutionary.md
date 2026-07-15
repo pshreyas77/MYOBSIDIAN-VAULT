@@ -128,5 +128,6 @@ Basava organized a mass inter-caste marriage between a Brahmin girl (Kāḷavati
 - [[Shankara_Caste_Brahminism_Promotion_Analysis]] — Deep dive on caste issue
 - [[Adi Shankaracharya]] — Śaṅkara's biography and philosophy
 - [[00_Philosophy & Religion MOC]]
+- [[Complete Dravidian Folk-Tribal Deity Pantheon and Sanskritization Atlas]] — Basava/Lingayat documented here as the strongest resistance case in South India (12th c. reform movement actively rejected Brahminical Hinduism). The atlas tracks 4 resistance counter-cases in total (Gond Persa Pen, Lingayat, Muthappan, Sarna), challenging the assumption of uniform Sanskritization pressure.
 - Topics: #shankara #basava #advaita #virasaiva #lingayat #kayaka #jñāna #caste #egalitarianism #vachana #kannada #vedanta #reform
 
