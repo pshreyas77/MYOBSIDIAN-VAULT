@@ -34,6 +34,9 @@ Entity note for E.V. Ramasamy Periyar (1879–1973), founder of Self-Respect Mov
 
 When C.N. Annadurai broke away to form DMK (1949), **Periyar opposed it**. He campaigned against DMK in 1957 and 1962 elections. Your vault should not treat Periyar as a "party founder" — he was a social movement leader whose followers later created political parties against his wishes.
 
+## Daily Log Cross-References
+- **2026-07-17**: [[04 - DAILY/2026-07-17]] — Dravidian political movement context: Dravidian founding languages mapped (Tamil, Telugu, Kannada, Malayalam), Justice Party → DK → DMK → AIADMK lineage referenced in Indian Political History MOC. Periyar's Self-Respect Movement is the philosophical root of Dravidian identity politics.
+
 ## Core Philosophy
 
 | Dimension | Position |

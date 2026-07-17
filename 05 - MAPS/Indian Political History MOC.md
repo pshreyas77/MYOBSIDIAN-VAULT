@@ -80,13 +80,47 @@ Master map for Indian political history notes — Dravidian movement, South Indi
 
 ---
 
-## Gaps to Fill
+## 8. Jammu & Kashmir Election History (Added 2026-07-17)
+
+| Election | Result | Pattern |
+|----------|--------|---------|
+| **2014** | PDP 28, BJP 25, NC 15, INC 12 | **PDP-BJP coalition** formed — Mufti Sayeed CM, Nirmal Singh Dy CM |
+| **2024** | NC 42, INC 6, CPI-M 1 = **49** (INDIA); BJP 29; PDP 3 | **BJP sweeps Jammu (29/43), ZERO in Kashmir Valley**; NC dominates Valley (41/47) |
+| **Oct 2024** | Omar Abdullah CM (16 Oct 2024) | NC-INC outside support |
+
+**Key structural finding**: BJP's "Jammu-only" vote concentration is consistent across both elections. Kashmir Valley remains impervious to BJP.
+
+---
+
+## 9. Daily Log Entries (Auto-linked)
+
+| Date | Note | Key Content |
+|------|------|-------------|
+| 2026-07-17 | [[04 - DAILY/2026-07-17]] | JK election history (2014 PDP-BJP coalition, 2024 INDIA victory), BJP Jammu-only pattern, language family mapping across regions |
+
+---
+
+## 8. Jammu & Kashmir Election History (Added 2026-07-17, cross-checked from Wikipedia)
+
+| Election | Result | Pattern |
+|----------|--------|---------|
+| **2014** | PDP 28, BJP 25, NC 15, INC 12 | **PDP-BJP coalition** formed — Mufti Sayeed CM, Nirmal Singh Dy CM |
+| **2015-2018** | — | Mufti Sayeed dies 2016 → Mehbooba Mufti CM; BJP withdraws support June 2018 → President's Rule |
+| **2024** | INDIA (NC 42, INC 6, CPI-M 1) = **49 seats**; BJP 29 (all Jammu, **0 Kashmir**); PDP 3 | **NC-Congress** forms govt with outside support |
+| **Oct 2024** | Omar Abdullah sworn in CM (16 Oct 2024) | NC-INC outside support |
+
+**Pattern confirmed**: BJP sweeps Jammu (25-29 seats), **zero seats in Kashmir Valley** in both 2014 and 2024. NC dominates Valley (41/47 in 2024).
+
+---
+
+## 9. Gaps to Fill
 - [ ] DMK / AIADMK dedicated entity notes
 - [ ] Annadurai entity note
 - [ ] BJP Southern strategy deep-dive
 - [ ] Reservation policy jurisprudence timeline
 - [ ] TVK (Tamilaga Vettri Kazhagam) analysis — Vijay's party
+- [ ] **JK election entity notes** — PDP, NC, Mehbooba Mufti, Omar Abdullah, Mufti Sayeed
 
 ---
 
-*Last updated: 2026-07-08 | Map rule: Update when 3+ new political notes accumulate*
+*Last updated: 2026-07-17 | Map rule: Update when 3+ new political notes accumulate*

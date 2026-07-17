@@ -10,6 +10,11 @@ confidence: high
 ai-first: true
 ---
 
+## Daily Log Cross-References
+- **2026-07-17**: [[04 - DAILY/2026-07-17]] — Language family deep-dive including Dravidian founding languages (Proto-Dravidian → Old Tamil/Sangam/Telugu/Kannada), Indus script hypothesis, Sumerian/Egyptian comparison. This note provides the religious/cultural synthesis context for Dravidian contribution to Hinduism.
+
+---
+
 ## For future Claude
 Concept synthesis on how indigenous Dravidian religious traditions were absorbed into the Vedic-Brahminical framework, with continuous substrate influence on Hinduism's ritual, linguistic, and iconographic core.
 

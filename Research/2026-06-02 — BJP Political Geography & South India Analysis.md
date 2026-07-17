@@ -27,6 +27,9 @@ Tamil Nadu, Kerala, and Telangana represent the hardest walls for BJP penetratio
 - **Kerala:** Three-way religious polarization + Congress vs Left duopoly; BJP won only 3 seats in 2026
 - **Telangana:** KCR/BRS legacy, Muslim consolidation, complex caste divisions
 
+## Daily Log Cross-References
+- **2026-07-17**: [[04 - DAILY/2026-07-17]] — JK election history (2014 PDP-BJP coalition, 2024 INDIA victory, BJP Jammu-only pattern), language family mapping across all Indian regions (North/South/NE/West), BJP's structural limitations in South confirmed by Dravidian language/cultural wall analysis.
+
 ### Key People
 - **[[K. Annamalai]]** — TN BJP president (resigned 2025); never a real CM candidate; didn't contest 2026
 - **[[Vijay]]** — TVK leader; actual CM of Tamil Nadu (sworn in May 10, 2026); first film star to become TN CM

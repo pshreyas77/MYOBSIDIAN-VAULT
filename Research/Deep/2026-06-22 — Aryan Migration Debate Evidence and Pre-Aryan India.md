@@ -19,6 +19,11 @@ sources:
   - Anthony & Ringe 2015 (Annual Review of Linguistics)
 ---
 
+## Daily Log Cross-References
+- **2026-07-17**: [[04 - DAILY/2026-07-17]] — Language family deep-dive session (Dravidian/Indo-Aryan/Sino-Tibetan/Sumerian/Egyptian), JK elections, regional language maps. All cross-checked against Wikipedia. This note provides the core Aryan Migration linguistic evidence base.
+
+---
+
 ## For Future Claude
 
 Comprehensive debate-ready synthesis on Aryan Invasion vs Migration question. **Key distinction:** "Invasion" (19th-c colonial idea) is discredited; "Migration" (steppe pastoralists moving into South Asia 2000-1200 BCE) is strongly supported by genetics, linguistics, archaeology. Use this note when user needs to debate Hindutva nationalists or OIT proponents. All claims have peer-reviewed sources with working links.
