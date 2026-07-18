@@ -2,12 +2,12 @@
   "people": [
     "Luca Rossi",
     "Liang Jiaqing",
-    "GergÅ‘ Magyar",
+    "Gergő Magyar",
     "Abhigyan Patwari",
     "Zander Raycraft",
+    "Andrej Karpathy",
     "Paul Robello",
-    "Shreyas Patel",
-    "GÃ¼neÅŸ Bizim",
+    "Güneş Bizim",
     "Jinyi Han",
     "Chirag Nighut",
     "Shen Hao",
@@ -17,11 +17,14 @@
     "Mr. WorldwideBrown"
   ],
   "projects": [
-    "Obsidian Vault",
+    "philosophy-website",
+    "InfiniteBrain",
     "claude-flow",
+    "genericagent",
     "tolaria",
     "gitnexus-monorepo",
-    "genericagent",
-    "graphifyy"
+    "autoresearch",
+    "Ollama",
+    "Wiki"
   ]
 }
