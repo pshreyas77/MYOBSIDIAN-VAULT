@@ -1,0 +1,549 @@
+{
+  "nodes": [
+    {
+      "id": "hdr_1",
+      "type": "text",
+      "text": "# 🚫 Banned\n13 books",
+      "x": 30,
+      "y": 30,
+      "width": 861,
+      "height": 60
+    },
+    {
+      "id": "card_2",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/7222536-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">1984</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Dystopian Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">DoublingThink** — the ability to hold two contradictory beliefs simultaneously</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The Party controls the past** — \"Who controls the past controls the future\"</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Thoughtcrime** — the danger of independent thinking in authoritarian systems</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 112,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_3",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8231823-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Brave New World</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Dystopian Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Soma** — chemical compliance as an alternative to brute force</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Brave New World** — stability through conditioning, not oppression</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Fordism** — the replacement of religion with industrial mass production</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 112,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_4",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/7079753-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Fahrenheit 451</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Science Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The firemen** — burning books to save people from \"dangerous\" ideas</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Mildred** — the citizen perfectly adapted to a world without literature</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Beatty** — the fire chief who has read and chooses to suppress</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 112,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_5",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/12983362-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Lady Chatterley's Lover</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Sex as connection** — Lawrence's central argument: genuine sexuality is about spiritual union, not performance</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The machine and the body** — Lawrence's critique of industrialization as a force that deadens natural human drives</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The trial's legacy** — the Penguin publisher's acquittal established that literary merit matters in obscenity decisions</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 489,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_6",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/12984540-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Lolita</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Literary Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Unreliable narration** — the voice itself is a manipulation device</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Language as seduction** — beautiful prose can obscure moral horror</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The reader as victim** — Nabokov makes us complicit in Humbert's perspective</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 489,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_7",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/naked_lunch.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Naked Lunch</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>Literature can be a weapon against censorship</strong>: Its unban set a legal precedent for free expression</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>The \"cut-up\" method</strong> (randomly rearranging text) influenced postmodern fiction</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>Burroughs' heroin addiction is central to the text</strong>, making it a work of transgressive autobiography</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>It is a difficult, hallucinatory read</strong> — not for everyone, but historically significant</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 489,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_8",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/slaughterhouse.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Slaughterhouse Five</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>War is not glorious</strong>: The book's central message is that war is senseless destruction</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>Trauma can fracture time</strong>: PTSD as the inability to escape the past</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>\"So it goes\" is the novel's mantra</strong>: Acceptance of death and loss as part of life</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>Science fiction can be deeply serious</strong>: Vonnegut proved the genre's capacity for profound meaning</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 866,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_9",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/551262-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The 120 Days of Sodom</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Philosophy</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Power as aphrodisiac** — Sade's central thesis that domination is more arousing than pleasure itself</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Reason as justification** — the characters use Enlightenment philosophy to rationalize atrocity</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The limits of egoism** — what happens when individual desire is elevated above all social constraint</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 866,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_10",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/10539287-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Color Purple</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The epistolary form** — Celie's letters track her movement from silent victim to articulate survivor</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Female bonds as salvation** — Shug and Sofia show Celie that love and self-respect are possible</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The reclamation of \"the color purple\"** — what begins as a symbol of degradation becomes a symbol of beauty</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 866,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_11",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/36314-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Exorcist</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Horror</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Doubt as horror** — the novel is scarier for priests who have lost their faith than for true believers</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The body as battleground** — the possession scenes are graphic, but they're about spiritual warfare, not shock</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The Regan character** — the child's innocence being violated is the moral center that makes the horror effective</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 1243,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_12",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/11481354-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Well of Loneliness</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The \"congenital invert\"** — Hall's framing of lesbianism as inborn, not chosen, meant to make the novel medically respectable</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Social exile** — the novel's power comes from depicting what it costs to live outside acceptable norms</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Censorship landmark** — the ban lasted from 1928 to 1949</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 1243,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_13",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8231823-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Tropic of Cancer</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Sex as affirmation** — Miller uses frank sexuality to argue for the body against religious and bourgeois shame</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The artist as exile** — the book is also about what it costs to choose art over convention</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The Supreme Court ruling** — Grove Press v. Gerstein established the modern standard for literary obscenity</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 1243,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_14",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/12984540-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Ulysses</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Stream of consciousness** — Joyce captures thought as it actually flows, including dead ends, tangents, and half-formed associations</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The Odyssey structure** — every chapter corresponds to an episode in Homer, creating layers of ironic comparison</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Literary free speech** — the Ulysses trial remains the most important First Amendment case in literature</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 1620,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "hdr_15",
+      "type": "text",
+      "text": "# 🧠 Psychology\n8 books",
+      "x": 30,
+      "y": 2041,
+      "width": 861,
+      "height": 60
+    },
+    {
+      "id": "card_16",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/431011-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Influence</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Psychology</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Reciprocation** — people must repay what they receive</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Social proof** — in ambiguous situations, people follow what others do</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Scarcity** — opportunities seem more valuable when they are rare</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Unity** — shared identity increases willingness to be influenced</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 2123,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_17",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8516506-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Man's Search for Meaning</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Psychology</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The will to meaning** — unlike Freud's pleasure or Adler's power, humans are driven by the need to find purpose</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Suffering without meaning is destructive** — but suffering with meaning becomes achievement</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The last freedom** — even in the camps, Frankl observed that humans retained the freedom to choose their attitude</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 2123,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_18",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8749519-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">People of the Lie</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Psychology</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">M. Scott Peck's lie** — the refusal to face one's own guilt creates a false self that must be maintained through deception</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The banality of evil** — Arendt's concept applied to clinical psychology: monstrous acts committed by people who seem normal</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Diagnosis vs. judgment** — Peck argues that seeing evil clearly is not hateful but the most compassionate response</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 2123,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_19",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/predictably.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Predictably Irrational</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>Humans are predictably irrational</strong> — understanding the patterns is the path to better decisions</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>Context shapes choices</strong>: The same option presented differently leads to different decisions</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>Free is a powerful persuader</strong>: \"Free\" creates an irrational value perception</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>Social norms trump economic ones</strong>: Markets erode social bonds — understand when to use which</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 2500,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_20",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8516506-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Lucifer Effect</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Psychology</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The Lucifer Effect** — how good people do bad things when placed in bad systems</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The eight steps to evil** — a systematic breakdown of how normal people become dehumanizers</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Heroic imagination** — Zimbardo's later work on why some people resist situational pressures</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 2500,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_21",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/431011-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Psychology of Emotion</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Psychology</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">James-Lange** — emotions follow from physiological arousal (you tremble because you're afraid)</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Cannon-Bard** — emotion and arousal occur simultaneously but independently</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Two-factor theory** — emotion = arousal × cognitive label (Schachter-Singer)</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 2500,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_22",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/10170151-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Social Animal</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Social Psychology</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Cognitive dissonance** — the discomfort of holding contradictory beliefs drives attitude change</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The power of social proof** — people look to others to determine appropriate behavior</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Self-fulfilling prophecy** — expectations shape reality through interaction</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 2877,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_23",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8235161-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Thinking, Fast and Slow</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Psychology</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Cognitive ease** — when System 1 likes something, System 2 tends to accept it without scrutiny</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Anchoring** — arbitrary numbers permanently shift our numerical estimates</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The planning fallacy** — we systematically underestimate time, cost, and risk</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">WYSIATI** — What You See Is All There Is. System 1 never asks \"what am I missing?\"</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 2877,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "hdr_24",
+      "type": "text",
+      "text": "# 💠 Consciousness\n7 books",
+      "x": 30,
+      "y": 3298,
+      "width": 861,
+      "height": 60
+    },
+    {
+      "id": "card_25",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/3964666-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Consciousness Explained</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Philosophy of Mind</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The theater eliminated** — no single place in the brain where experience \"happens\"</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Multiple drafts model** — consciousness is parallel processing, not sequential</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Qualia as illusions** — the uniqueness of subjective experience is a brain construction</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 3380,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_26",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/14368453-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Gödel, Escher, Bach</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Science</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Strange loops** — self-referential structures that wind back on themselves, giving rise to \"I\"</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The Bach hymn** — Hofstadter's crab canon analogy shows how formal systems can contain themselves</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Reductionism's limit** — you can't explain the mind by analyzing its parts in isolation</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 3380,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_27",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/9474619-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Meditations</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Stoicism</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The dichotomy of control** — focus only on what you can control</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Amor fati** — love of what happens, treating each moment as necessary</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The view from above** — seeing events from a cosmic perspective dissolves small troubles</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 3380,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_28",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/5614433-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Prometheus Rising</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Self-Help</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Circuit 1-2** — survival and territorial drives (reptile + mammal)</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Circuit 3-4** — social/moral and sexual/linguistic networks (primate)</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Circuit 5-8** — metaphysical, noetic, and beyond — the evolution of spirit</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 3757,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_29",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8261377-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Man Who Mistook His Wife for a Hat</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Science</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The theater of perception** — how the brain constructs reality and what happens when the construction goes wrong</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The narrative self** — why we need story to make sense of experience, and what happens when that breaks</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The limits of clinical description** — Sacks argues that numbers and diagnoses miss what actually matters about a patient</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 3757,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_30",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/10362535-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Mind's I</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Philosophy</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The hard problem** — why physical processes give rise to subjective experience (qualia)</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Strange loops** — self-referential structures that may give rise to self-awareness</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The theater of consciousness** — Dennett's argument against the intuitive \"center\" of experience</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 3757,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_31",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/origin.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Origin of Consciousness in the Breakdown of the Bicameral Mind</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>Consciousness is not inevitable</strong> — it may have been a historical accident</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>Gods as hallucinations</strong> is a powerful reframe of religious experience</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>Language creates the self</strong>: The internal narrative requires linguistic metaphor</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>The theory is controversial</strong> but has influenced many in philosophy, neuroscience, and psychology</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 4134,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "hdr_32",
+      "type": "text",
+      "text": "# 📖 Introvert\n7 books",
+      "x": 30,
+      "y": 4555,
+      "width": 861,
+      "height": 60
+    },
+    {
+      "id": "card_33",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8118881-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Introvert Power</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Self-Help</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Depth over breadth** — introverts naturally seek depth in relationships and pursuits, which is not a limitation</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The mythology of the \"real world\"** — society treats extroversion as the default reality, but it's just one mode of being</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Aloneness as resource** — introverts who claim their aloneness find power that extroverts literally cannot access</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 4637,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_34",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8684447-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Introvert Survival Guide</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Self-Help</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Strategic socializing** — introverts can be excellent networkers when they do it on their own terms</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The power of listening** — introverts' natural listening ability is a social advantage extroverts can't easily replicate</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Recovery time** — building deliberate recharge time into social schedules prevents burnout</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 4637,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_35",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/7079753-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Quiet</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Psychology</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The power of solitude** — introverts process deeply, not superficially</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Free trait theory** — we can act out of character when it serves our values</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The quiet revolution** — the most transformative ideas often come from quiet minds</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 4637,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_36",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/7561012-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Solo</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Self-Help</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The couple mythology** — Western culture treats singlehood as a problem to be solved rather than a state to be inhabited</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Aloneliness vs. loneliness** — aloneness is a resource; loneliness is a feeling that signals disconnection</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The introvert's edge in solitude** — introverts are better equipped for meaningful aloneness than extroverts</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 5014,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_37",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/highly_sensitive.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Highly Sensitive Person</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>Sensitivity is innate</strong> — not caused by trauma, though it can be exacerbated by it</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>HSPs need boundaries</strong> — learning to say no and manage energy is crucial</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>The \"Pause to Check\"</strong> — HSPs naturally observe before acting, a valuable trait</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>Self-compassion is essential</strong> — societal norms favor the non-sensitive; self-acceptance is key</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 5014,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_38",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/12993656-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Introvert's Complete Guide</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Self-Help</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Career strategies** — how to advocate for yourself, handle performance reviews, and build a career without forcing yourself to be an extrovert</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Relationship management** — practical tips for family, friends, and romantic relationships</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Self-care systems** — building routines that protect your energy rather than drain it</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 5014,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_39",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/7079753-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Introvert's Way</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Self-Help</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Recharging as strategy** — building solitude into your day isn't selfishness, it's maintenance</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Small talk as skill** — Dembling offers actual scripts for navigating social situations introverts find difficult</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Boundaries without guilt** — learning to say no without justifying or over-explaining</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 5391,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "hdr_40",
+      "type": "text",
+      "text": "# 🔮 Fiction & Philosophy\n20 books",
+      "x": 30,
+      "y": 5812,
+      "width": 861,
+      "height": 60
+    },
+    {
+      "id": "card_41",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/beyond_good_evil.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Beyond Good and Evil</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>Morality is not universal</strong> — it is a historical and cultural construct, often serving the interests of the weak</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>The will to power</strong> is the fundamental human motive (not survival, not happiness)</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>Nihilism is a stage, not an endpoint</strong> — the Übermensch creates new meaning after the death of God</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>Critical thinking is a weapon against any ideology that claims absolute truth</strong></li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 5894,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_42",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"BOOKS/covers/periyar.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Collected Works of Periyar E.V. Ramasamy</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Anti-caste / Dravidian / Political Philosophy</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <p style=\"font-size:12px; color:#999; font-style:italic;\">…</p>  </div></div>",
+      "x": 323,
+      "y": 5894,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_43",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/11481354-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Dune</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Science Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The Fremen** — a model for how a people can be shaped by and shape their environment</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The Litany Against Fear** — facing what must be faced, a Stoic mantra before it was a trope</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Power and prophecy** — the dangers of following charismatic leaders who believe their own mythology</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 5894,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_44",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/heart_of_darkness.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Heart of Darkness</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>Colonialism is a shame</strong> — it degrades both the colonized and the colonizer</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>The horror! The horror!</strong> — Kurtz's last words reflect a recognition of his own capacity for evil</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>Civilization is a veneer</strong> — Conrad suggests savagery lies beneath the surface of all \"civilized\" men</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>Ambiguity is intentional</strong> — the novel resists easy moral judgments, forcing the reader to confront complexity</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 6271,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_45",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/10362535-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Illusions</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Parable</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The illusion of limits** — \"What one person calls the world, another calls nothing at all\"</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Movement as freedom** — the seagull's joy is in flying, not arriving</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Practice as devotion** — mastery comes from loving the discipline, not just the goal</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 6271,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_46",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8749519-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Jonathan Livingston Seagull</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The pain of imperfection** — Jonathan is expelled for practicing dives that the flock considers dangerous</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Learning from the masters** — his encounter with the Two Great Rays who show him that flight is limited only by thought</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Perfection as a path** — the continuous refinement of skill and spirit as a lifelong practice</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 6271,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_47",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8684447-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Lord of the Flies</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The conch as fragile democracy** — the conch shell symbolizes the fading order that the boys try to maintain</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The beast within** — the fear of an imagined monster on the island is really the fear of what they might become</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Ralph vs. Jack** — civilization versus savagery, reason versus blood-lust</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 6648,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_48",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/7561012-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Mastery</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Mastery</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Apprenticeship** — the first phase where you absorb everything without judgment</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The apprenticeship of the environment** — learning is not just about skill but about seeing</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Ego as obstacle** — the master has learned what the beginner has yet to: that they know nothing</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 6648,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_49",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8235161-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">On the Road</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Beat Literature</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Spontaneous prose** — form that mirrors the speed of consciousness</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">First thought, best thought** — intuition over deliberation</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The road as metaphor** — movement as the only reliable source of truth</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 6648,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_50",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"BOOKS/covers/ambedkar.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Riddles in Hinduism</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Anti-caste / Religious Critique / Political Philosophy</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <p style=\"font-size:12px; color:#999; font-style:italic;\">…</p>  </div></div>",
+      "x": 30,
+      "y": 7025,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_51",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"BOOKS/covers/carvaka.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Studies on the Cārvāka Lokāyata</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Philosophy / Indian Materialism / History of Ideas</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <p style=\"font-size:12px; color:#999; font-style:italic;\">…</p>  </div></div>",
+      "x": 323,
+      "y": 7025,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_52",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/27651-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The 48 Laws of Power</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Strategy</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Law 1: Outshine others** — brilliance threatens; mediocrity is safe</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Law 15: Crush enemies totally** — partial victories invite return</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Law 48: Assume formlessness** — the best strategy has no form</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 7025,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_53",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/8749519-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Art of Seduction</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Seduction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The siren** — using beauty and mystery to captivate</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The rake** — danger and emotional intensity as attraction</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The natural** — authenticity as the most powerful aphrodisiac</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 7402,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_54",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/10539287-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Awakening</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The mother-woman** — Chopin's term for women who define themselves entirely through their children</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The water as metaphor** — Edna's final escape into the sea is the novel's most debated moment</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Autonomy vs. belonging** — the novel's central tension: can a woman be both free and connected?</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 7402,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_55",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/catcher.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Catcher in the Rye</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>Authenticity is rare</strong>: Holden's voice is one of the most authentic in fiction — cynical, vulnerable, and deeply human</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>The gap between appearance and reality is a recurring theme</strong></li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>First-person narrative can be the entire engine of a novel</strong></li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>Banned books often become the most influential</strong>: Its suppression made it more popular</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 7402,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_56",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/551262-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Power of Now</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Spiritual</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The pain-body** — the accumulation of emotional pain that keeps replaying</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Presence as the cure** — witnessing the pain-body without resisting allows it to dissolve</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The ego's survival strategy** — the mind creates problems to keep itself busy</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Consciousness over thought** — humans can step outside the stream of thinking</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 7779,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_57",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/5614433-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Story of O</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Submission as power** — the novel argues that choosing total submission can be the ultimate exercise of autonomy</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">The gaze and control** — Réage carefully controls whose perspective drives the narrative</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Political act** — the novel was explicitly written to provoke both sides of the sexual debate</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 323,
+      "y": 7779,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_58",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"file://E:/_Knowledge/ObsidianVault/BOOKS/covers/stranger.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The Stranger</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\"></span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">stated</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">1. <strong>The absurd hero</strong> accepts the meaninglessness of life without resorting to suicide or false hope</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">2. <strong>Society demands performance</strong> of grief, faith, and remorse — authenticity is punished</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">3. <strong>The inevitability of death</strong> makes every moment alive a conscious, defiant act</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">4. <strong>Indifference is not immorality</strong> — Meursault is honest, not evil</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 616,
+      "y": 7779,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_59",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"https://covers.openlibrary.org/b/id/36314-L.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">The War of the Worlds</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Science Fiction</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <ul style=\"padding-left:16px; margin:0 0 4px;\"><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Technology as weakness** — the humans survive by adapting; the Martians don't</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Colonial inversion** — the colonized becomes the colonizer in the allegory</li><li style=\"margin-bottom:5px; font-size:12.5px; color:#d8d8d8; line-height:1.4;\">Bacteria as equalizer** — the smallest life defeats the most advanced military</li></ul>  <p style=\"font-size:11px; color:#5a9fc2; margin:0;\">👆 tap to flip</p></div></div>",
+      "x": 30,
+      "y": 8156,
+      "width": 265,
+      "height": 355
+    },
+    {
+      "id": "card_60",
+      "type": "text",
+      "text": "<div style=\"display:flex; flex-direction:column; gap:8px; height:100%; font-family:system-ui,-apple-system,sans-serif; padding:6px;\"><div style=\"text-align:center;\"><img src=\"BOOKS/covers/periyar.jpg\" width=\"130\" style=\"border-radius:6px; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,0.45); display:block; margin:0 auto;\"/></div><div>  <div style=\"font-size:14px; font-weight:700; color:#f0f0f0;    margin-bottom:3px; line-height:1.3;\">Word for Word Periyar E.V. Ramasamy</div>  <div style=\"font-size:11.5px; color:#aaa; margin-bottom:4px;\"></div>  <div style=\"display:flex; gap:5px; align-items:center; flex-wrap:wrap;\">    <span style=\"font-size:10.5px; background:#1e1e30; color:#7ec8e3;          border-radius:3px; padding:2px 7px;\">Anti-caste / Dravidian / Political Philosophy</span>    <span style=\"font-size:10.5px; background:#1e1e30; color:#aaa;          border-radius:3px; padding:2px 7px;\">To Read</span>    <span style=\"font-size:11px; color:#f0c040;\"></span>  </div>  <div style=\"margin-top:7px; font-size:12px; color:#7ec8e3; border-bottom:1px solid #333;        padding-bottom:3px;\">Key Takeaways</div>  <p style=\"font-size:12px; color:#999; font-style:italic;\">…</p>  </div></div>",
+      "x": 323,
+      "y": 8156,
+      "width": 265,
+      "height": 355
+    }
+  ],
+  "edges": [],
+  "metadata": {
+    "version": "1.0-1.0",
+    "frontmatter": {}
+  }
+}

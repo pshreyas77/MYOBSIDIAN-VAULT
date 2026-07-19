@@ -27,12 +27,44 @@ Entity note for E.V. Ramasamy Periyar (1879–1973), founder of Self-Respect Mov
 
 | Organization | Year | Nature | Periyar's Role |
 |--------------|------|--------|----------------|
-| **Self-Respect Movement** | 1925 | Social reform | Founder |
-| **Dravidar Kazhagam (DK)** | 1944 | Social, non-electoral | President (until death) |
+| **Indian National Congress** | 1919–1925 | Nationalist party | Joined 1919, left 1925 (Brahmin dominance) |
+| **Self-Respect Movement** | 1925 | Social reform (mass) | Founder |
+| **Justice Party** | 1935–1944 | Political party | Joined 1935; President elected 1938/1939 (in prison); radicalized its ideology |
+| **Dravidar Kazhagam (DK)** | 1944–1949 | Social, non-electoral | President; renamed and transformed Justice Party |
 | **DMK** | 1949 | Political party | **OPPOSED** — broke with Annadurai over electoral entry |
 | **AIADMK** | 1972 | Political party | Not involved (post-death) |
 
-When C.N. Annadurai broke away to form DMK (1949), **Periyar opposed it**. He campaigned against DMK in 1957 and 1962 elections. Your vault should not treat Periyar as a "party founder" — he was a social movement leader whose followers later created political parties against his wishes.
+## Justice Party Leadership (1938–1944)
+
+### How Periyar Took Over the Justice Party
+- Joined the Justice Party in **1935** (after leaving Congress in 1925 and founding Self-Respect Movement)
+- **1937 electoral defeat** crushed the old Justice Party leadership — radicalized rank and file
+- Elected **President of Justice Party in 1938/1939** while **imprisoned in Vellore Jail** for his role in the anti-Hindi agitations
+- Under his leadership: transformed party from elite landed-gentry caste-association → **radical mass movement**
+
+### What Periyar Changed in the Justice Party
+| Before Periyar (1916–1937) | After Periyar (1938–1944) |
+|----------------------------|--------------------------|
+| Elite landowning gentry + professionals | Mass movement |
+| Political share for non-Brahmins | Social revolution: caste eradication |
+| Anti-Brahmin within Hinduism | Hinduism itself is the problem |
+| Moderate reforms for women | Self-Respect marriages, property rights, birth control |
+| Contested elections (Madras Presidency) | Refused electoral politics |
+
+### Strategic Support from Ambedkar
+Periyar received strategic political support from **B. R. Ambedkar** for:
+- Opposing the "Brahmin-dominated" Indian National Congress
+- Demanding statutory communal representation for non-Brahmins
+- Ambedkar's pressure on Congress made reservation policy possible post-independence
+
+### The 1944 Transformation
+In **1944** at the Salem Conference, Periyar moved the resolution to:
+1. Rename Justice Party → **Dravidar Kazhagam (DK)**
+2. Permanently withdraw from electoral politics
+3. Focus solely on social reform and caste eradication
+4. Advocate for sovereign Dravida Nadu
+
+The 1949 DMK split (Annadurai) happened because Periyar refused to return to elections — he wanted pure social revolution, not parliamentary power.
 
 ## Daily Log Cross-References
 - **2026-07-17**: [[04 - DAILY/2026-07-17]] — Dravidian political movement context: Dravidian founding languages mapped (Tamil, Telugu, Kannada, Malayalam), Justice Party → DK → DMK → AIADMK lineage referenced in Indian Political History MOC. Periyar's Self-Respect Movement is the philosophical root of Dravidian identity politics.

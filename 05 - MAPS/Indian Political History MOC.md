@@ -73,10 +73,27 @@ Master map for Indian political history notes — Dravidian movement, South Indi
 
 ## Key Entities
 - [[wiki/entities/B. R. Ambedkar]] — Constitutional architect
-- [[wiki/entities/Periyar E. V. Ramasamy]] — Dravidian movement founder
+- [[wiki/entities/Periyar E. V. Ramasamy]] — Dravidian movement founder; Justice Party president 1938–1944; DK founder
+- [[wiki/entities/T. M. Nair]] — Co-founder of Justice Party; named the party; London mission (died 1919)
+- [[wiki/entities/P. Theagaraya Chetty]] — First President of Justice Party; authored Non-Brahmin Manifesto; midday meal pioneer
+- [[wiki/entities/C. Natesa Mudaliar]] — "Forgotten" co-founder; reconciled Nair + Theagaraya Chetty; established Dravidian Home
 - [[wiki/entities/Kanshi Ram]] — BSP, national Dalit politics
-- [[wiki/entities/Jyotirao Phule]] — Pre-political anti-caste organizing
-- [[wiki/entities/M. N. Roy]] — Communist alternative
+- [[wiki/entities/C. N. Annadurai]] — DK General Secretary; founded DMK 1949; first Dravidian CM (1967); institutionalized Dravidian politics
+
+## Key Concepts
+- [[wiki/concepts/Justice Party]] (1916–1944) — First non-Congress political org in South India; pioneered India's reservation system
+- [[wiki/concepts/Dravidar Kazhagam]] (1944–) — Periyar's transformation; non-electoral social reform movement
+- [[wiki/concepts/Dravidian Movement]] — Political expression of Dravidian identity
+- [[wiki/concepts/Indian Atheism, Rationalism, and Anti-Caste Struggle]] — Periyar, Ambedkar, Phule, Roy
+
+## Gaps to Fill — **ALL ANSWERED 2026-07-18**
+
+| Gap | Resolution | Key Insight |
+|-----|------------|-------------|
+| Communal G.O. 3136 post-1937 | Remained operational until 1951 SC ruling (*State of Madras v. Champakam Dorairajan*) | Lineage broken by SC, not Congress ministry; led to First Amendment |
+| Periyar's 1932 USSR visit | Shift to socio-economic structuralism; Marxist analysis of caste | Collaboration with M. Singaravelar; politicized Self-Respect Movement |
+| Periyar vs. Phule | Independent development | Local triggers: Gurukulam controversy, 1925 Congress rejection |
+| Dravidian vs. caste identity | Both sequentially | Phase 1 (DK): genuine revolution; Phase 2 (DMK): graded inequality, captured by Vellalar/Mudaliar/Naidu elites |
 
 ---
 
@@ -115,11 +132,14 @@ Master map for Indian political history notes — Dravidian movement, South Indi
 
 ## 9. Gaps to Fill
 - [ ] DMK / AIADMK dedicated entity notes
-- [ ] Annadurai entity note
 - [ ] BJP Southern strategy deep-dive
 - [ ] Reservation policy jurisprudence timeline
 - [ ] TVK (Tamilaga Vettri Kazhagam) analysis — Vijay's party
 - [ ] **JK election entity notes** — PDP, NC, Mehbooba Mufti, Omar Abdullah, Mufti Sayeed
+- [ ] **M. Karunanidhi entity** — DMK architect, 5-term CM
+- [ ] **M. G. Ramachandran entity** — AIADMK founder, actor-politician
+- [ ] **Vaiko entity** — MDMK founder, Dravidian nationalist
+- [ ] **M. Singaravelar entity** — Communist who influenced Periyar's Soviet synthesis
 
 ---
 
