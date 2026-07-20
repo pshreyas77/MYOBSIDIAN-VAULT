@@ -103,6 +103,10 @@ Multiple causal factors:
 - **Concept notes created:** [[Liberal in Indian Political Context]], [[BJP Dominance Map — Indian States]] (in 02 - PERMANENT/concepts/)
 - **Analysis created:** [[Caveman Analysis — TVK vs BJP Tamil Nadu]] (in 06 - OUTPUTS/analyses/)
 
+## Subsequent Updates — Cross-Linking
+
+- 2026-07-20: [[2026-07-20 — Cockroach Janta Party — Chalo Sansad Protest]] — linked here as it covers ongoing BJP response + protest dynamics, with section 7 "Domestic Response" noting Hema Malini + Kanag[a Ranaut] (BJP politicians) opposing the march. See also [[CJP-LIVE-UPDATES]] for headline feed.
+
 ## Tags
 #bjp #tamil-nadu #kerala #tvk #vijay #annamalai #rajeev-chandrasekhar #sreedharan #south-india #political-geography #cm-candidates #2026-elections
 
