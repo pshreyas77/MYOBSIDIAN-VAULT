@@ -5,7 +5,8 @@ tags: [dravidian, folk-religion, sanskritization, srinivas, south-india, hinduis
 ai-first: true
 confidence: high
 topic: Dravidian Folk Deities & Sanskritization — State-by-State Evidence Review
-sources: academic (Witzel, Krishnamurti, Reich, Narasimhan, Sutherland), inscriptional where available, oral-tradition flagged where not
+sources: academic (Witzel, Krishnamurti, Reich, Narasimhan, Sutherland), inscriptional where available, oral-tradition flagged where not; genetic (Sylvester et al. 2018 — mtDNA of Melakudiya tribe)
+genetics_evidence: "[[Research/Genetics/sylvester-2018-neolithic-mtdna-melakudiya]] — 113 Melakudiya mtDNA genomes; West Eurasian haplogroups HV14 + U7 in Dravidian-speaking tribe; coalescence ~16 kya; Iranian Plateau genetic link; supports proto-Dravidian origin in Elam (SW Iran) and Neolithic continuity in South India"
 ---
 
 # Dravidian Folk Deities & Sanskritization — State-by-State Evidence Review

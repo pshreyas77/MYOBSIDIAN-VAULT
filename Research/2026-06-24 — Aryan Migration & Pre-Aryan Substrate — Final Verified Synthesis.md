@@ -42,6 +42,7 @@ evidence_tier: hard + strong hypothesis
 | **Kikkuli Manual CTH 284** | ~1345 BCE | Indo-Aryan numerals (aika/tera/panza/satta/nawa) + horse vocab existed | Sanskrit was written language |
 | **aika vs eka diphthong** | ~1345 BCE | Mitanni IA more archaic than Rigveda | Rigveda composed before 1345 BCE |
 | **Rakhigarhi ancient DNA** | IVC peak | IVC = zero steppe ancestry = pre-Aryan | IVC was specifically Dravidian speakers |
+| **Sylvester et al. 2018 (Melakudiya mtDNA)** | 113 individuals, Kodagu, Karnataka | Dravidian tribal (Melakudiya) carry West Eurasian haplogroups HV14 + U7; coalescence ~16.1 kya; genetic link to Iranian Plateau; supports proto-Dravidian origin in Elam | Specific tribal lineage only; maternal only (no paternal/autosomal); note: molecular dating correction applied |
 | **Rigveda oldest manuscript** | 1040 CE | Nothing older physically exists | Rigveda wasn't composed earlier |
 | **Avesta oldest manuscript** | 13th–14th CE | Same gap problem as Rigveda | — |
 | **Sanskrit epigraphy** | ~1st BCE | Sanskrit not written before this | — |
