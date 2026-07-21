@@ -65,3 +65,655 @@
 [21:45] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
 [21:45] **Hindustan Times**: 'Most anti-youth PM ever': Rahul attacks Modi in first reaction on CJP march
 [21:45] **Hindustan Times**: 'Could've been like Nepal, Bangladesh': Dipke says CJP marched with restraint
+
+## 2026-07-20 22:00
+
+[22:00] **Hindustan Times**: CJI's ‘cockroach’ remark returns to focus as MP says ‘thanks’ amid CJP march
+[22:00] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[22:00] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[22:00] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[22:00] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[22:00] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+[22:00] **Hindustan Times**: 'Most anti-youth PM ever': Rahul attacks Modi in first reaction on CJP march
+[22:00] **Hindustan Times**: 'Could've been like Nepal, Bangladesh': Dipke says CJP marched with restraint
+
+## 2026-07-20 22:15
+
+[22:15] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[22:15] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[22:15] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[22:15] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[22:15] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[22:15] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[22:15] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+[22:15] **Hindustan Times**: 'Most anti-youth PM ever': Rahul attacks Modi in first reaction on CJP march
+
+## 2026-07-20 22:30
+
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-20 22:44
+
+[22:44] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[22:44] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[22:44] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[22:44] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[22:44] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[22:44] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[22:44] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+[22:44] **Hindustan Times**: 'Most anti-youth PM ever': Rahul attacks Modi in first reaction on CJP march
+
+## 2026-07-20 22:45
+
+[22:45] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[22:45] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[22:45] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[22:45] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[22:45] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[22:45] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[22:45] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[22:45] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-20 23:00
+
+[23:00] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[23:00] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[23:00] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[23:00] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[23:00] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[23:00] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[23:00] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[23:00] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-20 23:15
+
+[23:15] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[23:15] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[23:15] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[23:15] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[23:15] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[23:15] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[23:15] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[23:15] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-20 23:30
+
+[23:30] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[23:30] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[23:30] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[23:30] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[23:30] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[23:30] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[23:30] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[23:30] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-20 23:45
+
+[23:45] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[23:45] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[23:45] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[23:45] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[23:45] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[23:45] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[23:45] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[23:45] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-21 00:00
+
+[00:00] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[00:00] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[00:00] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[00:00] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[00:00] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[00:00] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[00:00] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[00:00] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-21 00:15
+
+[00:15] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[00:15] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[00:15] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[00:15] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[00:15] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[00:15] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[00:15] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[00:15] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-21 00:30
+
+[00:30] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[00:30] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[00:30] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[00:30] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[00:30] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[00:30] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[00:30] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[00:30] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-21 00:40
+
+[00:40] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[00:40] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[00:40] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[00:40] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[00:40] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[00:40] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[00:40] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[00:40] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## UPDATE — 2026-07-21 00:40 IST (post-march)
+
+### Opposition Storm (Scroll.in ~3h ago)
+- **Rahul Gandhi (Congress):** Modi is "the most anti-youth PM in India's history"
+  - Claimed ~7.5 crore students affected by paper leaks
+  - "This government isn't just failing the youth — it's cracking down on them"
+- **Mallikarjun Kharge (Congress president):** Spoke in Rajya Sabha, called lathicharge an attempt to suppress youth voice
+- **Priyanka Gandhi Vadra:** "Wielding lathis on children"
+- **Sachin Pilot:** Lathis+t[truncated]
+
+## 2026-07-21 00:45
+
+[00:45] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[00:45] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[00:45] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[00:45] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[00:45] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[00:45] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[00:45] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[00:45] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-21 01:00
+
+[01:00] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[01:00] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[01:00] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[01:00] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[01:00] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[01:00] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[01:00] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[01:00] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-21 01:15
+
+[01:15] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[01:15] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[01:15] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[01:15] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[01:15] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[01:15] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[01:15] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[01:15] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-21 01:30
+
+[01:30] **Hindustan Times**: Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+[01:30] **Hindustan Times**: Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+[01:30] **Hindustan Times**: CJI Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+[01:30] **Hindustan Times**: ‘Lied to family, faced lathis here’: Young women at CJP march recount experience
+[01:30] **Hindustan Times**: Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+[01:30] **Hindustan Times**: 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+[01:30] **Hindustan Times**: Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+[01:30] **Hindustan Times**: ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+
+## 2026-07-21 11:42
+
+[11:42] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[11:42] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[11:42] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[11:42] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[11:42] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[11:42] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[11:42] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+[11:42] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 11:45
+
+[11:45] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[11:45] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[11:45] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[11:45] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[11:45] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[11:45] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[11:45] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+[11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 12:00
+
+[12:00] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[12:00] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[12:00] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[12:00] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[12:00] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[12:00] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[12:00] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+[12:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 12:15
+
+[12:15] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[12:15] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[12:15] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[12:15] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[12:15] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[12:15] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[12:15] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+[12:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 12:30
+
+[12:30] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[12:30] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[12:30] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[12:30] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[12:30] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[12:30] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[12:30] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 12:45
+
+[12:45] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[12:45] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[12:45] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[12:45] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[12:45] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[12:45] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[12:45] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 13:00
+
+[13:00] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[13:00] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[13:00] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[13:00] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[13:00] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[13:00] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[13:00] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[13:00] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+
+## 2026-07-21 13:15
+
+[13:15] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[13:15] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[13:15] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[13:15] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[13:15] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[13:15] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[13:15] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[13:15] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+
+## 2026-07-21 13:30
+
+[13:30] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[13:30] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[13:30] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[13:30] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[13:30] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[13:30] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[13:30] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[13:30] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+
+## 2026-07-21 13:45
+
+[13:45] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[13:45] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[13:45] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[13:45] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[13:45] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+[13:45] **Hindustan Times**: Sonam Wangchuk fast continues: Hospital says blood sugar low, vitals stable
+[13:45] **Hindustan Times**: Will continue fast till talks begin with MPs: Sonam Wangchuk
+[13:45] **Hindustan Times**: Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+
+## 2026-07-21 14:00
+
+[14:00] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[14:00] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[14:00] **Hindustan Times**: Delhi HC 'proposes' Sonam Wangchuk be shifted to hospital 'of his choice'
+[14:00] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[14:00] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[14:00] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[14:00] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[14:00] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+
+## 2026-07-21 14:15
+
+[14:15] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[14:15] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[14:15] **Hindustan Times**: Delhi HC 'proposes' Sonam Wangchuk be shifted to hospital 'of his choice'
+[14:15] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[14:15] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[14:15] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+[14:15] **Hindustan Times**: CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+[14:15] **Hindustan Times**: CJP's mega protest: A blow-by-blow account of what happened on Monday
+
+## 2026-07-21 14:30
+
+[14:30] **Hindustan Times**: Rahul Gandhi demands PM Modi's resignation over CJP protest crackdown
+[14:30] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[14:30] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[14:30] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[14:30] **Hindustan Times**: Delhi HC proposes Wangchuk be shifted to hospital of choice: ‘Will pass order’
+[14:30] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[14:30] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[14:30] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+
+## 2026-07-21 14:45
+
+[14:45] **Hindustan Times**: Rahul Gandhi demands PM Modi's resignation over CJP protest crackdown
+[14:45] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[14:45] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[14:45] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[14:45] **Hindustan Times**: Delhi HC proposes Wangchuk be shifted to hospital of choice: ‘Will pass order’
+[14:45] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[14:45] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[14:45] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+
+## 2026-07-21 15:00
+
+[15:00] **Hindustan Times**: Rahul Gandhi demands PM Modi's resignation over CJP protest crackdown
+[15:00] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[15:00] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[15:00] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[15:00] **Hindustan Times**: Delhi HC proposes Wangchuk be shifted to hospital of choice: ‘Will pass order’
+[15:00] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[15:00] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[15:00] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+
+## 2026-07-21 15:15
+
+[15:15] **Hindustan Times**: Rahul Gandhi demands PM Modi's resignation over CJP protest crackdown
+[15:15] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[15:15] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[15:15] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[15:15] **Hindustan Times**: Delhi HC proposes Wangchuk be shifted to hospital of choice: ‘Will pass order’
+[15:15] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[15:15] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[15:15] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+
+## 2026-07-21 15:30
+
+[15:30] **Hindustan Times**: Rahul Gandhi demands PM Modi's resignation over CJP protest crackdown
+[15:30] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[15:30] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[15:30] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[15:30] **Hindustan Times**: Delhi HC allows Sonam Wangchuk to be shifted from govt hospital to pvt facility
+[15:30] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[15:30] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+[15:30] **Hindustan Times**: Those involved in NEET paper leak will be punished: PM Modi at NDA meet
+
+## 2026-07-21 15:45
+
+[15:45] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[15:45] **Hindustan Times**: Rahul leads protest outside PM house, demands resignations over CJP crackdown
+[15:45] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[15:45] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[15:45] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[15:45] **Hindustan Times**: Delhi HC allows Wangchuk to be shifted to pvt hospital, cites fundamental rights
+[15:45] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[15:45] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+
+## 2026-07-21 16:00
+
+[16:00] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[16:00] **Hindustan Times**: Rahul Gandhi leads march to PM house, demands resignations over CJP crackdown
+[16:00] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[16:00] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[16:00] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[16:00] **Hindustan Times**: Delhi HC allows Wangchuk to be shifted to pvt hospital, cites fundamental rights
+[16:00] **Hindustan Times**: Why were students seeking justice met with lathis, tear gas: Mallikarjun Kharge
+[16:00] **Hindustan Times**: CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+
+## 2026-07-21 16:15
+
+[16:15] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[16:15] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[16:15] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[16:15] **Hindustan Times**: Rahul Gandhi leads march to PM house over CJP crackdown: ‘Let's wake him up’
+[16:15] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[16:15] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[16:15] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[16:15] **Hindustan Times**: Delhi HC allows Wangchuk to be shifted to pvt hospital, cites fundamental rights
+
+## 2026-07-21 16:30
+
+[16:30] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[16:30] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[16:30] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[16:30] **Hindustan Times**: Rahul Gandhi leads march to PM house over CJP crackdown: ‘Let's wake him up’
+[16:30] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[16:30] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[16:30] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+[16:30] **Hindustan Times**: Delhi HC allows Wangchuk to be shifted to pvt hospital, cites fundamental rights
+
+## 2026-07-21 16:45
+
+[16:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[16:45] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[16:45] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[16:45] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[16:45] **Hindustan Times**: Rahul Gandhi leads march to PM house over CJP crackdown: ‘Let's wake him up’
+[16:45] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[16:45] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+[16:45] **Hindustan Times**: 'Nepal-style plans' vs 'mics turned off': Centre, Oppn spar over CJP protest
+
+## 2026-07-21 17:00
+
+[17:00] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[17:00] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[17:00] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[17:00] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[17:00] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[17:00] **Hindustan Times**: Rahul Gandhi leads march to PM house over CJP crackdown: ‘Let's wake him up’
+[17:00] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[17:00] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+
+## 2026-07-21 17:15
+
+[17:15] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[17:15] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[17:15] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[17:15] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[17:15] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[17:15] **Hindustan Times**: ‘Let's wake him’: Rahul leads march to PM house over CJP protest, govt softens
+[17:15] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[17:15] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+
+## 2026-07-21 17:30
+
+[17:30] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[17:30] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[17:30] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[17:30] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[17:30] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[17:30] **Hindustan Times**: ‘Let's wake him’: Rahul leads march to PM house over CJP protest, govt softens
+[17:30] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+[17:30] **Hindustan Times**: 'Gunda gardi': Uttarakhand HC slams police for detaining leader backing Wangchuk
+
+## 2026-07-21 17:45
+
+[17:45] **Hindustan Times**: 'Join dharna outside PM house': Rahul's big call over crackdown on CJP march
+[17:45] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[17:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[17:45] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[17:45] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[17:45] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[17:45] **Hindustan Times**: Govt softens as Rahul leads march to PM house over CJP protest: ‘Let's wake him’
+[17:45] **Hindustan Times**: ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+
+## 2026-07-21 18:00
+
+[18:00] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to partake in political activity
+[18:00] **Hindustan Times**: 'Join dharna outside PM house': Rahul's big call over crackdown on CJP march
+[18:00] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[18:00] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[18:00] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[18:00] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[18:00] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[18:00] **Hindustan Times**: Modi govt softens as Rahul digs in after march to PM residence over CJP protest
+
+## 2026-07-21 18:15
+
+[18:15] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to partake in political activity
+[18:15] **Hindustan Times**: 'Join us at dharna outside PM house': Rahul's big call over CJP march crackdown
+[18:15] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[18:15] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[18:15] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[18:15] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[18:15] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[18:15] **Hindustan Times**: Modi govt softens as Rahul digs in after march to PM residence over CJP protest
+
+## 2026-07-21 18:30
+
+[18:30] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to partake in political activity
+[18:30] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[18:30] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[18:30] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[18:30] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[18:30] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[18:30] **Hindustan Times**: Modi govt softens as Rahul digs in after march to PM residence over CJP protest
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 18:45
+
+[18:45] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[18:45] **Hindustan Times**: 'Attempt was made…': Minister on talks with Rahul at dharna over CJP crackdown
+[18:45] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[18:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[18:45] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[18:45] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[18:45] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 19:00
+
+[19:00] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[19:00] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[19:00] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[19:00] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[19:00] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[19:00] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[19:00] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 19:15
+
+[19:15] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[19:15] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[19:15] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[19:15] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[19:15] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[19:15] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[19:15] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 19:30
+
+[19:30] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[19:30] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[19:30] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[19:30] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[19:30] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[19:30] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[19:30] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 19:45
+
+[19:45] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[19:45] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[19:45] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[19:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[19:45] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[19:45] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[19:45] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 20:00
+
+[20:00] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[20:00] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[20:00] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[20:00] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[20:00] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[20:00] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[20:00] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 20:15
+
+[20:15] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[20:15] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[20:15] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[20:15] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[20:15] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[20:15] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[20:15] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 20:30
+
+[20:30] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[20:30] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[20:30] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[20:30] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[20:30] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[20:30] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[20:30] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 20:45
+
+[20:45] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[20:45] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[20:45] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[20:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[20:45] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[20:45] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[20:45] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 21:00
+
+[21:00] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[21:00] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[21:00] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[21:00] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[21:00] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[21:00] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[21:00] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-21 21:15
+
+[21:15] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[21:15] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[21:15] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[21:15] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[21:15] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[21:15] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[21:15] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+[21:15] **Hindustan Times**: Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+
+## 2026-07-21 21:30
+
+[21:30] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[21:30] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[21:30] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[21:30] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[21:30] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[21:30] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[21:30] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[21:30] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+
+## 2026-07-21 21:45
+
+[21:45] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[21:45] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[21:45] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[21:45] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[21:45] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[21:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[21:45] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+[21:45] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest

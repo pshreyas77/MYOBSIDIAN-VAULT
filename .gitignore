@@ -55,3 +55,7 @@ tmp/
 !_CLAUDE.md
 !MEMPALACE_INTEGRATION.md
 !CLAUDE_SECOND_BRAIN_INTEGRATION.md
+
+# MemPalace per-project files (issue #185)
+mempalace.yaml
+entities.json
