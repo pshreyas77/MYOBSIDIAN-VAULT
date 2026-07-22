@@ -1,5 +1,25 @@
 # Night Shift Log
 
+## [2026-07-22 06:XX] Editor Run | Linked 0 atoms, flagged 0 conflicts
+- New atoms processed: 0
+- Links added: 0
+- [FRICTION] blocks created: 0
+- Index updated: 0 entries
+- Orphan check: 0 new orphans — 5 pre-existing June atoms verified linked; vault is idle
+
+**Status:** No new atoms from Refinery Run (queue empty). Latest atom in `2-atoms/` is "Digital Garden — Definition.md" dated 2026-06-24 (28 days old). No linking, no friction, no index changes. Editor pipeline skipped — no new content to cartograph.
+
+---
+
+## [2026-07-21 23:XX] Scout Run | Processed 0 items
+- Intake: 0 new items found (0-raw: 2 files present but both predate last run; 00 - INBOX does not exist on disk)
+- Classified: 0 literature notes, 0 ideas, 0 meeting notes
+- Quarantined: 0 items
+- Path: `1-desk/<subtype>/`
+- Status: Scout: 0 new items (vault intake clean)
+
+---
+
 ## [2026-07-21 06:XX] Editor Run | Linked 0 atoms, flagged 0 conflicts
 - New atoms processed: 0
 - Links added: 0

@@ -717,3 +717,530 @@
 [21:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
 [21:45] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
 [21:45] **Hindustan Times**: ‘Severely injured, in ICU’: Family of 22-year-old injured in CJP protest
+
+## 2026-07-21 22:00
+
+[22:00] **Hindustan Times**: Cong-CJP situationship persists as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[22:00] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[22:00] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[22:00] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[22:00] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[22:00] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[22:00] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[22:00] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+
+## 2026-07-21 22:15
+
+[22:15] **Hindustan Times**: Cong-CJP situationship persists as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[22:15] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[22:15] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[22:15] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[22:15] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[22:15] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[22:15] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[22:15] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+
+## 2026-07-21 22:30
+
+[22:30] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[22:30] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[22:30] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[22:30] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[22:30] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[22:30] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[22:30] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[22:30] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+
+## 2026-07-21 22:45
+
+[22:45] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[22:45] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[22:45] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[22:45] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[22:45] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[22:45] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[22:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+[22:45] **Hindustan Times**: Day after CJP protest, farmers marching towards Delhi. What are their demands?
+
+## 2026-07-21 23:00
+
+[23:00] **Hindustan Times**: Online food deliveries, medicine stalls at Jantar Mantar as CJP support swells
+[23:00] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[23:00] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[23:00] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[23:00] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[23:00] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[23:00] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[23:00] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+
+## 2026-07-21 23:15
+
+[23:15] **Hindustan Times**: Online food deliveries, medicine stalls at Jantar Mantar as CJP support swells
+[23:15] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[23:15] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[23:15] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[23:15] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[23:15] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[23:15] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[23:15] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+
+## 2026-07-21 23:30
+
+[23:30] **Hindustan Times**: Online food deliveries, medicine stalls at Jantar Mantar as CJP support swells
+[23:30] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[23:30] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[23:30] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[23:30] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[23:30] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[23:30] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[23:30] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+
+## 2026-07-21 23:45
+
+[23:45] **Hindustan Times**: Online food deliveries, medicine stalls at Jantar Mantar as CJP support swells
+[23:45] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[23:45] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[23:45] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[23:45] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[23:45] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[23:45] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[23:45] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+
+## 2026-07-22 00:00
+
+[00:00] **Hindustan Times**: Online food deliveries, medicine stalls at Jantar Mantar as CJP support swells
+[00:00] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[00:00] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[00:00] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[00:00] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[00:00] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[00:00] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+[00:00] **Hindustan Times**: ‘I was hungry’: CJP sacks spokesperson as he defends leaving protest for burger
+
+## 2026-07-22 00:15
+
+[00:15] **Hindustan Times**: Dharmendra Pradhan's 1st reaction to CJP protest: Rahul using students as tools
+[00:15] **Hindustan Times**: Online food deliveries, medicine stalls at Jantar Mantar as CJP support swells
+[00:15] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[00:15] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[00:15] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[00:15] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[00:15] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[00:15] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+
+## 2026-07-22 00:30
+
+[00:30] **Hindustan Times**: Dharmendra Pradhan's 1st reaction to CJP protest: Rahul using students as tools
+[00:30] **Hindustan Times**: Online food deliveries, medicine stalls at Jantar Mantar as CJP support swells
+[00:30] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[00:30] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[00:30] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[00:30] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[00:30] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[00:30] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+
+## 2026-07-22 00:45
+
+[00:45] **Hindustan Times**: Dharmendra Pradhan's 1st reaction to CJP protest: Rahul using students as tools
+[00:45] **Hindustan Times**: Online food deliveries, medicine stalls at Jantar Mantar as CJP support swells
+[00:45] **Hindustan Times**: Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe
+[00:45] **Hindustan Times**: Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+[00:45] **Hindustan Times**: Worried but won’t ask him to step back, say Dipke’s parents after police action
+[00:45] **Hindustan Times**: Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
+[00:45] **Hindustan Times**: 'Tried to explain': Minister on talks with Rahul at dharna over CJP crackdown
+[00:45] **Hindustan Times**: IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued’
+
+## 2026-07-22 13:07
+
+[13:07] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[13:07] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[13:07] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[13:07] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[13:07] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[13:07] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[13:07] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+[13:07] **Hindustan Times**: 20 more CRPF companies rushed in from West Bengal amid CJP protests in Delhi
+
+## 2026-07-22 13:15
+
+[13:15] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[13:15] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[13:15] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[13:15] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[13:15] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[13:15] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[13:15] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+[13:15] **Hindustan Times**: 20 more CRPF companies rushed in from West Bengal amid CJP protests in Delhi
+
+## 2026-07-22 13:30
+
+[13:30] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[13:30] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[13:30] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[13:30] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[13:30] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[13:30] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[13:30] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+[13:30] **Hindustan Times**: 20 more CRPF companies rushed in from West Bengal amid CJP protests in Delhi
+
+## 2026-07-22 13:45
+
+[13:45] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[13:45] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[13:45] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[13:45] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[13:45] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[13:45] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[13:45] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+[13:45] **Hindustan Times**: 20 more CRPF companies rushed in from West Bengal amid CJP protests in Delhi
+
+## 2026-07-22 14:00
+
+[14:00] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[14:00] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[14:00] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[14:00] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[14:00] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[14:00] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[14:00] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+[14:00] **Hindustan Times**: 20 more CRPF companies rushed in from West Bengal amid CJP protests in Delhi
+
+## 2026-07-22 14:15
+
+[14:15] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[14:15] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[14:15] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[14:15] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[14:15] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[14:15] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[14:15] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+[14:15] **Hindustan Times**: 20 more CRPF companies rushed in from West Bengal amid CJP protests in Delhi
+
+## 2026-07-22 14:30
+
+[14:30] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[14:30] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[14:30] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[14:30] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[14:30] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[14:30] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[14:30] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+[14:30] **Hindustan Times**: 20 more CRPF companies rushed in from West Bengal amid CJP protests in Delhi
+
+## 2026-07-22 14:45
+
+[14:45] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[14:45] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[14:45] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[14:45] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[14:45] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[14:45] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[14:45] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+[14:45] **Hindustan Times**: 20 more CRPF companies rushed in from West Bengal amid CJP protests in Delhi
+
+## 2026-07-22 15:00
+
+[15:00] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[15:00] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[15:00] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[15:00] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[15:00] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[15:00] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[15:00] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+[15:00] **Hindustan Times**: CJP now has a fourth demand, says Ashutosh Ranka. Here's what it is
+
+## 2026-07-22 15:15
+
+[15:15] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[15:15] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[15:15] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[15:15] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[15:15] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[15:15] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[15:15] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[15:15] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+
+## 2026-07-22 15:30
+
+[15:30] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[15:30] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[15:30] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[15:30] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[15:30] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[15:30] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+[15:30] **Hindustan Times**: FIR registered over assault of two RAF personnel during CJP protests: Police
+[15:30] **Hindustan Times**: After NTA rejects OMR claims, NEET aspirant heads to Delhi for sit-in protest
+
+## 2026-07-22 15:45
+
+[15:45] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[15:45] **Hindustan Times**: ABVP condemns Jantar Mantar clashes, seeks panel to ensure exam transparency
+[15:45] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[15:45] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[15:45] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[15:45] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[15:45] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+[15:45] **Hindustan Times**: DMK president MK Stalin calls for scrapping of NEET examination
+
+## 2026-07-22 16:00
+
+[16:00] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[16:00] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[16:00] **Hindustan Times**: ABVP condemns Jantar Mantar clashes, seeks panel to ensure exam transparency
+[16:00] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[16:00] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[16:00] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[16:00] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[16:00] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+
+## 2026-07-22 16:15
+
+[16:15] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[16:15] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[16:15] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[16:15] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[16:15] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[16:15] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[16:15] **Hindustan Times**: Wangchuk, govt set to talk days after activist’s removal galvanised CJP protest
+[16:15] **Hindustan Times**: 'Don't waste our time': SC refuses urgent hearing on CJP protest plea
+
+## 2026-07-22 16:30
+
+[16:30] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[16:30] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[16:30] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[16:30] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[16:30] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[16:30] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[16:30] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-22 16:45
+
+[16:45] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[16:45] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[16:45] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[16:45] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[16:45] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[16:45] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[16:45] **Hindustan Times**: Dharmendra Pradhan's daughter disables Instagram amid online backlash, CJP row
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-22 17:00
+
+[17:00] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[17:00] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[17:00] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[17:00] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[17:00] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[17:00] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-22 17:15
+
+[17:15] **Hindustan Times**: Sonam Wangchuk claims govt assured him Pradhan's resignation would be considered
+[17:15] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[17:15] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[17:15] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[17:15] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[17:15] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[17:15] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[17:15] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+
+## 2026-07-22 17:30
+
+[17:30] **Hindustan Times**: Sonam Wangchuk claims govt assured him Pradhan's resignation would be considered
+[17:30] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[17:30] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[17:30] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[17:30] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[17:30] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[17:30] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+[17:30] **Hindustan Times**: LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
+
+## 2026-07-22 17:45
+
+[17:45] **Hindustan Times**: 'No punitive action against protesters': Sonam Wangchuk's condition to end fast
+[17:45] **Hindustan Times**: Sonam Wangchuk claims govt assured him Pradhan's resignation would be considered
+[17:45] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[17:45] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[17:45] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[17:45] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[17:45] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[17:45] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+
+## 2026-07-22 18:00
+
+[18:00] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[18:00] **Hindustan Times**: Sonam Wangchuk claims govt assured him Pradhan's resignation would be considered
+[18:00] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[18:00] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[18:00] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[18:00] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[18:00] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[18:00] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+
+## 2026-07-22 18:15
+
+[18:15] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[18:15] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[18:15] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[18:15] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[18:15] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[18:15] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[18:15] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+[18:15] **Hindustan Times**: 'Cried a lot': NEET AIR 1 topper recalls how exam cancellation shattered him
+
+## 2026-07-22 18:30
+
+[18:30] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[18:30] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[18:30] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[18:30] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[18:30] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[18:30] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[18:30] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[18:30] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+
+## 2026-07-22 18:45
+
+[18:45] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[18:45] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[18:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[18:45] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[18:45] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[18:45] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[18:45] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[18:45] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+
+## 2026-07-22 19:00
+
+[19:00] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[19:00] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[19:00] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[19:00] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[19:00] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[19:00] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[19:00] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[19:00] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+
+## 2026-07-22 19:15
+
+[19:15] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[19:15] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[19:15] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[19:15] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[19:15] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[19:15] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[19:15] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[19:15] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+
+## 2026-07-22 19:30
+
+[19:30] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[19:30] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[19:30] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[19:30] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[19:30] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[19:30] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[19:30] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+[19:30] **Hindustan Times**: ABVP condemns clashes at CJP protest: ‘Address student issues through…'
+
+## 2026-07-22 19:45
+
+[19:45] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[19:45] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[19:45] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[19:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[19:45] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[19:45] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[19:45] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[19:45] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+
+## 2026-07-22 20:00
+
+[20:00] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[20:00] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[20:00] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[20:00] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[20:00] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[20:00] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[20:00] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+[20:00] **Hindustan Times**: NSUI demands CBI, SFIO probe into ITPI recognition row; seeks Dharmendra Pradhan's resignation
+
+## 2026-07-22 20:15
+
+[20:15] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[20:15] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[20:15] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[20:15] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[20:15] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[20:15] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[20:15] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[20:15] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+
+## 2026-07-22 20:30
+
+[20:30] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[20:30] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[20:30] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[20:30] **Hindustan Times**: Sonam Wangchuk ready to end fast if govt assures no action against protesters
+[20:30] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[20:30] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[20:30] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[20:30] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+
+## 2026-07-22 20:45
+
+[20:45] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[20:45] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[20:45] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[20:45] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[20:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[20:45] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[20:45] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+[20:45] **Hindustan Times**: 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+
+## 2026-07-22 21:00
+
+[21:00] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[21:00] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[21:00] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[21:00] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[21:00] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[21:00] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[21:00] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[21:00] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+
+## 2026-07-22 21:15
+
+[21:15] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[21:15] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[21:15] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[21:15] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[21:15] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[21:15] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[21:15] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[21:15] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+
+## 2026-07-22 21:30
+
+[21:30] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[21:30] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[21:30] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[21:30] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[21:30] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[21:30] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[21:30] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[21:30] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+
+## 2026-07-22 21:45
+
+[21:45] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[21:45] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[21:45] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[21:45] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[21:45] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[21:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[21:45] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[21:45] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
