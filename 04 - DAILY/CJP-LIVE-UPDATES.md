@@ -1244,3 +1244,179 @@
 [21:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
 [21:45] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
 [21:45] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+
+## 2026-07-22 22:00
+
+[22:00] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[22:00] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[22:00] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[22:00] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[22:00] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[22:00] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[22:00] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[22:00] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+
+## 2026-07-22 22:15
+
+[22:15] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[22:15] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[22:15] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[22:15] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[22:15] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[22:15] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[22:15] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+[22:15] **Hindustan Times**: Govt offers NEET talks; CJP rejects 'anyone's house' as venue: What's happening?
+
+## 2026-07-22 22:30
+
+[22:30] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[22:30] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[22:30] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[22:30] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[22:30] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[22:30] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[22:30] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+[22:30] **Hindustan Times**: Rahul Gandhi says Pradhan ‘incapable’ of being edu minister, skips CJP mention
+
+## 2026-07-22 22:45
+
+[22:45] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[22:45] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[22:45] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[22:45] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[22:45] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[22:45] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[22:45] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[22:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-22 23:45
+
+[23:45] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[23:45] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[23:45] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[23:45] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[23:45] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[23:45] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[23:45] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[23:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 00:00
+
+[00:00] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[00:00] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[00:00] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[00:00] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[00:00] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[00:00] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[00:00] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[00:00] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 00:15
+
+[00:15] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[00:15] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[00:15] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[00:15] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[00:15] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[00:15] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[00:15] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[00:15] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 00:30
+
+[00:30] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[00:30] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[00:30] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[00:30] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[00:30] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[00:30] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[00:30] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[00:30] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 00:45
+
+[00:45] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[00:45] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[00:45] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[00:45] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[00:45] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[00:45] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[00:45] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[00:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 01:00
+
+[01:00] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[01:00] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[01:00] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[01:00] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[01:00] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[01:00] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[01:00] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[01:00] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 01:15
+
+[01:15] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[01:15] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[01:15] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[01:15] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[01:15] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[01:15] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[01:15] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[01:15] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 01:30
+
+[01:30] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[01:30] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[01:30] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[01:30] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[01:30] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[01:30] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[01:30] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[01:30] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 01:45
+
+[01:45] **Hindustan Times**: Why is RAF officer Sonia Sehrawat in focus amid CJP protest?
+[01:45] **Hindustan Times**: 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest
+[01:45] **Hindustan Times**: Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+[01:45] **Hindustan Times**: 'Nation needs you': Opposition MPs appeal to Sonam Wangchuk to end fast
+[01:45] **Hindustan Times**: Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+[01:45] **Hindustan Times**: In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+[01:45] **Hindustan Times**: Wangchuk ready to end fast today if govt assures of no action against protesters
+[01:45] **Hindustan Times**: Wangchuk claims govt assured it would consider talks on Pradhan's resignation
+
+## 2026-07-23 21:20
+
+[21:20] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[21:20] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[21:20] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[21:20] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[21:20] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[21:20] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[21:20] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+[21:20] **Hindustan Times**: CJP calls nationwide protest tomorrow against 'police brutality' on students
+
+## 2026-07-23 21:30
+
+[21:30] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[21:30] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[21:30] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[21:30] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[21:30] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[21:30] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[21:30] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+[21:30] **Hindustan Times**: CJP calls nationwide protest tomorrow against 'police brutality' on students
+
+## 2026-07-23 21:45
+
+[21:45] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[21:45] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[21:45] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[21:45] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[21:45] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[21:45] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[21:45] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+[21:45] **Hindustan Times**: CJP calls nationwide protest tomorrow against 'police brutality' on students
