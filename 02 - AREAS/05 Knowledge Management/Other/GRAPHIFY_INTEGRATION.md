@@ -114,5 +114,66 @@ graphify . --output graphify-out/
 
 ---
 
-**Note:** Graphify was developed by Safi Shamsi. See the full documentation at:
-https://github.com/safishamsi/graphify
+## Dead Community Links Auto-Fix (added 2026-07-24)
+
+### The bug
+
+Every cluster-analysis rerun (`graphify cluster-only`) regenerates a
+`## Community Hubs (Navigation)` block in `graphify-out/GRAPH_REPORT.md`
+containing ~2,500 wiki-links like `[[_COMMUNITY_Community N|Community N]]`
+that point to files **graphify never creates**. In Obsidian, clicking any of
+those links opens a blank page.
+
+### The fix
+
+Three pieces, layered for resilience:
+
+#### 1. Post-processor script
+
+`E:/_Dev_Tools/graphify/scripts/fix-community-links.py` rewrites the
+dead-link block as Obsidian in-file anchors to the `### Community N - ...`
+headings that **are** generated inline elsewhere in the same report.
+
+Idempotent. Atomic write via `os.replace`. Backups at
+`GRAPH_REPORT.md.pre-fix-<YYYYMMDDTHHMMSS>` next to the report.
+
+```bash
+"C:/Users/shrey/AppData/Local/Programs/Python/Python314/python.exe" \
+  E:/_Dev_Tools/graphify/scripts/fix-community-links.py \
+  --report E:/_Knowledge/ObsidianVault/graphify-out/GRAPH_REPORT.md
+```
+
+#### 2. Wrapper
+
+`E:/_Dev_Tools/graphify/scripts/graphify-with-fix.py` chains the fix after
+any graphify invocation. Use it instead of calling `graphify` directly:
+
+```bash
+"C:/Users/shrey/AppData/Local/Programs/Python/Python314/python.exe" \
+  E:/_Dev_Tools/graphify/scripts/graphify-with-fix.py cluster-only .
+```
+
+The wrapper continues to apply the fix even if graphify itself errors out.
+
+#### 3. Cron hook
+
+The `vault-maintenance` cron (job_id `8c79d585c3b5`, runs nightly at 02:00
+IST) now invokes the wrapper instead of bare graphify. After this commit,
+dead community links **cannot reappear** without manual intervention.
+
+### What used to happen
+
+Up to 2026-07-23, every graphify regen (typically daily via the Night Shift
+runs) re-emitted ~2,500 dead links. The previous fix had to be applied
+manually after each regen; we missed the Jul-23 regen and the report had
+been broken for ~30 hours before this round was applied + automated.
+
+### Status
+
+Confirmed working as of 2026-07-24:
+- 2,507 dead `_COMMUNITY_` wiki-links removed
+- 1,121 in-file anchors generated
+- 1,121 of those resolve to real `### Community N - ...` headings
+- 0 unresolvable numbered communities (the 1 unmatched link is a thin
+  community graphify deliberately skipped)
+- File size: 366 KB -> 354 KB
