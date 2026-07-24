@@ -1420,3 +1420,607 @@
 [21:45] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
 [21:45] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
 [21:45] **Hindustan Times**: CJP calls nationwide protest tomorrow against 'police brutality' on students
+
+## 2026-07-23 22:00
+
+[22:00] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[22:00] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[22:00] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[22:00] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[22:00] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[22:00] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[22:00] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+[22:00] **Hindustan Times**: CJP calls nationwide protest tomorrow against 'police brutality' on students
+
+## 2026-07-23 22:15
+
+[22:15] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[22:15] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[22:15] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[22:15] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[22:15] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[22:15] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[22:15] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[22:15] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-23 22:30
+
+[22:30] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[22:30] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[22:30] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[22:30] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[22:30] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[22:30] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[22:30] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[22:30] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-23 22:45
+
+[22:45] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[22:45] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[22:45] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[22:45] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[22:45] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[22:45] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[22:45] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[22:45] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-23 23:00
+
+[23:00] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[23:00] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[23:00] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[23:00] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[23:00] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[23:00] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[23:00] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[23:00] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-23 23:15
+
+[23:15] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[23:15] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[23:15] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[23:15] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[23:15] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[23:15] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[23:15] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[23:15] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-23 23:30
+
+[23:30] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[23:30] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[23:30] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[23:30] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[23:30] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[23:30] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[23:30] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[23:30] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-23 23:45
+
+[23:45] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[23:45] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[23:45] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[23:45] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[23:45] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[23:45] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[23:45] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[23:45] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-24 00:00
+
+[00:00] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[00:00] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[00:00] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[00:00] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[00:00] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[00:00] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[00:00] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[00:00] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-24 00:15
+
+[00:15] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[00:15] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[00:15] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[00:15] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[00:15] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[00:15] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[00:15] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[00:15] **Hindustan Times**: SC lawyers recite Preamble seeking justice for students, CJP thanks them
+
+## 2026-07-24 00:30
+
+[00:30] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[00:30] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[00:30] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[00:30] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[00:30] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[00:30] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[00:30] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[00:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 00:45
+
+[00:45] **Hindustan Times**: 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+[00:45] **Hindustan Times**: Dharmendra Pradhan once led a student protest against a paper leak: Report
+[00:45] **Hindustan Times**: CJP lists names of 34 cities protesting in support. Check here
+[00:45] **Hindustan Times**: Pakistan asked about ongoing CJP protests in India. Their reply
+[00:45] **Hindustan Times**: 'Your resignation...': Dipke's message to PM Modi, calls to remove Pradhan
+[00:45] **Hindustan Times**: Delhi's CP advised to shut early, CJP doubts move: 'What's govt up to?'
+[00:45] **Hindustan Times**: CJP protest: Why was Abhijeet Dipke not at Jantar Mantar today?
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 11:23
+
+[11:23] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[11:23] **Hindustan Times**: 'Desperate, hollow': Opposition reacts to PM's midnight video on NEET paper leak
+[11:23] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[11:23] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[11:23] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[11:23] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[11:23] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+[11:23] **Hindustan Times**: Students told to fete ‘NEET Champions’
+
+## 2026-07-24 11:30
+
+[11:30] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[11:30] **Hindustan Times**: 'Desperate, hollow': Opposition reacts to PM's midnight video on NEET paper leak
+[11:30] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[11:30] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[11:30] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[11:30] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[11:30] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+[11:30] **Hindustan Times**: Students told to fete ‘NEET Champions’
+
+## 2026-07-24 11:45
+
+[11:45] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[11:45] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[11:45] **Hindustan Times**: 'Desperate, hollow': Opposition reacts to PM's midnight video on NEET paper leak
+[11:45] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[11:45] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[11:45] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[11:45] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[11:45] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+
+## 2026-07-24 12:00
+
+[12:00] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[12:00] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[12:00] **Hindustan Times**: 'Desperate, hollow': Opposition reacts to PM's midnight video on NEET paper leak
+[12:00] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[12:00] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[12:00] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[12:00] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[12:00] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+
+## 2026-07-24 12:15
+
+[12:15] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[12:15] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[12:15] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[12:15] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[12:15] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[12:15] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[12:15] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+[12:15] **Hindustan Times**: Students told to fete ‘NEET Champions’
+
+## 2026-07-24 12:30
+
+[12:30] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[12:30] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[12:30] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[12:30] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[12:30] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[12:30] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[12:30] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+[12:30] **Hindustan Times**: Students told to fete ‘NEET Champions’
+
+## 2026-07-24 12:45
+
+[12:45] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[12:45] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[12:45] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[12:45] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[12:45] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[12:45] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[12:45] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+[12:45] **Hindustan Times**: Students told to fete ‘NEET Champions’
+
+## 2026-07-24 13:00
+
+[13:00] **Hindustan Times**: ‘No plea filed on CJP protest police action’: CJI fumes at ‘reckless reporting’
+[13:00] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[13:00] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[13:00] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[13:00] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[13:00] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[13:00] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[13:00] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+
+## 2026-07-24 13:15
+
+[13:15] **Hindustan Times**: ‘No plea filed on CJP protest police action’: CJI fumes at ‘reckless reporting’
+[13:15] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[13:15] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[13:15] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[13:15] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[13:15] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[13:15] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[13:15] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+
+## 2026-07-24 13:30
+
+[13:30] **Hindustan Times**: ‘No plea filed on CJP protest police action’: CJI fumes at ‘reckless reporting’
+[13:30] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[13:30] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[13:30] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[13:30] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[13:30] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[13:30] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[13:30] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+
+## 2026-07-24 13:45
+
+[13:45] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[13:45] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[13:45] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[13:45] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[13:45] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[13:45] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[13:45] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[13:45] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+
+## 2026-07-24 14:00
+
+[14:00] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[14:00] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[14:00] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[14:00] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[14:00] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[14:00] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[14:00] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+[14:00] **Hindustan Times**: ‘No cases against July 20 protesters’: Wangchuk shares govt's written assurance
+
+## 2026-07-24 14:15
+
+[14:15] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[14:15] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[14:15] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[14:15] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[14:15] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[14:15] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[14:15] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+[14:15] **Hindustan Times**: CJP protest prompts rare selfie message from Modi on paper leak: What PM said
+
+## 2026-07-24 14:30
+
+[14:30] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[14:30] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[14:30] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[14:30] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[14:30] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[14:30] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[14:30] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[14:30] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+
+## 2026-07-24 14:45
+
+[14:45] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[14:45] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[14:45] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[14:45] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[14:45] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[14:45] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[14:45] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[14:45] **Hindustan Times**: Students told to fete ‘NEET Champions’ amid paper leak protests; sparks backlash
+
+## 2026-07-24 15:00
+
+[15:00] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[15:00] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[15:00] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[15:00] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[15:00] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[15:00] **Hindustan Times**: Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
+[15:00] **Hindustan Times**: CJP set to hold talks with govt at Constitution Club
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 15:15
+
+[15:15] **Hindustan Times**: SC seeks Centre’s stand on computer-based NEET-UG exams, data security reforms
+[15:15] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+[15:15] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[15:15] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[15:15] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[15:15] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[15:15] **Hindustan Times**: Delhi HC to hear plea against internet shutdown near Jantar Mantar protest site
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 15:30
+
+[15:30] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[15:30] **Hindustan Times**: SC seeks Centre’s stand on computer-based NEET-UG exams, data security reforms
+[15:30] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+[15:30] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[15:30] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[15:30] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[15:30] **Hindustan Times**: New edu secretary, Wangchuk ends fast: Overnight developments amid CJP protest
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 15:45
+
+[15:45] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[15:45] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[15:45] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+[15:45] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[15:45] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[15:45] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 16:00
+
+[16:00] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[16:00] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[16:00] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[16:00] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[16:00] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+[16:00] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[16:00] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[16:00] **Hindustan Times**: ‘No plea filed on police action on CJP protest’: CJI slams ‘reckless reporting’
+
+## 2026-07-24 16:15
+
+[16:15] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[16:15] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[16:15] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[16:15] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[16:15] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+[16:15] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[16:15] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 16:30
+
+[16:30] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[16:30] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[16:30] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[16:30] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[16:30] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+[16:30] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[16:30] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 16:45
+
+[16:45] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[16:45] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[16:45] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[16:45] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[16:45] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+[16:45] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[16:45] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 17:00
+
+[17:00] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[17:00] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[17:00] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[17:00] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[17:00] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[17:00] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+[17:00] **Hindustan Times**: Why Oppn wants NEET paper leak to be taken up in Parliament this way
+[17:00] **Hindustan Times**: Rahul Gandhi, Oppn leaders slam DU's Jantar Mantar advisory: ‘How dare you’
+
+## 2026-07-24 17:15
+
+[17:15] **Hindustan Times**: Meeting MPs, reposting PM's video: What Pradhan is doing amid resignation chorus
+[17:15] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[17:15] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[17:15] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[17:15] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[17:15] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[17:15] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[17:15] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+
+## 2026-07-24 17:30
+
+[17:30] **Hindustan Times**: What Pradhan is doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[17:30] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[17:30] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[17:30] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[17:30] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[17:30] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[17:30] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[17:30] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+
+## 2026-07-24 17:45
+
+[17:45] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[17:45] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[17:45] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[17:45] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[17:45] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[17:45] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[17:45] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[17:45] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+
+## 2026-07-24 18:00
+
+[18:00] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[18:00] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[18:00] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[18:00] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[18:00] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[18:00] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[18:00] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[18:00] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+
+## 2026-07-24 18:15
+
+[18:15] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[18:15] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[18:15] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[18:15] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[18:15] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[18:15] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[18:15] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[18:15] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+
+## 2026-07-24 18:30
+
+[18:30] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[18:30] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[18:30] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[18:30] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[18:30] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[18:30] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[18:30] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+[18:30] **Hindustan Times**: 'Govt sought time till tomorrow on Dharmendra Pradhan's resignation demand': CJP
+
+## 2026-07-24 18:45
+
+[18:45] **Hindustan Times**: ‘Hacker's here’: Nisarga, who exposed CBSE site, joins CJP Jantar Mantar protest
+[18:45] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[18:45] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[18:45] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[18:45] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[18:45] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[18:45] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[18:45] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+
+## 2026-07-24 19:00
+
+[19:00] **Hindustan Times**: ‘Hacker's here’: Nisarga, who exposed CBSE site, joins CJP Jantar Mantar protest
+[19:00] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[19:00] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[19:00] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[19:00] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[19:00] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[19:00] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[19:00] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+
+## 2026-07-24 19:15
+
+[19:15] **Hindustan Times**: ‘Hacker's here’: Nisarga, who exposed CBSE site, joins CJP Jantar Mantar protest
+[19:15] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[19:15] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[19:15] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[19:15] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[19:15] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[19:15] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[19:15] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+
+## 2026-07-24 19:30
+
+[19:30] **Hindustan Times**: ‘Hacker's here’: Nisarga, who exposed CBSE site, joins CJP Jantar Mantar protest
+[19:30] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[19:30] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[19:30] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[19:30] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[19:30] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[19:30] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[19:30] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+
+## 2026-07-24 19:45
+
+[19:45] **Hindustan Times**: ‘Hacker's here’: Nisarga, who exposed CBSE site, joins CJP Jantar Mantar protest
+[19:45] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[19:45] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[19:45] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[19:45] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[19:45] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[19:45] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[19:45] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+
+## 2026-07-24 20:00
+
+[20:00] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[20:00] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[20:00] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[20:00] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[20:00] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[20:00] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[20:00] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[20:00] **Hindustan Times**: 'Can't let it go on like this': SC seeks govt's stand on NEET-UG, data security
+
+## 2026-07-24 20:15
+
+[20:15] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[20:15] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[20:15] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[20:15] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[20:15] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[20:15] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[20:15] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 20:30
+
+[20:30] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[20:30] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[20:30] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[20:30] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[20:30] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[20:30] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+[20:30] **Hindustan Times**: 'Govt will try to detain us tonight': Dipke raises alarm as protests intensify
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 20:45
+
+[20:45] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[20:45] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[20:45] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[20:45] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[20:45] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[20:45] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[20:45] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[20:45] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+
+## 2026-07-24 21:00
+
+[21:00] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[21:00] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[21:00] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[21:00] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[21:00] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[21:00] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[21:00] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[21:00] **Hindustan Times**: Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’
+
+## 2026-07-24 21:15
+
+[21:15] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[21:15] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[21:15] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[21:15] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[21:15] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[21:15] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[21:15] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 21:30
+
+[21:30] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[21:30] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[21:30] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[21:30] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[21:30] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[21:30] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[21:30] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 21:45
+
+[21:45] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[21:45] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[21:45] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[21:45] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[21:45] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[21:45] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[21:45] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
