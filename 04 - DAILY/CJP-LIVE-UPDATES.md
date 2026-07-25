@@ -2024,3 +2024,628 @@
 [21:45] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
 [21:45] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 22:00
+
+[22:00] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[22:00] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[22:00] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[22:00] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[22:00] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[22:00] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[22:00] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 22:15
+
+[22:15] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[22:15] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[22:15] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[22:15] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[22:15] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[22:15] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[22:15] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 22:30
+
+[22:30] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[22:30] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[22:30] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[22:30] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[22:30] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[22:30] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[22:30] **Hindustan Times**: ‘To say is one thing…’: Viral Mumbai model on PM Modi's assurance on NEET leak
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 22:45
+
+[22:45] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[22:45] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[22:45] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[22:45] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[22:45] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[22:45] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 23:00
+
+[23:00] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[23:00] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[23:00] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[23:00] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[23:00] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+[23:00] **Hindustan Times**: CJP-govt meeting lasts 2 hours, both sides share their version. Who said what
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-24 23:15
+
+[23:15] **Hindustan Times**: Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+[23:15] **Hindustan Times**: After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+[23:15] **Hindustan Times**: Nirmala Sitharaman's remarks on paper leaks sparks row, Oppn, CJP criticise her
+[23:15] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[23:15] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[23:15] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[23:15] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[23:15] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+
+## 2026-07-24 23:30
+
+[23:30] **Hindustan Times**: Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+[23:30] **Hindustan Times**: After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+[23:30] **Hindustan Times**: Nirmala Sitharaman's remarks on paper leaks sparks row, Oppn, CJP criticise her
+[23:30] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[23:30] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[23:30] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[23:30] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+[23:30] **Hindustan Times**: ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends
+
+## 2026-07-24 23:45
+
+[23:45] **Hindustan Times**: Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
+[23:45] **Hindustan Times**: Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+[23:45] **Hindustan Times**: After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+[23:45] **Hindustan Times**: Nirmala Sitharaman's remarks on paper leaks sparks row, Oppn, CJP criticise her
+[23:45] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[23:45] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[23:45] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[23:45] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+
+## 2026-07-25 00:00
+
+[00:00] **Hindustan Times**: Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
+[00:00] **Hindustan Times**: Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+[00:00] **Hindustan Times**: After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+[00:00] **Hindustan Times**: Nirmala Sitharaman's remarks on paper leaks sparks row, Oppn, CJP criticise her
+[00:00] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[00:00] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[00:00] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[00:00] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+
+## 2026-07-25 00:15
+
+[00:15] **Hindustan Times**: Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
+[00:15] **Hindustan Times**: Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+[00:15] **Hindustan Times**: After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+[00:15] **Hindustan Times**: Nirmala Sitharaman's remarks on paper leaks sparks row, Oppn, CJP criticise her
+[00:15] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[00:15] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[00:15] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+[00:15] **Hindustan Times**: What's Pradhan doing amid ‘resign’ chorus: Group pic with MPs, sharing PM video
+
+## 2026-07-25 00:30
+
+[00:30] **Hindustan Times**: Sonam Wangchuk hits back at 'deal with govt' allegations after breaking fast
+[00:30] **Hindustan Times**: Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
+[00:30] **Hindustan Times**: Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+[00:30] **Hindustan Times**: After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+[00:30] **Hindustan Times**: Nirmala Sitharaman's remarks on paper leaks sparks row, Oppn, CJP criticise her
+[00:30] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[00:30] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[00:30] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+
+## 2026-07-25 00:45
+
+[00:45] **Hindustan Times**: Sonam Wangchuk hits back at 'deal with govt' allegations after breaking fast
+[00:45] **Hindustan Times**: Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
+[00:45] **Hindustan Times**: Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+[00:45] **Hindustan Times**: After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+[00:45] **Hindustan Times**: Nirmala Sitharaman's remarks on paper leaks sparks row, Oppn, CJP criticise her
+[00:45] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[00:45] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[00:45] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+
+## 2026-07-25 01:00
+
+[01:00] **Hindustan Times**: Sonam Wangchuk hits back at 'deal with govt' allegations after breaking fast
+[01:00] **Hindustan Times**: Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
+[01:00] **Hindustan Times**: Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+[01:00] **Hindustan Times**: After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+[01:00] **Hindustan Times**: Nirmala Sitharaman's remarks on paper leaks sparks row, Oppn, CJP criticise her
+[01:00] **Hindustan Times**: Who is Vineet Joshi? Top bureaucrat removed as higher education secretary
+[01:00] **Hindustan Times**: Union minister Ravneet Singh Bittu quits post, President accepts resignation
+[01:00] **Hindustan Times**: ‘Energy here is truly crazy’: Nisarga, who hacked CBSE portal, joins CJP protest
+
+## 2026-07-25 11:12
+
+[11:12] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[11:12] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[11:12] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[11:12] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[11:12] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[11:12] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+[11:12] **Hindustan Times**: Mamata Banerjee likely to join CJP protest at Jantar Mantar on Monday
+[11:12] **Hindustan Times**: Govt steps up bid to end impasse, CJP firm on Dharmendra Pradhan’s exit
+
+## 2026-07-25 11:15
+
+[11:15] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[11:15] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[11:15] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[11:15] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[11:15] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[11:15] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+[11:15] **Hindustan Times**: Mamata Banerjee likely to join CJP protest at Jantar Mantar on Monday
+[11:15] **Hindustan Times**: Govt steps up bid to end impasse, CJP firm on Dharmendra Pradhan’s exit
+
+## 2026-07-25 11:30
+
+[11:30] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[11:30] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[11:30] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[11:30] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[11:30] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[11:30] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+[11:30] **Hindustan Times**: Mamata Banerjee likely to join CJP protest at Jantar Mantar on Monday
+[11:30] **Hindustan Times**: Govt steps up bid to end impasse, CJP firm on Dharmendra Pradhan’s exit
+
+## 2026-07-25 11:45
+
+[11:45] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[11:45] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[11:45] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[11:45] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[11:45] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[11:45] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+[11:45] **Hindustan Times**: Mamata Banerjee likely to join CJP protest at Jantar Mantar on Monday
+[11:45] **Hindustan Times**: Govt steps up bid to end impasse, CJP firm on Dharmendra Pradhan’s exit
+
+## 2026-07-25 12:00
+
+[12:00] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[12:00] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[12:00] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[12:00] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[12:00] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[12:00] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+[12:00] **Hindustan Times**: Mamata Banerjee likely to join CJP protest at Jantar Mantar on Monday
+[12:00] **Hindustan Times**: Govt steps up bid to end impasse, CJP firm on Dharmendra Pradhan’s exit
+
+## 2026-07-25 12:15
+
+[12:15] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[12:15] **Hindustan Times**: ‘If I die…’: Wangchuk's stand off with police in hospital goes viral
+[12:15] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[12:15] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[12:15] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[12:15] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[12:15] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[12:15] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+
+## 2026-07-25 12:30
+
+[12:30] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[12:30] **Hindustan Times**: ‘If I die…’: Wangchuk's stand off with police in hospital goes viral
+[12:30] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[12:30] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[12:30] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[12:30] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[12:30] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[12:30] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+
+## 2026-07-25 12:45
+
+[12:45] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[12:45] **Hindustan Times**: ‘If I die…’: Wangchuk's stand off with police in hospital goes viral
+[12:45] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[12:45] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[12:45] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[12:45] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[12:45] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[12:45] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+
+## 2026-07-25 13:00
+
+[13:00] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[13:00] **Hindustan Times**: ‘If I die…’: Wangchuk's stand off with police in hospital goes viral
+[13:00] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[13:00] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[13:00] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[13:00] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[13:00] **Hindustan Times**: Opposition sticks to Pradhan resignation demand, Parliament stalemate continues
+[13:00] **Hindustan Times**: Opposition may finalise paper leak bill stand on Monday amid CJP protest
+
+## 2026-07-25 13:15
+
+[13:15] **Hindustan Times**: Delhi liquor shops to close by 8 pm over weekend amid CJP protest
+[13:15] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[13:15] **Hindustan Times**: ‘If I die…’: Wangchuk's stand off with police in hospital goes viral
+[13:15] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[13:15] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[13:15] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[13:15] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-25 13:30
+
+[13:30] **Hindustan Times**: Focus should be on reforming education system, not Pradhan’s resignation: BSP chief Mayawati
+[13:30] **Hindustan Times**: Delhi liquor shops to close by 8 pm over weekend amid CJP protest
+[13:30] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[13:30] **Hindustan Times**: ‘If I die…’: Wangchuk's stand off with police in hospital goes viral
+[13:30] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[13:30] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[13:30] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[13:30] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+
+## 2026-07-25 13:45
+
+[13:45] **Hindustan Times**: Focus should be on reforming education system, not Pradhan’s resignation: BSP chief Mayawati
+[13:45] **Hindustan Times**: Delhi liquor shops to close by 8 pm over weekend amid CJP protest
+[13:45] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[13:45] **Hindustan Times**: ‘If I die…’: Wangchuk's stand off with police in hospital goes viral
+[13:45] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[13:45] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[13:45] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+[13:45] **Hindustan Times**: Bandh over NEET leak shuts schools, colleges in Telangana
+
+## 2026-07-25 14:00
+
+[14:00] **Hindustan Times**: ‘Dharmendra Pradhan must resign; ministry shift not acceptable’: Rahul Gandhi
+[14:00] **Hindustan Times**: Focus should be on reforming education system, not Pradhan’s resignation: BSP chief Mayawati
+[14:00] **Hindustan Times**: Delhi liquor shops to close by 8 pm over weekend amid CJP protest
+[14:00] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[14:00] **Hindustan Times**: ‘If I die…’: Wangchuk's standoff with police in hospital goes viral
+[14:00] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[14:00] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+[14:00] **Hindustan Times**: PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+
+## 2026-07-25 14:15
+
+[14:15] **Hindustan Times**: ‘Police are everywhere’: Wangchuk's wife questions deployment at Medanta
+[14:15] **Hindustan Times**: ‘Dharmendra Pradhan must resign; ministry shift not acceptable’: Rahul Gandhi
+[14:15] **Hindustan Times**: Focus should be on reforming education system, not Pradhan’s resignation: BSP chief Mayawati
+[14:15] **Hindustan Times**: Delhi liquor shops to close by 8 pm over weekend amid CJP protest
+[14:15] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[14:15] **Hindustan Times**: ‘If I die…’: Wangchuk's standoff with police in hospital goes viral
+[14:15] **Hindustan Times**: CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+[14:15] **Hindustan Times**: 'Yes or no': CJP seeks clarity on Pradhan's resignation from govt amid talks
+
+## 2026-07-25 14:30
+
+[14:30] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid massive uproar
+[14:30] **Hindustan Times**: Faster trials, longer jail terms: 2026 bill on paper leak amid Cockroach protest
+[14:30] **Hindustan Times**: ‘Police are everywhere’: Wangchuk's wife questions deployment at Medanta
+[14:30] **Hindustan Times**: ‘Dharmendra Pradhan must resign; ministry shift not acceptable’: Rahul Gandhi
+[14:30] **Hindustan Times**: Focus should be on reforming education system, not Pradhan’s resignation: BSP chief Mayawati
+[14:30] **Hindustan Times**: Delhi liquor shops to close by 8 pm over weekend amid CJP protest
+[14:30] **Hindustan Times**: 'Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+[14:30] **Hindustan Times**: ‘If I die…’: Wangchuk's standoff with police in hospital goes viral
+
+## 2026-07-25 14:45
+
+[14:45] **Hindustan Times**: 'Long live student power': CJP celebrates Dharmendra Pradhan's resignation
+[14:45] **Hindustan Times**: Dharmendra Pradhan's resignation letter: ‘To ensure anti-national forces don't…’
+[14:45] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid massive uproar
+[14:45] **Hindustan Times**: Faster trials, longer jail terms: 2026 bill on paper leak amid Cockroach protest
+[14:45] **Hindustan Times**: ‘Police are everywhere’: Wangchuk's wife questions deployment at Medanta
+[14:45] **Hindustan Times**: ‘Dharmendra Pradhan must resign; ministry shift not acceptable’: Rahul Gandhi
+[14:45] **Hindustan Times**: Focus should be on reforming education system, not Pradhan’s resignation: BSP chief Mayawati
+[14:45] **Hindustan Times**: Delhi liquor shops to close by 8 pm over weekend amid CJP protest
+
+## 2026-07-25 15:00
+
+[15:00] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid on-going protest
+[15:00] **Hindustan Times**: 'Long live student power': CJP celebrates Dharmendra Pradhan's resignation
+[15:00] **Hindustan Times**: Dharmendra Pradhan's resignation letter: ‘To ensure anti-national forces don't…’
+[15:00] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid massive uproar
+[15:00] **Hindustan Times**: Faster trials, longer jail terms: 2026 bill on paper leak amid Cockroach protest
+[15:00] **Hindustan Times**: ‘Police are everywhere’: Wangchuk's wife questions deployment at Medanta
+[15:00] **Hindustan Times**: ‘Dharmendra Pradhan must resign; ministry shift not acceptable’: Rahul Gandhi
+[15:00] **Hindustan Times**: Focus should be on reforming education system, not Pradhan’s resignation: BSP chief Mayawati
+
+## 2026-07-25 15:15
+
+[15:15] **Hindustan Times**: Pradhan's resignation breaks with Modi govt's long-held line, ‘this is not UPA’
+[15:15] **Hindustan Times**: Abhijeet Dipke reacts as Dharmendra Pradhan resigns: 'Just the beginning…'
+[15:15] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid on-going protest
+[15:15] **Hindustan Times**: 'Chhatra shakti zindabad': CJP celebrates Dharmendra Pradhan's resignation
+[15:15] **Hindustan Times**: Dharmendra Pradhan's resignation letter: ‘To ensure anti-national forces don't…’
+[15:15] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid massive uproar
+[15:15] **Hindustan Times**: Faster trials, longer jail terms: 2026 bill on paper leak amid Cockroach protest
+[15:15] **Hindustan Times**: ‘Police are everywhere’: Wangchuk's wife questions deployment at Medanta
+
+## 2026-07-25 15:30
+
+[15:30] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+[15:30] **Hindustan Times**: What's 'pending' after Dharmedra Pradhan resigns: CJP lists updated demands
+[15:30] **Hindustan Times**: Pradhan's resignation breaks with Modi govt's long-held ‘this is not UPA’ line
+[15:30] **Hindustan Times**: Abhijeet Dipke reacts as Dharmendra Pradhan resigns: 'Just the beginning'
+[15:30] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid on-going protest
+[15:30] **Hindustan Times**: 'Chhatra shakti zindabad': CJP celebrates Dharmendra Pradhan's resignation
+[15:30] **Hindustan Times**: Dharmendra Pradhan's resignation letter: ‘To ensure anti-national forces don't…’
+[15:30] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid massive uproar
+
+## 2026-07-25 15:45
+
+[15:45] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+[15:45] **Hindustan Times**: ‘Thanks for calling us cockroaches’: Dipke's message for CJI as minister quits
+[15:45] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+[15:45] **Hindustan Times**: What's 'pending' after Dharmendra Pradhan resigns: CJP lists updated demands
+[15:45] **Hindustan Times**: Pradhan's resignation breaks with Modi govt's long-held ‘this is not UPA’ line
+[15:45] **Hindustan Times**: Abhijeet Dipke reacts as Dharmendra Pradhan resigns: 'Just the beginning'
+[15:45] **Hindustan Times**: Dharmendra Pradhan resigns as education minister amid on-going protest
+[15:45] **Hindustan Times**: 'Chhatra shakti zindabad': CJP celebrates Dharmendra Pradhan's resignation
+
+## 2026-07-25 16:00
+
+[16:00] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[16:00] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[16:00] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+[16:00] **Hindustan Times**: ‘Thanks for calling us cockroaches’: Dipke's message for CJI as minister quits
+[16:00] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+[16:00] **Hindustan Times**: What's 'pending' after Dharmendra Pradhan resigns: CJP lists updated demands
+[16:00] **Hindustan Times**: Pradhan's resignation breaks with Modi govt's long-held ‘this is not UPA’ line
+[16:00] **Hindustan Times**: Abhijeet Dipke reacts as Dharmendra Pradhan resigns: 'Just the beginning'
+
+## 2026-07-25 16:15
+
+[16:15] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[16:15] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[16:15] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+[16:15] **Hindustan Times**: ‘Thanks for calling us cockroaches’: Dipke's message for CJI as minister quits
+[16:15] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+[16:15] **Hindustan Times**: What's 'pending' after Dharmendra Pradhan resigns: CJP lists updated demands
+[16:15] **Hindustan Times**: Pradhan's resignation breaks with Modi govt's long-held ‘this is not UPA’ line
+[16:15] **Hindustan Times**: Abhijeet Dipke reacts as Dharmendra Pradhan resigns: 'Just the beginning'
+
+## 2026-07-25 16:30
+
+[16:30] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[16:30] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[16:30] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+[16:30] **Hindustan Times**: ‘Thanks for calling us cockroaches’: Dipke's message for CJI as minister quits
+[16:30] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+[16:30] **Hindustan Times**: What's 'pending' after Dharmendra Pradhan resigns: CJP lists updated demands
+[16:30] **Hindustan Times**: Pradhan's resignation breaks with Modi govt's long-held line, ‘this is not UPA’
+[16:30] **Hindustan Times**: Abhijeet Dipke reacts as Dharmendra Pradhan resigns: 'Just the beginning'
+
+## 2026-07-25 16:45
+
+[16:45] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[16:45] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[16:45] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[16:45] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[16:45] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+[16:45] **Hindustan Times**: ‘Thanks for calling us cockroaches’: Dipke's message for CJI as minister quits
+[16:45] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+[16:45] **Hindustan Times**: What's 'pending' after Dharmendra Pradhan resigns: CJP lists updated demands
+
+## 2026-07-25 17:00
+
+[17:00] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[17:00] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[17:00] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[17:00] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[17:00] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+[17:00] **Hindustan Times**: ‘Thanks for calling us cockroaches’: Dipke's message for CJI as minister quits
+[17:00] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+[17:00] **Hindustan Times**: What's 'pending' after Dharmendra Pradhan resigns: CJP lists updated demands
+
+## 2026-07-25 17:15
+
+[17:15] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[17:15] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[17:15] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[17:15] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[17:15] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[17:15] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+[17:15] **Hindustan Times**: ‘Thanks for calling us cockroaches’: Dipke's message for CJI as minister quits
+[17:15] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+
+## 2026-07-25 17:30
+
+[17:30] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[17:30] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[17:30] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[17:30] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[17:30] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[17:30] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+[17:30] **Hindustan Times**: ‘Thanks for calling us cockroaches’: Dipke's message for CJI as minister quits
+[17:30] **Hindustan Times**: 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+
+## 2026-07-25 17:45
+
+[17:45] **Hindustan Times**: CJP withdraws protest, govt agrees to withdraw all police cases against students
+[17:45] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+[17:45] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[17:45] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[17:45] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[17:45] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[17:45] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[17:45] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+
+## 2026-07-25 18:00
+
+[18:00] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[18:00] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+[18:00] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[18:00] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[18:00] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[18:00] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[18:00] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[18:00] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+
+## 2026-07-25 18:15
+
+[18:15] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[18:15] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+[18:15] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[18:15] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[18:15] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[18:15] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[18:15] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+[18:15] **Hindustan Times**: Dharmendra Pradhan hits out at 'forces' blocking education system overhaul
+
+## 2026-07-25 18:30
+
+[18:30] **Hindustan Times**: 'One step in a very deep problem': Rahul after all CJP demands accepted
+[18:30] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[18:30] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+[18:30] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[18:30] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[18:30] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[18:30] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+[18:30] **Hindustan Times**: Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+
+## 2026-07-25 18:45
+
+[18:45] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post celebrates Unesco honour
+[18:45] **Hindustan Times**: 'One step in a very deep problem': Rahul after all CJP demands accepted
+[18:45] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[18:45] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+[18:45] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[18:45] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[18:45] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+[18:45] **Hindustan Times**: ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+
+## 2026-07-25 19:00
+
+[19:00] **Hindustan Times**: 'Selfless service': BJP leaders hail Pradhan's tenure as education minister
+[19:00] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post celebrates Unesco honour
+[19:00] **Hindustan Times**: Rahul attacks Shah after 'pellet guns used against students' during CJP protest
+[19:00] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[19:00] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+[19:00] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[19:00] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[19:00] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+
+## 2026-07-25 19:15
+
+[19:15] **Hindustan Times**: 'Selfless service': BJP leaders hail Pradhan's tenure as education minister
+[19:15] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post celebrates Unesco honour
+[19:15] **Hindustan Times**: Rahul attacks Shah after 'pellet guns used against students' during CJP protest
+[19:15] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[19:15] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+[19:15] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[19:15] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+[19:15] **Hindustan Times**: 10 controversies during Dharmendra Pradhan's tenure as Union education minister
+
+## 2026-07-25 19:30
+
+[19:30] **Hindustan Times**: Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep'
+[19:30] **Hindustan Times**: 'Selfless service': BJP leaders hail Pradhan's tenure as education minister
+[19:30] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post hails Unesco ‘proud moment’
+[19:30] **Hindustan Times**: Rahul attacks Shah after 'pellet guns used against students' during CJP protest
+[19:30] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[19:30] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+[19:30] **Hindustan Times**: ‘Historic day': Norwegian journalist Helle Lyng celebrates Pradhan's resignation
+[19:30] **Hindustan Times**: ‘Time has come to remove this government’: Rahul as Pradhan resigns amid protest
+
+## 2026-07-25 19:45
+
+[19:45] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[19:45] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+[19:45] **Hindustan Times**: Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep'
+[19:45] **Hindustan Times**: 'Selfless service': BJP leaders hail Pradhan's tenure as education minister
+[19:45] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post hails Unesco ‘proud moment’
+[19:45] **Hindustan Times**: Rahul attacks Shah after 'pellet guns used against students' during CJP protest
+[19:45] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[19:45] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+
+## 2026-07-25 20:00
+
+[20:00] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[20:00] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+[20:00] **Hindustan Times**: Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep'
+[20:00] **Hindustan Times**: 'Selfless service': BJP leaders hail Pradhan's tenure as education minister
+[20:00] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post hails Unesco ‘proud moment’
+[20:00] **Hindustan Times**: Rahul attacks Shah after 'pellet guns used against students' during CJP protest
+[20:00] **Hindustan Times**: CJP withdraws protest, govt agrees to drop all police cases against students
+[20:00] **Hindustan Times**: ‘Faced tear gas, heard of Pradhan’s resignation next': How protesters cheered
+
+## 2026-07-25 20:15
+
+[20:15] **Hindustan Times**: President Murmu accepts Dharmendra Pradhan's resignation as education minister
+[20:15] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[20:15] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[20:15] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+[20:15] **Hindustan Times**: Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep'
+[20:15] **Hindustan Times**: 'Selfless service': BJP leaders hail Pradhan's tenure as education minister
+[20:15] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post hails Unesco ‘proud moment’
+[20:15] **Hindustan Times**: Rahul attacks Shah after 'pellet guns used against students' during CJP protest
+
+## 2026-07-25 20:30
+
+[20:30] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[20:30] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[20:30] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[20:30] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+[20:30] **Hindustan Times**: Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep'
+[20:30] **Hindustan Times**: 'Selfless service': BJP leaders hail Pradhan's tenure as education minister
+[20:30] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post hails Unesco ‘proud moment’
+[20:30] **Hindustan Times**: Rahul attacks Shah after 'pellet guns used against students' during CJP protest
+
+## 2026-07-25 20:45
+
+[20:45] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[20:45] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[20:45] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[20:45] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+[20:45] **Hindustan Times**: Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep'
+[20:45] **Hindustan Times**: 'Selfless service': BJP leaders hail Pradhan's tenure as education minister
+[20:45] **Hindustan Times**: After Pradhan's resignation, PM Modi's first X post hails Unesco ‘proud moment’
+[20:45] **Hindustan Times**: Rahul attacks Shah after 'pellet guns used against students' during CJP protest
+
+## 2026-07-25 21:00
+
+[21:00] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[21:00] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[21:00] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[21:00] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[21:00] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[21:00] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[21:00] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+[21:00] **Hindustan Times**: Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep'
+
+## 2026-07-25 21:15
+
+[21:15] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[21:15] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[21:15] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[21:15] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[21:15] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[21:15] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[21:15] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[21:15] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+
+## 2026-07-25 21:30
+
+[21:30] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[21:30] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[21:30] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[21:30] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[21:30] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[21:30] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[21:30] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[21:30] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+
+## 2026-07-25 21:45
+
+[21:45] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[21:45] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[21:45] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[21:45] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[21:45] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[21:45] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[21:45] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[21:45] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits

@@ -1,5 +1,24 @@
 # Night Shift Log
 
+## [2026-07-25 06:16] Editor Run | Linked 0 atoms, flagged 0 conflicts
+- New atoms processed: 0
+- Links added: 0
+- [FRICTION] blocks created: 0
+- Index updated: 0 entries
+- Orphan check: 0 new orphans — 5 pre-existing June atoms verified linked; vault is idle
+
+**Status:** No new atoms from Refinery Run (2026-07-25 03:00 reported 0 atoms). Queue empty since 2026-06-24. Editor pipeline skipped — no linking, no friction, no index changes. Vault is stable and idle.
+
+---
+
+## [2026-07-25 03:00] Refinery Run | Extracted 0 atoms
+- Processed: 0 literature notes from `1-desk/`
+- Created: 0 atomic notes in `2-atoms/`
+- Archived: 0 sources to `sources/archived/`
+- Skipped: 0 items (no `status: to-process` items found in `1-desk/`)
+- [FRICTION] flags: 0 conflicts detected
+- Status: Refinery: 0 items to process (all items in `1-desk/` are either `status: processed` or in `_needs-work/` — nothing to refine)
+
 ## [2026-07-24 06:XX] Editor Run | Linked 0 atoms, flagged 0 conflicts
 - New atoms processed: 0
 - Links added: 0
@@ -241,6 +260,15 @@
 
 ## [2026-07-18 23:00] Scout Run | Processed 0 items
 - Intake: 0 new items found
+- Classified: 0 literature notes, 0 ideas, 0 meeting notes
+- Quarantined: 0 items
+- Path: `1-desk/<subtype>/`
+- Status: Scout: 0 new items (vault intake clean)
+
+---
+
+## [2026-07-24 23:XX] Scout Run | Processed 0 items
+- Intake: 0 new items found (0-raw/: 2 files present but both predate last run; 00 - INBOX does not exist on disk)
 - Classified: 0 literature notes, 0 ideas, 0 meeting notes
 - Quarantined: 0 items
 - Path: `1-desk/<subtype>/`
