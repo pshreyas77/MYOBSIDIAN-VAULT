@@ -2649,3 +2649,520 @@
 [21:45] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
 [21:45] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
 [21:45] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+
+## 2026-07-25 22:00
+
+[22:00] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[22:00] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[22:00] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[22:00] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[22:00] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[22:00] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[22:00] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[22:00] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+
+## 2026-07-25 22:15
+
+[22:15] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[22:15] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[22:15] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[22:15] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[22:15] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[22:15] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[22:15] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[22:15] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+
+## 2026-07-25 22:30
+
+[22:30] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[22:30] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[22:30] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[22:30] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[22:30] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[22:30] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+[22:30] **Hindustan Times**: NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+[22:30] **Hindustan Times**: BJP veteran Murli Manohar Joshi says ‘better late than never’ as Pradhan quits
+
+## 2026-07-25 22:45
+
+[22:45] **Hindustan Times**: From satire to a crusade: Meet faces of the CJP movement that drove big change
+[22:45] **Hindustan Times**: ‘I speak my mind’: Zoho's Vembu defends X post backing Pradhan amid backlash
+[22:45] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[22:45] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[22:45] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[22:45] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[22:45] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[22:45] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+
+## 2026-07-25 23:00
+
+[23:00] **Hindustan Times**: From satire to a crusade: Meet faces of the CJP movement that drove big change
+[23:00] **Hindustan Times**: ‘I speak my mind’: Zoho's Vembu defends X post backing Pradhan amid backlash
+[23:00] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[23:00] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[23:00] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[23:00] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[23:00] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[23:00] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+
+## 2026-07-25 23:15
+
+[23:15] **Hindustan Times**: From satire to a crusade: Meet faces of the CJP movement that drove big change
+[23:15] **Hindustan Times**: ‘I speak my mind’: Zoho's Vembu defends X post backing Pradhan amid backlash
+[23:15] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[23:15] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[23:15] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[23:15] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[23:15] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[23:15] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+
+## 2026-07-25 23:30
+
+[23:30] **Hindustan Times**: From satire to a crusade: Meet faces of the CJP movement that drove big change
+[23:30] **Hindustan Times**: ‘I speak my mind’: Zoho's Vembu defends X post backing Pradhan amid backlash
+[23:30] **Hindustan Times**: Pradhan gone, Cong shifts focus to Amit Shah; memes put Gadkari in spotlight
+[23:30] **Hindustan Times**: Dharmendra Pradhan resignation: AAP calls it victory for democracy
+[23:30] **Hindustan Times**: ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to Dipke to visit Bihar
+[23:30] **Hindustan Times**: Who is Pralhad Joshi? BJP leader takes charge as education minister
+[23:30] **Hindustan Times**: Pralhad Joshi gets education ministry charge as Pradhan's resignation accepted
+[23:30] **Hindustan Times**: ‘Dharmendra Pradhan resigned under no pressure’, says BJP leader
+
+## 2026-07-26 12:08
+
+[12:08] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[12:08] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[12:08] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[12:08] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[12:08] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[12:08] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+[12:08] **Hindustan Times**: Dharmendra Pradhan steps down, Gen Z steps up
+[12:08] **Hindustan Times**: Fear of losing Gen Z, poll math forced BJP's hand in Pradhan's resignation
+
+## 2026-07-26 12:15
+
+[12:15] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[12:15] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[12:15] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[12:15] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[12:15] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[12:15] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+[12:15] **Hindustan Times**: Dharmendra Pradhan steps down, Gen Z steps up
+[12:15] **Hindustan Times**: Fear of losing Gen Z, poll math forced BJP's hand in Pradhan's resignation
+
+## 2026-07-26 12:30
+
+[12:30] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[12:30] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[12:30] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[12:30] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[12:30] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[12:30] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+[12:30] **Hindustan Times**: Dharmendra Pradhan steps down, Gen Z steps up
+[12:30] **Hindustan Times**: Fear of losing Gen Z, poll math forced BJP's hand in Pradhan's resignation
+
+## 2026-07-26 12:45
+
+[12:45] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[12:45] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[12:45] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[12:45] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[12:45] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[12:45] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[12:45] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+[12:45] **Hindustan Times**: Dharmendra Pradhan steps down, Gen Z steps up
+
+## 2026-07-26 13:00
+
+[13:00] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[13:00] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[13:00] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[13:00] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[13:00] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[13:00] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[13:00] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+[13:00] **Hindustan Times**: Dharmendra Pradhan steps down, Gen Z steps up
+
+## 2026-07-26 13:15
+
+[13:15] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[13:15] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[13:15] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[13:15] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[13:15] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[13:15] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[13:15] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[13:15] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+
+## 2026-07-26 13:30
+
+[13:30] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[13:30] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[13:30] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[13:30] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[13:30] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[13:30] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[13:30] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[13:30] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+
+## 2026-07-26 13:45
+
+[13:45] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[13:45] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[13:45] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[13:45] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[13:45] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[13:45] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[13:45] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[13:45] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+
+## 2026-07-26 14:00
+
+[14:00] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[14:00] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[14:00] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[14:00] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[14:00] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[14:00] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[14:00] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[14:00] **Hindustan Times**: All Delhi metro stations now open as CJP withdraws protest, curbs ease in city
+
+## 2026-07-26 14:15
+
+[14:15] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[14:15] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[14:15] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[14:15] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[14:15] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[14:15] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[14:15] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-26 14:30
+
+[14:30] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[14:30] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[14:30] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[14:30] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[14:30] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[14:30] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+[14:30] **Hindustan Times**: In 1st reaction after protests, Shah praises Pradhan, vows justice for students
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-26 14:45
+
+[14:45] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[14:45] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[14:45] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[14:45] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[14:45] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[14:45] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[14:45] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+[14:45] **Hindustan Times**: Gen Z 'flips the script' to 'rare defeat for Modi': Global media on CJP protest
+
+## 2026-07-26 15:00
+
+[15:00] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[15:00] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[15:00] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[15:00] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[15:00] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[15:00] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[15:00] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[15:00] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+
+## 2026-07-26 15:15
+
+[15:15] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[15:15] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[15:15] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[15:15] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[15:15] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[15:15] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[15:15] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+[15:15] **Hindustan Times**: Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+
+## 2026-07-26 15:30
+
+[15:30] **Hindustan Times**: ‘Mann ki Baat’, nothing on Pradhan: What PM said in 24 hours since minister quit
+[15:30] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[15:30] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[15:30] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[15:30] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[15:30] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[15:30] **Hindustan Times**: Book Box: A masterclass in cockroaches
+[15:30] **Hindustan Times**: 'To stop anti-national forces': Dharmendra Pradhan on why he resigned
+
+## 2026-07-26 15:45
+
+[15:45] **Hindustan Times**: From first sit-in to final breakthrough: A blow-by-blow account of CJP's protest
+[15:45] **Hindustan Times**: 'Won't delete': BJP MP daughter's post on Pradhan creates stir within BJP
+[15:45] **Hindustan Times**: ‘Mann ki Baat’, nothing on Pradhan: What PM said in 24 hours since minister quit
+[15:45] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[15:45] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[15:45] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[15:45] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[15:45] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+
+## 2026-07-26 16:00
+
+[16:00] **Hindustan Times**: From first sit-in to final breakthrough: A blow-by-blow account of CJP's protest
+[16:00] **Hindustan Times**: 'Won't delete': BJP MP daughter's post on Pradhan creates stir within BJP
+[16:00] **Hindustan Times**: ‘Mann ki Baat’, nothing on Pradhan: What PM said in 24 hours since minister quit
+[16:00] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[16:00] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[16:00] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[16:00] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[16:00] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+
+## 2026-07-26 16:15
+
+[16:15] **Hindustan Times**: From first sit-in to final breakthrough: A blow-by-blow account of CJP's protest
+[16:15] **Hindustan Times**: 'Won't delete': BJP MP daughter's post on Pradhan creates stir within BJP
+[16:15] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[16:15] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[16:15] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[16:15] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[16:15] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+[16:15] **Hindustan Times**: Book Box: A masterclass in cockroaches
+
+## 2026-07-26 16:30
+
+[16:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[16:30] **Hindustan Times**: From first sit-in to final breakthrough: A blow-by-blow account of CJP's protest
+[16:30] **Hindustan Times**: 'Won't delete': BJP MP daughter's post on Pradhan creates stir within BJP
+[16:30] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[16:30] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[16:30] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[16:30] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+[16:30] **Hindustan Times**: ‘Pradhan offered to quit on Day 1 of protests’: BJP leader makes bombshell claim
+
+## 2026-07-26 16:45
+
+[16:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister?
+[16:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[16:45] **Hindustan Times**: From first sit-in to final breakthrough: A blow-by-blow account of CJP's protest
+[16:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[16:45] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[16:45] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[16:45] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[16:45] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+
+## 2026-07-26 17:00
+
+[17:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister?
+[17:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[17:00] **Hindustan Times**: From first sit-in to final breakthrough: A blow-by-blow account of CJP's protest
+[17:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[17:00] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[17:00] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[17:00] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[17:00] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+
+## 2026-07-26 17:15
+
+[17:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister?
+[17:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[17:15] **Hindustan Times**: From first sit-in to final breakthrough: A blow-by-blow account of CJP's protest
+[17:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[17:15] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[17:15] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[17:15] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[17:15] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+
+## 2026-07-26 17:30
+
+[17:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[17:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[17:30] **Hindustan Times**: From first sit-in to final breakthrough: A blow-by-blow account of CJP's protest
+[17:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[17:30] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[17:30] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[17:30] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[17:30] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+
+## 2026-07-26 17:45
+
+[17:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[17:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[17:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[17:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[17:45] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[17:45] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[17:45] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[17:45] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+
+## 2026-07-26 18:00
+
+[18:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[18:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[18:00] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[18:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[18:00] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[18:00] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[18:00] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+[18:00] **Hindustan Times**: ‘May not follow father’: Assam minister's daughter joins NEET protest; CM reacts
+
+## 2026-07-26 18:15
+
+[18:15] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[18:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[18:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[18:15] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[18:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[18:15] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[18:15] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[18:15] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+
+## 2026-07-26 18:30
+
+[18:30] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[18:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[18:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[18:30] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[18:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[18:30] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[18:30] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[18:30] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+
+## 2026-07-26 18:45
+
+[18:45] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[18:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[18:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[18:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[18:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[18:45] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[18:45] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+[18:45] **Hindustan Times**: Hindutva leader abuses, hits students at Jantar Mantar protest on cam
+
+## 2026-07-26 19:00
+
+[19:00] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[19:00] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[19:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[19:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[19:00] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[19:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[19:00] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[19:00] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+
+## 2026-07-26 19:15
+
+[19:15] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[19:15] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[19:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[19:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[19:15] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[19:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[19:15] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+[19:15] **Hindustan Times**: How faces of the CJP movement reacted to Dharmendra Pradhan's resignation
+
+## 2026-07-26 19:30
+
+[19:30] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[19:30] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[19:30] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[19:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[19:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[19:30] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[19:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[19:30] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 19:45
+
+[19:45] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[19:45] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[19:45] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[19:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[19:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[19:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[19:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[19:45] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 20:00
+
+[20:00] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[20:00] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[20:00] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[20:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[20:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[20:00] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[20:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[20:00] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 20:15
+
+[20:15] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[20:15] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[20:15] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[20:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[20:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[20:15] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[20:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[20:15] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 20:30
+
+[20:30] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[20:30] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[20:30] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[20:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[20:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[20:30] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[20:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[20:30] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 20:45
+
+[20:45] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[20:45] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[20:45] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[20:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[20:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[20:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[20:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[20:45] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 21:00
+
+[21:00] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[21:00] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[21:00] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[21:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[21:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[21:00] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[21:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[21:00] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 21:15
+
+[21:15] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[21:15] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[21:15] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[21:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[21:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[21:15] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[21:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[21:15] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 21:30
+
+[21:30] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[21:30] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[21:30] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[21:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[21:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[21:30] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[21:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[21:30] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 21:45
+
+[21:45] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[21:45] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[21:45] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[21:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[21:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[21:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[21:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[21:45] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut

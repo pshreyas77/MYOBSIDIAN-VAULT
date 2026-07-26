@@ -1,5 +1,28 @@
 # Night Shift Log
 
+## [2026-07-26 03:00] Refinery Run | Extracted 0 atoms
+- Processed: 0 literature notes from `1-desk/`
+- Created: 0 atomic notes in `2-atoms/`
+- Archived: 0 sources to `sources/archived/`
+- Skipped: 0 items (no `status: to-process` items found in `1-desk/`)
+- [FRICTION] flags: 0 conflicts detected
+- Status: Refinery: 0 items to process (all items in `1-desk/` are either `status: processed` or in `_needs-work/` — nothing to refine)
+
+---
+
+## [2026-07-26 06:XX] Editor Run | Linked 0 atoms, flagged 0 conflicts
+- New atoms processed: 0
+- Links added: 0
+- [FRICTION] blocks created: 0
+- Index updated: 0 entries
+- Orphan check: 0 new orphans — June atoms verified linked; vault is idle
+
+**Status:** No new atoms from Refinery Run (2026-07-26 03:00 reported 0 atoms). Queue empty since 2026-06-24. Editor pipeline skipped — no linking, no friction, no index changes. Vault is stable and idle.
+
+---
+
+---
+
 ## [2026-07-25 06:16] Editor Run | Linked 0 atoms, flagged 0 conflicts
 - New atoms processed: 0
 - Links added: 0
