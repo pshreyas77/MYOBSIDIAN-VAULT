@@ -290,7 +290,43 @@
 
 ---
 
-## [2026-07-24 23:XX] Scout Run | Processed 0 items
+## [2026-07-26 22:00] Audit Run | Week 2026-W30 | Score: 67/100
+- Scanned: ~8,419 files (⚠️ +3,981 from W29)
+- Duplicates found: 0 ✅
+- Orphans detected: 0 ✅ (recovered from W29's 5)
+- Broken links: 3 (unchanged from W29 — Knowledge-Graph-Extraction 7 days unresolved)
+- Stale claims: 2 (Vijay CM status, E. Sreedharan role)
+- Quality score: 71-91% 🟡 (target 95%)
+- Quarantined atoms: 3 (Prime Directive violations — still in 2-atoms/)
+- Missing frontmatter: 13 (degraded from 3 in W29)
+- Synthesis created: 0 (existing MOC covers Justice Party cluster)
+
+**Status:** Vault health degraded from W29 baseline (72→67). Critical issues: broken links unresolved since W29, new frontmatter violations in wiki/analysis/, 3 quarantined atoms still in vault, 2 stale role claims. Orphan issue resolved.
+
+**Reports created:**
+- `3-threads/_audit/2026-07-26 — Vault Health.md` (full report)
+- `3-threads/_stale/2026-07-26 — Stale Claims.md` (2 stale claims)
+- `3-threads/_broken-links/2026-07-26 — Broken Links.md` (3 broken links)
+- `07 - SYSTEM/audit-dashboard.md` (updated with W30 metrics)
+- `BRIEFINGS/2026-07-26 — Morning Brief.md` (morning review brief)
+
+**Top issues for morning review:**
+1. 🔴 Write `wiki/concepts/Knowledge-Graph-Extraction.md` OR fix 7-day-old broken links
+2. 🔴 Delete or rescue 3 quarantined atoms (no-source violations)
+3. 🔴 Add frontmatter to 13 wiki files (especially entire wiki/analysis/ directory)
+4. 🟡 Verify Vijay is still CM as of 2026-07-26
+5. 🟡 Investigate ~3,981 file vault growth
+
+---
+- Intake: 0 new items found (0-raw/: 2 files present but both predate last run; 00 - INBOX does not exist on disk)
+- Classified: 0 literature notes, 0 ideas, 0 meeting notes
+- Quarantined: 0 items
+- Path: `1-desk/<subtype>/`
+- Status: Scout: 0 new items (vault intake clean)
+
+---
+
+## [2026-07-26 23:37] Scout Run | Processed 0 items
 - Intake: 0 new items found (0-raw/: 2 files present but both predate last run; 00 - INBOX does not exist on disk)
 - Classified: 0 literature notes, 0 ideas, 0 meeting notes
 - Quarantined: 0 items

@@ -3166,3 +3166,591 @@
 [21:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
 [21:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
 [21:45] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 22:00
+
+[22:00] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[22:00] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[22:00] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[22:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[22:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[22:00] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[22:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[22:00] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 22:15
+
+[22:15] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[22:15] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[22:15] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[22:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[22:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[22:15] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[22:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[22:15] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 22:30
+
+[22:30] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[22:30] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[22:30] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[22:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[22:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[22:30] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[22:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[22:30] **Hindustan Times**: Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Raut
+
+## 2026-07-26 22:45
+
+[22:45] **Hindustan Times**: Amit Shah faces fire for ‘brutality’ at CJP march as govt plans bill move in LS
+[22:45] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[22:45] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[22:45] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[22:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[22:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[22:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[22:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+
+## 2026-07-26 23:00
+
+[23:00] **Hindustan Times**: Rahul guns for Shah over pellets at CJP march, govt plans bill: Session resumes
+[23:00] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[23:00] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[23:00] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[23:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[23:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[23:00] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[23:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+
+## 2026-07-26 23:15
+
+[23:15] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[23:15] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[23:15] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[23:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[23:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[23:15] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[23:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-26 23:30
+
+[23:30] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[23:30] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[23:30] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[23:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[23:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[23:30] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[23:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-26 23:45
+
+[23:45] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[23:45] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[23:45] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[23:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[23:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[23:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[23:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 00:00
+
+[00:00] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[00:00] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[00:00] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[00:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[00:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[00:00] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[00:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 00:15
+
+[00:15] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[00:15] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[00:15] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[00:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[00:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[00:15] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[00:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[00:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 00:30
+
+[00:30] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[00:30] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[00:30] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[00:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[00:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[00:30] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[00:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[00:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 00:45
+
+[00:45] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[00:45] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[00:45] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[00:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[00:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[00:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[00:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 01:00
+
+[01:00] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[01:00] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[01:00] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[01:00] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[01:00] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[01:00] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[01:00] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[01:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 01:15
+
+[01:15] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[01:15] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[01:15] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[01:15] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[01:15] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[01:15] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[01:15] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[01:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 01:30
+
+[01:30] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[01:30] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[01:30] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[01:30] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[01:30] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[01:30] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[01:30] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[01:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 01:45
+
+[01:45] **Hindustan Times**: PM Modi announces task force on exam reforms, day after Pradhan's resignation
+[01:45] **Hindustan Times**: Besides the CJP: Neha and the activists who fasted, fought, danced at the end
+[01:45] **Hindustan Times**: 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+[01:45] **Hindustan Times**: What happened on Day 1 of Pralhad Joshi as education minister
+[01:45] **Hindustan Times**: ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+[01:45] **Hindustan Times**: Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day protest
+[01:45] **Hindustan Times**: BJP MP's daughter's Instagram post on Pradhan's resignation sparks ire in party
+[01:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 12:23
+
+[12:23] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[12:23] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[12:23] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[12:23] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[12:23] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[12:23] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+[12:23] **Hindustan Times**: Dharmendra Pradhan out, E20 Janta Party now makes waves on the internet
+[12:23] **Hindustan Times**: Maharashtra NEET aspirant dies by suicide; family says she was distressed
+
+## 2026-07-27 12:30
+
+[12:30] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[12:30] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[12:30] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[12:30] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[12:30] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[12:30] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+[12:30] **Hindustan Times**: Dharmendra Pradhan out, E20 Janta Party now makes waves on the internet
+[12:30] **Hindustan Times**: Maharashtra NEET aspirant dies by suicide; family says she was distressed
+
+## 2026-07-27 12:45
+
+[12:45] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[12:45] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[12:45] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[12:45] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[12:45] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[12:45] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+[12:45] **Hindustan Times**: Dharmendra Pradhan out, E20 Janta Party now makes waves on the internet
+[12:45] **Hindustan Times**: Maharashtra NEET aspirant dies by suicide; family says she was distressed
+
+## 2026-07-27 13:00
+
+[13:00] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[13:00] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[13:00] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[13:00] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[13:00] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[13:00] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[13:00] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+[13:00] **Hindustan Times**: Dharmendra Pradhan out, E20 Janta Party now makes waves on the internet
+
+## 2026-07-27 13:15
+
+[13:15] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[13:15] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[13:15] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[13:15] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[13:15] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[13:15] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[13:15] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[13:15] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+
+## 2026-07-27 13:30
+
+[13:30] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[13:30] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[13:30] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[13:30] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[13:30] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[13:30] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[13:30] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[13:30] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+
+## 2026-07-27 13:45
+
+[13:45] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[13:45] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[13:45] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[13:45] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[13:45] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[13:45] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[13:45] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[13:45] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+
+## 2026-07-27 14:00
+
+[14:00] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[14:00] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[14:00] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[14:00] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[14:00] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[14:00] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[14:00] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[14:00] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+
+## 2026-07-27 14:15
+
+[14:15] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[14:15] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[14:15] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[14:15] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[14:15] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[14:15] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[14:15] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+[14:15] **Hindustan Times**: Greta Thunberg says CJP protest 'given us hope', backs Indian youth
+
+## 2026-07-27 14:30
+
+[14:30] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[14:30] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[14:30] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[14:30] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[14:30] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[14:30] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[14:30] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[14:30] **Hindustan Times**: Has CJP demanded Punjab edu minister's resignation? Saurav Das responds
+
+## 2026-07-27 14:45
+
+[14:45] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[14:45] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[14:45] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[14:45] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[14:45] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[14:45] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[14:45] **Hindustan Times**: BJP slams ‘selective outrage’ against journalists during NEET protests
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 15:00
+
+[15:00] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[15:00] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[15:00] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[15:00] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[15:00] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[15:00] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 15:15
+
+[15:15] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[15:15] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[15:15] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[15:15] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[15:15] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[15:15] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 15:30
+
+[15:30] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[15:30] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[15:30] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[15:30] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[15:30] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[15:30] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[15:30] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 15:45
+
+[15:45] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[15:45] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[15:45] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[15:45] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[15:45] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[15:45] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[15:45] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+[15:45] **Hindustan Times**: Plea against internet shutdown around Jantar Mantar withdrawn from Delhi HC
+
+## 2026-07-27 16:00
+
+[16:00] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[16:00] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[16:00] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[16:00] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[16:00] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[16:00] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[16:00] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[16:00] **Hindustan Times**: Will see what Nilekani-led task force suggests on online NEET exam: SC
+
+## 2026-07-27 16:15
+
+[16:15] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[16:15] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[16:15] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[16:15] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[16:15] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[16:15] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[16:15] **Hindustan Times**: CJP asks govt to 'immediately honour' promises after protesters detained
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 16:30
+
+[16:30] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[16:30] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[16:30] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[16:30] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[16:30] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[16:30] **Hindustan Times**: 'Dharmendra Pradhan zindabad': Rousing BJP welcome for ex-education minister
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 16:45
+
+[16:45] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[16:45] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[16:45] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[16:45] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[16:45] **Hindustan Times**: Sonam Wangchuk discharged from hospital, says he will return to the mountains
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 17:00
+
+[17:00] **Hindustan Times**: CJP's 'will protest again' warning to govt as students detained across India
+[17:00] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[17:00] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[17:00] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[17:00] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 17:15
+
+[17:15] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[17:15] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[17:15] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[17:15] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[17:15] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 17:30
+
+[17:30] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[17:30] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[17:30] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[17:30] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[17:30] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[17:30] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 17:45
+
+[17:45] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[17:45] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[17:45] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[17:45] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[17:45] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[17:45] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 18:00
+
+[18:00] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[18:00] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[18:00] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[18:00] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[18:00] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[18:00] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 18:15
+
+[18:15] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[18:15] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[18:15] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[18:15] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[18:15] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[18:15] **Hindustan Times**: Sonam Wangchuk discharged, heads to Rajghat before returning home
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 18:30
+
+[18:30] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[18:30] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[18:30] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[18:30] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[18:30] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[18:30] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 18:45
+
+[18:45] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[18:45] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[18:45] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[18:45] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[18:45] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[18:45] **Hindustan Times**: ‘Resignation party’ dance videos put CJP under fire; Saurav Das' ‘Gen Z’ defence
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 19:00
+
+[19:00] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[19:00] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[19:00] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[19:00] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[19:00] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[19:00] **Hindustan Times**: Saurav Das defends viral dancing videos amid CJP backlash: ‘Language of Gen Z’
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 19:15
+
+[19:15] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[19:15] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[19:15] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[19:15] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[19:15] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[19:15] **Hindustan Times**: Saurav Das defends viral dancing videos amid CJP backlash: ‘Language of Gen Z’
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 19:30
+
+[19:30] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[19:30] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[19:30] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[19:30] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[19:30] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[19:30] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[19:30] **Hindustan Times**: Saurav Das defends viral dancing videos amid CJP backlash: ‘Language of Gen Z’
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 19:45
+
+[19:45] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[19:45] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[19:45] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[19:45] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[19:45] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[19:45] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[19:45] **Hindustan Times**: Saurav Das defends viral dancing videos amid CJP backlash: ‘Language of Gen Z’
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-27 20:00
+
+[20:00] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[20:00] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[20:00] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[20:00] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[20:00] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[20:00] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[20:00] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+[20:00] **Hindustan Times**: Saurav Das defends viral dancing videos amid CJP backlash: ‘Language of Gen Z’
+
+## 2026-07-27 20:15
+
+[20:15] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[20:15] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[20:15] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[20:15] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[20:15] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[20:15] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[20:15] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[20:15] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+
+## 2026-07-27 20:30
+
+[20:30] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[20:30] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[20:30] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[20:30] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[20:30] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[20:30] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[20:30] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[20:30] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+
+## 2026-07-27 20:45
+
+[20:45] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[20:45] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[20:45] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[20:45] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[20:45] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[20:45] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[20:45] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+[20:45] **Hindustan Times**: Amid claims of paper leaks, Punjab edu minister meets students who cleared NEET
+
+## 2026-07-27 21:00
+
+[21:00] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[21:00] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[21:00] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[21:00] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[21:00] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[21:00] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[21:00] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[21:00] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+
+## 2026-07-27 21:15
+
+[21:15] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[21:15] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[21:15] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[21:15] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[21:15] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[21:15] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[21:15] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[21:15] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+
+## 2026-07-27 21:30
+
+[21:30] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[21:30] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[21:30] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[21:30] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[21:30] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[21:30] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[21:30] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+[21:30] **Hindustan Times**: Himanta defends Assam minister over daughter's NEET protest, draws from own kin
+
+## 2026-07-27 21:45
+
+[21:45] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[21:45] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[21:45] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[21:45] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[21:45] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[21:45] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[21:45] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[21:45] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters

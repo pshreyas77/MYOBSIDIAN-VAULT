@@ -1,111 +1,94 @@
 ---
 date: 2026-07-26
 type: briefing
-tags: [morning-brief, night-shift]
+tags: [morning-brief, audit]
 ai-first: true
 ---
 
 # Morning Brief — 2026-07-26
 
-> **For future Claude:** Night Shift completed all three runs on schedule. This brief summarizes Scout (2026-07-25 23:XX), Refinery (2026-07-26 03:00), and Editor (2026-07-26 06:XX) outputs for morning review.
+---
+
+## Audit Run Summary — Week 2026-W30
+
+**Health Score:** 67/100 ⚠️ (W29 was 72/100)
+
+**Vault Size:** ~8,419 notes (⚠️ +3,981 from last week — needs investigation)
 
 ---
 
-## Scout Run Summary — 2026-07-25 23:XX
+### 🔴 Critical Issues (needs your review today)
 
-**Status:** No new items processed
+1. **Knowledge-Graph-Extraction broken link — 7 DAYS OLD**
+   - Location: `wiki/concepts/AI-First-Workflow.md` (line 83), `wiki/concepts/Autonomous-Agent-Research.md` (line 61)
+   - Issue: A stub was created in W29 audit but the actual file `wiki/concepts/Knowledge-Graph-Extraction.md` was never written
+   - **Action:** Either write the concept note OR redirect the links to `[[Autonomous-Agent-Research]]`
 
-- Intake: 0 new items found (`0-raw/`: 2 files present but both predate last run; `00 - INBOX` does not exist on disk)
-- Classified: 0 literature notes, 0 ideas, 0 meeting notes
-- Quarantined: 0 items
+2. **3 quarantined atoms still in `2-atoms/` — Prime Directive violations**
+   - `2-atoms/concepts/️ QUARANTINE ADVISORY Original source URLs not recorded This note.md`
+   - `2-atoms/concepts/All 8 Union Territories affected as of 2026 no source cited.md`
+   - `2-atoms/people/Four distinct regional flood patterns exist as of 2026 no source cited.md`
+   - **Action:** Delete all 3 — they have no verifiable sources
 
-**Status:** Scout: 0 new items (vault intake clean)
-
----
-
-## Refinery Run Summary — 2026-07-26 03:00
-
-**Status:** Empty queue — no atoms extracted
-
-- Processed: 0 literature notes from `1-desk/`
-- Created: 0 atomic notes in `2-atoms/`
-- Archived: 0 sources to `sources/archived/`
-- Skipped: 0 items (no `status: to-process` items found in `1-desk/`)
-
-**Status:** No items with `status: to-process` found in `1-desk/`. Queue empty since 2026-06-24. Refinery standing by.
+3. **13 wiki notes missing frontmatter**
+   - Entire `wiki/analysis/` directory (4 files): cross-area-opportunities, graph-communities-report, link-density-report, orphan-notes-report
+   - `wiki/concepts/`: Religion Civilization Contributions, Youth Revolution in India, Youth Revolution Solutions in India
+   - `wiki/_templates/`: concept.md, entity.md, link-enrichment.md
+   - Others: wiki/log.md, wiki/README.md, wiki/_templates/source.md
+   - **Action:** Add standard frontmatter (`date`, `type`, `ai-first: true`) to each
 
 ---
 
-## Editor Run Summary — 2026-07-26 06:XX
+### 🟡 Warnings
 
-**Status:** 0 new atoms — pipeline skipped
+1. **Vijay CM status needs recency verification** 🔴
+   - Note: `wiki/entities/Vijay.md` claims he was sworn in May 10, 2026 (77+ days ago)
+   - **Action:** Verify he's still CM; add `(as of 2026-07, source)` recency marker
 
-- New atoms processed: 0
-- Outgoing links added: 0
-- Incoming backlinks created: 0
-- [FRICTION] blocks created: 0
-- Index updated: 0 entries
-- Orphan check: 0 new orphans — June atoms verified linked; vault is idle
+2. **E. Sreedharan role claim**
+   - Note: `wiki/entities/E. Sreedharan.md` — role/status may be outdated
+   - **Action:** Verify current status
 
-**Note:** No new atoms means no linking, no friction detection, no index changes. Latest atom in `2-atoms/` is "Digital Garden — Definition.md" dated 2026-06-24 (32 days old). Editor pipeline is a no-op when Refinery produces nothing.
+3. **Wiki concepts missing confidence markers** (AI-First-Workflow, Autonomous-Agent-Research)
+   - **Action:** Add `confidence: stated` to frontmatter
 
----
-
-## [FRICTION] Flags — NONE
-
-No new contradictions to flag. Pre-existing friction state unchanged.
+4. **~3,981 file vault growth in 7 days** — was reported "idle" since 2026-06-24
+   - **Action:** Investigate the source of this growth
 
 ---
 
-## Orphan Watch — Status Quo
+### Full Reports
 
-No new orphan audit performed — the 5 atoms from the June report remain verified as linked (from 2026-07-20 Editor Run). No change in orphan status.
-
-**Pre-existing critical issues from prior briefs still unresolved:**
-1. **Broken wikilink: `[[wiki/concepts/Knowledge-Graph-Extraction]]`** — missing file
-2. **3 quarantined atoms with no source** — Prime Directive violation (need deletion)
-3. **Confidence markers missing** in `wiki/concepts/AI-First-Workflow.md` and `wiki/concepts/Autonomous-Agent-Research.md`
+- **Health Report:** `3-threads/_audit/2026-07-26 — Vault Health.md`
+- **Broken Links:** `3-threads/_broken-links/2026-07-26 — Broken Links.md`
+- **Stale Claims:** `3-threads/_stale/2026-07-26 — Stale Claims.md`
+- **Dashboard:** `07 - SYSTEM/audit-dashboard.md`
 
 ---
 
-## Vault Health Snapshot
+### Trend Summary
 
-| Metric | Status |
-|--------|--------|
-| New atoms (night) | 0 |
-| [FRICTION] blocks | 0 |
-| Genuine orphans | 0 (June report stale, verified linked 2026-07-20) |
-| Index current | Yes |
-| Quarantined atoms | 3 (needs deletion — no source) |
-
----
-
-## Your Action Items
-
-From prior brief(s) — still pending:
-
-- [ ] **Delete 3 quarantined atoms** (no source URLs — Prime Directive violation):
-  - `2-atoms/concepts/All 8 Union Territories affected as of 2026 no source cited.md`
-  - `2-atoms/people/Four distinct regional flood patterns exist as of 2026 no source cited.md`
-  - `2-atoms/concepts/️ QUARANTINE ADVISORY Original source URLs not recorded This note.md`
-- [ ] **Create or fix** `[[Knowledge-Graph-Extraction]]` broken link
-- [ ] **Add confidence markers** to `wiki/concepts/AI-First-Workflow.md` and `wiki/concepts/Autonomous-Agent-Research.md`
-- [ ] **Add new content** to reactivate the pipeline
+| Metric | W29 | W30 | Status |
+|--------|-----|-----|--------|
+| Orphans | 5 (15%) | 0 (0%) | ✅ Recovered |
+| Broken links | 3 | 3 | 🔴 Unchanged |
+| Missing frontmatter | 3 | 13 | 📉 Degraded |
+| Stale claims | 0 | 2 | 📉 New |
+| Quarantined | 3 | 3 | 🔴 Unchanged |
+| Quality score | 86% | 71-91% | 🟡 |
 
 ---
 
-## Vault State
+## Checklist for Today
 
-The vault is stable and idle. No new atoms processed since June 24. Night Shift pipeline has been running cleanly — all runs report zero activity because the intake queue is empty.
-
-To reactivate: drop raw captures (articles, book highlights, video notes, ideas) into `00 - INBOX/` or `04 - RESOURCES/Inbox/`. Scout Run will pick them up at 23:00.
-
----
-
-## Night Shift Log Reference
-
-Full run entries: `night-shift-log.md`
+- [ ] **CRITICAL:** Write `wiki/concepts/Knowledge-Graph-Extraction.md` OR fix broken wikilinks
+- [ ] **CRITICAL:** Delete 3 quarantined atoms from `2-atoms/`
+- [ ] **CRITICAL:** Add frontmatter to 13 wiki files
+- [ ] **HIGH:** Verify Vijay CM status and add recency marker
+- [ ] **MEDIUM:** Fix wikilink path issues (temp_autoresearch, genericagent)
+- [ ] **MEDIUM:** Add confidence markers to AI-First-Workflow and Autonomous-Agent-Research
+- [ ] **LOW:** Investigate 3,981 file vault growth anomaly
 
 ---
 
-*Night Shift completed 2026-07-26 06:XX. Vault is stable. System is idle — awaiting new captures.*
+*The vault held the line on orphans but degraded on other fronts. Priority: clear the 7-day-old broken link and the quarantined atoms.*
