@@ -3754,3 +3754,387 @@
 [21:45] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
 [21:45] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
 [21:45] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+
+## 2026-07-27 22:00
+
+[22:00] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[22:00] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[22:00] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[22:00] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[22:00] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[22:00] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[22:00] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+[22:00] **Hindustan Times**: 'Will protest again': CJP warns govt, asks it to drop FIRs against protesters
+
+## 2026-07-27 22:15
+
+[22:15] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[22:15] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[22:15] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[22:15] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[22:15] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[22:15] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[22:15] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+[22:15] **Hindustan Times**: Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
+
+## 2026-07-27 22:30
+
+[22:30] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[22:30] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[22:30] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[22:30] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[22:30] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[22:30] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[22:30] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[22:30] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-27 22:45
+
+[22:45] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[22:45] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[22:45] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[22:45] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[22:45] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[22:45] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[22:45] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[22:45] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-27 23:00
+
+[23:00] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[23:00] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[23:00] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[23:00] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[23:00] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[23:00] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[23:00] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[23:00] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-27 23:15
+
+[23:15] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[23:15] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[23:15] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[23:15] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[23:15] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[23:15] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[23:15] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[23:15] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-27 23:30
+
+[23:30] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[23:30] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[23:30] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[23:30] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[23:30] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[23:30] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[23:30] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[23:30] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-27 23:45
+
+[23:45] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[23:45] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[23:45] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[23:45] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[23:45] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[23:45] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[23:45] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[23:45] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-28 00:00
+
+[00:00] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[00:00] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[00:00] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[00:00] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[00:00] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[00:00] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[00:00] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[00:00] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-28 00:15
+
+[00:15] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[00:15] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[00:15] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[00:15] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[00:15] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[00:15] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[00:15] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[00:15] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-28 00:30
+
+[00:30] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[00:30] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[00:30] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[00:30] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[00:30] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[00:30] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[00:30] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[00:30] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-28 00:45
+
+[00:45] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[00:45] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[00:45] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[00:45] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[00:45] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[00:45] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[00:45] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[00:45] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-28 01:00
+
+[01:00] **Hindustan Times**: Did BJP remove youth wing's Manika Rana over joining CJP protest? What she said
+[01:00] **Hindustan Times**: 101 murder accused among 989 identified in CJP protest: Delhi police officials
+[01:00] **Hindustan Times**: ‘Different flags, same playbook’: Wangchuk's wife slams BJP, Cong over labels
+[01:00] **Hindustan Times**: West Bengal BJP holds twin rallies against CJP; calls them ‘anti-national’
+[01:00] **Hindustan Times**: How Dipke used Boston University PR lessons and AI to build the CJP movement
+[01:00] **Hindustan Times**: CJP to launch website linking protesters with lawyers, Sibal announces ₹1 cr aid
+[01:00] **Hindustan Times**: First fast-track court hearing on NEET leak adjourned as CBI skips proceedings
+[01:00] **Hindustan Times**: Offers to help CJP volunteers get home emerge as Jantar Mantar protest ends
+
+## 2026-07-28 14:28
+
+[14:28] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[14:28] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[14:28] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[14:28] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[14:28] **Hindustan Times**: SC's message on security crackdown during CJP protest: 'Take to task whoever…'
+[14:28] **Hindustan Times**: Big scoop on pellet guns during CJP protest: Police daily diary confirms use
+[14:28] **Hindustan Times**: Murder, rape, narcotics: Police find crime suspects involved in CJP protest
+[14:28] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 14:30
+
+[14:30] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[14:30] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[14:30] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[14:30] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[14:30] **Hindustan Times**: SC's message on security crackdown during CJP protest: 'Take to task whoever…'
+[14:30] **Hindustan Times**: Big scoop on pellet guns during CJP protest: Police daily diary confirms use
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 14:45
+
+[14:45] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[14:45] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[14:45] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[14:45] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[14:45] **Hindustan Times**: SC's message on security crackdown during CJP protest: 'Take to task whoever…'
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 15:00
+
+[15:00] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[15:00] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[15:00] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[15:00] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[15:00] **Hindustan Times**: SC's message on security crackdown during CJP protest: 'Take to task whoever…'
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 15:15
+
+[15:15] **Hindustan Times**: 'Garlanding him as if he won war with Pak': Cong slams Pradhan's felicitation
+[15:15] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[15:15] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[15:15] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[15:15] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[15:15] **Hindustan Times**: SC's message on security crackdown during CJP protest: 'Take to task whoever…'
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 15:30
+
+[15:30] **Hindustan Times**: 'Garlanding him as if he won war with Pak': Cong slams Pradhan's felicitation
+[15:30] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[15:30] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[15:30] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[15:30] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[15:30] **Hindustan Times**: SC's message on security crackdown during CJP protest: 'Take to task whoever…'
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 15:45
+
+[15:45] **Hindustan Times**: '21 students died, but BJP garlanded him': Cong's ‘Pakistan war’ jibe at Pradhan
+[15:45] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[15:45] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[15:45] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[15:45] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 16:00
+
+[16:00] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[16:00] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[16:00] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[16:00] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[16:00] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 16:15
+
+[16:15] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[16:15] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[16:15] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[16:15] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[16:15] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 16:30
+
+[16:30] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[16:30] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[16:30] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[16:30] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[16:30] **Hindustan Times**: All about CJP's 'Saakshi' platform to collect proof of July 20 protest crackdown
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 16:45
+
+[16:45] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[16:45] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[16:45] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[16:45] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 17:00
+
+[17:00] **Hindustan Times**: 'Indians, including Gen-Z, want Pakistan to end terror': MEA on support to CJP
+[17:00] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[17:00] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[17:00] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[17:00] **Hindustan Times**: Police action at CJP protest came after warnings, barricade breaches: Officials
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 17:15
+
+[17:15] **Hindustan Times**: 'Indians, including Gen-Z, want Pakistan to end terror': MEA on support to CJP
+[17:15] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[17:15] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[17:15] **Hindustan Times**: NEET protests: SC says SIT may be set up to probe police excesses
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 17:30
+
+[17:30] **Hindustan Times**: 'Indians, including Gen-Z, want Pakistan to end terror': MEA on support to CJP
+[17:30] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[17:30] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 17:45
+
+[17:45] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[17:45] **Hindustan Times**: 'Indians, including Gen-Z, want Pakistan to end terror': MEA on support to CJP
+[17:45] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[17:45] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 18:00
+
+[18:00] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[18:00] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[18:00] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[18:00] **Hindustan Times**: What CJI said on police excess, pellet guns and protesting 'cockroaches'
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 18:15
+
+[18:15] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[18:15] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[18:15] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 18:30
+
+[18:30] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[18:30] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[18:30] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 18:45
+
+[18:45] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[18:45] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[18:45] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 19:00
+
+[19:00] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[19:00] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[19:00] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 19:15
+
+[19:15] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[19:15] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[19:15] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 19:30
+
+[19:30] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[19:30] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[19:30] **Hindustan Times**: ‘Garlanding him as if he fought Pak’: Congress slams Pradhan's felicitation
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 19:45
+
+[19:45] **Hindustan Times**: Dipke warns govt of 'protest' if it does not stop 'witch-hunting' student
+[19:45] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[19:45] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[19:45] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 20:00
+
+[20:00] **Hindustan Times**: Dipke warns govt of 'protest' if it does not stop 'witch-hunting' students
+[20:00] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[20:00] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[20:00] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 20:15
+
+[20:15] **Hindustan Times**: Dipke warns govt of 'protest' if it does not stop 'witch-hunting' students
+[20:15] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[20:15] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[20:15] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 20:30
+
+[20:30] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against student
+[20:30] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[20:30] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[20:30] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 20:45
+
+[20:45] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against student
+[20:45] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[20:45] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[20:45] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 21:00
+
+[21:00] No new CJP-related headlines found.
+
+## 2026-07-28 21:15
+
+[21:15] No new CJP-related headlines found.
+
+## 2026-07-28 21:30
+
+[21:30] No new CJP-related headlines found.
+
+## 2026-07-28 21:45
+
+[21:45] No new CJP-related headlines found.
