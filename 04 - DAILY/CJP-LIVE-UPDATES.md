@@ -4138,3 +4138,429 @@
 ## 2026-07-28 21:45
 
 [21:45] No new CJP-related headlines found.
+
+## 2026-07-28 22:10
+
+[22:10] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt assurances
+[22:10] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[22:10] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[22:10] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[22:10] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[22:10] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 22:15
+
+[22:15] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt assurances
+[22:15] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[22:15] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[22:15] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[22:15] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 22:30
+
+[22:30] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt assurances
+[22:30] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[22:30] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[22:30] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[22:30] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 22:45
+
+[22:45] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt assurances
+[22:45] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[22:45] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[22:45] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[22:45] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 23:00
+
+[23:00] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[23:00] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt assurances
+[23:00] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[23:00] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[23:00] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[23:00] **Hindustan Times**: 'Indians, including Gen-Z, want them to end terror': MEA on Pak support to CJP
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 23:15
+
+[23:15] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[23:15] **Hindustan Times**: 'Massive betrayal': CJP says SC order on student FIRs contradicts govt promises
+[23:15] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[23:15] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[23:15] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 23:30
+
+[23:30] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[23:30] **Hindustan Times**: 'Massive betrayal': CJP says SC order on student FIRs contradicts govt promises
+[23:30] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[23:30] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[23:30] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-28 23:45
+
+[23:45] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[23:45] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt promises
+[23:45] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[23:45] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[23:45] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 00:00
+
+[00:00] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[00:00] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt promises
+[00:00] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[00:00] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[00:00] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 00:15
+
+[00:15] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[00:15] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt promises
+[00:15] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[00:15] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[00:15] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[00:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 00:30
+
+[00:30] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[00:30] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt promises
+[00:30] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[00:30] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[00:30] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[00:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 00:45
+
+[00:45] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[00:45] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt promises
+[00:45] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[00:45] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[00:45] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 01:00
+
+[01:00] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[01:00] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt promises
+[01:00] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[01:00] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[01:00] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[01:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 01:15
+
+[01:15] **Hindustan Times**: ‘Nobody takes her seriously’: CJP's dig at Kangana after her remarks on Gen Z
+[01:15] **Hindustan Times**: 'Not acceptable': CJP says SC order on student FIRs contradicts govt promises
+[01:15] **Hindustan Times**: Dipke warns Centre of 'massive protests' over 'witch-hunt' against students
+[01:15] **Hindustan Times**: ‘Defender of rapists’: Rahul attacks BJP over choice of new education minister
+[01:15] **Hindustan Times**: Marriage proposals surge for CJP founder Abhijeet Dipke after protests
+[01:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 13:45
+
+[13:45] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[13:45] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[13:45] **Hindustan Times**: Gym bros, Gen Z lingo: How BJP is trying to woo youth after CJP protest
+[13:45] **Hindustan Times**: CJP warns of fresh protest, like never before, if govt breaks this promise
+[13:45] **Hindustan Times**: ‘Govt showed us SC order’: CJP says no guarantee on dropping students' FIRs yet
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 14:00
+
+[14:00] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[14:00] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[14:00] **Hindustan Times**: Gym bros, Gen Z lingo: How BJP is trying to woo youth after CJP protest
+[14:00] **Hindustan Times**: CJP warns of fresh protest, like never before, if govt breaks this promise
+[14:00] **Hindustan Times**: ‘Govt showed us SC order’: CJP says no guarantee on dropping students' FIRs yet
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 14:15
+
+[14:15] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[14:15] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[14:15] **Hindustan Times**: Gym bros, Gen Z lingo: How BJP is trying to woo youth after CJP protest
+[14:15] **Hindustan Times**: CJP warns of fresh protest, like never before, if govt breaks this promise
+[14:15] **Hindustan Times**: ‘Govt showed us SC order’: CJP says no guarantee on dropping students' FIRs yet
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 14:30
+
+[14:30] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[14:30] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[14:30] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[14:30] **Hindustan Times**: Gym bros, Gen Z lingo: How BJP is trying to woo youth after CJP protest
+[14:30] **Hindustan Times**: CJP warns of fresh protest, like never before, if govt breaks this promise
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 14:45
+
+[14:45] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[14:45] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[14:45] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[14:45] **Hindustan Times**: Gym bros, Gen Z lingo: How BJP is trying to woo youth after CJP protest
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 15:00
+
+[15:00] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[15:00] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[15:00] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 15:15
+
+[15:15] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[15:15] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[15:15] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 15:30
+
+[15:30] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[15:30] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[15:30] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 15:45
+
+[15:45] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[15:45] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[15:45] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[15:45] **Hindustan Times**: Fast-track court takes CBI’s chargesheet on record in NEET paper leak case
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 16:00
+
+[16:00] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[16:00] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[16:00] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[16:00] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 16:15
+
+[16:15] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[16:15] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[16:15] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[16:15] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 16:30
+
+[16:30] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[16:30] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[16:30] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[16:30] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 16:45
+
+[16:45] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[16:45] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[16:45] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[16:45] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 17:00
+
+[17:00] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[17:00] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[17:00] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[17:00] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[17:00] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 17:15
+
+[17:15] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[17:15] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[17:15] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[17:15] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[17:15] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 17:30
+
+[17:30] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[17:30] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[17:30] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[17:30] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[17:30] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[17:30] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 17:45
+
+[17:45] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[17:45] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[17:45] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[17:45] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[17:45] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[17:45] **Hindustan Times**: 'Pradhan never ran edu ministry, RSS did': Rahul Gandhi's dig over resignation
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 18:00
+
+[18:00] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[18:00] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[18:00] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[18:00] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[18:00] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 18:15
+
+[18:15] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[18:15] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[18:15] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[18:15] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[18:15] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 18:30
+
+[18:30] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[18:30] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[18:30] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[18:30] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[18:30] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 18:45
+
+[18:45] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[18:45] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[18:45] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[18:45] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[18:45] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 19:00
+
+[19:00] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[19:00] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[19:00] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[19:00] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[19:00] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[19:00] **Hindustan Times**: Goa NEET protest stooped to 'lowest intellectual level': CM Sawant; questions Umar Khalid placards
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 19:15
+
+[19:15] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[19:15] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[19:15] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[19:15] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[19:15] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[19:15] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 19:30
+
+[19:30] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[19:30] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[19:30] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[19:30] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[19:30] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[19:30] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 19:45
+
+[19:45] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[19:45] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[19:45] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[19:45] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[19:45] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[19:45] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 20:00
+
+[20:00] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[20:00] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[20:00] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[20:00] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[20:00] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[20:00] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 20:15
+
+[20:15] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[20:15] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[20:15] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[20:15] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[20:15] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[20:15] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 20:30
+
+[20:30] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[20:30] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[20:30] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[20:30] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[20:30] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[20:30] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 20:45
+
+[20:45] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[20:45] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[20:45] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[20:45] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[20:45] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[20:45] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 21:00
+
+[21:00] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[21:00] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[21:00] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[21:00] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[21:00] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[21:00] **Hindustan Times**: ‘Farmers, students must together corner Modi’: CJP's Ranka at Kisan Morcha event
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 21:15
+
+[21:15] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[21:15] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[21:15] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[21:15] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[21:15] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[21:15] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 21:30
+
+[21:30] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[21:30] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[21:30] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[21:30] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[21:30] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[21:30] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 21:45
+
+[21:45] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[21:45] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[21:45] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[21:45] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[21:45] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[21:45] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
