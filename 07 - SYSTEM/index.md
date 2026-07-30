@@ -115,6 +115,9 @@ Vault infrastructure — rules, templates, logs, and the operating manual.
 - `Topics/` — topic organization
 - `permanent/` — Zettelkasten notes (empty, use 02 - PERMANENT)
 
+## Research Deep-Dives
+- [[0-Inbox/flood-prevention-research]] — Deep research: Can we prevent floods in any land? (Complete)
+
 ## Tooling & Experiments
 - `pegasus/` — canvas research visuals
 - `autoresearch/`, `temp_autoresearch/` — auto-research agents

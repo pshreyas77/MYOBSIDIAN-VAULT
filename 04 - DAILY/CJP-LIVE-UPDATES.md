@@ -4564,3 +4564,457 @@
 [21:45] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
 [21:45] **Hindustan Times**: Rahul calls Pradhan’s resignation superficial, attacks Shah, calls RSS real enemy
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 22:00
+
+[22:00] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[22:00] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[22:00] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[22:00] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[22:00] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[22:00] **Hindustan Times**: From news to CBI case: Govt gives timeline of NEET leak probe
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 22:15
+
+[22:15] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[22:15] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[22:15] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[22:15] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[22:15] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 22:30
+
+[22:30] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[22:30] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[22:30] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[22:30] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[22:30] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[22:30] **Hindustan Times**: ‘I am in Russia’: Booked in NEET protest case even when abroad, Bihar man claims
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 22:45
+
+[22:45] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[22:45] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[22:45] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[22:45] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[22:45] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 23:00
+
+[23:00] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[23:00] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[23:00] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[23:00] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[23:00] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 23:15
+
+[23:15] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[23:15] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[23:15] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[23:15] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[23:15] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 23:30
+
+[23:30] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[23:30] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[23:30] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[23:30] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[23:30] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-29 23:45
+
+[23:45] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[23:45] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[23:45] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[23:45] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[23:45] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 00:00
+
+[00:00] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[00:00] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[00:00] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[00:00] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[00:00] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 00:15
+
+[00:15] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[00:15] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[00:15] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[00:15] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[00:15] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[00:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 00:30
+
+[00:30] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[00:30] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[00:30] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[00:30] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[00:30] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[00:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 00:45
+
+[00:45] **Hindustan Times**: Sonam Raghuvanshi surrenders after SC cancels bail in Meghalaya murder case
+[00:45] **Hindustan Times**: 'Leave the chair, become an influencer': Dipke tells PM Modi; questions new bill
+[00:45] **Hindustan Times**: ‘DMs filled with death threats’: CJP's Ratna Singh on Jantar Mantar lessons
+[00:45] **Hindustan Times**: Govt says no ‘goli’ fired at CJP protest, Rahul Gandhi sticks to ‘pellets’ claim
+[00:45] **Hindustan Times**: 'Join BJP or we'll deal with your parents': Father claims Dipke was threatened
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 13:36
+
+[13:36] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[13:36] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[13:36] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[13:36] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[13:36] **Hindustan Times**: NSUI leaders begin indefinite hunger strike atop Jaipur water tank
+[13:36] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 13:45
+
+[13:45] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[13:45] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[13:45] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[13:45] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[13:45] **Hindustan Times**: NSUI leaders begin indefinite hunger strike atop Jaipur water tank
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 14:00
+
+[14:00] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[14:00] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[14:00] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[14:00] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[14:00] **Hindustan Times**: NSUI leaders begin indefinite hunger strike atop Jaipur water tank
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 14:15
+
+[14:15] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[14:15] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[14:15] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[14:15] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[14:15] **Hindustan Times**: NSUI leaders begin indefinite hunger strike atop Jaipur water tank
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 14:30
+
+[14:30] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[14:30] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[14:30] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[14:30] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[14:30] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[14:30] **Hindustan Times**: NSUI leaders begin indefinite hunger strike atop Jaipur water tank
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 14:45
+
+[14:45] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[14:45] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[14:45] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[14:45] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[14:45] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[14:45] **Hindustan Times**: NSUI leaders begin indefinite hunger strike atop Jaipur water tank
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 15:00
+
+[15:00] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[15:00] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[15:00] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[15:00] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[15:00] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 15:15
+
+[15:15] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[15:15] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[15:15] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[15:15] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[15:15] **Hindustan Times**: Pellet guns allowed 'in exceptional cases', says SC; CJP reacts with 'disgusting
+[15:15] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[15:15] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 15:30
+
+[15:30] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[15:30] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[15:30] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[15:30] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[15:30] **Hindustan Times**: Pellet guns allowed 'in exceptional cases', says SC; CJP says ‘disgusting’
+[15:30] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[15:30] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 15:45
+
+[15:45] **Hindustan Times**: ‘Shah can’t keep hiding’: Cong vs BJP showdown over Jantar Mantar stir escalates
+[15:45] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[15:45] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[15:45] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[15:45] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[15:45] **Hindustan Times**: Pellet guns allowed 'in exceptional cases', says SC; CJP says ‘disgusting’
+[15:45] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[15:45] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+
+## 2026-07-30 16:00
+
+[16:00] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah’s resignation over police excesses
+[16:00] **Hindustan Times**: ‘Shah can’t keep hiding’: Cong vs BJP showdown over Jantar Mantar stir escalates
+[16:00] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[16:00] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[16:00] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[16:00] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[16:00] **Hindustan Times**: Pellet guns allowed 'in exceptional cases', says SC; CJP says ‘disgusting’
+[16:00] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+
+## 2026-07-30 16:15
+
+[16:15] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah’s resignation over police excesses
+[16:15] **Hindustan Times**: ‘Shah can’t keep hiding’: Cong vs BJP showdown over Jantar Mantar stir escalates
+[16:15] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[16:15] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[16:15] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[16:15] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[16:15] **Hindustan Times**: Pellet guns allowed 'in exceptional cases', says SC; CJP says ‘disgusting’
+[16:15] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+
+## 2026-07-30 16:30
+
+[16:30] **Hindustan Times**: 'Amit Shah should resign': Dipke backs Rahul Gandhi after cop action on students
+[16:30] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[16:30] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[16:30] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[16:30] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[16:30] **Hindustan Times**: Pellet guns allowed 'in exceptional cases', says SC; CJP says ‘disgusting’
+[16:30] **Hindustan Times**: CJP slams anti-paper leak bill: ‘Focuses on punishment rather than prevention'
+[16:30] **Hindustan Times**: Plea on use of pellet gun: SC asks Centre to preserve ammunition log of RAF used in NEET protests
+
+## 2026-07-30 16:45
+
+[16:45] **Hindustan Times**: Woman, 21, in ICU after cop action during CJP protests, discharged from hospital
+[16:45] **Hindustan Times**: 'Amit Shah should resign': Dipke backs Rahul Gandhi after cop action on students
+[16:45] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[16:45] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[16:45] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[16:45] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[16:45] **Hindustan Times**: Pellet guns allowed 'in exceptional cases', says SC; CJP says ‘disgusting’
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 17:00
+
+[17:00] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[17:00] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[17:00] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[17:00] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[17:00] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[17:00] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[17:00] **Hindustan Times**: Pellet guns allowed 'in exceptional cases', says SC; CJP says ‘disgusting’
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 17:15
+
+[17:15] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[17:15] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[17:15] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[17:15] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[17:15] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[17:15] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[17:15] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 17:30
+
+[17:30] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[17:30] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[17:30] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[17:30] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[17:30] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[17:30] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[17:30] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 17:45
+
+[17:45] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[17:45] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[17:45] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[17:45] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[17:45] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[17:45] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[17:45] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 18:00
+
+[18:00] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[18:00] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[18:00] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[18:00] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[18:00] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[18:00] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[18:00] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+[18:00] **Hindustan Times**: Delhi BJP protests against Punjab education minister over 'paper leaks'
+
+## 2026-07-30 18:15
+
+[18:15] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[18:15] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[18:15] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[18:15] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[18:15] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[18:15] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[18:15] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[18:15] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+
+## 2026-07-30 18:30
+
+[18:30] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[18:30] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[18:30] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[18:30] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[18:30] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[18:30] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[18:30] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[18:30] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+
+## 2026-07-30 18:45
+
+[18:45] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[18:45] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[18:45] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[18:45] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[18:45] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[18:45] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[18:45] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[18:45] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+
+## 2026-07-30 19:00
+
+[19:00] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[19:00] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[19:00] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[19:00] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[19:00] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[19:00] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[19:00] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[19:00] **Hindustan Times**: Sonam Wangchuk heaps praise on Vande Bharat, Indian Railways on trip to Ladakh
+
+## 2026-07-30 19:15
+
+[19:15] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[19:15] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[19:15] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[19:15] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[19:15] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[19:15] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[19:15] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 19:30
+
+[19:30] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[19:30] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[19:30] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[19:30] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[19:30] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[19:30] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[19:30] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 19:45
+
+[19:45] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[19:45] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[19:45] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[19:45] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[19:45] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[19:45] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[19:45] **Hindustan Times**: Jantar Mantar closed? Delhi Police clarifies reports of barricades after protest
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 20:00
+
+[20:00] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[20:00] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[20:00] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[20:00] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[20:00] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[20:00] **Hindustan Times**: Jantar Mantar in Trafalgar Square
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 20:15
+
+[20:15] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[20:15] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[20:15] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[20:15] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[20:15] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 20:30
+
+[20:30] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[20:30] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[20:30] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[20:30] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[20:30] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 20:45
+
+[20:45] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[20:45] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[20:45] **Hindustan Times**: Pellets can cause blindness, paralysis, PTSD: Experts amid CJP crackdown row
+[20:45] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[20:45] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[20:45] **Hindustan Times**: Dipke echoes Rahul Gandhi, demands Amit Shah's resignation over police action
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 21:00
+
+[21:00] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[21:00] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[21:00] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[21:00] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 21:15
+
+[21:15] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[21:15] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[21:15] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[21:15] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 21:30
+
+[21:30] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[21:30] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[21:30] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[21:30] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 21:45
+
+[21:45] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[21:45] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[21:45] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[21:45] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
