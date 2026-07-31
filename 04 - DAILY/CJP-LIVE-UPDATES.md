@@ -5018,3 +5018,335 @@
 [21:45] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
 [21:45] **Hindustan Times**: 21-year-old woman, who landed in ICU after cop action in CJP protest, discharged
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 22:00
+
+[22:00] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[22:00] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[22:00] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[22:00] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 22:15
+
+[22:15] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[22:15] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[22:15] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[22:15] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 22:30
+
+[22:30] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[22:30] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[22:30] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[22:30] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 22:45
+
+[22:45] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[22:45] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[22:45] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[22:45] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[22:45] **Hindustan Times**: Delhi govt closes NEET protest cases with caveat: 'No protection for those…'
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 23:00
+
+[23:00] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[23:00] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[23:00] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[23:00] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 23:15
+
+[23:15] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[23:15] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[23:15] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[23:15] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 23:30
+
+[23:30] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[23:30] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[23:30] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[23:30] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-30 23:45
+
+[23:45] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[23:45] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[23:45] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[23:45] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 00:00
+
+[00:00] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[00:00] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[00:00] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[00:00] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 00:15
+
+[00:15] **Hindustan Times**: 'Skin brighter than country's future': CJP's Dipke reacts to PM Modi's new video
+[00:15] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[00:15] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[00:15] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[00:15] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[00:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 00:30
+
+[00:30] **Hindustan Times**: 'Skin brighter than country's future': CJP's Dipke reacts to PM Modi's new video
+[00:30] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[00:30] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[00:30] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[00:30] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[00:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 00:45
+
+[00:45] **Hindustan Times**: 'Skin brighter than country's future': CJP's Dipke reacts to PM Modi's new video
+[00:45] **Hindustan Times**: Want withdrawal of FIRs, not just closure: CJP's Saurav Das on Delhi govt move
+[00:45] **Hindustan Times**: Woman booked for using abusive language for PM Modi at CJP Jantar Mantar protest
+[00:45] **Hindustan Times**: ‘Pursue defamation proceedings’: CJP's Saurav Das on reaction to abusive slogans
+[00:45] **Hindustan Times**: Why must a child say ‘sorry mummy-papa’, TMC MP asks Centre over NEET suicides
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 13:19
+
+[13:19] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[13:19] **Hindustan Times**: BJP leader's daughter explains why she backs CJP, calls new edu minister ‘joke’
+[13:19] **Hindustan Times**: 'Didn't want headlines': Raghav Chadha on why he didn't speak on NEET issue
+[13:19] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 13:30
+
+[13:30] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[13:30] **Hindustan Times**: BJP leader's daughter explains why she backs CJP, calls new edu minister ‘joke’
+[13:30] **Hindustan Times**: 'Didn't want headlines': Raghav Chadha on why he didn't speak on NEET issue
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 13:45
+
+[13:45] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[13:45] **Hindustan Times**: BJP leader's daughter explains why she backs CJP, calls new edu minister ‘joke’
+[13:45] **Hindustan Times**: 'Didn't want headlines': Raghav Chadha on why he didn't speak on NEET issue
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 14:00
+
+[14:00] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[14:00] **Hindustan Times**: BJP leader's daughter explains why she backs CJP, calls new edu minister ‘joke’
+[14:00] **Hindustan Times**: 'Didn't want headlines': Raghav Chadha on why he didn't speak on NEET issue
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 14:15
+
+[14:15] **Hindustan Times**: 'Not criminal offense': CJP on woman booked over 'abusive' remarks against PM
+[14:15] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[14:15] **Hindustan Times**: BJP leader's daughter explains why she backs CJP, calls new edu minister ‘joke’
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 14:30
+
+[14:30] **Hindustan Times**: 'Not criminal offense': CJP on woman booked over 'abusive' remarks against PM
+[14:30] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[14:30] **Hindustan Times**: BJP leader's daughter explains why she backs CJP, calls new edu minister ‘joke’
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 14:45
+
+[14:45] **Hindustan Times**: 'Not criminal offense': CJP on woman booked over 'abusive' remarks against PM
+[14:45] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[14:45] **Hindustan Times**: BJP leader's daughter explains why she backs CJP, calls new edu minister ‘joke’
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 15:00
+
+[15:00] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[15:00] **Hindustan Times**: 'Not criminal offense': CJP on woman booked over 'abusive' remarks against PM
+[15:00] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 15:15
+
+[15:15] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[15:15] **Hindustan Times**: 'Not criminal offense': CJP on woman booked over 'abusive' remarks against PM
+[15:15] **Hindustan Times**: 'My father was almost lynched in Jantar Mantar': Families of Delhi cops
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 15:30
+
+[15:30] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[15:30] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 15:45
+
+[15:45] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[15:45] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 16:00
+
+[16:00] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[16:00] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[16:00] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 16:15
+
+[16:15] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[16:15] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[16:15] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 16:30
+
+[16:30] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[16:30] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[16:30] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 16:45
+
+[16:45] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[16:45] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[16:45] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 17:00
+
+[17:00] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[17:00] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[17:00] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 17:15
+
+[17:15] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[17:15] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[17:15] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 17:30
+
+[17:30] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[17:30] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[17:30] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 17:45
+
+[17:45] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[17:45] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[17:45] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[17:45] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 18:00
+
+[18:00] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[18:00] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[18:00] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[18:00] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 18:15
+
+[18:15] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[18:15] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[18:15] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[18:15] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 18:30
+
+[18:30] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[18:30] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[18:30] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[18:30] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 18:45
+
+[18:45] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[18:45] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[18:45] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[18:45] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 19:00
+
+[19:00] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[19:00] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[19:00] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[19:00] **Hindustan Times**: 'Not criminal offence': CJP on woman booked over 'abusive' remarks against PM
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 19:15
+
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 19:30
+
+[19:30] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[19:30] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[19:30] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 19:45
+
+[19:45] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[19:45] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[19:45] **Hindustan Times**: What Sonam Wangchuk's wife said on calling India 'secular' in Constitution
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 20:00
+
+[20:00] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[20:00] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 20:15
+
+[20:15] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[20:15] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 20:30
+
+[20:30] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[20:30] **Hindustan Times**: ‘Punish miscreants’: Wife of Delhi police cop injured during parliament march
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 20:45
+
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 21:00
+
+[21:00] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 21:15
+
+[21:15] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 21:30
+
+[21:30] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 21:45
+
+[21:45] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
