@@ -5350,3 +5350,72 @@
 
 [21:45] **Hindustan Times**: ‘This was done by BJP goons’: Dipke expresses sympathy for injured Delhi cops
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 22:00
+
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 22:15
+
+[22:15] **Hindustan Times**: 'When will BJP face cases?': CJP's Dipke on FIR over anti-Modi remarks
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 22:30
+
+[22:30] **Hindustan Times**: 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR over anti-Modi remarks
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 22:46
+
+[22:46] **Hindustan Times**: 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR over anti-Modi remarks
+[22:46] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 23:00
+
+[23:00] **Hindustan Times**: 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR over anti-Modi remarks
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 23:15
+
+[23:15] **Hindustan Times**: 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR over anti-Modi remarks
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-07-31 23:30
+
+[23:30] No new CJP-related headlines found.
+
+## 2026-07-31 23:45
+
+[23:45] No new CJP-related headlines found.
+
+## 2026-08-01 00:00
+
+[00:00] **Hindustan Times**: 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR over anti-Modi remarks
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-01 00:18
+
+[00:18] **Hindustan Times**: 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR over anti-Modi remarks
+[00:18] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-01 00:44
+
+[00:44] **Hindustan Times**: 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR over anti-Modi remarks
+[00:44] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-01 00:45
+
+[00:45] **Hindustan Times**: 'When will BJP face cases?': CJP's Abhijeet Dipke on FIR over anti-Modi remarks
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-01 12:22
+
+[12:22] **Hindustan Times**: Student's reply to BJP's 'Babar ki Virasat' post gets support from Rahul, CJP
+[12:22] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-02 12:17
+
+[12:17] **Hindustan Times**: RTI activist seeks inquiry into how Dipke's father funded his US education
+[12:17] **Hindustan Times**: Stone-pelting by CJP protesters happened even after Parliament march: Officials
+[12:17] **Hindustan Times**: Arrested JeM operative planned to target Suvendu, infiltrate NEET protest: STF
+[12:17] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
