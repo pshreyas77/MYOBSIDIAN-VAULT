@@ -5434,3 +5434,259 @@
 [15:02] **Hindustan Times**: 'Puncture banane wale' outnumbered students at Jantar Mantar: Ramesh Bidhuri
 [15:02] **Hindustan Times**: 'We're different': Dipke defends CJP after author's 'Bangladesh 2024' remark
 [15:02] **Hindustan Times**: 'Bangladesh stir run by Jihadis': What CJP protest reminded Taslima Nasreen of
+
+## 2026-08-03 15:15
+
+[15:15] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[15:15] **Hindustan Times**: ‘Garlanded rapists’: Dipke on Pralhad Joshi as education minister after Pradhan
+[15:15] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[15:15] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[15:15] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[15:15] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+[15:15] **Hindustan Times**: Santy Sharma launches 'Reservation Hatao – August Kranti' amid CJP row
+[15:15] **Hindustan Times**: 'Puncture banane wale' outnumbered students at Jantar Mantar: Ramesh Bidhuri
+
+## 2026-08-03 15:30
+
+[15:30] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[15:30] **Hindustan Times**: ‘Garlanded rapists’: Dipke on Pralhad Joshi as education minister after Pradhan
+[15:30] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[15:30] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[15:30] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[15:30] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+[15:30] **Hindustan Times**: Santy Sharma launches 'Reservation Hatao – August Kranti' amid CJP row
+[15:30] **Hindustan Times**: 'Puncture banane wale' outnumbered students at Jantar Mantar: Ramesh Bidhuri
+
+## 2026-08-03 15:45
+
+[15:45] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[15:45] **Hindustan Times**: ‘Garlanded rapists’: Dipke on Pralhad Joshi as education minister after Pradhan
+[15:45] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[15:45] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[15:45] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[15:45] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+[15:45] **Hindustan Times**: Santy Sharma launches 'Reservation Hatao – August Kranti' amid CJP row
+[15:45] **Hindustan Times**: 'Puncture banane wale' outnumbered students at Jantar Mantar: Ramesh Bidhuri
+
+## 2026-08-03 16:00
+
+[16:00] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[16:00] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[16:00] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[16:00] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[16:00] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[16:00] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[16:00] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+[16:00] **Hindustan Times**: Santy Sharma launches 'Reservation Hatao – August Kranti' amid CJP row
+
+## 2026-08-03 16:15
+
+[16:15] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[16:15] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[16:15] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[16:15] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[16:15] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[16:15] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[16:15] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+[16:15] **Hindustan Times**: Santy Sharma launches 'Reservation Hatao – August Kranti' amid CJP row
+
+## 2026-08-03 16:30
+
+[16:30] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[16:30] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[16:30] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[16:30] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[16:30] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[16:30] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[16:30] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+[16:30] **Hindustan Times**: Santy Sharma launches 'Reservation Hatao – August Kranti' amid CJP row
+
+## 2026-08-03 16:45
+
+[16:45] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[16:45] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[16:45] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[16:45] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[16:45] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[16:45] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[16:45] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[16:45] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+
+## 2026-08-03 17:00
+
+[17:00] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[17:00] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[17:00] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[17:00] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[17:00] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[17:00] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[17:00] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[17:00] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+
+## 2026-08-03 17:15
+
+[17:15] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[17:15] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[17:15] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[17:15] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[17:15] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[17:15] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[17:15] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[17:15] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+
+## 2026-08-03 17:32
+
+[17:32] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[17:32] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[17:32] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[17:32] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[17:32] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[17:32] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[17:32] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[17:32] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+
+## 2026-08-03 17:45
+
+[17:45] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[17:45] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[17:45] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[17:45] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[17:45] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[17:45] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[17:45] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[17:45] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+
+## 2026-08-03 18:00
+
+[18:00] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[18:00] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[18:00] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[18:00] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[18:00] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[18:00] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[18:00] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[18:00] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+
+## 2026-08-03 18:15
+
+[18:15] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[18:15] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[18:15] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[18:15] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[18:15] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[18:15] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[18:15] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 18:30
+
+[18:30] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[18:30] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[18:30] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[18:30] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[18:30] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[18:30] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[18:30] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 18:45
+
+[18:45] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[18:45] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[18:45] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[18:45] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[18:45] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[18:45] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[18:45] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 19:00
+
+[19:00] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[19:00] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[19:00] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[19:00] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[19:00] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[19:00] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 19:15
+
+[19:15] **Hindustan Times**: RSS chief to address Gen Z at IIMUN, days after Jantar Mantar protest
+[19:15] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[19:15] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[19:15] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[19:15] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[19:15] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 19:30
+
+[19:30] **Hindustan Times**: RSS chief to address Gen Z at Mumbai event, days after Jantar Mantar protest
+[19:30] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[19:30] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[19:30] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[19:30] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 19:45
+
+[19:45] **Hindustan Times**: RSS chief to address Gen Z at Mumbai event, days after Jantar Mantar protest
+[19:45] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[19:45] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[19:45] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[19:45] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 20:00
+
+[20:00] **Hindustan Times**: RSS chief to address Gen Z at Mumbai event, days after Jantar Mantar protest
+[20:00] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[20:00] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[20:00] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[20:00] **Hindustan Times**: 'Joshi was seen garlanding Bilkis Bano's rapists': CJP on edu min's appointment
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 20:15
+
+[20:15] **Hindustan Times**: RSS chief to address Gen Z at Mumbai event, days after Jantar Mantar protest
+[20:15] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[20:15] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[20:15] **Hindustan Times**: From Jantar Mantar protest to acquittal: Timeline of Brij Bhushan case
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 20:30
+
+[20:30] **Hindustan Times**: RSS chief to address Gen Z at Mumbai event, days after Jantar Mantar protest
+[20:30] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[20:30] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 20:45
+
+[20:45] **Hindustan Times**: RSS chief to address Gen Z at Mumbai event, days after Jantar Mantar protest
+[20:45] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[20:45] **Hindustan Times**: SC narrows caveat, says states can withdraw FIRs on protesters; CJP reacts
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 21:00
+
+[21:00] **Hindustan Times**: RSS chief to address Gen Z at Mumbai event, days after Jantar Mantar protest
+[21:00] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 21:15
+
+[21:15] **Hindustan Times**: RSS chief to address Gen Z at Mumbai event, days after Jantar Mantar protest
+[21:15] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 21:30
+
+[21:30] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 21:45
+
+[21:45] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
