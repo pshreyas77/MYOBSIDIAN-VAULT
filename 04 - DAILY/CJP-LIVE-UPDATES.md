@@ -5419,3 +5419,18 @@
 [12:17] **Hindustan Times**: Stone-pelting by CJP protesters happened even after Parliament march: Officials
 [12:17] **Hindustan Times**: Arrested JeM operative planned to target Suvendu, infiltrate NEET protest: STF
 [12:17] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-02 19:35
+
+[19:35] No new CJP-related headlines found.
+
+## 2026-08-03 15:02
+
+[15:02] **Hindustan Times**: CJP to hold its first core committee meeting on Aug 5 to discuss future plans
+[15:02] **Hindustan Times**: Will Abhijeet Dipke enter politics? CJP founder answers big question
+[15:02] **Hindustan Times**: ‘There would’ve been no CJP': Dipke ‘credits’ CJI Kant for student protests
+[15:02] **Hindustan Times**: ‘Will emperor show his degree?’: Dipke's dare after questions over his US study
+[15:02] **Hindustan Times**: Santy Sharma launches 'Reservation Hatao – August Kranti' amid CJP row
+[15:02] **Hindustan Times**: 'Puncture banane wale' outnumbered students at Jantar Mantar: Ramesh Bidhuri
+[15:02] **Hindustan Times**: 'We're different': Dipke defends CJP after author's 'Bangladesh 2024' remark
+[15:02] **Hindustan Times**: 'Bangladesh stir run by Jihadis': What CJP protest reminded Taslima Nasreen of
