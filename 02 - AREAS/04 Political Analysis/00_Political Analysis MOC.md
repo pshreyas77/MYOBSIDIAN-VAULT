@@ -20,6 +20,8 @@ Political systems and social analysis
 - [[CJP-LIVE-UPDATES]] — Auto-scraper headline feed
 - [[2026-06-02 — BJP Political Geography & South India Analysis]] — BJP regional dominance analysis
 - [[2026-05-22_Youth_Revolution_Strategy_Synthesis]] — Prior youth political analysis
+- [[Delimitation]] — Delimitation of constituencies, North-South representation, federal balance
+- [[Modi_Operation_360_Akash_Banerjee]] — Operation 360: BJP's 360-seat strategy, delimitation link, anti-defection loophole
 
 ## 👥 Society & Culture
 - [[Caste System Origins]]

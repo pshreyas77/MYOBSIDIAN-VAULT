@@ -5690,3 +5690,254 @@
 
 [21:45] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 22:00
+
+[22:00] **Hindustan Times**: ‘Withdraw FIRs now’: CJP to BJP after SC clarifies order on protest-linked cases
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 22:15
+
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 22:30
+
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 22:45
+
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 23:00
+
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 23:15
+
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-03 23:30
+
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 13:26
+
+[13:26] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[13:26] **Hindustan Times**: 'Uorfi offered ₹1L': Influencer says Dipke a Pak agent, paid celebs to back CJP
+[13:26] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 13:30
+
+[13:30] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[13:30] **Hindustan Times**: 'Uorfi offered ₹1L': Influencer says Dipke a Pak agent, paid celebs to back CJP
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 13:45
+
+[13:45] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[13:45] **Hindustan Times**: 'Uorfi offered ₹1L': Influencer says Dipke a Pak agent, paid celebs to back CJP
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 14:00
+
+[14:00] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[14:00] **Hindustan Times**: 'Uorfi offered ₹1L': Influencer says Dipke a Pak agent, paid celebs to back CJP
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 14:15
+
+[14:15] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[14:15] **Hindustan Times**: 'Uorfi offered ₹1L': Influencer says Dipke a Pak agent, paid celebs to back CJP
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 14:30
+
+[14:30] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 14:45
+
+[14:45] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 15:00
+
+[15:00] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[15:00] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 15:15
+
+[15:15] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[15:15] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 15:30
+
+[15:30] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[15:30] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 15:45
+
+[15:45] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[15:45] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 16:00
+
+[16:00] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[16:00] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 16:15
+
+[16:15] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[16:15] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[16:15] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 16:30
+
+[16:30] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[16:30] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[16:30] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 16:45
+
+[16:45] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[16:45] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[16:45] **Hindustan Times**: ‘Never mentioned Trisha’: DMK after Udhayanidhi detained over remarks
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 17:00
+
+[17:00] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[17:00] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[17:00] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 17:15
+
+[17:15] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[17:15] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[17:15] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 17:30
+
+[17:30] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[17:30] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[17:30] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 17:45
+
+[17:45] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[17:45] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[17:45] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 18:00
+
+[18:00] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[18:00] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[18:00] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 18:15
+
+[18:15] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[18:15] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[18:15] **Hindustan Times**: ‘Youth has forced this’: Dipke on RSS chief's planned interaction with Gen Z
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 18:30
+
+[18:30] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[18:30] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 18:45
+
+[18:45] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[18:45] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 19:00
+
+[19:00] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[19:00] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 19:15
+
+[19:15] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[19:15] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 19:30
+
+[19:30] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[19:30] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 19:45
+
+[19:45] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[19:45] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[19:45] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 20:00
+
+[20:00] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[20:00] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[20:00] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 20:15
+
+[20:15] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[20:15] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[20:15] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 20:30
+
+[20:30] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[20:30] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[20:30] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 20:45
+
+[20:45] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[20:45] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[20:45] **Hindustan Times**: 'Are achhe din finally ahead?': Wangchuk's wife takes dig at BJP after PK's win
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 21:00
+
+[21:00] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[21:00] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 21:15
+
+[21:15] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[21:15] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 21:30
+
+[21:30] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[21:30] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 21:45
+
+[21:45] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[21:45] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament

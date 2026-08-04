@@ -25,7 +25,9 @@ Based on Graphify analysis of your vault, here are the major knowledge areas:
 | [[_COMMUNITY_Buddhist Philosophy]] | [[Buddhism & Hinduism MOC]] | Philosophy research and comparisons |
 | [[_COMMUNITY_AI & Machine Learning]] | [[AI Research MOC]] | AI agents, models, and research |
 | [[_COMMUNITY_Ancient Civilizations]] | [[Ancient Civilizations MOC]] | Historical civilizations and cultures |
-| [[_COMMUNITY_Political Analysis]] | [[Political Analysis MOC]] | Political systems and analysis |
+||| [[_COMMUNITY_Political Analysis]] | [[Political Analysis MOC]] | Political systems and analysis
+  - [[Delimitation]] — Delimitation of constituencies, North-South representation, federal balance
+  - [[Modi_Operation_360_Akash_Banerjee]] — Operation 360: BJP's 360-seat strategy, delimitation link, anti-defection loophole ||
 | [[_COMMUNITY_Philosophers & Thinkers]] | [[Philosophers Encyclopedia]] | Philosophers comparison and analysis |
 | [[_COMMUNITY_Code Projects]] | [[Projects Index]] | Development projects |
 | [[_COMMUNITY_Knowledge Management]] | [[Knowledge Management MOC]] | PKM systems and methods |

@@ -24,6 +24,10 @@ aliases: [indian-politics Map of Content]
 - [[2026-03-16_election-2026-update_1|Election 2026 Update 1]]
 - [[2026-03-16_election-2026-update|Election 2026 Update]]
 
+### Structural & Constitutional
+- [[Delimitation]] — Delimitation of constituencies, North-South representation, federal balance
+- [[Modi_Operation_360_Akash_Banerjee]] — Operation 360: BJP's 360-seat strategy, delimitation link, anti-defection loophole
+
 
 ---
 
