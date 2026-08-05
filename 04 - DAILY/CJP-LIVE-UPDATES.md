@@ -5941,3 +5941,388 @@
 [21:45] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
 [21:45] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 22:00
+
+[22:00] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[22:00] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 22:15
+
+[22:15] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[22:15] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 22:30
+
+[22:30] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[22:30] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 22:45
+
+[22:45] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[22:45] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 23:00
+
+[23:00] **Hindustan Times**: 'CJP got 30 mn views, BJP 10 mn': Parl panel head says Meta is ‘anti-democracy’
+[23:00] **Hindustan Times**: ‘Why can't Modi, Shah come to House?’: Oppn, CJP ask as Parliament disrupted
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 23:15
+
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 23:30
+
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-04 23:45
+
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 00:00
+
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 00:15
+
+[00:15] **Hindustan Times**: Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
+[00:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 00:30
+
+[00:30] **Hindustan Times**: Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
+[00:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 00:45
+
+[00:45] **Hindustan Times**: Have undertaken comprehensive overhaul to eliminate NEET paper leaks: Centre tells SC
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 10:57
+
+[10:57] **Hindustan Times**: Student protests, hunger strike in Jharkhand, CJP gets behind: What's happening?
+[10:57] **Hindustan Times**: Court demands CBI's response on 3 accused for lie-detector test in NEET leak
+[10:57] **Hindustan Times**: 'Political party not the answer': Dipke on today's meet to discuss CJP future
+[10:57] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 11:00
+
+[11:00] **Hindustan Times**: Student protests, hunger strike in Jharkhand, CJP gets behind: What's happening?
+[11:00] **Hindustan Times**: Court demands CBI's response on 3 accused for lie-detector test in NEET leak
+[11:00] **Hindustan Times**: 'Political party not the answer': Dipke on today's meet to discuss CJP future
+[11:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 11:15
+
+[11:15] **Hindustan Times**: Court demands CBI's response on 3 accused for lie-detector test in NEET leak
+[11:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 11:30
+
+[11:30] **Hindustan Times**: Court demands CBI's response on 3 accused for lie-detector test in NEET leak
+[11:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 11:45
+
+[11:45] **Hindustan Times**: Court demands CBI's response on 3 accused for lie-detector test in NEET leak
+[11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 12:00
+
+[12:00] **Hindustan Times**: Court demands CBI's response on 3 accused for lie-detector test in NEET leak
+[12:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 12:15
+
+[12:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 12:30
+
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 12:45
+
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 13:00
+
+[13:00] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 13:15
+
+[13:15] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 13:30
+
+[13:30] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[13:30] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[13:30] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 13:45
+
+[13:45] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[13:45] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[13:45] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 14:00
+
+[14:00] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[14:00] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[14:00] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 14:15
+
+[14:15] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[14:15] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[14:15] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 14:30
+
+[14:30] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[14:30] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[14:30] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[14:30] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 14:45
+
+[14:45] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[14:45] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[14:45] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[14:45] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[14:45] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 15:00
+
+[15:00] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[15:00] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[15:00] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[15:00] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[15:00] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[15:00] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 15:15
+
+[15:15] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[15:15] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[15:15] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[15:15] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[15:15] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[15:15] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 15:30
+
+[15:30] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[15:30] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[15:30] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[15:30] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[15:30] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[15:30] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 15:45
+
+[15:45] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[15:45] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[15:45] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[15:45] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[15:45] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[15:45] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 16:00
+
+[16:00] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[16:00] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[16:00] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[16:00] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[16:00] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[16:00] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[16:00] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 16:15
+
+[16:15] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[16:15] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[16:15] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[16:15] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[16:15] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[16:15] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[16:15] **Hindustan Times**: CJP protest: SC says youngsters need to be pacified, law enforcement must show restraint
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 16:30
+
+[16:30] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[16:30] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[16:30] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[16:30] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[16:30] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[16:30] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 16:45
+
+[16:45] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[16:45] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[16:45] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[16:45] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[16:45] **Hindustan Times**: Sonam Wangchuk backs Jharkhand students’ protest, urges leader to end hunger strike
+[16:45] **Hindustan Times**: Sonam Wangchuk urges Jharkhand student leader to end hunger strike
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 17:00
+
+[17:00] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[17:00] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[17:00] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[17:00] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 17:15
+
+[17:15] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[17:15] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[17:15] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[17:15] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 17:30
+
+[17:30] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[17:30] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[17:30] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[17:30] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 17:45
+
+[17:45] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[17:45] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[17:45] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[17:45] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 18:00
+
+[18:00] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[18:00] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[18:00] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[18:00] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 18:15
+
+[18:15] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[18:15] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[18:15] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[18:15] **Hindustan Times**: CJP to act as a 'pressure group': Dipke shifts focus to E20 after NEET protest
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 18:30
+
+[18:30] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[18:30] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[18:30] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[18:30] **Hindustan Times**: Jharkhand student leader on hunger strike drinks water on Wangchuk's request
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 18:45
+
+[18:45] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[18:45] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[18:45] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 19:00
+
+[19:00] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[19:00] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[19:00] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 19:15
+
+[19:15] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[19:15] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[19:15] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 19:30
+
+[19:30] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[19:30] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[19:30] **Hindustan Times**: SC declines plea challenging SCBA resolution supporting Wangchuk hunger strike
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 19:45
+
+[19:45] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[19:45] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 20:00
+
+[20:00] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[20:00] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 20:15
+
+[20:15] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[20:15] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[20:15] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 20:30
+
+[20:30] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[20:30] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[20:30] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 20:45
+
+[20:45] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[20:45] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[20:45] **Hindustan Times**: 'Grave security threat': CJP leader raises SOS after YouTubers enter his house
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 21:00
+
+[21:00] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[21:00] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 21:15
+
+[21:15] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[21:15] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 21:30
+
+[21:30] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[21:30] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 21:45
+
+[21:45] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[21:45] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
