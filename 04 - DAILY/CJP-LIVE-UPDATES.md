@@ -6326,3 +6326,265 @@
 [21:45] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
 [21:45] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 22:00
+
+[22:00] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[22:00] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 22:15
+
+[22:15] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[22:15] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 22:30
+
+[22:30] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[22:30] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 22:45
+
+[22:45] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[22:45] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 23:00
+
+[23:00] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[23:00] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-05 23:15
+
+[23:15] **Hindustan Times**: What a ‘pressure group’ is, and where Abhijeet Dipke’s CJP fits
+[23:15] **Hindustan Times**: Who is Devendra Nath Mahto? The face of Jharkhand exam protests on hunger strike
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 12:00
+
+[12:00] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[12:00] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[12:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 12:15
+
+[12:15] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[12:15] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[12:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 12:30
+
+[12:30] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[12:30] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 12:45
+
+[12:45] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[12:45] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 13:00
+
+[13:00] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[13:00] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 13:15
+
+[13:15] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[13:15] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 13:30
+
+[13:30] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[13:30] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 13:45
+
+[13:45] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[13:45] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 14:00
+
+[14:00] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[14:00] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 14:15
+
+[14:15] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[14:15] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 14:30
+
+[14:30] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[14:30] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 14:45
+
+[14:45] **Hindustan Times**: CJP's Abhijeet Dipke announces nationwide campaign ‘Kya bolti public’
+[14:45] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[14:45] **Hindustan Times**: ‘Don’t approve of abusive language, but…': Wangchuk amid row over Modi remarks
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 15:00
+
+[15:00] **Hindustan Times**: CJP's Abhijeet Dipke announces nationwide campaign ‘Kya bolti public’
+[15:00] **Hindustan Times**: 3 detained juveniles beat guard to death at Rajasthan observation, juvenile home
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 15:15
+
+[15:15] **Hindustan Times**: CJP's Abhijeet Dipke announces nationwide campaign ‘Kya bolti public’
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 15:30
+
+[15:30] **Hindustan Times**: CJP's Abhijeet Dipke announces nationwide campaign ‘Kya bolti public’
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 16:44
+
+[16:44] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[16:44] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[16:44] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 16:45
+
+[16:45] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[16:45] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 17:00
+
+[17:00] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[17:00] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 17:15
+
+[17:15] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[17:15] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 17:30
+
+[17:30] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[17:30] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 17:45
+
+[17:45] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[17:45] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 18:00
+
+[18:00] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[18:00] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 18:15
+
+[18:15] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[18:15] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[18:15] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 18:30
+
+[18:30] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[18:30] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[18:30] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 18:45
+
+[18:45] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[18:45] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[18:45] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 19:00
+
+[19:00] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[19:00] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[19:00] **Hindustan Times**: CJP's Dipke kicks off 'Kya Bolti Public' campaign to gauge public concerns
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 19:15
+
+[19:15] **Hindustan Times**: ‘If GenZ is protesting, they're not anti-national’: Bhagwat on Jantar Mantar
+[19:15] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[19:15] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 19:30
+
+[19:30] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[19:30] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 19:45
+
+[19:45] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[19:45] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 20:00
+
+[20:00] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[20:00] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 20:15
+
+[20:15] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[20:15] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 20:30
+
+[20:30] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[20:30] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 20:45
+
+[20:45] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[20:45] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 21:00
+
+[21:00] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[21:00] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 21:15
+
+[21:15] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[21:15] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 21:30
+
+[21:30] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[21:30] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 21:45
+
+[21:45] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[21:45] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
