@@ -6588,3 +6588,353 @@
 [21:45] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
 [21:45] **Hindustan Times**: ‘Govt disconnected’: CJP chief Dipke announces national campaign on youth issues
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 22:00
+
+[22:00] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 22:15
+
+[22:15] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 22:30
+
+[22:30] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 22:45
+
+[22:45] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 23:00
+
+[23:00] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 23:15
+
+[23:15] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 23:30
+
+[23:30] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-06 23:45
+
+[23:45] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 00:00
+
+[00:00] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 00:16
+
+[00:16] **Hindustan Times**: CJP forms National Working Committee to better outreach. See members' list here
+[00:16] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 09:18
+
+[09:18] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 09:30
+
+[09:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 09:45
+
+[09:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 10:00
+
+[10:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 10:15
+
+[10:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 10:30
+
+[10:30] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[10:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 10:45
+
+[10:45] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[10:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 11:00
+
+[11:00] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[11:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 11:15
+
+[11:15] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[11:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 12:01
+
+[12:01] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[12:01] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[12:01] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 12:15
+
+[12:15] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[12:15] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[12:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 12:30
+
+[12:30] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[12:30] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 12:45
+
+[12:45] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[12:45] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 13:00
+
+[13:00] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[13:00] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 13:15
+
+[13:15] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[13:15] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 13:30
+
+[13:30] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[13:30] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 13:45
+
+[13:45] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[13:45] **Hindustan Times**: CJP unveils agenda for 'Kya Bolti Public' campaign, will focus on four pillars
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 14:00
+
+[14:00] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[14:00] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 14:15
+
+[14:15] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[14:15] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 14:30
+
+[14:30] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[14:30] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[14:30] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 14:45
+
+[14:45] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[14:45] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[14:45] **Hindustan Times**: Dipke jabs critics as Bhagwat says protesting doesn't make Gen Z 'anti-national'
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 15:00
+
+[15:00] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[15:00] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 15:15
+
+[15:15] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[15:15] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[15:15] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 15:30
+
+[15:30] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[15:30] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[15:30] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[15:30] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 15:45
+
+[15:45] **Hindustan Times**: 'Why don't you shut down Jantar Mantar as protest site?': HC questions Centre
+[15:45] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[15:45] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[15:45] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[15:45] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 16:00
+
+[16:00] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[16:00] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[16:00] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[16:00] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[16:00] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 16:15
+
+[16:15] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[16:15] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[16:15] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[16:15] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[16:15] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 16:30
+
+[16:30] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[16:30] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[16:30] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[16:30] **Hindustan Times**: 3 NTA experts in NEET leak chargesheet, may face life term if proven guilty
+[16:30] **Hindustan Times**: WhatsApp groups, photographs: The digital trail that led to NEET-UG paper leak
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 17:00
+
+[17:00] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[17:00] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[17:00] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 17:15
+
+[17:15] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[17:15] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[17:15] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 17:30
+
+[17:30] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[17:30] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[17:30] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 17:45
+
+[17:45] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[17:45] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[17:45] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 18:00
+
+[18:00] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[18:00] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[18:00] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 18:15
+
+[18:15] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[18:15] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[18:15] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 18:30
+
+[18:30] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[18:30] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[18:30] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 18:45
+
+[18:45] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[18:45] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[18:45] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[18:45] **Hindustan Times**: 'Tell steps being taken': Dipke requests PM Modi to address youth on August 15
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 19:00
+
+[19:00] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[19:00] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[19:00] **Hindustan Times**: How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 19:15
+
+[19:15] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[19:15] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 19:30
+
+[19:30] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[19:30] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 19:45
+
+[19:45] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[19:45] **Hindustan Times**: 'City put to ransom unnecessarily': HC questions Jantar Mantar as protest site
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 20:00
+
+[20:00] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 20:15
+
+[20:15] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 20:30
+
+[20:30] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 20:45
+
+[20:45] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[20:45] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts sharply to HC's remarks on protest sit
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 21:00
+
+[21:00] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[21:00] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 21:15
+
+[21:15] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[21:15] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 21:30
+
+[21:30] **Hindustan Times**: 'Rude wake-up call': Shashi Tharoor on Pradhan's resignation
+[21:30] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[21:30] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 21:45
+
+[21:45] **Hindustan Times**: 'Rude wake-up call': Shashi Tharoor on Pradhan's resignation
+[21:45] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[21:45] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
