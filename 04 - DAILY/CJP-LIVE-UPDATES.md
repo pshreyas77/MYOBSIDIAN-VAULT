@@ -6938,3 +6938,214 @@
 [21:45] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
 [21:45] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 22:00
+
+[22:00] **Hindustan Times**: 'Rude wake-up call': Shashi Tharoor on Pradhan's resignation
+[22:00] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[22:00] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 22:15
+
+[22:15] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[22:15] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[22:15] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 22:30
+
+[22:30] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[22:30] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[22:30] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 22:45
+
+[22:45] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[22:45] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[22:45] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 23:00
+
+[23:00] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[23:00] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[23:00] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 23:15
+
+[23:15] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[23:15] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[23:15] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 23:30
+
+[23:30] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[23:30] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[23:30] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-07 23:45
+
+[23:45] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[23:45] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[23:45] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 00:00
+
+[00:00] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[00:00] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[00:00] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 00:15
+
+[00:15] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[00:15] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[00:15] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[00:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 00:30
+
+[00:30] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[00:30] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[00:30] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[00:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 00:45
+
+[00:45] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[00:45] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[00:45] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 01:00
+
+[01:00] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[01:00] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[01:00] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[01:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 01:15
+
+[01:15] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[01:15] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[01:15] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[01:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 01:30
+
+[01:30] **Hindustan Times**: 'Rude wake-up call': Tharoor on Pradhan's resignation over NEET paper leak stir
+[01:30] **Hindustan Times**: 'SC wants everyone to take bullets?': Dipke on 'fear eggs' jibe at Mahua Moitra
+[01:30] **Hindustan Times**: 'Hands off our Jantar Mantar': CJP reacts to HC's remarks on protest site
+[01:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 11:40
+
+[11:40] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[11:40] **Hindustan Times**: Cong's paper leak protest didn't resonate as much as CJP's: Shashi Tharoor
+[11:40] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 11:50
+
+[11:50] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[11:50] **Hindustan Times**: Cong's paper leak protest didn't resonate as much as CJP's: Shashi Tharoor
+[11:50] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 12:00
+
+[12:00] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[12:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 12:15
+
+[12:15] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[12:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 12:30
+
+[12:30] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[12:30] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 12:45
+
+[12:45] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[12:45] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 13:00
+
+[13:00] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[13:00] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 13:15
+
+[13:15] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[13:15] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 13:30
+
+[13:30] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[13:30] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 13:45
+
+[13:45] **Hindustan Times**: Who is Neha Bora? AISA leader who fasted with Wangchuk at Jantar Mantar
+[13:45] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[13:45] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 14:00
+
+[14:00] **Hindustan Times**: Who is Neha Bora? AISA leader who fasted with Wangchuk at Jantar Mantar
+[14:00] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[14:00] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 14:15
+
+[14:15] **Hindustan Times**: Who is Neha Bora? AISA leader who fasted with Wangchuk at Jantar Mantar
+[14:15] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[14:15] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 14:30
+
+[14:30] **Hindustan Times**: Who is Neha Bora? AISA leader who fasted with Wangchuk at Jantar Mantar
+[14:30] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[14:30] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 14:45
+
+[14:45] **Hindustan Times**: Who is Neha Bora? AISA leader who fasted with Wangchuk at Jantar Mantar
+[14:45] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[14:45] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 15:00
+
+[15:00] **Hindustan Times**: Who is Neha Bora? AISA leader who fasted with Wangchuk at Jantar Mantar
+[15:00] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[15:00] **Hindustan Times**: 'FIFA' group, small chits: How NTA experts tied to NEET probe 'abused' positions
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 15:15
+
+[15:15] **Hindustan Times**: Who is Neha Bora? AISA leader who fasted with Wangchuk at Jantar Mantar
+[15:15] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-08 15:30
+
+[15:30] **Hindustan Times**: Who is Neha Bora? AISA leader who fasted with Wangchuk at Jantar Mantar
+[15:30] **Hindustan Times**: HT archives: ‘Quit India’ begins, British crack down with tear gas, lathis
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
