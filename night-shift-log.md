@@ -1,5 +1,15 @@
 # Night Shift Log
 
+## [2026-08-10 03:XX] Refinery Run | Extracted 0 atoms
+- Processed: 0 literature notes from `1-desk/`
+- Created: 0 atomic notes in `2-atoms/`
+- Archived: 0 sources to `sources/archived/`
+- Skipped: 0 items (no `status: to-process` items found in `1-desk/`)
+- [FRICTION] flags: 0 conflicts detected
+- Status: Refinery: 0 items to process (all items in `1-desk/` are either `status: processed` or in `_needs-work/` — nothing to refine)
+
+---
+
 ## [2026-07-26 03:00] Refinery Run | Extracted 0 atoms
 - Processed: 0 literature notes from `1-desk/`
 - Created: 0 atomic notes in `2-atoms/`
@@ -332,3 +342,11 @@
 - Quarantined: 0 items
 - Path: `1-desk/<subtype>/`
 - Status: Scout: 0 new items (vault intake clean)
+
+## [2026-08-09 23:XX] Scout Run | Processed 0 items
+- Intake: 0 new items found (0-raw/: 2 files present — test-source-article.md from 2026-06-16, Untitled.canvas from 2026-06-21 — both predate last run by 14+ days; 00 - INBOX/ does not exist on disk; legacy 0-Inbox/ contains 6 files dated 2026-07-28 to 2026-07-30, all preprocessed/archived from previous runs)
+- Classified: 0 literature notes, 0 ideas, 0 meeting notes
+- Quarantined: 0 items
+- Path: `1-desk/<subtype>/`
+- Status: Scout: 0 new items (vault intake clean)
+- Notes: 14 days since last Scout Run (2026-07-26). Vault intake has been idle since 2026-06-24 (latest atom). Pipeline stable; no Prime Directive gate activity required.

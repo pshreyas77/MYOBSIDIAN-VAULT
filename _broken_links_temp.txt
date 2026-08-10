@@ -1,0 +1,1637 @@
+[[2026-06-18 — The Rise of Digital Gardens]] — 20 refs
+  2-atoms\Appleton 2025 Retention Study.md:6
+  2-atoms\Appleton 2025 Retention Study.md:17
+  2-atoms\Appleton 2025 Retention Study.md:25
+  2-atoms\Appleton 2025 Retention Study.md:35
+  2-atoms\Daily Refinement Practice Recommendation.md:6
+  2-atoms\Daily Refinement Practice Recommendation.md:17
+  2-atoms\Daily Refinement Practice Recommendation.md:25
+  2-atoms\Daily Refinement Practice Recommendation.md:35
+  2-atoms\Digital Garden Core Characteristics.md:6
+  2-atoms\Digital Garden Core Characteristics.md:26
+  2-atoms\Digital Garden Core Characteristics.md:30
+  2-atoms\Digital Garden Core Characteristics.md:40
+  2-atoms\Digital Garden Historical Lineage.md:6
+  2-atoms\Digital Garden Historical Lineage.md:23
+  2-atoms\Digital Garden Historical Lineage.md:27
+  2-atoms\Digital Garden Historical Lineage.md:37
+  2-atoms\Digital Garden Technical Requirements.md:6
+  2-atoms\Digital Garden Technical Requirements.md:29
+  2-atoms\Digital Garden Technical Requirements.md:33
+  2-atoms\Digital Garden Technical Requirements.md:43
+[[Knowledge Retention]] — 1 refs
+  2-atoms\Appleton 2025 Retention Study.md:28
+[[Obsidian.md]] — 7 refs
+  2-atoms\Appleton 2025 Retention Study.md:29
+  2-atoms\Bidirectional Links.md:37
+  2-atoms\Daily Refinement Practice Recommendation.md:29
+  2-atoms\Digital Garden Historical Lineage.md:31
+  2-atoms\Digital Garden Technical Requirements.md:37
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:35
+  2-atoms\Digital Garden.md:33
+[[Roam Research]] — 7 refs
+  2-atoms\Appleton 2025 Retention Study.md:29
+  2-atoms\Bidirectional Links.md:37
+  2-atoms\Daily Refinement Practice Recommendation.md:29
+  2-atoms\Digital Garden Historical Lineage.md:31
+  2-atoms\Digital Garden Technical Requirements.md:37
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:35
+  2-atoms\Digital Garden.md:33
+[[Logseq]] — 7 refs
+  2-atoms\Appleton 2025 Retention Study.md:29
+  2-atoms\Bidirectional Links.md:37
+  2-atoms\Daily Refinement Practice Recommendation.md:29
+  2-atoms\Digital Garden Historical Lineage.md:31
+  2-atoms\Digital Garden Technical Requirements.md:37
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:35
+  2-atoms\Digital Garden.md:33
+[[1-desk/article/2026-06-17 — The Rise of Digital Gardens]] — 4 refs
+  2-atoms\Appleton 2025 — Digital Gardeners Retain Better.md:7
+  2-atoms\Combinatorial Growth — Ideas Connect Non-Linearly.md:7
+  2-atoms\Daily Refinement — 15-20 Minutes Optimal.md:7
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:7
+[[Retention vs Productivity]] — 1 refs
+  2-atoms\Appleton 2025 — Digital Gardeners Retain Better.md:23
+[[Active Refinement]] — 2 refs
+  2-atoms\Appleton 2025 — Digital Gardeners Retain Better.md:23
+  2-atoms\Daily Refinement — 15-20 Minutes Optimal.md:27
+[[2-atoms/Digital Garden — Evergreen Knowledge Base]] — 5 refs
+  2-atoms\Appleton 2025 — Digital Gardeners Retain Better.md:23
+  2-atoms\Bidirectional Links.md:35
+  2-atoms\Combinatorial Growth — Ideas Connect Non-Linearly.md:30
+  2-atoms\Daily Refinement — 15-20 Minutes Optimal.md:27
+  2-atoms\Digital Garden.md:30
+[[Linear Note-Taking]] — 1 refs
+  2-atoms\Appleton 2025 — Digital Gardeners Retain Better.md:24
+[[2026-06-16 — Digital Gardens Article]] — 6 refs
+  2-atoms\Bidirectional Links.md:6
+  2-atoms\Bidirectional Links.md:32
+  2-atoms\Bidirectional Links.md:44
+  2-atoms\Digital Garden.md:6
+  2-atoms\Digital Garden.md:27
+  2-atoms\Digital Garden.md:39
+[[Graph Visualization]] — 4 refs
+  2-atoms\Bidirectional Links.md:7
+  2-atoms\Bidirectional Links.md:35
+  2-atoms\Combinatorial Growth — Ideas Connect Non-Linearly.md:29
+  2-atoms\Digital Garden Technical Requirements.md:36
+[[Combinatorial Growth]] — 1 refs
+  2-atoms\Bidirectional Links.md:35
+[[Personal Knowledge Management]] — 3 refs
+  2-atoms\Bidirectional Links.md:35
+  2-atoms\Digital Garden.md:7
+  2-atoms\Digital Garden.md:30
+[[2-atoms/Combinatorial Growth — Ideas Connect Non-Linearly]] — 3 refs
+  2-atoms\Bidirectional Links.md:35
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:36
+  2-atoms\Digital Garden.md:30
+[[Networked Thought]] — 2 refs
+  2-atoms\Bidirectional Links.md:36
+  2-atoms\Combinatorial Growth — Ideas Connect Non-Linearly.md:30
+[[Wikilinks]] — 1 refs
+  2-atoms\Bidirectional Links.md:36
+[[Linear Note Taking]] — 1 refs
+  2-atoms\Bidirectional Links.md:38
+[[2-atoms/Bidirectional Links]] — 4 refs
+  2-atoms\Combinatorial Growth — Ideas Connect Non-Linearly.md:29
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:36
+  2-atoms\Digital Garden.md:30
+  05 - MAPS\AI & Technology MOC.md:41
+[[Emergent Patterns]] — 1 refs
+  2-atoms\Combinatorial Growth — Ideas Connect Non-Linearly.md:30
+[[Habit Formation]] — 1 refs
+  2-atoms\Daily Refinement Practice Recommendation.md:28
+[[Knowledge Management Practice]] — 1 refs
+  2-atoms\Daily Refinement Practice Recommendation.md:28
+[[Daily Practice]] — 1 refs
+  2-atoms\Daily Refinement — 15-20 Minutes Optimal.md:27
+[[Set-And-Forget Blogging]] — 1 refs
+  2-atoms\Daily Refinement — 15-20 Minutes Optimal.md:29
+[[Evergreen Notes]] — 2 refs
+  2-atoms\Digital Garden Core Characteristics.md:33
+  2-atoms\Digital Garden.md:30
+[[Public Thinking]] — 1 refs
+  2-atoms\Digital Garden Core Characteristics.md:33
+[[Traditional Blogging]] — 2 refs
+  2-atoms\Digital Garden Core Characteristics.md:34
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:33
+[[Social Media Feeds]] — 2 refs
+  2-atoms\Digital Garden Core Characteristics.md:34
+  2-atoms\Digital Garden.md:31
+[[WikiWikiWeb]] — 2 refs
+  2-atoms\Digital Garden Historical Lineage.md:30
+  2-atoms\Digital Garden.md:32
+[[Vannevar Bush]] — 1 refs
+  2-atoms\Digital Garden Historical Lineage.md:30
+[[Ward Cunningham]] — 1 refs
+  2-atoms\Digital Garden Historical Lineage.md:30
+[[Version History]] — 1 refs
+  2-atoms\Digital Garden Technical Requirements.md:36
+[[Concept Search]] — 1 refs
+  2-atoms\Digital Garden Technical Requirements.md:36
+[[Obsidian vault structure]] — 1 refs
+  2-atoms\Digital Garden — Definition.md:26
+[[Memex]] — 1 refs
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:34
+[[Wiki]] — 1 refs
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:34
+[[2-atoms/Digital Garden]] — 1 refs
+  2-atoms\Digital Garden — Evergreen Knowledge Base.md:36
+[[Note Taking]] — 2 refs
+  2-atoms\Digital Garden.md:7
+  2-atoms\Digital Garden.md:30
+[[2-atoms/Appleton 2025 — Digital Gardeners Retain Better]] — 1 refs
+  2-atoms\Digital Garden.md:30
+[[2-atoms/Daily Refinement — 15-20 Minutes Optimal]] — 1 refs
+  2-atoms\Digital Garden.md:30
+[[Chronological Blogging]] — 1 refs
+  2-atoms\Digital Garden.md:31
+[[memex]] — 1 refs
+  2-atoms\Digital Garden.md:32
+[[Knowledge Management]] — 3 refs
+  2-atoms\concepts\All 8 Union Territories affected as of 2026 no source cited.md:22
+  2-atoms\concepts\️ QUARANTINE ADVISORY Original source URLs not recorded This note.md:22
+  2-atoms\people\Four distinct regional flood patterns exist as of 2026 no source cited.md:22
+[[Evergreen Content]] — 3 refs
+  2-atoms\concepts\All 8 Union Territories affected as of 2026 no source cited.md:23
+  2-atoms\concepts\️ QUARANTINE ADVISORY Original source URLs not recorded This note.md:23
+  2-atoms\people\Four distinct regional flood patterns exist as of 2026 no source cited.md:23
+[[India Urban Flooding]] — 2 refs
+  2-atoms\concepts\All 8 Union Territories affected as of 2026 no source cited.md:34
+  2-atoms\concepts\️ QUARANTINE ADVISORY Original source URLs not recorded This note.md:34
+[[Union Territory Governance]] — 1 refs
+  2-atoms\concepts\All 8 Union Territories affected as of 2026 no source cited.md:34
+[[ED]] — 2 refs
+  2-atoms\concepts\All 8 Union Territories affected as of 2026 no source cited.md:35
+  2-atoms\people\Four distinct regional flood patterns exist as of 2026 no source cited.md:34
+[[Geographic Resilience]] — 1 refs
+  2-atoms\concepts\All 8 Union Territories affected as of 2026 no source cited.md:37
+[[Quarantine Protocol]] — 1 refs
+  2-atoms\concepts\️ QUARANTINE ADVISORY Original source URLs not recorded This note.md:34
+[[Source]] — 4 refs
+  2-atoms\people\Four distinct regional flood patterns exist as of 2026 no source cited.md:35
+  wiki\analysis\cross-area-opportunities.md:22
+  wiki\analysis\cross-area-opportunities.md:25
+  wiki\analysis\cross-area-opportunities.md:32
+[[2026-06-02]] — 7 refs
+  02 - PERMANENT\concepts\BJP Dominance Map — Indian States.md:8
+  02 - PERMANENT\concepts\Liberal in Indian Political Context.md:8
+  02 - PERMANENT\people\E. Sreedharan.md:8
+  02 - PERMANENT\people\K. Annamalai.md:8
+  02 - PERMANENT\people\Rajeev Chandrasekhar.md:8
+  02 - PERMANENT\people\Vijay.md:8
+  06 - OUTPUTS\analyses\Caveman Analysis — TVK vs BJP Tamil Nadu.md:9
+[[05 - MAPS/Agentic Systems MOC]] — 3 refs
+  02 - PERMANENT\concepts\Contrarian Loop — Vault That Argues With Itself.md:136
+  wiki\index.md:94
+  01 - LITERATURE\articles\2026-07-09 — LLM Wiki Pattern — Full Synthesis (Second Brain Useless Until AI Maintains It).md:169
+[[05 - MAPS/Digital Garden MOC]] — 3 refs
+  02 - PERMANENT\concepts\Contrarian Loop — Vault That Argues With Itself.md:137
+  wiki\index.md:95
+  01 - LITERATURE\articles\2026-07-09 — LLM Wiki Pattern — Full Synthesis (Second Brain Useless Until AI Maintains It).md:168
+[[03 - PROJECTS/Cross-Domain Idea Synthesis]] — 2 refs
+  02 - PERMANENT\concepts\Contrarian Loop — Vault That Argues With Itself.md:138
+  05 - MAPS\AI & Technology MOC.md:27
+[[03 - PROJECTS/InfiniteBrain]] — 2 refs
+  02 - PERMANENT\concepts\Contrarian Loop — Vault That Argues With Itself.md:139
+  01 - LITERATURE\articles\2026-07-09 — LLM Wiki Pattern — Full Synthesis (Second Brain Useless Until AI Maintains It).md:170
+[[Self-Respect Movement]] — 7 refs
+  02 - PERMANENT\concepts\Dravidar Kazhagam.md:7
+  02 - PERMANENT\concepts\Dravidar Kazhagam.md:108
+  02 - PERMANENT\concepts\Justice Party.md:7
+  wiki\concepts\Dravidar Kazhagam.md:6
+  wiki\concepts\Dravidar Kazhagam.md:118
+  wiki\concepts\Justice Party.md:7
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:7
+[[Dravidian Movement]] — 15 refs
+  02 - PERMANENT\concepts\Dravidar Kazhagam.md:7
+  02 - PERMANENT\concepts\Justice Party.md:7
+  02 - PERMANENT\concepts\Liberal in Indian Political Context.md:62
+  02 - PERMANENT\people\C. Natesa Mudaliar.md:7
+  02 - PERMANENT\people\P. Theagaraya Chetty.md:7
+  02 - PERMANENT\people\T. M. Nair.md:7
+  wiki\concepts\Dravidar Kazhagam.md:6
+  wiki\concepts\Justice Party.md:7
+  wiki\entities\C. N. Annadurai.md:6
+  wiki\entities\C. N. Annadurai.md:6
+  wiki\entities\C. Natesa Mudaliar.md:6
+  wiki\entities\P. Theagaraya Chetty.md:6
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:7
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:260
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:286
+[[Dravida Munnetra Kazhagam]] — 6 refs
+  02 - PERMANENT\concepts\Dravidar Kazhagam.md:7
+  02 - PERMANENT\concepts\Dravidar Kazhagam.md:20
+  02 - PERMANENT\concepts\Dravidar Kazhagam.md:25
+  02 - PERMANENT\concepts\Dravidar Kazhagam.md:109
+  02 - PERMANENT\concepts\Justice Party.md:68
+  02 - PERMANENT\concepts\Justice Party.md:111
+[[2026-03-08_comparing-jewish-zionism-and-hindu-nationalism]] — 1 refs
+  02 - PERMANENT\concepts\Ethno-Religious-Nationalism-Synthesis.md:169
+[[wiki/concepts/Dravidian-Religion-Origins-Synthesis]] — 1 refs
+  02 - PERMANENT\concepts\Ethno-Religious-Nationalism-Synthesis.md:170
+[[wiki/concepts/Class-Struggle—Marx]] — 1 refs
+  02 - PERMANENT\concepts\Ethno-Religious-Nationalism-Synthesis.md:171
+[[Non-Brahmin Movement]] — 6 refs
+  02 - PERMANENT\concepts\Justice Party.md:7
+  wiki\concepts\Justice Party.md:7
+  wiki\entities\C. Natesa Mudaliar.md:6
+  wiki\entities\P. Theagaraya Chetty.md:6
+  wiki\entities\T. M. Nair.md:6
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:7
+[[Madras University]] — 1 refs
+  02 - PERMANENT\concepts\Justice Party.md:79
+[[Annadurai]] — 2 refs
+  02 - PERMANENT\concepts\Justice Party.md:111
+  05 - MAPS\Indian Political History MOC.md:21
+[[DMK]] — 2 refs
+  02 - PERMANENT\concepts\Justice Party.md:161
+  05 - MAPS\Indian Political History MOC.md:19
+[[AIADMK]] — 2 refs
+  02 - PERMANENT\concepts\Justice Party.md:161
+  05 - MAPS\Indian Political History MOC.md:19
+[[Vaikom Satyagraha]] — 1 refs
+  02 - PERMANENT\concepts\Justice Party.md:190
+[[Malabar Tenancy Act of 1931]] — 1 refs
+  02 - PERMANENT\concepts\Justice Party.md:191
+[[Hindutva]] — 1 refs
+  02 - PERMANENT\concepts\Liberal in Indian Political Context.md:61
+[[Caste Politics in India]] — 1 refs
+  02 - PERMANENT\concepts\Liberal in Indian Political Context.md:63
+[[Indian Secularism]] — 1 refs
+  02 - PERMANENT\concepts\Liberal in Indian Political Context.md:64
+[[07 - SYSTEM/index.md]] — 1 refs
+  wiki\index.md:13
+[[01 - LITERATURE/]] — 1 refs
+  wiki\index.md:13
+[[02 - PERMANENT/]] — 1 refs
+  wiki\index.md:13
+[[wiki/entities/Jyotirao Phule]] — 2 refs
+  wiki\index.md:22
+  05 - MAPS\Philosophy & Religion MOC.md:20
+[[wiki/entities/Savitribai Phule]] — 2 refs
+  wiki\index.md:23
+  05 - MAPS\Philosophy & Religion MOC.md:21
+[[wiki/entities/Vidyasagar]] — 2 refs
+  wiki\index.md:24
+  05 - MAPS\Philosophy & Religion MOC.md:26
+[[wiki/entities/B. R. Ambedkar]] — 3 refs
+  wiki\index.md:25
+  05 - MAPS\Indian Political History MOC.md:75
+  05 - MAPS\Philosophy & Religion MOC.md:23
+[[wiki/entities/Periyar E. V. Ramasamy]] — 4 refs
+  wiki\index.md:26
+  05 - MAPS\Indian Political History MOC.md:30
+  05 - MAPS\Indian Political History MOC.md:76
+  05 - MAPS\Philosophy & Religion MOC.md:22
+[[wiki/entities/Rammanohar Lohia]] — 2 refs
+  wiki\index.md:27
+  05 - MAPS\Philosophy & Religion MOC.md:25
+[[wiki/entities/Kanshi Ram]] — 3 refs
+  wiki\index.md:28
+  05 - MAPS\Indian Political History MOC.md:80
+  05 - MAPS\Philosophy & Religion MOC.md:24
+[[wiki/entities/Charvaka]] — 1 refs
+  wiki\index.md:31
+[[wiki/entities/Nagarjuna]] — 1 refs
+  wiki\index.md:32
+[[wiki/entities/Dharmakirti]] — 1 refs
+  wiki\index.md:33
+[[wiki/entities/Atisha]] — 1 refs
+  wiki\index.md:34
+[[wiki/entities/Kabir]] — 1 refs
+  wiki\index.md:35
+[[wiki/entities/Ravidas]] — 1 refs
+  wiki\index.md:36
+[[wiki/entities/Bakhtiyar-Khalji]] — 1 refs
+  wiki\index.md:37
+[[wiki/entities/Bhagat Singh]] — 2 refs
+  wiki\index.md:40
+  05 - MAPS\Philosophy & Religion MOC.md:31
+[[wiki/entities/Che Guevara]] — 2 refs
+  wiki\index.md:41
+  05 - MAPS\Philosophy & Religion MOC.md:32
+[[wiki/entities/M. N. Roy]] — 2 refs
+  wiki\index.md:42
+  05 - MAPS\Philosophy & Religion MOC.md:33
+[[wiki/entities/Rahul Sankrityayan]] — 2 refs
+  wiki\index.md:43
+  05 - MAPS\Philosophy & Religion MOC.md:34
+[[wiki/entities/K. A. Abbas]] — 2 refs
+  wiki\index.md:44
+  05 - MAPS\Philosophy & Religion MOC.md:35
+[[wiki/entities/Karl Marx]] — 1 refs
+  wiki\index.md:45
+[[wiki/entities/TVK]] — 1 refs
+  wiki\index.md:48
+[[wiki/entities/GitNexus]] — 9 refs
+  wiki\index.md:51
+  wiki\entities\genericagent.md:54
+  wiki\entities\graphify-repo.md:66
+  wiki\entities\InfiniteBrain.md:51
+  wiki\entities\QwenVault.md:32
+  wiki\entities\ruflo.md:46
+  wiki\entities\temp_autoresearch.md:61
+  wiki\entities\tolaria.md:44
+  05 - MAPS\AI & Technology MOC.md:19
+[[wiki/entities/InfiniteBrain]] — 2 refs
+  wiki\index.md:52
+  05 - MAPS\AI & Technology MOC.md:20
+[[wiki/entities/tolaria]] — 5 refs
+  wiki\index.md:53
+  wiki\entities\genericagent.md:56
+  wiki\entities\GitNexus.md:65
+  wiki\entities\graphify-repo.md:68
+  05 - MAPS\AI & Technology MOC.md:21
+[[wiki/entities/genericagent]] — 6 refs
+  wiki\index.md:54
+  wiki\concepts\Autonomous-Agent-Research.md:30
+  wiki\entities\GitNexus.md:66
+  wiki\entities\graphify-repo.md:67
+  wiki\entities\tolaria.md:45
+  05 - MAPS\AI & Technology MOC.md:22
+[[wiki/entities/graphify-repo]] — 7 refs
+  wiki\index.md:55
+  wiki\concepts\Autonomous-Agent-Research.md:35
+  wiki\entities\genericagent.md:55
+  wiki\entities\GitNexus.md:67
+  wiki\entities\ruflo.md:47
+  wiki\entities\tolaria.md:46
+  05 - MAPS\AI & Technology MOC.md:24
+[[wiki/entities/temp_autoresearch]] — 5 refs
+  wiki\index.md:56
+  wiki\concepts\Autonomous-Agent-Research.md:24
+  wiki\entities\GitNexus.md:68
+  wiki\entities\QwenVault.md:33
+  05 - MAPS\AI & Technology MOC.md:23
+[[wiki/entities/ruflo]] — 3 refs
+  wiki\index.md:59
+  wiki\entities\QwenVault.md:34
+  05 - MAPS\AI & Technology MOC.md:25
+[[wiki/entities/QwenVault]] — 2 refs
+  wiki\index.md:60
+  05 - MAPS\AI & Technology MOC.md:26
+[[wiki/concepts/Indian Atheism, Rationalism, and Anti-Caste Struggle]] — 4 refs
+  wiki\index.md:67
+  05 - MAPS\Indian Political History MOC.md:31
+  05 - MAPS\Indian Political History MOC.md:87
+  05 - MAPS\Philosophy & Religion MOC.md:42
+[[wiki/concepts/Religion Civilization Contributions - Complete Analysis]] — 2 refs
+  wiki\index.md:68
+  05 - MAPS\Philosophy & Religion MOC.md:48
+[[wiki/concepts/Dravidian Religion Origins of Hinduism — Synthesis]] — 3 refs
+  wiki\index.md:69
+  05 - MAPS\Philosophy & Religion MOC.md:49
+  05 - MAPS\Philosophy & Religion MOC.md:85
+[[wiki/concepts/Lokayata-Epistemology]] — 1 refs
+  wiki\index.md:70
+[[wiki/concepts/Revolutionary Legacies - Bhagat Singh and Che Guevara]] — 2 refs
+  wiki\index.md:71
+  05 - MAPS\Philosophy & Religion MOC.md:45
+[[wiki/concepts/Youth Revolution in India]] — 2 refs
+  wiki\index.md:72
+  05 - MAPS\Philosophy & Religion MOC.md:43
+[[wiki/concepts/Youth Revolution Solutions in India]] — 2 refs
+  wiki\index.md:73
+  05 - MAPS\Philosophy & Religion MOC.md:44
+[[wiki/concepts/Class Struggle - Marx]] — 2 refs
+  wiki\index.md:74
+  wiki\index.md:105
+[[wiki/concepts/AI-First-Workflow]] — 5 refs
+  wiki\index.md:77
+  wiki\concepts\Autonomous-Agent-Research.md:62
+  wiki\entities\InfiniteBrain.md:52
+  wiki\entities\ruflo.md:48
+  05 - MAPS\AI & Technology MOC.md:38
+[[wiki/concepts/Autonomous-Agent-Research]] — 4 refs
+  wiki\index.md:78
+  wiki\concepts\AI-First-Workflow.md:82
+  wiki\entities\temp_autoresearch.md:62
+  05 - MAPS\AI & Technology MOC.md:39
+[[wiki/analysis/link-density-report]] — 1 refs
+  wiki\index.md:84
+[[wiki/analysis/orphan-notes-report]] — 1 refs
+  wiki\index.md:85
+[[wiki/analysis/cross-area-opportunities]] — 1 refs
+  wiki\index.md:86
+[[wiki/analysis/graph-communities-report]] — 1 refs
+  wiki\index.md:87
+[[05 - MAPS/Philosophy & Religion MOC]] — 1 refs
+  wiki\index.md:93
+[[05 - MAPS/AI & Technology MOC]] — 1 refs
+  wiki\index.md:96
+[[03 - RESOURCES/Film & Media Recommendations]] — 1 refs
+  wiki\log.md:14
+[[Research/Deep/2026-07-01 — Name Shreyas Linguistic Etymology Across Language Families]] — 1 refs
+  wiki\log.md:16
+[[Second Brain]] — 1 refs
+  wiki\README.md:65
+[[Knowledge Compounding]] — 1 refs
+  wiki\README.md:65
+[[orphan notes report]] — 2 refs
+  wiki\README.md:117
+  wiki\README.md:120
+[[link density report]] — 1 refs
+  wiki\README.md:118
+[[Buddha]] — 2 refs
+  wiki\analysis\cross-area-opportunities.md:14
+  wiki\analysis\cross-area-opportunities.md:36
+[[Concept]] — 3 refs
+  wiki\analysis\cross-area-opportunities.md:29
+  wiki\_templates\source.md:19
+  wiki\_templates\source.md:20
+[[Caste System Origins]] — 1 refs
+  wiki\analysis\cross-area-opportunities.md:38
+[[link]] — 1 refs
+  wiki\analysis\graph-communities-report.md:19
+[[03_PHILOSOPHY_TRACKER_CANVAS_FIX]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:14
+[[VISUAL_CONTENT_INVENTORY]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:15
+[[VAULT_HEALTH_DASHBOARD]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:16
+[[_COMMUNITY_Greek_Philosophers]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:17
+[[_COMMUNITY_Miscellaneous_Nodes]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:18
+[[_COMMUNITY_Vault_Organization_Systems]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:19
+[[_COMMUNITY_Chinese_Philosophers]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:20
+[[_COMMUNITY_Indian_Philosophy_Topics]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:21
+[[_COMMUNITY_Smart_Tools]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:22
+[[00_Politics_and_Governance_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:23
+[[00_Security_and_Privacy_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:24
+[[00_Political Analysis MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:25
+[[00_FILE_INDEX]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:26
+[[skill-vscode]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:27
+[[00_TOPICS_MASTER_INDEX]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:28
+[[skill-windows]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:29
+[[README_2]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:30
+[[00_Education_and_Learning_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:31
+[[00_Uncategorized_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:32
+[[00_Science_and_Space_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:33
+[[README.zh-CN]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:34
+[[00_Finance_and_Economics_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:35
+[[MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:36
+[[00_Health_and_Fitness_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:37
+[[README_3]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:38
+[[Buddhism_Hinduism_Research_Report_698f09e3]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:39
+[[00_Ancient Civilizations MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:40
+[[00_FILE_INDEX_1]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:41
+[[00_Religion_and_Cosmology_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:42
+[[00_Qwen_Index]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:43
+[[00_CROSS_TOPIC_LINKS]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:44
+[[Shankara_vs_Ibn_Rushd_Mystic_Meets_Commentator]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:45
+[[00_Ancient_Indian_Philosophical_Timeline]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:46
+[[Buddhism_Hinduism_Research_Report_e4034349]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:47
+[[00_FILE_INDEX_6]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:48
+[[00_FILE_INDEX_2]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:49
+[[README.ko-KR]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:50
+[[00_GenericAgent_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:51
+[[2026-04-13_Science_Journey_Video_Analysis_Critical_Review]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:52
+[[00_AI_and_Machine_Learning_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:53
+[[00_AI & Technology MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:54
+[[00_FILE_INDEX_7]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:55
+[[00_Technology_and_Development_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:56
+[[00_FILE_INDEX_4]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:57
+[[00_FILE_INDEX_3]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:58
+[[00_Media_and_Entertainment_MOC]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:59
+[[00_FILE_INDEX_8]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:60
+[[00_FILE_INDEX_5]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:61
+[[README.ja-JP]] — 1 refs
+  wiki\analysis\orphan-notes-report.md:62
+[[HOUSE-RULES]] — 1 refs
+  wiki\concepts\AI-First-Workflow.md:14
+[[07 - SYSTEM/ai-first-rules]] — 1 refs
+  wiki\concepts\AI-First-Workflow.md:14
+[[wikilinks]] — 1 refs
+  wiki\concepts\AI-First-Workflow.md:26
+[[wiki/concepts/Knowledge-Graph-Extraction]] — 3 refs
+  wiki\concepts\AI-First-Workflow.md:83
+  wiki\concepts\Autonomous-Agent-Research.md:61
+  wiki\entities\InfiniteBrain.md:53
+[[Communist Manifesto]] — 3 refs
+  wiki\concepts\Class Struggle - Marx.md:53
+  wiki\entities\Karl Marx.md:14
+  wiki\entities\Karl Marx.md:45
+[[Bourgeoisie]] — 2 refs
+  wiki\concepts\Class Struggle - Marx.md:54
+  wiki\entities\Karl Marx.md:26
+[[Proletariat]] — 2 refs
+  wiki\concepts\Class Struggle - Marx.md:55
+  wiki\entities\Karl Marx.md:27
+[[E. V. Ramasamy Periyar]] — 3 refs
+  wiki\concepts\Dravidian Religion Origins of Hinduism — Synthesis.md:6
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:6
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:8
+[[Ancient Civilizations Educational Resources]] — 2 refs
+  wiki\concepts\Dravidian Religion Origins of Hinduism — Synthesis.md:7
+  wiki\concepts\Dravidian Religion Origins of Hinduism — Synthesis.md:76
+[[04 - DAILY/2026-07-17]] — 6 refs
+  wiki\concepts\Dravidian Religion Origins of Hinduism — Synthesis.md:14
+  wiki\entities\Periyar E. V. Ramasamy.md:70
+  05 - MAPS\Digital Garden MOC.md:86
+  05 - MAPS\Digital Garden MOC.md:106
+  05 - MAPS\Historical Linguistics MOC.md:78
+  05 - MAPS\Indian Political History MOC.md:116
+[[Rationalist Movement Archives]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:132
+[[Ambedkar's "Annihilation of Caste"]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:133
+[[Periyar's Works]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:134
+[[Phule's "Gulamgiri"]] — 2 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:135
+  wiki\entities\Jyotirao Phule.md:72
+[[Charvaka Sutras (Fragments)]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:136
+[[Buddhist Critique of Caste]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:137
+[[Bhakti Movement Egalitarianism]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:138
+[[Sikh Egalitarian Principles]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:139
+[[Lingayat Social Reform]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:140
+[[Brahmo Samaj History]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:141
+[[Arya Samaj Caste Reform]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:142
+[[Aligarh Movement Legacy]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:143
+[[Self-Respect Movement Tamil Nadu]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:144
+[[Dravida Kazhagam Ideology]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:145
+[[Adi Hindu Movement Origins]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:146
+[[Bahujan Samaj Party Formation]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:147
+[[Dalit Panthers Manifesto]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:148
+[[Ambedkar's Buddhist Conversion Speech]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:149
+[[Rammanohar Lohia's Caste Critique]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:150
+[[Rahul Sankrityayan's Rationalism]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:151
+[[Vidyasagar's Social Reform Efforts]] — 2 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:152
+  wiki\entities\Vidyasagar.md:71
+[[Contemporary Rationalist Challenges]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:153
+[[Dalit Assertion in 21st Century]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:154
+[[Intersectional Anti-Caste Feminism]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:155
+[[Secularism in Indian Constitution]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:156
+[[Scientific Temper Provision (Article 51A(h))]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:157
+[[Public Discourse on Religion and Science]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:158
+[[Ambedkarite Buddhism Global Spread]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:159
+[[Periyar Influence on Dravidian Politics]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:160
+[[Phule Legacy in Modern Education]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:161
+[[Critical Examination of Religious Practices]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:162
+[[Rationalist Response to Superstition]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:163
+[[Dalit Theology and Liberation]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:164
+[[Ambedkar's "The Buddha and His Dhamma"]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:165
+[[Periyar's "Why I am an Atheist"]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:166
+[[Phule's "Shetkaryanche Asud"]] — 2 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:167
+  wiki\entities\Jyotirao Phule.md:73
+[[Vidyasagar's "Barna Parichay"]] — 2 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:168
+  wiki\entities\Vidyasagar.md:70
+[[Lohia's "Guilty Men of India's Partition"]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:169
+[[Sankrityayan's "Volga Se Ganga"]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:170
+[[Modern Rationalist Organizations]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:171
+[[Anti-Caste Intellectual Traditions]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:172
+[[Secular Courts and Religious Practices]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:173
+[[Constitutional Protections Against Untouchability]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:174
+[[Protection of Civil Rights Act, 1955]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:175
+[[Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:176
+[[Reservation Policy Jurisprudence]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:177
+[[Equal Remuneration Act, 1976]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:178
+[[Right to Education Act, 2009]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:179
+[[Transgender Persons Act, 2019]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:180
+[[Medical Termination of Pregnancy Act]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:181
+[[Maternity Benefit Act]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:182
+[[Sexual Harassment of Women at Workplace Act]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:183
+[[National Commission for Backward Classes Act]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:184
+[[National Commission for Minorities Act]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:185
+[[National Commission for Scheduled Castes Act]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:186
+[[National Commission for Scheduled Tribes Act]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:187
+[[Maintenance and Welfare of Parents and Senior Citizens Act]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:188
+[[National Food Security Act, 2013]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:189
+[[Right to Information Act, 2005]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:190
+[[Digital Personal Data Protection Act, 2023]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:191
+[[Arbitration and Conciliation Act, 1996]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:192
+[[Insolvency and Bankruptcy Code, 2016]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:193
+[[Goods and Services Tax Act, 2017]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:194
+[[Companies Act, 2013]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:195
+[[Banking Regulation Act, 1949]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:196
+[[Reserve Bank of India Act, 1934]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:197
+[[Securities Contracts (Regulation) Act, 1956]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:198
+[[Depositories Act, 1996]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:199
+[[Foreign Exchange Management Act, 1999]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:200
+[[Micro, Small and Medium Enterprises Development Act, 2006]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:201
+[[Payment and Settlement Systems Act, 2007]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:202
+[[Negotiable Instruments Act, 1881]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:203
+[[Indian Contract Act, 1872]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:204
+[[Sale of Goods Act, 1930]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:205
+[[Partnership Act, 1932]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:206
+[[Limited Liability Partnership Act, 2008]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:207
+[[Indian Partnership Act, 1932]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:208
+[[Trusts Act, 1882]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:209
+[[Hindu Marriage Act, 1955]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:210
+[[Hindu Succession Act, 1956]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:211
+[[Hindu Minority and Guardianship Act, 1956]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:212
+[[Hindu Adoptions and Maintenance Act, 1956]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:213
+[[Muslim Personal Law (Shariat) Application Act, 1937]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:214
+[[Dissolution of Muslim Marriage Act, 1939]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:215
+[[Muslim Women (Protection of Rights on Divorce) Act, 1986]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:216
+[[Special Marriage Act, 1954]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:217
+[[Foreign Marriage Act, 1969]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:218
+[[Indian Christian Marriage Act, 1872]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:219
+[[Indian Divorce Act, 1869]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:220
+[[Salary, Allowances and Pension of Members of Parliament Act, 1954]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:221
+[[President's Emoluments and Pension Act, 1951]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:222
+[[Governors (Emoluments, Allowances and Privileges) Act, 1949]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:223
+[[Salaries and Allowances of Judges Act, 1958]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:224
+[[Salaries, Allowances and Pension of High Court Judges Act, 1954]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:225
+[[Contempt of Courts Act, 1971]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:226
+[[Arbitration Act, 1940]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:227
+[[Indian Railways Act, 1890]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:228
+[[Major Ports Act, 1996]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:229
+[[Airports Authority of India Act, 1994]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:230
+[[Carriage by Air Act, 1972]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:231
+[[Carriage of Goods by Sea Act, 1925]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:232
+[[Inland Vessels Act, 1910]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:233
+[[Lighthouse Act, 1927]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:234
+[[Merchant Shipping Act, 1958]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:235
+[[Shipping]] — 1 refs
+  wiki\concepts\Indian Atheism, Rationalism, and Anti-Caste Struggle.md:236
+[[wiki/entities/Charvaka.md]] — 1 refs
+  wiki\concepts\Lokayata-Epistemology.md:74
+[[wiki/entities/Jayarashi-Bhatta.md]] — 1 refs
+  wiki\concepts\Lokayata-Epistemology.md:75
+[[wiki/concepts/Indian Atheism, Rationalism, and Anti-Caste Struggle.md]] — 8 refs
+  wiki\concepts\Lokayata-Epistemology.md:76
+  wiki\entities\Atisha.md:48
+  wiki\entities\Charvaka.md:73
+  wiki\entities\Dharmakirti.md:51
+  wiki\entities\Kabir.md:57
+  wiki\entities\Nagarjuna.md:52
+  wiki\entities\Periyar E. V. Ramasamy.md:115
+  wiki\entities\Ravidas.md:52
+[[Research/Philosophy/Charvaka-Lokayata-Primary-Sources.md]] — 2 refs
+  wiki\concepts\Lokayata-Epistemology.md:77
+  wiki\entities\Charvaka.md:71
+[[2026-03-24_caste-system-origins]] — 1 refs
+  wiki\concepts\Religion Civilization Contributions - Complete Analysis.md:228
+[[00_philosophy-comparison_MOC]] — 1 refs
+  wiki\concepts\Religion Civilization Contributions - Complete Analysis.md:229
+[[00_hinduism_MOC]] — 1 refs
+  wiki\concepts\Religion Civilization Contributions - Complete Analysis.md:230
+[[00_buddhism_MOC]] — 1 refs
+  wiki\concepts\Religion Civilization Contributions - Complete Analysis.md:231
+[[00_jainism_MOC]] — 1 refs
+  wiki\concepts\Religion Civilization Contributions - Complete Analysis.md:232
+[[Shankara_Caste_Brahminism_Promotion_Analysis]] — 1 refs
+  wiki\concepts\Religion Civilization Contributions - Complete Analysis.md:233
+[[Marxists Internet Archive (Bhagat Singh)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:61
+  wiki\entities\Bhagat Singh.md:37
+[[Marxists Internet Archive (Che Guevara)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:62
+  wiki\entities\Che Guevara.md:37
+[[Shaheed Bhagat Singh Archives]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:63
+  wiki\entities\Bhagat Singh.md:38
+[[The Motorcycle Diaries (E-book)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:64
+  wiki\entities\Che Guevara.md:40
+[[Che Guevara (Wikipedia)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:65
+  wiki\entities\Che Guevara.md:38
+[[Guerilla Foco (Pressbooks)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:66
+  wiki\entities\Che Guevara.md:41
+[[Bhagat Singh & Naxalites (Monthly Review)]] — 1 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:67
+[[Revolutionary Legacy (CPI-ML)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:68
+  wiki\entities\Bhagat Singh.md:42
+[[Commemorating Che in India (The Wire)]] — 1 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:69
+[[Foco Theory Definition (Fiveable)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:70
+  wiki\entities\Che Guevara.md:45
+[[Che: A False Idol (ARSOF)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:71
+  wiki\entities\Che Guevara.md:42
+[[Bhagat Singh's Forsaken History (RCA)]] — 1 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:72
+[[Youth Icons Comparison (DailyO)]] — 1 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:73
+[[Bhagat Singh: The Che of SA (Links)]] — 1 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:74
+[[Che Visited India (Frontier Weekly)]] — 2 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:75
+  wiki\entities\Che Guevara.md:44
+[[AISA Upholding Legacy]] — 1 refs
+  wiki\concepts\Revolutionary Legacies - Bhagat Singh and Che Guevara.md:76
+[[Research/Philosophy/Buddhism-Decline-India-Historiography.md]] — 4 refs
+  wiki\entities\Atisha.md:44
+  wiki\entities\Bakhtiyar-Khalji.md:48
+  wiki\entities\Dharmakirti.md:48
+  wiki\entities\Nagarjuna.md:49
+[[wiki/entities/Nagarjuna.md]] — 3 refs
+  wiki\entities\Atisha.md:45
+  wiki\entities\Bakhtiyar-Khalji.md:49
+  wiki\entities\Dharmakirti.md:49
+[[wiki/entities/Dharmakirti.md]] — 3 refs
+  wiki\entities\Atisha.md:46
+  wiki\entities\Bakhtiyar-Khalji.md:50
+  wiki\entities\Nagarjuna.md:50
+[[wiki/entities/Bakhtiyar-Khalji.md]] — 1 refs
+  wiki\entities\Atisha.md:47
+[[05 - MAPS/Philosophy & Religion MOC.md]] — 8 refs
+  wiki\entities\Atisha.md:49
+  wiki\entities\B. R. Ambedkar.md:80
+  wiki\entities\Bakhtiyar-Khalji.md:52
+  wiki\entities\Dharmakirti.md:52
+  wiki\entities\Kabir.md:58
+  wiki\entities\Nagarjuna.md:53
+  wiki\entities\Periyar E. V. Ramasamy.md:117
+  wiki\entities\Ravidas.md:53
+[[Research/Philosophy/Ambedkar-vs-Periyar-Comparative.md]] — 3 refs
+  wiki\entities\B. R. Ambedkar.md:77
+  wiki\entities\Periyar E. V. Ramasamy.md:112
+  wiki\entities\TVK.md:52
+[[wiki/entities/Periyar E. V. Ramasamy.md]] — 1 refs
+  wiki\entities\B. R. Ambedkar.md:78
+[[wiki/entities/TVK.md]] — 2 refs
+  wiki\entities\B. R. Ambedkar.md:79
+  wiki\entities\Periyar E. V. Ramasamy.md:114
+[[05 - MAPS/Indian Political History MOC.md]] — 3 refs
+  wiki\entities\B. R. Ambedkar.md:81
+  wiki\entities\Periyar E. V. Ramasamy.md:118
+  wiki\entities\TVK.md:49
+[[wiki/entities/Atisha.md]] — 3 refs
+  wiki\entities\Bakhtiyar-Khalji.md:51
+  wiki\entities\Dharmakirti.md:50
+  wiki\entities\Nagarjuna.md:51
+[[05 - MAPS/Historical Linguistics MOC.md]] — 1 refs
+  wiki\entities\Bakhtiyar-Khalji.md:53
+[[Indian Independence Movement]] — 1 refs
+  wiki\entities\Bhagat Singh.md:32
+[[Historic document: 2nd Feb 1931 Letter]] — 1 refs
+  wiki\entities\Bhagat Singh.md:39
+[[India's Revolutionary Spiritual Urge]] — 1 refs
+  wiki\entities\Bhagat Singh.md:40
+[[Revisiting Bhagat Singh: Ideology & Politics]] — 1 refs
+  wiki\entities\Bhagat Singh.md:41
+[[The Image of Enduring Appeal (The Wire)]] — 1 refs
+  wiki\entities\Bhagat Singh.md:43
+[[Bhagat Singh and the Revolutionary Movement]] — 1 refs
+  wiki\entities\Bhagat Singh.md:44
+[[Bhagat Singh in Our Times (AISA)]] — 1 refs
+  wiki\entities\Bhagat Singh.md:45
+[[The Forsaken History of Liberation (RCA)]] — 1 refs
+  wiki\entities\Bhagat Singh.md:46
+[[Intellectual Evolution Summary]] — 2 refs
+  wiki\entities\Bhagat Singh.md:47
+  wiki\entities\Che Guevara.md:47
+[[The Revolutionary Dialectic (Synthesis)]] — 2 refs
+  wiki\entities\Bhagat Singh.md:48
+  wiki\entities\Che Guevara.md:48
+[[The 'Che Guevara' of South Asia (Links)]] — 2 refs
+  wiki\entities\Bhagat Singh.md:49
+  wiki\entities\Che Guevara.md:49
+[[Why they are most loveable youth icons!]] — 2 refs
+  wiki\entities\Bhagat Singh.md:50
+  wiki\entities\Che Guevara.md:51
+[[Youth icons have much in common (DailyO)]] — 2 refs
+  wiki\entities\Bhagat Singh.md:51
+  wiki\entities\Che Guevara.md:52
+[[Tamil Cinema and Dravidian Politics]] — 1 refs
+  wiki\entities\C. N. Annadurai.md:6
+[[M. Karunanidhi]] — 2 refs
+  wiki\entities\C. N. Annadurai.md:7
+  wiki\entities\C. N. Annadurai.md:136
+[[M. G. Ramachandran]] — 2 refs
+  wiki\entities\C. N. Annadurai.md:7
+  wiki\entities\C. N. Annadurai.md:137
+[[wiki/concepts/Lokayata-Epistemology.md]] — 1 refs
+  wiki\entities\Charvaka.md:72
+[[wiki/entities/Ajita-Keshakambala.md]] — 1 refs
+  wiki\entities\Charvaka.md:74
+[[Shramana]] — 1 refs
+  wiki\entities\Charvaka.md:75
+[[Mīmāṃsā]] — 1 refs
+  wiki\entities\Charvaka.md:75
+[[Buddhism]] — 3 refs
+  wiki\entities\Charvaka.md:75
+  wiki\entities\Rahul Sankrityayan.md:7
+  wiki\_templates\link-enrichment.md:38
+[[Tantra]] — 1 refs
+  wiki\entities\Charvaka.md:75
+[[Cuban Revolution]] — 1 refs
+  wiki\entities\Che Guevara.md:32
+[[Latin American Left]] — 1 refs
+  wiki\entities\Che Guevara.md:32
+[[Mirrors of Rebellion]] — 1 refs
+  wiki\entities\Che Guevara.md:39
+[[BJP picks a fight with Che in Kerala]] — 1 refs
+  wiki\entities\Che Guevara.md:43
+[[Reddit: Is Singh equivalent to Che?]] — 1 refs
+  wiki\entities\Che Guevara.md:46
+[[Foco vs. Protracted People's War]] — 1 refs
+  wiki\entities\Che Guevara.md:50
+[[2026-05-27 — RIGHT vs LEFT WING — SIMPLE Political Ideology Comparison]] — 1 refs
+  wiki\entities\Che Guevara.md:65
+[[Satyashodhak Samaj]] — 3 refs
+  wiki\entities\Jyotirao Phule.md:7
+  wiki\entities\Jyotirao Phule.md:34
+  wiki\entities\Savitribai Phule.md:34
+[[Narayana Guru]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:33
+[[Anti-Caste Movement in Maharashtra]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:34
+[[Satyashodhak Samaj Establishment]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:74
+[[Girls' School in Pune (1848)]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:75
+[[Phule's Critique of Brahmin Priesthood]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:76
+[[Phule's Views on Religion]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:77
+[[Phule's Economic Thought]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:78
+[[Phule's Feminist Writings]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:79
+[[Phule's Influence on Ambedkar]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:80
+[[Phule's Role in 1857 Rebellion Analysis]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:81
+[[Phule's Educational Philosophy]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:82
+[[Phule's Agricultural Reform Ideas]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:83
+[[Phule's Labor Rights Advocacy]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:84
+[[Phule's Environmental Thought]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:85
+[[Phule's Impact on Maharashtra Society]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:86
+[[Post-Phule Anti-Caste Movement]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:87
+[[Phule's Satyashodhak Samaj Principles]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:88
+[[Phule's Critique of Caste System]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:89
+[[Phule's Views on Education]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:90
+[[Phule's Role in Social Reform]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:91
+[[Phule's Influence on Feminist Movements]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:92
+[[Phule's Legacy in Modern India]] — 1 refs
+  wiki\entities\Jyotirao Phule.md:93
+[[Indian People's Theatre Association]] — 2 refs
+  wiki\entities\K. A. Abbas.md:7
+  wiki\entities\K. A. Abbas.md:34
+[[Progressive Writers' Movement]] — 2 refs
+  wiki\entities\K. A. Abbas.md:7
+  wiki\entities\K. A. Abbas.md:34
+[[K. A. Abbas Archives]] — 1 refs
+  wiki\entities\K. A. Abbas.md:71
+[[Inquilab Novel]] — 1 refs
+  wiki\entities\K. A. Abbas.md:72
+[[Dharti Ke Lal Film]] — 1 refs
+  wiki\entities\K. A. Abbas.md:73
+[[Pardesi Film]] — 1 refs
+  wiki\entities\K. A. Abbas.md:74
+[[Saat Hindustani Film]] — 1 refs
+  wiki\entities\K. A. Abbas.md:75
+[[Journalistic Collection]] — 1 refs
+  wiki\entities\K. A. Abbas.md:76
+[[Scientific Temper Writings]] — 1 refs
+  wiki\entities\K. A. Abbas.md:77
+[[IPTA Involvement]] — 1 refs
+  wiki\entities\K. A. Abbas.md:78
+[[Progressive Writers' Association]] — 1 refs
+  wiki\entities\K. A. Abbas.md:79
+[[Abbas and Ambedkar Dialogue]] — 1 refs
+  wiki\entities\K. A. Abbas.md:80
+[[Abbas and Periyar Exchange]] — 1 refs
+  wiki\entities\K. A. Abbas.md:81
+[[Abbas on Religion and Atheism]] — 1 refs
+  wiki\entities\K. A. Abbas.md:82
+[[Abbas' Views on Caste]] — 1 refs
+  wiki\entities\K. A. Abbas.md:83
+[[Abbas' Economic Perspectives]] — 1 refs
+  wiki\entities\K. A. Abbas.md:84
+[[Abbas' Feminist Views]] — 1 refs
+  wiki\entities\K. A. Abbas.md:85
+[[Abbas' International Outlook]] — 1 refs
+  wiki\entities\K. A. Abbas.md:86
+[[Abbas' Later Years and Death]] — 1 refs
+  wiki\entities\K. A. Abbas.md:87
+[[Post-Abbas Scientific Temper Movement]] — 1 refs
+  wiki\entities\K. A. Abbas.md:88
+[[Abbas' Influence on Indian Cinema]] — 1 refs
+  wiki\entities\K. A. Abbas.md:89
+[[Abbas' Legacy in Journalism]] — 1 refs
+  wiki\entities\K. A. Abbas.md:90
+[[Abbas' Archives and Library]] — 1 refs
+  wiki\entities\K. A. Abbas.md:91
+[[Research/Philosophy/Kabir-Ravidas-Bhakti-Anti-Caste.md]] — 2 refs
+  wiki\entities\Kabir.md:55
+  wiki\entities\Ravidas.md:49
+[[wiki/entities/Ravidas.md]] — 1 refs
+  wiki\entities\Kabir.md:56
+[[Bahujan Samaj Party]] — 2 refs
+  wiki\entities\Kanshi Ram.md:7
+  wiki\entities\Kanshi Ram.md:34
+[[BAMCEF]] — 2 refs
+  wiki\entities\Kanshi Ram.md:7
+  wiki\entities\Kanshi Ram.md:34
+[[Mayawati]] — 1 refs
+  wiki\entities\Kanshi Ram.md:32
+[[Dalit Rights Movement]] — 1 refs
+  wiki\entities\Kanshi Ram.md:34
+[[Kanshi Ram Archives]] — 1 refs
+  wiki\entities\Kanshi Ram.md:69
+[[The Chamcha Age (1982)]] — 1 refs
+  wiki\entities\Kanshi Ram.md:70
+[[Dalit Shoshit Samaj Sangharsh Sahayak]] — 1 refs
+  wiki\entities\Kanshi Ram.md:71
+[[The Untouchable India]] — 1 refs
+  wiki\entities\Kanshi Ram.md:72
+[[Founding of BAMCEF (1973)]] — 1 refs
+  wiki\entities\Kanshi Ram.md:73
+[[Formation of Bahujan Samaj Party]] — 1 refs
+  wiki\entities\Kanshi Ram.md:74
+[[Electoral Strategy and Victories]] — 1 refs
+  wiki\entities\Kanshi Ram.md:75
+[[Cadre Training Programs]] — 1 refs
+  wiki\entities\Kanshi Ram.md:76
+[[Institutional Building Efforts]] — 1 refs
+  wiki\entities\Kanshi Ram.md:77
+[[Kanshi Ram and Ambedkar Ideology]] — 1 refs
+  wiki\entities\Kanshi Ram.md:78
+[[Kanshi Ram and Periyar Dialogue]] — 1 refs
+  wiki\entities\Kanshi Ram.md:79
+[[Kanshi Ram's Views on Religion]] — 1 refs
+  wiki\entities\Kanshi Ram.md:80
+[[Kanshi Ram's Economic Thought]] — 1 refs
+  wiki\entities\Kanshi Ram.md:81
+[[Kanshi Ram's Views on Caste]] — 1 refs
+  wiki\entities\Kanshi Ram.md:82
+[[Kanshi Ram's Feminist Perspectives]] — 1 refs
+  wiki\entities\Kanshi Ram.md:83
+[[Kanshi Ram's International Views]] — 1 refs
+  wiki\entities\Kanshi Ram.md:84
+[[Kanshi Ram's Later Years and Death]] — 1 refs
+  wiki\entities\Kanshi Ram.md:85
+[[Post-Kanshi Ram Bahujan Politics]] — 1 refs
+  wiki\entities\Kanshi Ram.md:86
+[[Kanshi Ram's Influence on Dalit Movement]] — 1 refs
+  wiki\entities\Kanshi Ram.md:87
+[[Kanshi Ram's Electoral Legacy]] — 1 refs
+  wiki\entities\Kanshi Ram.md:88
+[[Kanshi Ram's Organizational Legacy]] — 1 refs
+  wiki\entities\Kanshi Ram.md:89
+[[Class Struggle]] — 1 refs
+  wiki\entities\Karl Marx.md:25
+[[Capitalism]] — 1 refs
+  wiki\entities\Karl Marx.md:28
+[[02 - AREAS/04 Political Analysis/communism/00_communism_MOC]] — 1 refs
+  wiki\entities\Karl Marx.md:46
+[[Friedrich Engels]] — 1 refs
+  wiki\entities\Karl Marx.md:47
+[[Communist Party of India]] — 2 refs
+  wiki\entities\M. N. Roy.md:7
+  wiki\entities\M. N. Roy.md:34
+[[Radical Humanism]] — 1 refs
+  wiki\entities\M. N. Roy.md:7
+[[International Communist Movement]] — 1 refs
+  wiki\entities\M. N. Roy.md:34
+[[M. N. Roy Archives]] — 1 refs
+  wiki\entities\M. N. Roy.md:69
+[[India in Transition (1922)]] — 1 refs
+  wiki\entities\M. N. Roy.md:70
+[[Revolution and Counter-revolution in China]] — 1 refs
+  wiki\entities\M. N. Roy.md:71
+[[The Historical Role of Islam]] — 1 refs
+  wiki\entities\M. N. Roy.md:72
+[[Reason, Romanticism and Revolution]] — 1 refs
+  wiki\entities\M. N. Roy.md:73
+[[New Humanism and Radical Humanism]] — 1 refs
+  wiki\entities\M. N. Roy.md:74
+[[Founding of Communist Party of India]] — 1 refs
+  wiki\entities\M. N. Roy.md:75
+[[M. N. Roy in Comintern]] — 1 refs
+  wiki\entities\M. N. Roy.md:76
+[[Mexican Revolution Experience]] — 1 refs
+  wiki\entities\M. N. Roy.md:77
+[[Chinese Revolution Analysis]] — 1 refs
+  wiki\entities\M. N. Roy.md:78
+[[Return to India and Congress Work]] — 1 refs
+  wiki\entities\M. N. Roy.md:79
+[[Development of Radical Humanism]] — 1 refs
+  wiki\entities\M. N. Roy.md:80
+[[Radical Democratic Party Formation]] — 1 refs
+  wiki\entities\M. N. Roy.md:81
+[[Post-Independence Work]] — 1 refs
+  wiki\entities\M. N. Roy.md:82
+[[M. N. Roy and Bhagat Singh Comparison]] — 1 refs
+  wiki\entities\M. N. Roy.md:83
+[[M. N. Roy and Periyar Dialogue]] — 1 refs
+  wiki\entities\M. N. Roy.md:84
+[[M. N. Roy's Influence on Nehru]] — 1 refs
+  wiki\entities\M. N. Roy.md:85
+[[M. N. Roy's Constitutional Views]] — 1 refs
+  wiki\entities\M. N. Roy.md:86
+[[M. N. Roy's Economic Thought]] — 1 refs
+  wiki\entities\M. N. Roy.md:87
+[[M. N. Roy's Views on Religion]] — 1 refs
+  wiki\entities\M. N. Roy.md:88
+[[M. N. Roy's Feminist Perspectives]] — 1 refs
+  wiki\entities\M. N. Roy.md:89
+[[M. N. Roy's Internationalism]] — 1 refs
+  wiki\entities\M. N. Roy.md:90
+[[M. N. Roy's Republicanism]] — 1 refs
+  wiki\entities\M. N. Roy.md:91
+[[M. N. Roy's Later Years and Death]] — 1 refs
+  wiki\entities\M. N. Roy.md:92
+[[Post-M. N. Roy Radical Humanism Movement]] — 1 refs
+  wiki\entities\M. N. Roy.md:93
+[[M. N. Roy's Influence on Indian Left]] — 1 refs
+  wiki\entities\M. N. Roy.md:94
+[[M. N. Roy's Global Influence]] — 1 refs
+  wiki\entities\M. N. Roy.md:95
+[[M. N. Roy's Archives and Library]] — 1 refs
+  wiki\entities\M. N. Roy.md:96
+[[wiki/entities/B. R. Ambedkar.md]] — 1 refs
+  wiki\entities\Periyar E. V. Ramasamy.md:113
+[[wiki/concepts/Justice Party.md]] — 1 refs
+  wiki\entities\Periyar E. V. Ramasamy.md:116
+[[Travel Literature]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:7
+[[Buddhist Revival Movement]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:34
+[[Indian Marxist Movement]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:34
+[[Rahul Sankrityayan Archives]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:69
+[[Volga Se Ganga]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:70
+[[Buddhacharya]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:71
+[[Darshan Digdarshan]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:72
+[[Madhya Asia Ka Itihas]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:73
+[[Sankrityayan's Buddhist Works]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:74
+[[Sankrityayan's Marxist Works]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:75
+[[Sankrityayan's Travelogues]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:76
+[[Sankrityayan's Translations]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:77
+[[Biographical Information]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:78
+[[Political Activities]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:79
+[[Travels and Journeys]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:80
+[[Sankrityayan and Ambedkar Dialogue]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:81
+[[Sankrityayan and Periyar Exchange]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:82
+[[Sankrityayan on Religion and Atheism]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:83
+[[Sankrityayan's Views on Caste]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:84
+[[Sankrityayan's Economic Perspectives]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:85
+[[Sankrityayan's Feminist Views]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:86
+[[Sankrityayan's International Outlook]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:87
+[[Sankrityayan's Later Years and Death]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:88
+[[Post-Sankrityayan Buddhist Movement]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:89
+[[Sankrityayan's Influence on Indian Scholarship]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:90
+[[Sankrityayan's Global Influence]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:91
+[[Sankrityayan's Archives and Library]] — 1 refs
+  wiki\entities\Rahul Sankrityayan.md:92
+[[Socialist Party (India)]] — 2 refs
+  wiki\entities\Rammanohar Lohia.md:7
+  wiki\entities\Rammanohar Lohia.md:35
+[[Anti-Caste Movement]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:7
+[[Praja Socialist Party]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:35
+[[Anti-Caste Movement in India]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:35
+[[Rammanohar Lohia Archives]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:71
+[[Guilty Men of India's Partition]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:72
+[[Marx, Gandhi and Socialism]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:73
+[[India, China and Russia]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:74
+[[Wheel of History]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:75
+[[Lohia's Caste Critique]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:76
+[[Lohia's Views on Reservation]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:77
+[[Lohia's Socialist Economics]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:78
+[[Lohia's Feminist Perspectives]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:79
+[[Lohia's Foreign Policy Views]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:80
+[[Lohia's Democratic Theory]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:81
+[[Lohia's Later Years and Death]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:82
+[[Post-Lohia Socialist Movement]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:83
+[[Lohia's Influence on Indian Politics]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:84
+[[Lohia's Global Influence]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:85
+[[Lohia's Writings on Religion]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:86
+[[Lohia's Views on Science and Rationality]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:87
+[[Lohia's Archives and Library]] — 1 refs
+  wiki\entities\Rammanohar Lohia.md:88
+[[wiki/entities/Kabir.md]] — 1 refs
+  wiki\entities\Ravidas.md:50
+[[wiki/entities/Ravidassia-Religion.md]] — 1 refs
+  wiki\entities\Ravidas.md:51
+[[Women's Education]] — 2 refs
+  wiki\entities\Savitribai Phule.md:7
+  wiki\entities\Vidyasagar.md:7
+[[Women's Education Movement in India]] — 1 refs
+  wiki\entities\Savitribai Phule.md:34
+[[Savitribai Phule's "Kavya Phule"]] — 1 refs
+  wiki\entities\Savitribai Phule.md:70
+[[Savitribai Phule's "Bavan Kashi Subodh Ratnakar"]] — 1 refs
+  wiki\entities\Savitribai Phule.md:71
+[[First Girls' School in Pune (1848)]] — 1 refs
+  wiki\entities\Savitribai Phule.md:72
+[[Savitribai Phule as Teacher]] — 1 refs
+  wiki\entities\Savitribai Phule.md:73
+[[Savitribai Phule in Satyashodhak Samaj]] — 1 refs
+  wiki\entities\Savitribai Phule.md:74
+[[Savitribai Phule's Views on Education]] — 1 refs
+  wiki\entities\Savitribai Phule.md:75
+[[Savitribai Phule's Feminist Writings]] — 1 refs
+  wiki\entities\Savitribai Phule.md:76
+[[Savitribai Phule's Influence on Jyotirao Phule]] — 1 refs
+  wiki\entities\Savitribai Phule.md:77
+[[Savitribai Phule's Role in Women's Education Movement]] — 1 refs
+  wiki\entities\Savitribai Phule.md:78
+[[Savitribai Phule's Poetry and Social Reform]] — 1 refs
+  wiki\entities\Savitribai Phule.md:79
+[[Savitribai Phule's Later Years and Death]] — 1 refs
+  wiki\entities\Savitribai Phule.md:80
+[[Post-Savitribai Phule Women's Education]] — 1 refs
+  wiki\entities\Savitribai Phule.md:81
+[[Savitribai Phule's Influence on Feminist Movements]] — 1 refs
+  wiki\entities\Savitribai Phule.md:82
+[[Savitribai Phule's Archives and Library]] — 1 refs
+  wiki\entities\Savitribai Phule.md:83
+[[Research/Politics/2026-TVK-Post-Election-Analysis.md]] — 1 refs
+  wiki\entities\TVK.md:48
+[[03 - PROJECTS/Dravidian-Lineage-Graph.md]] — 2 refs
+  wiki\entities\TVK.md:50
+  05 - MAPS\Indian Political History MOC.md:26
+[[Research/Politics/BJP-Southern-Strategy-Post-2026.md]] — 1 refs
+  wiki\entities\TVK.md:51
+[[Social Reform]] — 1 refs
+  wiki\entities\Vidyasagar.md:7
+[[Bengal Renaissance]] — 1 refs
+  wiki\entities\Vidyasagar.md:34
+[[Social Reform Movement in India]] — 1 refs
+  wiki\entities\Vidyasagar.md:34
+[[Vidyasagar's Role in Women's Education]] — 1 refs
+  wiki\entities\Vidyasagar.md:72
+[[Hindu Widows' Remarriage Act, 1856]] — 1 refs
+  wiki\entities\Vidyasagar.md:73
+[[Vidyasagar's Educational Philosophy]] — 1 refs
+  wiki\entities\Vidyasagar.md:74
+[[Vidyasagar's Views on Caste]] — 1 refs
+  wiki\entities\Vidyasagar.md:75
+[[Vidyasagar's Economic Thought]] — 1 refs
+  wiki\entities\Vidyasagar.md:76
+[[Vidyasagar's Feminist Perspectives]] — 1 refs
+  wiki\entities\Vidyasagar.md:77
+[[Vidyasagar's Later Years and Death]] — 1 refs
+  wiki\entities\Vidyasagar.md:78
+[[Post-Vidyasagar Social Reform Movement]] — 1 refs
+  wiki\entities\Vidyasagar.md:79
+[[Vidyasagar's Influence on Bengali Education]] — 1 refs
+  wiki\entities\Vidyasagar.md:80
+[[Vidyasagar's Global Influence]] — 1 refs
+  wiki\entities\Vidyasagar.md:81
+[[Vidyasagar's Archives and Library]] — 1 refs
+  wiki\entities\Vidyasagar.md:82
+[[Concept Name]] — 2 refs
+  wiki\_templates\concept.md:2
+  wiki\_templates\concept.md:10
+[[Entity]] — 4 refs
+  wiki\_templates\concept.md:16
+  wiki\_templates\concept.md:17
+  wiki\_templates\source.md:19
+  wiki\_templates\source.md:20
+[[Context]] — 2 refs
+  wiki\_templates\concept.md:16
+  wiki\_templates\concept.md:17
+[[Entity1]] — 2 refs
+  wiki\_templates\concept.md:20
+  wiki\_templates\source.md:24
+[[Entity2]] — 2 refs
+  wiki\_templates\concept.md:20
+  wiki\_templates\source.md:25
+[[Related Concept]] — 1 refs
+  wiki\_templates\concept.md:21
+[[Opposing Concept]] — 1 refs
+  wiki\_templates\concept.md:22
+[[Source Title]] — 4 refs
+  wiki\_templates\concept.md:25
+  wiki\_templates\entity.md:25
+  wiki\_templates\source.md:2
+  wiki\_templates\source.md:13
+[[Entity Name]] — 2 refs
+  wiki\_templates\entity.md:2
+  wiki\_templates\entity.md:10
+[[Related Entity]] — 1 refs
+  wiki\_templates\entity.md:20
+[[Category]] — 1 refs
+  wiki\_templates\entity.md:21
+[[Sub-entity]] — 1 refs
+  wiki\_templates\entity.md:22
+[[Related Concept 1]] — 1 refs
+  wiki\_templates\link-enrichment.md:11
+[[Related Concept 2]] — 1 refs
+  wiki\_templates\link-enrichment.md:12
+[[Related Topic]] — 1 refs
+  wiki\_templates\link-enrichment.md:18
+[[Application Area]] — 1 refs
+  wiki\_templates\link-enrichment.md:18
+[[Concept A]] — 1 refs
+  wiki\_templates\link-enrichment.md:26
+[[Concept B]] — 1 refs
+  wiki\_templates\link-enrichment.md:26
+[[Concept C]] — 1 refs
+  wiki\_templates\link-enrichment.md:27
+[[Concept D]] — 1 refs
+  wiki\_templates\link-enrichment.md:27
+[[Field:Philosophy]] — 1 refs
+  wiki\_templates\link-enrichment.md:38
+[[Epistemology]] — 1 refs
+  wiki\_templates\link-enrichment.md:38
+[[Field:Technology]] — 1 refs
+  wiki\_templates\link-enrichment.md:39
+[[LLM]] — 1 refs
+  wiki\_templates\link-enrichment.md:39
+[[Knowledge-Representation]] — 1 refs
+  wiki\_templates\link-enrichment.md:39
+[[Ancient Wisdom]] — 1 refs
+  wiki\_templates\link-enrichment.md:41
+[[Modern AI]] — 1 refs
+  wiki\_templates\link-enrichment.md:41
+[[Ethical Frameworks]] — 1 refs
+  wiki\_templates\link-enrichment.md:41
+[[path/to/original]] — 1 refs
+  wiki\_templates\source.md:8
+[[Concept1]] — 1 refs
+  wiki\_templates\source.md:28
+[[Concept2]] — 1 refs
+  wiki\_templates\source.md:29
+[[Note Name]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:101
+[[index.md]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:195
+[[Research/PKM/Writing-Publication-Pipeline.md]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:196
+[[05 - MAPS/Digital Garden MOC.md]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:197
+[[05 - MAPS/Agentic Systems MOC.md]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:198
+[[03 - PROJECTS/History-Watchdog.md]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:199
+[[03 - PROJECTS/Health-Autopilot.md]] — 2 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:200
+  05 - MAPS\Health & Fitness MOC.md:26
+[[03 - PROJECTS/Local-AI-Stack.md]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:201
+[[03 - PROJECTS/Cross-Domain Idea Synthesis.md]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:202
+[[house-rules.md]] — 2 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:203
+  05 - MAPS\AI & Technology MOC.md:53
+[[_CLAUDE.md]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:204
+[[01 - LITERATURE/articles/2026-07-09 — LLM Wiki Pattern — Full Synthesis (Second Brain Useless Until AI Maintains It)]] — 1 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:205
+[[02 - PERMANENT/concepts/Contrarian Loop — Vault That Argues With Itself]] — 2 refs
+  01 - LITERATURE\2026-07-08 — LLM Wiki Pattern — Karpathy.md:206
+  01 - LITERATURE\articles\2026-07-09 — LLM Wiki Pattern — Full Synthesis (Second Brain Useless Until AI Maintains It).md:167
+[[Career-Fact-Verification-Path]] — 1 refs
+  01 - LITERATURE\Health-Fat-Loss-Protocol-22M.md:239
+[[AI-First Local Stack Setup]] — 1 refs
+  01 - LITERATURE\Health-Fat-Loss-Protocol-22M.md:240
+[[Dravidian Folk Deities and Sanskritization]] — 1 refs
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:284
+[[Dravidian vs North Indian Ancestry]] — 1 refs
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:287
+[[Complete Dravidian Folk-Tribal Deity Pantheon and Sanskritization Atlas]] — 1 refs
+  01 - LITERATURE\articles\2026-05-29 — Justice Party & Non-Brahmin Movement Research Synthesis.md:288
+[[goal displacement]] — 2 refs
+  01 - LITERATURE\articles\2026-07-06 — Flow Flywheel Weekly Ritual.md:20
+  01 - LITERATURE\articles\2026-07-06 — Flow Flywheel Weekly Ritual.md:57
+[[flow state]] — 2 refs
+  01 - LITERATURE\articles\2026-07-06 — Flow Flywheel Weekly Ritual.md:20
+  01 - LITERATURE\articles\2026-07-06 — Flow Flywheel Weekly Ritual.md:58
+[[dorsolateral prefrontal cortex]] — 2 refs
+  01 - LITERATURE\articles\2026-07-06 — Flow Flywheel Weekly Ritual.md:41
+  01 - LITERATURE\articles\2026-07-06 — Flow Flywheel Weekly Ritual.md:59
+[[80/20 rule]] — 1 refs
+  01 - LITERATURE\articles\2026-07-06 — Flow Flywheel Weekly Ritual.md:60
+[[Claude Fable 5]] — 1 refs
+  01 - LITERATURE\articles\2026-07-06 — How to Build An Agentic OS using Fable 5.md:106
+[[Agentic OS]] — 1 refs
+  01 - LITERATURE\articles\2026-07-06 — How to Build An Agentic OS using Fable 5.md:107
+[[Autonomous Agents]] — 1 refs
+  01 - LITERATURE\articles\2026-07-06 — How to Build An Agentic OS using Fable 5.md:108
+[[Cost Management]] — 1 refs
+  01 - LITERATURE\articles\2026-07-06 — How to Build An Agentic OS using Fable 5.md:109
+[[Verification]] — 1 refs
+  01 - LITERATURE\articles\2026-07-06 — How to Build An Agentic OS using Fable 5.md:110
+[[Trust Ledger]] — 1 refs
+  01 - LITERATURE\articles\2026-07-06 — How to Build An Agentic OS using Fable 5.md:111
+[[Goal Stack]] — 1 refs
+  01 - LITERATURE\articles\2026-07-06 — How to Build An Agentic OS using Fable 5.md:112
+[[01 - LITERATURE/2026-07-08 — LLM Wiki Pattern — Karpathy]] — 1 refs
+  01 - LITERATURE\articles\2026-07-09 — LLM Wiki Pattern — Full Synthesis (Second Brain Useless Until AI Maintains It).md:166
+[[GitNexus/README.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:19
+[[GitNexus/ARCHITECTURE.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:19
+[[InfiniteBrain/wiki/index.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:20
+[[tolaria/README.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:21
+[[genericagent/memory/autonomous_operation_sop.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:22
+[[temp_autoresearch/]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:23
+[[graphify-repo/graphify/]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:24
+[[ruflo/v3/src/memory/]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:25
+[[QwenVault/]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:26
+[[Cross-Domain Idea Synthesis.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:27
+[[03 - PROJECTS/History-Watchdog]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:28
+[[History-Watchdog.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:28
+[[03 - PROJECTS/Health-Autopilot]] — 2 refs
+  05 - MAPS\AI & Technology MOC.md:29
+  05 - MAPS\Health & Fitness MOC.md:70
+[[Health-Autopilot.md]] — 2 refs
+  05 - MAPS\AI & Technology MOC.md:29
+  05 - MAPS\Health & Fitness MOC.md:70
+[[03 - PROJECTS/Dravidian-Lineage-Graph]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:30
+[[Dravidian-Lineage-Graph.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:30
+[[03 - PROJECTS/Local-AI-Stack]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:31
+[[Local-AI-Stack.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:31
+[[2-atoms/Digital Garden — Definition]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:40
+[[Research/AI Tools/2026-06-19 — AI-Specific Researcher Tools 2026 — Complete Table]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:44
+[[Research/2026-06-11 — Free Research AI vs Claude]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:45
+[[Research/2026-06-11 — Budget Tech Picks]] — 2 refs
+  05 - MAPS\AI & Technology MOC.md:46
+  05 - MAPS\Health & Fitness MOC.md:83
+[[obsidian-nightly.ps1]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:54
+[[log.md]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:55
+[[graphify-out/]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:58
+[[interlink_system.py]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:59
+[[topic_organizer.py]] — 1 refs
+  05 - MAPS\AI & Technology MOC.md:60
+[[...]] — 1 refs
+  05 - MAPS\Digital Garden MOC.md:61
+[[Research/2026-06-21 — Supplement Evidence Audit & Master List]] — 2 refs
+  05 - MAPS\Health & Fitness MOC.md:20
+  05 - MAPS\Health & Fitness MOC.md:43
+[[Research/2026-06-21-2 — Dumbbell Program Analysis & PPL Restructure]] — 1 refs
+  05 - MAPS\Health & Fitness MOC.md:21
+[[Research/2026-06-21-3 — Integrated Health Protocol — Training + Supplement Synthesis]] — 1 refs
+  05 - MAPS\Health & Fitness MOC.md:22
+[[Research/2026-06-21-4 — NotebookLM Export — Integrated Health Protocol]] — 1 refs
+  05 - MAPS\Health & Fitness MOC.md:23
+[[04 - DAILY/Weekly-Review-YYYY-MM-DD.md]] — 1 refs
+  05 - MAPS\Health & Fitness MOC.md:27
+[[06 - OUTPUTS/Health-Protocol-Week4-Checkpoint-2026-07-13.md]] — 1 refs
+  05 - MAPS\Health & Fitness MOC.md:28
+[[04 - DAILY/Weekly-Review-*.md]] — 1 refs
+  05 - MAPS\Health & Fitness MOC.md:70
+[[04 - DAILY/2026-06-21]] — 1 refs
+  05 - MAPS\Health & Fitness MOC.md:82
+[[06 - OUTPUTS/Dravidian-Lineage-Graph.html]] — 1 refs
+  05 - MAPS\Indian Political History MOC.md:25
+[[02 - PERMANENT/concepts/Justice Party]] — 2 refs
+  05 - MAPS\Indian Political History MOC.md:29
+  05 - MAPS\Philosophy & Religion MOC.md:53
+[[Research/2026-06-02 — BJP Political Geography & South India Analysis]] — 3 refs
+  05 - MAPS\Indian Political History MOC.md:32
+  05 - MAPS\Indian Political History MOC.md:52
+  05 - MAPS\Philosophy & Religion MOC.md:72
+[[Research/Articles/2026-06-09 — RSS Funding Mechanisms Analysis]] — 2 refs
+  05 - MAPS\Indian Political History MOC.md:47
+  05 - MAPS\Philosophy & Religion MOC.md:69
+[[Research/Articles/Entities/Bhutada Family Foundation]] — 2 refs
+  05 - MAPS\Indian Political History MOC.md:48
+  05 - MAPS\Philosophy & Religion MOC.md:70
+[[Research/Articles/Entities/Sewa International]] — 2 refs
+  05 - MAPS\Indian Political History MOC.md:49
+  05 - MAPS\Philosophy & Religion MOC.md:71
+[[02 - PERMANENT/concepts/Ethno-Religious-Nationalism-Synthesis]] — 3 refs
+  05 - MAPS\Indian Political History MOC.md:53
+  05 - MAPS\Indian Political History MOC.md:62
+  05 - MAPS\Philosophy & Religion MOC.md:54
+[[wiki/entities/T. M. Nair]] — 1 refs
+  05 - MAPS\Indian Political History MOC.md:77
+[[wiki/entities/P. Theagaraya Chetty]] — 1 refs
+  05 - MAPS\Indian Political History MOC.md:78
+[[wiki/entities/C. Natesa Mudaliar]] — 1 refs
+  05 - MAPS\Indian Political History MOC.md:79
+[[wiki/entities/C. N. Annadurai]] — 1 refs
+  05 - MAPS\Indian Political History MOC.md:81
+[[wiki/concepts/Justice Party]] — 1 refs
+  05 - MAPS\Indian Political History MOC.md:84
+[[wiki/concepts/Dravidar Kazhagam]] — 1 refs
+  05 - MAPS\Indian Political History MOC.md:85
+[[wiki/concepts/Dravidian Movement]] — 1 refs
+  05 - MAPS\Indian Political History MOC.md:86
+[[wiki/analyses/Religious Founders Intentions and Routinization of Charisma]] — 1 refs
+  05 - MAPS\Philosophy & Religion MOC.md:50
+[[Research/Deep/2026-06-22 — Aryan Migration Debate Evidence and Pre-Aryan India]] — 2 refs
+  05 - MAPS\Philosophy & Religion MOC.md:61
+  05 - MAPS\Philosophy & Religion MOC.md:85
+[[Research/Deep/2026-06-13 — Aryan vs Dravidian Religious Cultural Synthesis]] — 1 refs
+  05 - MAPS\Philosophy & Religion MOC.md:62
+[[Research/Articles/2026-06-09 — Vedic Evidence Chain Proven vs Inferred]] — 1 refs
+  05 - MAPS\Philosophy & Religion MOC.md:63
+[[Research/Articles/2026-06-09 — Mittani Treaty Religious Evidence]] — 1 refs
+  05 - MAPS\Philosophy & Religion MOC.md:64
+[[Research/Articles/2026-06-09 — Ancient Religions Comparative Analysis]] — 1 refs
+  05 - MAPS\Philosophy & Religion MOC.md:65
+[[Research/Articles/2026-06-09 — Ancient Religions Physical Artifact Archive]] — 1 refs
+  05 - MAPS\Philosophy & Religion MOC.md:66

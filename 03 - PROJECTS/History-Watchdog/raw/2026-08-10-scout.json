@@ -1,0 +1,605 @@
+{
+  "run_date": "2026-08-10",
+  "queries_run": 26,
+  "papers_found": 92,
+  "by_category": {
+    "aryan_migration": {
+      "queries": 8,
+      "papers": 34,
+      "total_matched_openalex": 7349,
+      "top_papers": [
+        {
+          "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+          "year": 2024,
+          "venue": "Scientific Data",
+          "cited_by": 372,
+          "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+          "authors": [
+            "Swapan Mallick",
+            "Adam Micco",
+            "Matthew Mah"
+          ],
+          "abstract": "More than two hundred papers have reported genome-wide data from ancient humans. While the raw data for the vast majority are fully publicly available testifying to the commitment of the paleogenomics community to open data, formats for both raw data",
+          "tier": "tier1"
+        },
+        {
+          "title": "The selection landscape and genetic legacy of ancient Eurasians",
+          "year": 2024,
+          "venue": "Nature",
+          "cited_by": 145,
+          "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+          "authors": [
+            "Evan K. Irving-Pease",
+            "Alba Refoyo-Martínez",
+            "William Barrie"
+          ],
+          "abstract": "Abstract The Holocene (beginning around 12,000 years ago) encompassed some of the most significant changes in human evolution, with far-reaching consequences for the dietary, physical and mental health of present-day populations. Using a dataset of m",
+          "tier": "tier1"
+        },
+        {
+          "title": "100 ancient genomes show repeated population turnovers in Neolithic Denmark",
+          "year": 2024,
+          "venue": "Nature",
+          "cited_by": 117,
+          "doi": "https://doi.org/10.1038/s41586-023-06862-3",
+          "authors": [
+            "Morten E. Allentoft",
+            "Martin Sikora",
+            "Anders Fischer"
+          ],
+          "abstract": "Abstract Major migration events in Holocene Eurasia have been characterized genetically at broad regional scales 1–4 . However, insights into the population dynamics in the contact zones are hampered by a lack of ancient genomic data sampled at high ",
+          "tier": "tier1"
+        },
+        {
+          "title": "The genetic origin of the Indo-Europeans",
+          "year": 2025,
+          "venue": "Nature",
+          "cited_by": 92,
+          "doi": "https://doi.org/10.1038/s41586-024-08531-5",
+          "authors": [
+            "Iosif Lazaridis",
+            "Nick Patterson",
+            "David W. Anthony"
+          ],
+          "abstract": "The Yamnaya archaeological complex appeared around 3300 bc across the steppes north of the Black and Caspian Seas, and by 3000 bc it reached its maximal extent, ranging from Hungary in the west to Kazakhstan in the east. To localize Yamnaya origins a",
+          "tier": "tier1"
+        },
+        {
+          "title": "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans",
+          "year": 2024,
+          "venue": "Science",
+          "cited_by": 44,
+          "doi": "https://doi.org/10.1126/science.adq3010",
+          "authors": [
+            "Leonardo Nicola Martin Iasi",
+            "Manjusha Chintalapati",
+            "Laurits Skov"
+          ],
+          "abstract": "Gene flow from Neanderthals has shaped genetic and phenotypic variation in modern humans. We generated a catalog of Neanderthal ancestry segments in more than 300 genomes spanning the past 50,000 years. We examined how Neanderthal ancestry is shared ",
+          "tier": "tier1"
+        }
+      ]
+    },
+    "dravidian_politics": {
+      "queries": 8,
+      "papers": 26,
+      "total_matched_openalex": 1556,
+      "top_papers": [
+        {
+          "title": "“Nation at Repair, Women at Work”: Kinship, Dissent, and Citizenship in South India",
+          "year": 2024,
+          "venue": "South Asia Multidisciplinary Academic Journal",
+          "cited_by": 11,
+          "doi": "https://doi.org/10.4000/136ki",
+          "authors": [
+            "Harini Kumar"
+          ],
+          "abstract": "From December 2019 to March 2020, India was engulfed in protests against the new Citizenship Amendment Act (CAA). The Act provides a path to citizenship for persecuted minorities from neighboring countries but excludes Muslims. Amid countrywide prote",
+          "tier": "tier2"
+        },
+        {
+          "title": "An Integrative Review of Management Research on Caste: Broadening Our Horizons",
+          "year": 2024,
+          "venue": "Academy of Management Annals",
+          "cited_by": 33,
+          "doi": "https://doi.org/10.5465/annals.2022.0208",
+          "authors": [
+            "Hari Bapuji",
+            "Snehanjali Chrispal",
+            "Pardeep Singh Attri"
+          ],
+          "abstract": "Even though management research on caste is growing, it is not yet on a clear trajectory to realize its vast potential due to varying terminology and framing of caste, the limited incorporation of directly relevant work from proximate disciplines, an",
+          "tier": "tier3"
+        },
+        {
+          "title": "Militant Nationalism in The Punjab, 1919–1935",
+          "year": 2025,
+          "venue": "?",
+          "cited_by": 20,
+          "doi": "https://doi.org/10.4324/9781003566281",
+          "authors": [
+            "Kamlesh Mohan"
+          ],
+          "abstract": "This book presents a comprehensive account of the growth and development of militant nationalism in Punjab between two landmark events in the history of the Indian nationalist movement – the Jallianwala Bagh massacre and the martyrdom of Bhagat Singh",
+          "tier": null
+        },
+        {
+          "title": "Matching in the Civil Service: A Market Design Approach to Public Administration and Development",
+          "year": 2025,
+          "venue": "SSRN Electronic Journal",
+          "cited_by": 11,
+          "doi": "https://doi.org/10.2139/ssrn.5222034",
+          "authors": [
+            "Ashutosh Thakur"
+          ],
+          "abstract": "",
+          "tier": "tier3"
+        },
+        {
+          "title": "Creating Kaveri Delta beneath our feet: An experiment in grounding socio-hydrology in Tamil Nadu, India",
+          "year": 2024,
+          "venue": "Journal of Hydrology",
+          "cited_by": 9,
+          "doi": "https://doi.org/10.1016/j.jhydrol.2024.131896",
+          "authors": [
+            "Tanvi Agrawal",
+            "Richard Pompoes",
+            "Andres Verzijl"
+          ],
+          "abstract": "This paper presents an experiment in grounding socio-hydrology in the Kaveri Delta, Tamil Nadu. It follows a care-ful research attitude that shows a willingness to be blindsided and confronted with surprises, cultivates concerns by immersion in the c",
+          "tier": "tier3"
+        }
+      ]
+    },
+    "rss_hindutva": {
+      "queries": 6,
+      "papers": 19,
+      "total_matched_openalex": 567,
+      "top_papers": [
+        {
+          "title": "Hindutva in the shadow of the Mahatma: M. S. Golwalkar, M. K. Gandhi, and the RSS in post-colonial India",
+          "year": 2024,
+          "venue": "Modern Asian Studies",
+          "cited_by": 3,
+          "doi": "https://doi.org/10.1017/s0026749x24000040",
+          "authors": [
+            "Neha Chaudhary",
+            "Saarang Narayan"
+          ],
+          "abstract": "Abstract While many commentators have noted the Bharatiya Janata Party’s more recent attempts at appropriating Gandhian imagery and symbolism, few have diverted their attention towards earlier attempts by Hindu Nationalists to do so. M. S. Golwalkar ",
+          "tier": "tier2"
+        },
+        {
+          "title": "Understanding intergenerational dynamics and social support’s impact on health and well-being of older adults in South Asia: a scoping review",
+          "year": 2025,
+          "venue": "Systematic Reviews",
+          "cited_by": 32,
+          "doi": "https://doi.org/10.1186/s13643-025-02833-z",
+          "authors": [
+            "Selim Jahangir",
+            "Divya Sussana Patil",
+            "Jagriti Gangopadhyay"
+          ],
+          "abstract": "BACKGROUND: Traditionally, family members take care of older relatives in South Asian societies, and there is a strong reciprocal filial obligation through intergenerational family relations. The changing family structure, living arrangements, and ou",
+          "tier": "tier3"
+        },
+        {
+          "title": "Diasporic geopolitics, rising powers, and the future of international order",
+          "year": 2024,
+          "venue": "Review of International Studies",
+          "cited_by": 22,
+          "doi": "https://doi.org/10.1017/s0260210524000123",
+          "authors": [
+            "Fiona B. Adamson",
+            "Enze Han"
+          ],
+          "abstract": "Abstract This article examines ‘diasporic geopolitics’ as a significant factor in the future of global politics. Whereas discussions of global order in IR have been highly spatialised, we instead highlight the extent to which different regions of the",
+          "tier": "tier3"
+        },
+        {
+          "title": "Digital platforms, Hindutva, and disinformation: Communicative strategies and the Leicester violence",
+          "year": 2024,
+          "venue": "Communication Monographs",
+          "cited_by": 13,
+          "doi": "https://doi.org/10.1080/03637751.2024.2339799",
+          "authors": [
+            "Mohan J. Dutta"
+          ],
+          "abstract": "The digital infrastructure of Hindutva seeds, circulates and amplifies Islamophobic hate, interacting bidirectionally with brick-andmortar violence.This paper examines the circulation of Hindutva on digital platforms (Twitter, Instagram, YouTube, and",
+          "tier": "tier3"
+        },
+        {
+          "title": "The Specter of Potential Foreigners: Revisiting the Postcolonial Citizenship Regimes of Myanmar and India",
+          "year": 2024,
+          "venue": "Critical Asian Studies",
+          "cited_by": 8,
+          "doi": "https://doi.org/10.1080/14672715.2024.2340996",
+          "authors": [
+            "Elizabeth Rhoads",
+            "Ritanjan Das"
+          ],
+          "abstract": "Revisiting the citizenship regimes of Myanmar and India through a comparative lens, this article argues that a specter of the \"potential foreigner\" is decisive in the adjudication of citizenship in both countries. Citizenship is conceptualized not on",
+          "tier": "tier3"
+        }
+      ]
+    },
+    "anti_caste": {
+      "queries": 4,
+      "papers": 13,
+      "total_matched_openalex": 2046,
+      "top_papers": [
+        {
+          "title": "Truth clashes: caste atrocities, false cases, and the limits of hate crime law in North India",
+          "year": 2024,
+          "venue": "Journal of the Royal Anthropological Institute",
+          "cited_by": 8,
+          "doi": "https://doi.org/10.1111/1467-9655.14094",
+          "authors": [
+            "Sandhya Fuchs"
+          ],
+          "abstract": "Abstract This article brings together theories of truth in legal anthropology and the anthropology of religion to highlight how legal institutions can co‐opt hate crime laws and reproduce patterns of sociopolitical oppression. Drawing on extensive et",
+          "tier": "tier3"
+        },
+        {
+          "title": "Caste Concerns in Transgender Communities in India: Contesting Cohesiveness, Broadening Horizon(s)",
+          "year": 2024,
+          "venue": "Social Change",
+          "cited_by": 7,
+          "doi": "https://doi.org/10.1177/00490857241248989",
+          "authors": [
+            "Pushpesh Kumar",
+            "Sayantan Datta"
+          ],
+          "abstract": "In this article, we recount the development of an anti-caste consciousness in queer and transgender rights movements in India. We begin by tracing the history of queer mobilisation in India, especially the political participation of Hijras and the mo",
+          "tier": "tier3"
+        },
+        {
+          "title": "The Rule of Law in an Ethnocracy: India's Citizenship Amendment Act and the Will of the Hindu Ethnos",
+          "year": 2024,
+          "venue": "Social & Legal Studies",
+          "cited_by": 7,
+          "doi": "https://doi.org/10.1177/09646639231225436",
+          "authors": [
+            "Indrajit Roy"
+          ],
+          "abstract": "What is the fate of the rule of law in India that is transitioning to an ethnocracy? Drawing on a ‘thin’ conception of the rule of law, this article argues that the controversial Citizenship Amendment Act responds to the emergence of a political idea",
+          "tier": "tier3"
+        },
+        {
+          "title": "Anti-Sexual Harassment Laws in India",
+          "year": 2024,
+          "venue": "?",
+          "cited_by": 6,
+          "doi": "https://doi.org/10.1007/978-3-031-73653-7",
+          "authors": [
+            "Anukriti Dixit"
+          ],
+          "abstract": "This book takes a uniquely poststructuralist and postcolonial feminist approach to analyze policies addressing sexual harassment at workplaces.",
+          "tier": null
+        },
+        {
+          "title": "Assembling Multi-Temporal Resilience on the Eastern Coast of India",
+          "year": 2024,
+          "venue": "Ethnos",
+          "cited_by": 6,
+          "doi": "https://doi.org/10.1080/00141844.2024.2393574",
+          "authors": [
+            "Sirpa Tenhunen",
+            "Dayabati Roy"
+          ],
+          "abstract": "This article explores how the Sundarbans residents and migrants on the eastern coast of India build multitemporal resilience. While extreme weather events have different rhythms, local governance, including climate change mitigation policies and stat",
+          "tier": "tier3"
+        }
+      ]
+    }
+  },
+  "tier1_papers": [
+    {
+      "title": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+      "year": 2024,
+      "venue": "Scientific Data",
+      "cited_by": 372,
+      "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+      "authors": [
+        "Swapan Mallick",
+        "Adam Micco",
+        "Matthew Mah"
+      ],
+      "abstract": "More than two hundred papers have reported genome-wide data from ancient humans. While the raw data for the vast majority are fully publicly available testifying to the commitment of the paleogenomics community to open data, formats for both raw data",
+      "tier": "tier1"
+    },
+    {
+      "title": "The selection landscape and genetic legacy of ancient Eurasians",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 145,
+      "doi": "https://doi.org/10.1038/s41586-023-06705-1",
+      "authors": [
+        "Evan K. Irving-Pease",
+        "Alba Refoyo-Martínez",
+        "William Barrie"
+      ],
+      "abstract": "Abstract The Holocene (beginning around 12,000 years ago) encompassed some of the most significant changes in human evolution, with far-reaching consequences for the dietary, physical and mental health of present-day populations. Using a dataset of m",
+      "tier": "tier1"
+    },
+    {
+      "title": "100 ancient genomes show repeated population turnovers in Neolithic Denmark",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 117,
+      "doi": "https://doi.org/10.1038/s41586-023-06862-3",
+      "authors": [
+        "Morten E. Allentoft",
+        "Martin Sikora",
+        "Anders Fischer"
+      ],
+      "abstract": "Abstract Major migration events in Holocene Eurasia have been characterized genetically at broad regional scales 1–4 . However, insights into the population dynamics in the contact zones are hampered by a lack of ancient genomic data sampled at high ",
+      "tier": "tier1"
+    },
+    {
+      "title": "The genetic origin of the Indo-Europeans",
+      "year": 2025,
+      "venue": "Nature",
+      "cited_by": 92,
+      "doi": "https://doi.org/10.1038/s41586-024-08531-5",
+      "authors": [
+        "Iosif Lazaridis",
+        "Nick Patterson",
+        "David W. Anthony"
+      ],
+      "abstract": "The Yamnaya archaeological complex appeared around 3300 bc across the steppes north of the Black and Caspian Seas, and by 3000 bc it reached its maximal extent, ranging from Hungary in the west to Kazakhstan in the east. To localize Yamnaya origins a",
+      "tier": "tier1"
+    },
+    {
+      "title": "Neanderthal ancestry through time: Insights from genomes of ancient and present-day humans",
+      "year": 2024,
+      "venue": "Science",
+      "cited_by": 44,
+      "doi": "https://doi.org/10.1126/science.adq3010",
+      "authors": [
+        "Leonardo Nicola Martin Iasi",
+        "Manjusha Chintalapati",
+        "Laurits Skov"
+      ],
+      "abstract": "Gene flow from Neanderthals has shaped genetic and phenotypic variation in modern humans. We generated a catalog of Neanderthal ancestry segments in more than 300 genomes spanning the past 50,000 years. We examined how Neanderthal ancestry is shared ",
+      "tier": "tier1"
+    },
+    {
+      "title": "Ancient Plasmodium genomes shed light on the history of human malaria",
+      "year": 2024,
+      "venue": "Nature",
+      "cited_by": 40,
+      "doi": "https://doi.org/10.1038/s41586-024-07546-2",
+      "authors": [
+        "Megan Michel",
+        "Eirini Skourtanioti",
+        "Federica Pierini"
+      ],
+      "abstract": "Abstract Malaria-causing protozoa of the genus Plasmodium have exerted one of the strongest selective pressures on the human genome, and resistance alleles provide biomolecular footprints that outline the historical reach of these species 1 . Neverth",
+      "tier": "tier1"
+    },
+    {
+      "title": "50,000 years of evolutionary history of India: Impact on health and disease variation",
+      "year": 2025,
+      "venue": "Cell",
+      "cited_by": 33,
+      "doi": "https://doi.org/10.1016/j.cell.2025.04.027",
+      "authors": [
+        "Élise Kerdoncuff",
+        "Laurits Rohden Skov",
+        "Nick Patterson"
+      ],
+      "abstract": "India has been underrepresented in genomic surveys. We generated whole-genome sequences from 2,762 individuals in India, capturing the genetic diversity across most geographic regions, linguistic groups, and historically underrepresented communities.",
+      "tier": "tier1"
+    },
+    {
+      "title": "Ancient Mycobacterium leprae genome reveals medieval English red squirrels as animal leprosy host",
+      "year": 2024,
+      "venue": "Current Biology",
+      "cited_by": 28,
+      "doi": "https://doi.org/10.1016/j.cub.2024.04.006",
+      "authors": [
+        "Christian Urban",
+        "Alette A. Blom",
+        "Charlotte Avanzi"
+      ],
+      "abstract": "Leprosy, one of the oldest recorded diseases in human history, remains prevalent in Asia, Africa, and South America, with over 200,000 cases every year. 1 , 2 Although ancient DNA (aDNA) approaches on the major causative agent, Mycobacterium leprae, ",
+      "tier": "tier1"
+    },
+    {
+      "title": "Ancient DNA reveals reproductive barrier despite shared Avar-period culture",
+      "year": 2025,
+      "venue": "Nature",
+      "cited_by": 27,
+      "doi": "https://doi.org/10.1038/s41586-024-08418-5",
+      "authors": [
+        "Ke Wang",
+        "Bendegúz Tóbiás",
+        "Doris Pany‐Kucera"
+      ],
+      "abstract": "Abstract After a long-distance migration, Avars with Eastern Asian ancestry arrived in Eastern Central Europe in 567 to 568 ce and encountered groups with very different European ancestry 1,2 . We used ancient genome-wide data of 722 individuals and ",
+      "tier": "tier1"
+    },
+    {
+      "title": "A genomic history of the North Pontic Region from the Neolithic to the Bronze Age",
+      "year": 2025,
+      "venue": "Nature",
+      "cited_by": 16,
+      "doi": "https://doi.org/10.1038/s41586-024-08372-2",
+      "authors": [
+        "Alexey G. Nikitin",
+        "Iosif Lazaridis",
+        "Nick Patterson"
+      ],
+      "abstract": "The North Pontic Region was the meeting point of the farmers of Old Europe and the foragers and pastoralists of the Eurasian steppe1,2, and the source of migrations deep into Europe3–5. Here we report genome-wide data from 81 prehistoric North Pontic",
+      "tier": "tier1"
+    },
+    {
+      "title": "Ancient genomes illuminate Eastern Arabian population history and adaptation against malaria",
+      "year": 2024,
+      "venue": "Cell Genomics",
+      "cited_by": 8,
+      "doi": "https://doi.org/10.1016/j.xgen.2024.100507",
+      "authors": [
+        "Rui Martiniano",
+        "Marc Haber",
+        "Mohamed A. Almarri"
+      ],
+      "abstract": "The harsh climate of Arabia has posed challenges in generating ancient DNA from the region, hindering the direct examination of ancient genomes for understanding the demographic processes that shaped Arabian populations. In this study, we report whol",
+      "tier": "tier1"
+    }
+  ],
+  "notes": "OpenAlex API used as primary source (free, no auth). Browser-based tools (Elicit.com, Undermind.ai, chat.deepseek.com, kimi.com) attempted but require login or hit Cloudflare bot-block; not viable for headless/cron execution. All 26 queries from queries.yaml were attempted (vs. 16 in prior run). Mitanni query (try-fix) still returned no relevant IVC papers but did surface Bronze-Age/Mesopotamia items so retained. Tier1 papers filtered by venue (Nature/Cell/Science/etc.). Anti-caste now returns 4-5 relevant items vs. 0 prior run.",
+  "priority_research_hits": {
+    "IVC/Rakhigarhi": [
+      {
+        "title": "River drought forcing of the Harappan metamorphosis",
+        "year": 2025,
+        "venue": "Communications Earth & Environment",
+        "cited_by": 6,
+        "doi": "https://doi.org/10.1038/s43247-025-02901-1",
+        "authors": [
+          "Hiren Solanki",
+          "Vikrant Jain",
+          "Kaustubh Thirumalai"
+        ],
+        "abstract": "Hydroclimatic variations are among the factors shaping the rise and fall of the Indus Valley Civilization. Yet, constraining the role of water availability across this vast region has remained challenging owing to the scarcity of site-specific paleoc",
+        "tier": "tier3"
+      },
+      {
+        "title": "Genomic, Hydrogeomorphic, and Linguistic Syntaxis in the Indus Valley Civilization: Insights from Rakhigarhi DNA to Keezhadi and Quaternary Proxies",
+        "year": 2025,
+        "venue": "INTERNATIONAL JOURNAL OF CREATIVE RESEARCH THOUGHTS",
+        "cited_by": 0,
+        "doi": "https://doi.org/10.56975/ijcrt.v13i11.296742",
+        "authors": [
+          "Ashokaditya P. Dhurandhar"
+        ],
+        "abstract": "UGC-CARE, UGC CARE, UGC CARE list, ugc approved journal, UGC CARE, UGC CARE list, UGC CARE list of Journal, UGCCARE, care journal list, UGC-CARE list, New UGC-CARE Reference List, New ugc care journal list, Research Journal, Research Journal Publicat",
+        "tier": "tier3"
+      },
+      {
+        "title": "Ancient cattle DNA from Bhirrana: A Hakra culture/preharappan settlement of the Indus valley civilization, India",
+        "year": 2024,
+        "venue": "Journal of Archaeological Science Reports",
+        "cited_by": 0,
+        "doi": "https://doi.org/10.1016/j.jasrep.2024.104383",
+        "authors": [
+          "Ashwin Atkulwar",
+          "Arati Deshpande-Mukherjee",
+          "Mumtaz Baig"
+        ],
+        "abstract": "",
+        "tier": "tier3"
+      }
+    ],
+    "Periyar/Justice Party": [
+      {
+        "title": "Inclusion through modernity: Dravidian urbanisation in Tamil Nadu state, India",
+        "year": 2025,
+        "venue": "Urban Studies",
+        "cited_by": 2,
+        "doi": "https://doi.org/10.1177/00420980251317917",
+        "authors": [
+          "A. Kalaiyarasan",
+          "Priti Narayan"
+        ],
+        "abstract": "Tamil Nadu state in India boasts high levels of economic growth, human development outcomes and urbanisation. How might we understand these concurring outcomes in this particular region? We propose that the Dravidian Movement’s vision for social and ",
+        "tier": "tier3"
+      },
+      {
+        "title": "The Emergence of Dravidian Politics: A Historical Analysis of Social Justice Movements",
+        "year": 2025,
+        "venue": "Journal of Advances in Developmental Research",
+        "cited_by": 0,
+        "doi": "https://doi.org/10.71097/ijaidr.v16.i2.1988",
+        "authors": [
+          "P. Jayapal Reddy"
+        ],
+        "abstract": "The Dravidian movement is one of the most remarkable socio-political changes that took place in modern Indian history. The movement began in the early twentieth century in the Madras Presidency and opposed Brahminical dominance and demanded social ju",
+        "tier": "tier3"
+      }
+    ],
+    "RSS/Hindutva": [
+      {
+        "title": "Digital platforms, Hindutva, and disinformation: Communicative strategies and the Leicester violence",
+        "year": 2024,
+        "venue": "Communication Monographs",
+        "cited_by": 13,
+        "doi": "https://doi.org/10.1080/03637751.2024.2339799",
+        "authors": [
+          "Mohan J. Dutta"
+        ],
+        "abstract": "The digital infrastructure of Hindutva seeds, circulates and amplifies Islamophobic hate, interacting bidirectionally with brick-andmortar violence.This paper examines the circulation of Hindutva on digital platforms (Twitter, Instagram, YouTube, and",
+        "tier": "tier3"
+      },
+      {
+        "title": "Hindutva in the shadow of the Mahatma: M. S. Golwalkar, M. K. Gandhi, and the RSS in post-colonial India",
+        "year": 2024,
+        "venue": "Modern Asian Studies",
+        "cited_by": 3,
+        "doi": "https://doi.org/10.1017/s0026749x24000040",
+        "authors": [
+          "Neha Chaudhary",
+          "Saarang Narayan"
+        ],
+        "abstract": "Abstract While many commentators have noted the Bharatiya Janata Party’s more recent attempts at appropriating Gandhian imagery and symbolism, few have diverted their attention towards earlier attempts by Hindu Nationalists to do so. M. S. Golwalkar ",
+        "tier": "tier2"
+      },
+      {
+        "title": "Online misogyny and pedagogies of <i>Hindutva</i> digital subjectivation: reflections from the Indian manosphere",
+        "year": 2025,
+        "venue": "Gender and Education",
+        "cited_by": 3,
+        "doi": "https://doi.org/10.1080/09540253.2025.2568399",
+        "authors": [
+          "Saba Hussain",
+          "Marcus Maloney"
+        ],
+        "abstract": "Positioned within the wider political, socioeconomic and cultural context of contemporary India's regressive and anti-feminist trajectory, this article examines the ‘Indian manosphere' and how it contributes towards the Hindutva digital subjectivatio",
+        "tier": "tier3"
+      }
+    ],
+    "Shramana/Buddhist/Dalit": [
+      {
+        "title": "Caste Concerns in Transgender Communities in India: Contesting Cohesiveness, Broadening Horizon(s)",
+        "year": 2024,
+        "venue": "Social Change",
+        "cited_by": 7,
+        "doi": "https://doi.org/10.1177/00490857241248989",
+        "authors": [
+          "Pushpesh Kumar",
+          "Sayantan Datta"
+        ],
+        "abstract": "In this article, we recount the development of an anti-caste consciousness in queer and transgender rights movements in India. We begin by tracing the history of queer mobilisation in India, especially the political participation of Hijras and the mo",
+        "tier": "tier3"
+      },
+      {
+        "title": "Antifeminism as moral governance in India: caste, religion, and the political erasure of queer and Dalit lifeworlds",
+        "year": 2025,
+        "venue": "Frontiers in Political Science",
+        "cited_by": 3,
+        "doi": "https://doi.org/10.3389/fpos.2025.1611435",
+        "authors": [
+          "Anithamol Babu",
+          "Akhil P. Joseph"
+        ],
+        "abstract": "scaffolding of this order functions through a diffuse yet coordinated network spanning law, religion, education, and media, where it gains authority through repetition, ritualization, and erasure. This ideological apparatus operates by naturalizing h",
+        "tier": "tier3"
+      },
+      {
+        "title": "Feminist and Anticaste Pedagogies",
+        "year": 2024,
+        "venue": "?",
+        "cited_by": 2,
+        "doi": "https://doi.org/10.4324/9781003482383",
+        "authors": [
+          "V. Geetha",
+          "Uma Chakravarti"
+        ],
+        "abstract": "This book comprises the collected essays of Sharmila Rege (1964 – 2013), which span a range of themes,&nbsp;including critical perspectives on women’s movements, Dalit standpoint feminism, and the relationship between Women’s Studies and other discip",
+        "tier": null
+      }
+    ]
+  }
+}

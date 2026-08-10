@@ -7373,3 +7373,334 @@
 ## 2026-08-09 21:45
 
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-09 22:00
+
+[22:00] **Hindustan Times**: Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-09 22:15
+
+[22:15] **Hindustan Times**: Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-09 22:30
+
+[22:30] **Hindustan Times**: Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-09 22:45
+
+[22:45] **Hindustan Times**: Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-09 23:00
+
+[23:00] **Hindustan Times**: Four detained in UP's Bareilly for selling non-veg food on Kanwar Yatra route
+[23:00] **Hindustan Times**: Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-09 23:15
+
+[23:15] **Hindustan Times**: Four detained in UP's Bareilly for selling non-veg food on Kanwar Yatra route
+[23:15] **Hindustan Times**: Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+[23:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-09 23:30
+
+[23:30] **Hindustan Times**: Four detained in UP's Bareilly for selling non-veg food on Kanwar Yatra route
+[23:30] **Hindustan Times**: Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-09 23:45
+
+[23:45] **Hindustan Times**: Four detained in UP's Bareilly for selling non-veg food on Kanwar Yatra route
+[23:45] **Hindustan Times**: Right-wing commentator Mohandas taken into custody over remarks on NEET protest
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 10:56
+
+[10:56] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[10:56] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[10:56] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[10:56] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 11:00
+
+[11:00] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[11:00] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[11:00] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[11:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 11:15
+
+[11:15] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[11:15] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[11:15] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[11:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 11:30
+
+[11:30] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[11:30] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[11:30] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[11:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 11:45
+
+[11:45] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[11:45] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[11:45] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 12:00
+
+[12:00] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[12:00] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[12:00] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[12:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 12:15
+
+[12:15] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[12:15] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[12:15] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[12:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 12:30
+
+[12:30] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[12:30] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[12:30] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 12:45
+
+[12:45] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[12:45] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[12:45] **Hindustan Times**: TG Mohandas detained over remarks on Delhi protestors
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 13:00
+
+[13:00] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[13:00] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 13:15
+
+[13:15] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[13:15] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[13:15] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 13:30
+
+[13:30] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[13:30] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[13:30] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 13:45
+
+[13:45] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[13:45] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[13:45] **Hindustan Times**: Education minister Pralhad Joshi chairs first meeting over NTA-related concerns
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 14:00
+
+[14:00] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[14:00] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 14:15
+
+[14:15] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[14:15] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[14:15] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 14:30
+
+[14:30] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[14:30] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[14:30] **Hindustan Times**: CJP ‘pet project’ of AAP, NEET protest agenda was to ‘target' PM, claims BJP
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 14:45
+
+[14:45] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[14:45] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 15:00
+
+[15:00] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[15:00] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 15:15
+
+[15:15] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[15:15] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 15:30
+
+[15:30] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[15:30] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 15:45
+
+[15:45] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[15:45] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 16:00
+
+[16:00] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[16:00] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[16:00] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 16:15
+
+[16:15] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[16:15] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[16:15] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 16:30
+
+[16:30] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[16:30] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[16:30] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 16:45
+
+[16:45] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[16:45] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[16:45] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 17:00
+
+[17:00] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[17:00] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[17:00] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 17:15
+
+[17:15] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[17:15] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[17:15] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 17:30
+
+[17:30] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[17:30] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[17:30] **Hindustan Times**: NEET paper leak: Delhi court dismisses plea by accused to undergo lie detector test
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 17:45
+
+[17:45] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[17:45] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 18:00
+
+[18:00] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[18:00] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 18:15
+
+[18:15] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[18:15] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 18:30
+
+[18:30] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[18:30] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 18:45
+
+[18:45] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[18:45] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 19:00
+
+[19:00] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[19:00] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 19:15
+
+[19:15] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[19:15] **Hindustan Times**: Right-wing activist held over ‘girls enjoy rape’ remark on NEET protests
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 19:30
+
+[19:30] **Hindustan Times**: 'Not interested in Amit Shah's…': Rahul Gandhi on pellet gun use in CJP stir
+[19:30] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 19:45
+
+[19:45] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[19:45] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 20:00
+
+[20:00] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[20:00] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 20:15
+
+[20:15] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[20:15] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 20:30
+
+[20:30] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[20:30] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 20:45
+
+[20:45] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[20:45] **Hindustan Times**: Protesting J'khand students face tear gas, water cannon during march to Assembly
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 21:00
+
+[21:00] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 21:15
+
+[21:15] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 21:30
+
+[21:30] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 21:45
+
+[21:45] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
