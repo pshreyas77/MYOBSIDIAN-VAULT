@@ -3,7 +3,7 @@
 ## Core
 - Age: 22, Hyderabad, Telangana
 - B.Tech CSE grad, MLR Institute of Tech, Hyderabad
-- Status: job-search, fresher Data Analyst / AI-ML roles
+- Status: graduated Aug 2026, fresher Data Analyst / AI-ML roles
 - Langs: Telugu, Hindi, Eng (fluent). Learning: Kannada, Tamil, Malayalam, Tulu (listen only)
 - Allergy: curd (dairy). Coffee: black, no sugar no milk
 
@@ -27,9 +27,9 @@ HP ProBook 640 G4 — i5-8350U, 8GB RAM, Intel iGPU. Dual-boot Win/Feren OS KDE.
 - Obsidian AI second brain w/ Claude Code, GitHub auto-contrib scripts
 - OSINT toolkit (theHarvester, Sherlock, Maigret, Holehe) — venv at `~/osint/tools/osint_venv/`
 
-## Pending / Active (as of Jun 2026)
-- AutoCAD supplementary exam (Engineering Drawing)
-- JNTUH grace marks policy — 1 failed subject remaining
+## Pending / Active (as of Aug 2026)
+- ~~AutoCAD supplementary exam (Engineering Drawing)~~ ✅ passed Aug 2026 — graduated
+- JNTUH grace marks policy — resolved (graduated)
 - Job hunt ongoing, no offer yet
 - Outlier AI (Telugu Voice/Writer) — bridge income option
 - Helped family w/ Form 6 voter reg, Telangana SIR Phase 3

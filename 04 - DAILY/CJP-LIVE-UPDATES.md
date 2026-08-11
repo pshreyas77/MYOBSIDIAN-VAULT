@@ -7704,3 +7704,159 @@
 
 [21:45] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 22:00
+
+[22:00] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 22:15
+
+[22:15] **Hindustan Times**: ‘No firing at Jantar Mantar’: Nadda slams Rahul; claims he ‘changed goalpost’
+[22:15] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 22:30
+
+[22:30] **Hindustan Times**: ‘No firing at Jantar Mantar’: Nadda slams Rahul; claims he ‘changed goalpost’
+[22:30] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 22:45
+
+[22:45] **Hindustan Times**: ‘No firing at Jantar Mantar’: Nadda slams Rahul; claims he ‘changed goalpost’
+[22:45] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-10 23:00
+
+[23:00] **Hindustan Times**: ‘No firing at Jantar Mantar’: Nadda slams Rahul; claims he ‘changed goalpost’
+[23:00] **Hindustan Times**: ‘Want to know who ordered firing’: Rahul Gandhi on Jantar Mantar chaos
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 11:40
+
+[11:40] **Hindustan Times**: ‘New PM house, why not…': CJP launches campaign to improve govt schools
+[11:40] **Hindustan Times**: Dipke speaks to Devendra Mahto on video call: ‘He told me he was lathi-charged’
+[11:40] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 11:45
+
+[11:45] **Hindustan Times**: ‘New PM house, why not…': CJP launches campaign to improve govt schools
+[11:45] **Hindustan Times**: Dipke speaks to Devendra Mahto on video call: ‘He told me he was lathi-charged’
+[11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 12:04
+
+[12:04] **Hindustan Times**: ‘New PM house, why not…': CJP launches campaign to improve govt schools
+[12:04] **Hindustan Times**: Dipke speaks to Devendra Mahto on video call: ‘He told me he was lathi-charged’
+[12:04] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 12:15
+
+[12:15] **Hindustan Times**: ‘New PM house, why not…': CJP launches campaign to improve govt schools
+[12:15] **Hindustan Times**: Dipke speaks to Devendra Mahto on video call: ‘He told me he was lathi-charged’
+[12:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 12:30
+
+[12:30] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Vijay govt in Tamil Nadu
+[12:30] **Hindustan Times**: ‘New PM house, why not…': CJP launches campaign to improve govt schools
+[12:30] **Hindustan Times**: Dipke speaks to Devendra Mahto on video call: ‘He told me he was lathi-charged’
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 12:45
+
+[12:45] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[12:45] **Hindustan Times**: ‘New PM house, why not…': CJP launches campaign to improve govt schools
+[12:45] **Hindustan Times**: Dipke speaks to Devendra Mahto on video call: ‘He told me he was lathi-charged’
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 13:00
+
+[13:00] **Hindustan Times**: After CJP &amp; Oppn protests, NDA counters with ‘Rahul, bhaago mat' in Parliament
+[13:00] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[13:00] **Hindustan Times**: ‘New PM house, why not…': CJP launches campaign to improve govt schools
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 13:15
+
+[13:15] **Hindustan Times**: After CJP &amp; Oppn protests, NDA counters with ‘Rahul, bhaago mat' in Parliament
+[13:15] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 13:30
+
+[13:30] **Hindustan Times**: After CJP &amp; Oppn protests, NDA counters with ‘Rahul, bhaago mat' in Parliament
+[13:30] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 13:45
+
+[13:45] **Hindustan Times**: After CJP &amp; Oppn protests, NDA counters with ‘Rahul, bhaago mat' in Parliament
+[13:45] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 14:00
+
+[14:00] **Hindustan Times**: Chaos erupts in Ranchi: ABVP workers climb on police bus, protesters detained
+[14:00] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[14:00] **Hindustan Times**: After CJP &amp; Oppn protests, NDA counters with ‘Rahul, bhaago mat' in Parliament
+[14:00] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 14:15
+
+[14:15] **Hindustan Times**: Chaos erupts in Ranchi: ABVP workers climb on police bus, protesters detained
+[14:15] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[14:15] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 14:30
+
+[14:30] **Hindustan Times**: Chaos in Ranchi: ABVP workers climb on police bus, protesters detained
+[14:30] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[14:30] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 14:45
+
+[14:45] **Hindustan Times**: Chaos in Ranchi: ABVP workers climb on police bus, protesters detained
+[14:45] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[14:45] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 15:00
+
+[15:00] **Hindustan Times**: Chaos in Ranchi: 110 ABVP workers detained, protesters climb on police bus
+[15:00] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[15:00] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 15:15
+
+[15:15] **Hindustan Times**: Chaos in Ranchi: 110 ABVP workers detained, protesters climb on police bus
+[15:15] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[15:15] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 15:30
+
+[15:30] **Hindustan Times**: Chaos in Ranchi: 110 ABVP workers detained, protesters climb on police bus
+[15:30] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[15:30] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 15:45
+
+[15:45] **Hindustan Times**: Chaos in Ranchi: 110 ABVP workers detained amid clash with polic
+[15:45] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[15:45] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 16:00
+
+[16:00] **Hindustan Times**: Chaos in Ranchi: 110 ABVP workers detained amid clash with polic
+[16:00] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
+[16:00] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
