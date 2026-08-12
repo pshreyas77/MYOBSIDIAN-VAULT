@@ -7860,3 +7860,182 @@
 [16:00] **Hindustan Times**: SC seeks Centre’s response on CBI probe into fake lawyers, CJP activities
 [16:00] **Hindustan Times**: ‘Abolish NEET; undermines the poor, rural, backward’: Tamil Nadu govt resolution
 [16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 22:22
+
+[22:22] **Hindustan Times**: After Gen Z, Alpha join protest wave; CJP's Dipke, Saurav Das give a shoutout
+[22:22] **Hindustan Times**: ‘Why lathis used only on protesting students, not political activists?’: Dipke
+[22:22] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 22:30
+
+[22:30] **Hindustan Times**: After Gen Z, Alpha join protest wave; CJP's Dipke, Saurav Das give a shoutout
+[22:30] **Hindustan Times**: ‘Why lathis used only on protesting students, not political activists?’: Dipke
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 22:45
+
+[22:45] **Hindustan Times**: After Gen Z, Alpha join protest wave; CJP's Dipke, Saurav Das give a shoutout
+[22:45] **Hindustan Times**: ‘Why lathis used only on protesting students, not political activists?’: Dipke
+[22:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-11 23:00
+
+[23:00] **Hindustan Times**: After Gen Z, Alpha join protest wave; CJP's Dipke, Saurav Das give a shoutout
+[23:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 08:52
+
+[08:52] **Hindustan Times**: After Gen Z, Alpha join protest wave; CJP's Dipke, Saurav Das give a shoutout
+[08:52] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 09:00
+
+[09:00] **Hindustan Times**: After Gen Z, Alpha join protest wave; CJP's Dipke, Saurav Das give a shoutout
+[09:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 09:15
+
+[09:15] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[09:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 09:30
+
+[09:30] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[09:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 09:45
+
+[09:45] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[09:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 10:00
+
+[10:00] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[10:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 10:15
+
+[10:15] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[10:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 10:30
+
+[10:30] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[10:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 10:45
+
+[10:45] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[10:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 11:00
+
+[11:00] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[11:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 11:15
+
+[11:15] **Hindustan Times**: Tamil Nadu adopts resolutions against NEET, FCRA
+[11:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 11:30
+
+[11:30] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[11:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 11:45
+
+[11:45] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 12:00
+
+[12:00] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[12:00] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[12:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 12:15
+
+[12:15] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[12:15] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[12:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 12:30
+
+[12:30] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[12:30] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[12:30] **Hindustan Times**: After anti-NEET bill, Tamil Nadu govt votes to freeze Lok Sabha strength at 543
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 12:45
+
+[12:45] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[12:45] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[12:45] **Hindustan Times**: After anti-NEET bill, Tamil Nadu govt votes to freeze Lok Sabha strength at 543
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 13:00
+
+[13:00] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[13:00] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[13:00] **Hindustan Times**: After anti-NEET bill, Tamil Nadu govt votes to freeze Lok Sabha strength at 543
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 13:15
+
+[13:15] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[13:15] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[13:15] **Hindustan Times**: After anti-NEET bill, Tamil Nadu govt votes to freeze Lok Sabha strength at 543
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 13:30
+
+[13:30] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[13:30] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[13:30] **Hindustan Times**: After anti-NEET bill, Tamil Nadu govt votes to freeze Lok Sabha strength at 543
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 13:45
+
+[13:45] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[13:45] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 14:00
+
+[14:00] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[14:00] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 14:15
+
+[14:15] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[14:15] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 14:30
+
+[14:30] **Hindustan Times**: ‘School Thik Karo’: Abhijeet Dipke announces CJP campaign for Independence Day
+[14:30] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[14:30] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 14:46
+
+[14:46] **Hindustan Times**: ‘School Thik Karo’: Abhijeet Dipke announces CJP campaign for Independence Day
+[14:46] **Hindustan Times**: SC seeks response of Centre, BCI, CBI on plea seeking probe into activities of persons associated with CJP
+[14:46] **Hindustan Times**: Kerala LPST rank holders end 13-day protest after talks with education minister
+[14:46] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 18:57
+
+[18:57] **Hindustan Times**: 'BJP threatening to hang Delhi hall owners upside down': Dipke on cancelled meet
+[18:57] **Hindustan Times**: ‘Jantar Mantar Season 2 going to start very soon’: CJP founder Abhijeet Dipke
+[18:57] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 19:00
+
+[19:00] **Hindustan Times**: 'BJP threatening to hang Delhi hall owners upside down': Dipke on cancelled meet
+[19:00] **Hindustan Times**: ‘Jantar Mantar Season 2 going to start very soon’: CJP founder Abhijeet Dipke
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
