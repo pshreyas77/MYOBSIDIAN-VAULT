@@ -8039,3 +8039,154 @@
 [19:00] **Hindustan Times**: 'BJP threatening to hang Delhi hall owners upside down': Dipke on cancelled meet
 [19:00] **Hindustan Times**: ‘Jantar Mantar Season 2 going to start very soon’: CJP founder Abhijeet Dipke
 [19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 23:21
+
+[23:21] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 23:30
+
+[23:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-12 23:45
+
+[23:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 00:00
+
+[00:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 11:38
+
+[11:38] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 11:45
+
+[11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 12:49
+
+[12:49] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 13:00
+
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 13:15
+
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 13:30
+
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 13:45
+
+[13:45] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[13:45] **Hindustan Times**: SC to test legality of police's use of facial recognition of NEET protesters
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 14:00
+
+[14:00] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[14:00] **Hindustan Times**: SC to test legality of police's use of facial recognition of NEET protesters
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 14:15
+
+[14:15] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[14:15] **Hindustan Times**: SC to test legality of police's use of facial recognition of NEET protesters
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 14:30
+
+[14:30] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[14:30] **Hindustan Times**: SC to test legality of police's use of facial recognition of NEET protesters
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 14:45
+
+[14:45] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[14:45] **Hindustan Times**: SC to test legality of police's use of facial recognition of NEET protesters
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 15:00
+
+[15:00] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[15:00] **Hindustan Times**: SC to test legality of police's use of facial recognition of NEET protesters
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 17:01
+
+[17:01] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[17:01] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 17:15
+
+[17:15] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 18:25
+
+[18:25] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[18:25] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 18:30
+
+[18:30] **Hindustan Times**: Delhi court flags ‘criminal breach of trust’ by 3 experts in NEET-UG paper leak
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 18:45
+
+[18:45] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 19:00
+
+[19:00] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 19:15
+
+[19:15] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 19:31
+
+[19:31] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[19:31] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 19:45
+
+[19:45] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 20:00
+
+[20:00] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 20:15
+
+[20:15] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 20:30
+
+[20:30] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 20:45
+
+[20:45] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 21:00
+
+[21:00] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-13 21:15
+
+[21:15] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
