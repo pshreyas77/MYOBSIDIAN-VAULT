@@ -8190,3 +8190,9 @@
 
 [21:15] **Hindustan Times**: 'You all got answers now': Dipke backs Madhya Pradesh 'Gen Alpha' protest
 [21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 12:06
+
+[12:06] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[12:06] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
+[12:06] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
