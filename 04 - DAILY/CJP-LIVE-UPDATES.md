@@ -8196,3 +8196,108 @@
 [12:06] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
 [12:06] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
 [12:06] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 12:19
+
+[12:19] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[12:19] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
+[12:19] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 12:23
+
+[12:23] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[12:23] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
+[12:23] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 12:30
+
+[12:30] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[12:30] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 12:45
+
+[12:45] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[12:45] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
+[12:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 13:00
+
+[13:00] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[13:00] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[13:00] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 13:15
+
+[13:15] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[13:15] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[13:15] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 13:30
+
+[13:30] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[13:30] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[13:30] **Hindustan Times**: 'Beijjati hui wo alag': CJP mocks Bar Council chairman over NALSAR U-turn
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 13:45
+
+[13:45] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[13:45] **Hindustan Times**: Who is Manan Mishra? Bar Council Chair at centre of CJP post, NALSAR row
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 14:00
+
+[14:00] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 14:15
+
+[14:15] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 14:30
+
+[14:30] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 14:45
+
+[14:45] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 15:00
+
+[15:00] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 15:15
+
+[15:15] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 15:30
+
+[15:30] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 15:45
+
+[15:45] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 16:00
+
+[16:00] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 16:15
+
+[16:15] **Hindustan Times**: CJP calls for Manan Mishra's resignation as CJI slams move against NALSAR batch
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-14 16:30
+
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
