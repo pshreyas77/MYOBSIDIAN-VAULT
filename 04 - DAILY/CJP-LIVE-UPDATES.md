@@ -8602,3 +8602,37 @@
 ## 2026-08-16 11:45
 
 [11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-16 22:23
+
+[22:23] **Hindustan Times**: CJP slams ‘irregularities’ in Bombay HC clerk recruitment test, joins protest
+[22:23] **Hindustan Times**: NTA to re-conduct UGC-NET for 3 subjects; 2nd exam cancellation after NEET leak
+[22:23] **Hindustan Times**: ‘They’re anti-school’: CJP claims ‘BJP goons’ beat volunteer's father
+[22:23] **Hindustan Times**: 'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi
+[22:23] **Hindustan Times**: CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari
+[22:23] **Hindustan Times**: CJP demands arrest after school campaign volunteer's father dies in 'assault'
+[22:23] **Hindustan Times**: ‘Can't gag Parliament or ignore youth’: CJP slams disallowing of NEET questions
+[22:23] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-16 22:30
+
+[22:30] **Hindustan Times**: CJP slams ‘irregularities’ in Bombay HC clerk recruitment test, joins protest
+[22:30] **Hindustan Times**: NTA to re-conduct UGC-NET for 3 subjects; 2nd exam cancellation after NEET leak
+[22:30] **Hindustan Times**: ‘They’re anti-school’: CJP claims ‘BJP goons’ beat volunteer's father
+[22:30] **Hindustan Times**: 'Delhi cops told us we are traitors': Jantar Mantar protesters meet Rahul Gandhi
+[22:30] **Hindustan Times**: CJP volunteer father dies, son blames Bengal BJP workers; 3 held, says Adhikari
+[22:30] **Hindustan Times**: CJP demands arrest after school campaign volunteer's father dies in 'assault'
+[22:30] **Hindustan Times**: ‘Can't gag Parliament or ignore youth’: CJP slams disallowing of NEET questions
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-17 11:38
+
+[11:38] **Hindustan Times**: CJP vows to continue ‘fix schools’ campaign after Rajasthan govt restricts access
+[11:38] **Hindustan Times**: Rajasthan govt curbs unauthorised entry, photography as CJP plans school visits
+[11:38] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-17 11:45
+
+[11:45] **Hindustan Times**: CJP vows to continue ‘fix schools’ campaign after Rajasthan govt restricts access
+[11:45] **Hindustan Times**: Rajasthan govt curbs unauthorised entry, photography as CJP plans school visits
+[11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
