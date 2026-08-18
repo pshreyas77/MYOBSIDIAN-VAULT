@@ -8636,3 +8636,8 @@
 [11:45] **Hindustan Times**: CJP vows to continue ‘fix schools’ campaign after Rajasthan govt restricts access
 [11:45] **Hindustan Times**: Rajasthan govt curbs unauthorised entry, photography as CJP plans school visits
 [11:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 12:29
+
+[12:29] **Hindustan Times**: Dipke gets offer from minister to join BJP-led NDA: ‘We are a govt that…’
+[12:29] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
