@@ -8641,3 +8641,171 @@
 
 [12:29] **Hindustan Times**: Dipke gets offer from minister to join BJP-led NDA: ‘We are a govt that…’
 [12:29] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 12:30
+
+[12:30] **Hindustan Times**: Dipke gets offer from minister to join BJP-led NDA: ‘We are a govt that…’
+[12:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 16:30
+
+[16:30] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[16:30] **Hindustan Times**: Dipke calls for govt school admission of ministers' kids: 'No trust in own job?'
+[16:30] **Hindustan Times**: SC to set up high-powered panel to probe allegations of police excesses during NEET protest
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 16:45
+
+[16:45] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[16:45] **Hindustan Times**: Dipke calls for govt school admission of ministers' kids: 'No trust in own job?'
+[16:45] **Hindustan Times**: SC to set up high-powered panel to probe allegations of police excesses during NEET protest
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 17:00
+
+[17:00] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[17:00] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[17:00] **Hindustan Times**: Dipke calls for govt school admission of ministers' kids: 'No trust in own job?'
+[17:00] **Hindustan Times**: SC to set up high-powered panel to probe allegations of police excesses during NEET protest
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 17:15
+
+[17:15] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[17:15] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[17:15] **Hindustan Times**: Dipke calls for govt school admission of ministers' kids: 'No trust in own job?'
+[17:15] **Hindustan Times**: SC to set up high-powered panel to probe allegations of police excesses during NEET protest
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 17:30
+
+[17:30] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[17:30] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[17:30] **Hindustan Times**: Dipke calls for govt school admission of ministers' kids: 'No trust in own job?'
+[17:30] **Hindustan Times**: SC to set up high-powered panel to probe allegations of police excesses during NEET protest
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 17:45
+
+[17:45] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[17:45] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[17:45] **Hindustan Times**: Dipke calls for govt school admission of ministers' kids: 'No trust in own job?'
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 18:00
+
+[18:00] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[18:00] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[18:00] **Hindustan Times**: Dipke calls for govt school admission of ministers' kids: 'No trust in own job?'
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 18:15
+
+[18:15] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[18:15] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[18:15] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[18:15] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 18:30
+
+[18:30] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[18:30] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[18:30] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[18:30] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 18:45
+
+[18:45] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[18:45] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[18:45] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[18:45] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 19:00
+
+[19:00] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[19:00] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[19:00] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[19:00] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[19:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 19:15
+
+[19:15] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[19:15] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[19:15] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[19:15] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[19:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 19:30
+
+[19:30] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[19:30] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[19:30] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[19:30] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[19:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 19:45
+
+[19:45] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[19:45] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[19:45] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[19:45] **Hindustan Times**: Why were cops in plain clothes during CJP march? Delhi police says this
+[19:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 20:00
+
+[20:00] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[20:00] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[20:00] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[20:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 20:15
+
+[20:15] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[20:15] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[20:15] **Hindustan Times**: CJP alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP
+[20:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 20:30
+
+[20:30] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[20:30] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[20:30] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[20:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 20:45
+
+[20:45] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[20:45] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[20:45] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[20:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 21:00
+
+[21:00] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[21:00] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[21:00] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[21:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 21:15
+
+[21:15] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[21:15] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[21:15] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[21:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 21:30
+
+[21:30] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[21:30] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[21:30] **Hindustan Times**: Maharashtra school's ‘drunk’ principal removed after our protest, claims Dipke
+[21:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 21:45
+
+[21:45] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[21:45] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
