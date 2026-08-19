@@ -8809,3 +8809,221 @@
 [21:45] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
 [21:45] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
 [21:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 22:00
+
+[22:00] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[22:00] **Hindustan Times**: Govt school at Abhijeet Dipke's native village gets its ‘first-ever computer’
+[22:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 22:15
+
+[22:15] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[22:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-18 22:30
+
+[22:30] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[22:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 00:08
+
+[00:08] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[00:08] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 00:15
+
+[00:15] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[00:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 00:30
+
+[00:30] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[00:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 00:45
+
+[00:45] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[00:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 01:00
+
+[01:00] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[01:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 01:15
+
+[01:15] **Hindustan Times**: ‘If govt doesn’t demonstrate…': CJP's big ‘2-day’ warning over FIRs on students
+[01:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 09:28
+
+[09:28] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 09:30
+
+[09:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 12:59
+
+[12:59] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[12:59] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[12:59] **Hindustan Times**: ‘Should we praise this brutality?’ Rahul slams CJP stir remark by Rijiju
+[12:59] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 13:00
+
+[13:00] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[13:00] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[13:00] **Hindustan Times**: ‘Should we praise this brutality?’ Rahul slams CJP stir remark by Rijiju
+[13:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 13:15
+
+[13:15] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[13:15] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[13:15] **Hindustan Times**: ‘Should we praise this brutality?’ Rahul slams CJP stir remark by Rijiju
+[13:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 13:30
+
+[13:30] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[13:30] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[13:30] **Hindustan Times**: ‘Should we praise this brutality?’ Rahul slams CJP stir remark by Rijiju
+[13:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 13:45
+
+[13:45] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[13:45] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[13:45] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[13:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 14:00
+
+[14:00] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[14:00] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[14:00] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[14:00] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[14:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 14:15
+
+[14:15] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[14:15] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[14:15] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[14:15] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[14:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 14:30
+
+[14:30] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[14:30] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[14:30] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[14:30] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[14:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 14:45
+
+[14:45] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[14:45] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[14:45] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[14:45] **Hindustan Times**: Vijay govt makes U-turn on order barring students from CJP-like protests
+[14:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 15:00
+
+[15:00] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[15:00] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[15:00] **Hindustan Times**: ‘NEET exam system foolproof, difficult to breach’: Centre to SC after paper leak
+[15:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 15:15
+
+[15:15] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[15:15] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[15:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 15:30
+
+[15:30] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[15:30] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[15:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 15:45
+
+[15:45] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[15:45] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[15:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 16:00
+
+[16:00] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[16:00] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[16:00] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[16:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 16:15
+
+[16:15] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[16:15] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[16:15] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[16:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 16:30
+
+[16:30] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[16:30] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[16:30] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[16:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 16:45
+
+[16:45] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[16:45] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[16:45] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[16:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 17:00
+
+[17:00] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[17:00] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[17:00] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[17:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 17:15
+
+[17:15] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[17:15] **Hindustan Times**: ‘Use PM Cares Fund for schools’: Dipke as report reveals ₹8,452 crore corpus
+[17:15] **Hindustan Times**: ‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in UP
+[17:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 17:30
+
+[17:30] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[17:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 17:45
+
+[17:45] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[17:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 18:00
+
+[18:00] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[18:00] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 18:15
+
+[18:15] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[18:15] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 18:30
+
+[18:30] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[18:30] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-19 18:45
+
+[18:45] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
+[18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
