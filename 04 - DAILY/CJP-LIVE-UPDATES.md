@@ -9027,3 +9027,10 @@
 
 [18:45] **Hindustan Times**: Vijay govt revokes order preventing students from joining CJP-like protests
 [18:45] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
+
+## 2026-08-20 11:23
+
+[11:23] **Hindustan Times**: BJP hits back after Dipke's PM Cares fund appeal: ‘Kejriwal didn’t teach him…'
+[11:23] **Hindustan Times**: ‘Manan, it’s done bro’: Why CJP wants another resignation after Delhi protest
+[11:23] **Hindustan Times**: SC seeks clarity on exam reform committee's role amid NEET paper leak
+[11:23] **Al Jazeera**: Police attack Cockroach activists as thousands march on Indian parliament
