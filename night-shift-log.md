@@ -350,3 +350,34 @@
 - Path: `1-desk/<subtype>/`
 - Status: Scout: 0 new items (vault intake clean)
 - Notes: 14 days since last Scout Run (2026-07-26). Vault intake has been idle since 2026-06-24 (latest atom). Pipeline stable; no Prime Directive gate activity required.
+
+---
+
+## [2026-08-21 23:XX] Scout Run | Processed 1 item
+- Intake: 1 new item found in `0-raw/` (last run 2026-08-09)
+  - `0-raw/2026-08-13_give-hermes-a-second-brain-with-obsidian_article.md` — mtime 2026-08-13, fresh
+- Skipped: `0-raw/test-source-article.md` (2026-06-16, already processed), `0-raw/Untitled.canvas` (2026-06-21, binary canvas, not text), `Inbox/` (exists but empty), `00 - INBOX/` (does not exist on disk), `0-Inbox/` (legacy — 9 files all preprocessed/archived from 2026-07-28–2026-07-30 runs)
+- Classified: 1 literature note (article)
+  - `1-desk/article/2026-08-13 — Give Hermes A Second Brain With Obsidian.md` (status: to-process, source: https://youtu.be/wvYAuHfJRo0)
+- Quarantined: 0 items
+- Prime Directive gate: PASS — source URL verbatim, summary extractive (quotes/paraphrase from source only), frontmatter matches schema, no interpretation added
+- Path: `1-desk/article/`
+- Index updated: 1 entry added to `07 - SYSTEM/index.md` under 01 — LITERATURE
+- Morning brief: NOT created (per playbook Step 5 — morning brief handled separately)
+- Notes: First new intake since 2026-07-30. Vault was idle 43+ days. Topic: Hermes + Obsidian second-brain architecture — high relevance to current vault setup. Refinery priority: high (aligns with house-rules.md Raw/Wiki discipline).
+
+## [2026-08-22 06:XX] Editor Run | Linked 0 atoms, flagged 0 conflicts
+- New atoms processed: 0
+- Links added: 0 (no new atoms — Refinery Run did not log a 2026-08-22 entry; the 1 to-process item from tonight's Scout Run has not yet been refined into atoms)
+- [FRICTION] blocks created: 0
+- Index updated: 0 entries
+- Orphan check: 0 orphans — all 12 non-quarantined atoms in `2-atoms/` verified to have incoming links (Digital Garden cluster is well-linked via `2-atoms/Digital Garden.md`, MOCs, and prior editor runs)
+- Quarantined atoms: 3 still present in `2-atoms/` (Prime Directive violations — flagged since 2026-07-19, awaiting morning-review deletion per house-rules.md enforcement)
+
+**Status:** Editor: 0 new atoms to link. The 2026-08-21 Scout Run captured 1 new literature note (`1-desk/article/2026-08-13 — Give Hermes A Second Brain With Obsidian.md`, status: to-process) but Refinery did not produce atoms before this Editor Run (most recent Refinery entry: 2026-08-10). Editor pipeline skipped — no linking, no friction, no index changes. Pipeline status reminder: vault intake is now active again after 43 days idle; expect Refinery to extract atoms on next scheduled run.
+
+**Action for morning review:**
+- [ ] Decide whether to manually trigger Refinery for the to-process article, or wait for next scheduled 3 AM cycle
+- [ ] (Carryover) Delete or rescue 3 quarantined atoms in `2-atoms/concepts/` and `2-atoms/people/` — Prime Directive violations unresolved since 2026-07-19 audit
+- [ ] (Carryover) Write `wiki/concepts/Knowledge-Graph-Extraction.md` stub OR fix 7-day-old broken links (per 2026-07-26 audit W30)
+- [ ] (Carryover) Add frontmatter to 13 wiki files flagged in 2026-07-26 audit

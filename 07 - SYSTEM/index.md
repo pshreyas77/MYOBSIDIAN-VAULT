@@ -24,6 +24,7 @@ Notes from external sources. Everything ingested gets filed here and processed i
 - `01 - LITERATURE/articles/` — article notes
 - `01 - LITERATURE/papers/` — academic paper notes
 - `01 - LITERATURE/videos/` — video/speech notes
+- `1-desk/article/2026-08-13 — Give Hermes A Second Brain With Obsidian.md` — YouTube companion article on Raw/Wiki split + nightly compile for Hermes (2026-08-13, to-process)
 
 **Linked legacy folders (use alongside LITERATURE):**
 - `BOOKS/` — existing book references
