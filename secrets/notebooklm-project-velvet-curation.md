@@ -1,9 +1,11 @@
-# NotebookLM Curation: "Breaking the Rules: Evolving Boundaries in Female-Led Relationships"
+# NotebookLM Curation: "Project Velvet"
 
 **Notebook ID:** `b2672f3a-a527-4e5f-bdb9-15f0c76f5104`
 **Account:** sunny77.trade@gmail.com
 **Date:** 2026-08-19 (final)
 **Status:** **42 clean, ready sources** — best-of-best collection
+**Original Notebook Title:** "Breaking the Rules: Evolving Boundaries in Female-Led Relationships"
+**Renamed To:** "Project Velvet" (secret codename)
 
 ---
 
@@ -80,7 +82,7 @@
 
 ## Quality Gate: **ALL CLEAN**
 - ✅ 0 reCAPTCHA-blocked sources
-- ✅ 0 errored sources  
+- ✅ 0 errored sources
 - ✅ 0 duplicate titles
 - ✅ 42/42 sources accessible and readable
 
@@ -117,4 +119,4 @@
 ---
 
 **Delegation logs backed up to:** `E:\_Dev_Tools\hermes-delegation-backup\delegation\`
-**Curation doc:** `E:\_Knowledge\ObsidianVault\secrets\notebooklm-female-led-relationships-curation.md`
+**Curation doc:** `E:\_Knowledge\ObsidianVault\secrets\notebooklm-project-velvet-curation.md`

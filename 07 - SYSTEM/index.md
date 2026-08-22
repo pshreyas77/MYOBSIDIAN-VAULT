@@ -25,6 +25,9 @@ Notes from external sources. Everything ingested gets filed here and processed i
 - `01 - LITERATURE/papers/` — academic paper notes
 - `01 - LITERATURE/videos/` — video/speech notes
 - `1-desk/article/2026-08-13 — Give Hermes A Second Brain With Obsidian.md` — YouTube companion article on Raw/Wiki split + nightly compile for Hermes (2026-08-13, to-process)
+- `1-desk/article/2026-08-13 — AndhBhakt.org 57 Central Schemes Dataset.md` — 57 central schemes with PIB claim vs CAG finding counts and severity tiers (2026-08-13, to-process)
+- `1-desk/article/2026-08-13 — AndhBhakt.org Complete Platform Analysis.md` — Civic transparency platform architecture, accountability scoring, 170 BJP promises tracked (2026-08-13, to-process)
+- `1-desk/_quarantine/2026-08-13 — Undone By A Meme Do Tyrants Fear Mockery More Than Machine Guns Akash Banerjee & Joyojeet Pal.md` — Quarantined: no source URL provided in capture (2026-08-13, quarantined)
 
 **Linked legacy folders (use alongside LITERATURE):**
 - `BOOKS/` — existing book references
