@@ -120,3 +120,5 @@
 
 **Delegation logs backed up to:** `E:\_Dev_Tools\hermes-delegation-backup\delegation\`
 **Curation doc:** `E:\_Knowledge\ObsidianVault\secrets\notebooklm-project-velvet-curation.md`
+**Manifesto (v2):** `E:\_Knowledge\ObsidianVault\secrets\project-velvet-manifesto.md`
+**Manifesto v3.0 (Partner-Locked):** `E:\_Knowledge\ObsidianVault\secrets\project-velvet-manifesto-v3-partner-locked.md`

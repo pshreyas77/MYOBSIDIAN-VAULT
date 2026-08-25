@@ -25,3 +25,16 @@
 - **Jharkhand: Protesters clash with police, JMM workers after HC stays recruitment cancellation** (Jharkhand) — Scroll.in [[https://scroll.in/latest/1095194/jharkhand-protesters-clash-with-police-jmm-workers-after-hc-stays-recruitment-cancellation?utm_source=rss&utm_medium=public]]
 - **Delhi: Thousands protest caste-based quotas at Jantar Mantar, several detained** (Delhi) — Scroll.in [[https://scroll.in/latest/1095190/delhi-hundreds-protest-caste-based-quotas-at-jantar-mantar-several-detained?utm_source=rss&utm_medium=public]]
 - **Rush Hour: Rahul Gandhi’s sit-in for pellet-injured youth, CJP team attacked at Jaipur school & more** (Jaipur) — Scroll.in [[https://scroll.in/latest/1095180/rush-hour-rahul-gandhis-sit-in-for-pellet-injured-youth-cjp-team-attacked-at-jaipur-school-more?utm_source=rss&utm_medium=public]]
+
+
+## 2026-08-25
+
+- **15% decline in Indian students seeking admission to undergraduate courses in U.S.: Report** (National) — The Hindu [[https://www.thehindu.com/news/international/15-decline-in-indian-students-seeking-admission-to-undergraduate-courses-in-us-report/article71387439.ece]]
+- **Stone quarries put Assam semiconductor plant at risk** (Assam) — The Hindu [[https://www.thehindu.com/news/national/assam/stone-quarries-put-assam-semiconductor-plant-at-risk/article71384852.ece]]
+- **Youth Morcha storms DM office highlighting critical gaps in schools, questions FIR on activist** (National) — The Hindu [[https://www.thehindu.com/news/national/uttar-pradesh/youth-morcha-storms-dm-office-highlighting-critical-gaps-in-schools-questions-fir-on-activist/article71385555.ece]]
+- **CJP calls for September 5 march from India Gate, accuses Centre of reneging on promises** (Delhi) — The Hindu [[https://www.thehindu.com/news/national/cjp-announces-september-5-march-in-delhi-over-centre-alleged-failure-to-honour-promises-made-during-the-july-agitation/article71384380.ece]]
+- **India news Live Updates, 25 August 2026: Students break barricades in Patna during protest demanding cancellation of BPSC exam** (Patna) — Indian Express [[https://indianexpress.com/article/india/today-india-breaking-news-live-updates-25-august-2026-nia-cyber-terrorism-operation-sindoor-delhi-waterlogging-iit-protest-10848136/]]
+- **CJP announces Sept 5 Delhi march over Centre’s ‘unfulfilled’ promises** (Delhi) — Indian Express [[https://indianexpress.com/article/india/cockroach-janta-party-cjp-delhi-march-september-5-india-gate-police-neet-10847453/]]
+- **In scrapping Parandur airport, Vijay keeps promise that defined his first political protest** (National) — Indian Express [[https://indianexpress.com/article/india/tamil-nadu-parandur-airport-scrapped-vijay-first-political-protest-promise-10847185/]]
+- **CJP announces Delhi march on September 5, says Centre must fulfil promises made to youth protesters** (Delhi) — Scroll.in [[https://scroll.in/latest/1095234/cjp-announces-delhi-march-on-september-5-says-centre-must-fulfil-promises-made-to-youth-protesters?utm_source=rss&utm_medium=public]]
+- **‘Planned failure’: Is the Modi government sabotaging its own caste census?** (National) — Scroll.in [[https://scroll.in/article/1095187/planned-failure-is-the-modi-government-sabotaging-its-own-caste-census?utm_source=rss&utm_medium=public]]
