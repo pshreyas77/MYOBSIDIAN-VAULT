@@ -38,3 +38,16 @@
 - **In scrapping Parandur airport, Vijay keeps promise that defined his first political protest** (National) — Indian Express [[https://indianexpress.com/article/india/tamil-nadu-parandur-airport-scrapped-vijay-first-political-protest-promise-10847185/]]
 - **CJP announces Delhi march on September 5, says Centre must fulfil promises made to youth protesters** (Delhi) — Scroll.in [[https://scroll.in/latest/1095234/cjp-announces-delhi-march-on-september-5-says-centre-must-fulfil-promises-made-to-youth-protesters?utm_source=rss&utm_medium=public]]
 - **‘Planned failure’: Is the Modi government sabotaging its own caste census?** (National) — Scroll.in [[https://scroll.in/article/1095187/planned-failure-is-the-modi-government-sabotaging-its-own-caste-census?utm_source=rss&utm_medium=public]]
+
+
+## 2026-08-26
+
+- **Muthanga eviction was a bid to crush the Adivasi movement: Geethanandan** (National) — The Hindu [[https://www.thehindu.com/news/national/kerala/muthanga-eviction-was-a-bid-to-crush-the-adivasi-movement-geethanandan/article71388105.ece]]
+- **AISA backs CJP's September 5 Delhi march; seeks withdrawal of FIRs, probe into pellet firing** (Delhi) — The Hindu [[https://www.thehindu.com/news/national/aisa-backs-cjps-september-5-delhi-march-seeks-withdrawal-of-firs-probe-into-pellet-firing/article71391689.ece]]
+- **IAMC and allied faith organisations protest against Mohan Bhagwat’s event at Madison Square Garden** (National) — The Hindu [[https://www.thehindu.com/news/national/iamc-and-allied-faith-organisations-protest-against-mohan-bhagwats-event-at-madison-square-garden/article71390230.ece]]
+- **Pune tribal students’ protest enters 13th day as talks with Tribal Minister yield no breakthrough, say students** (Pune) — The Hindu [[https://www.thehindu.com/news/national/maharashtra/pune-tribal-students-protest-enters-13th-day-as-talks-with-tribal-minister-yield-no-breakthrough-say-students/article71387944.ece]]
+- **Several injured as police stop Bihar students’ protest march** (Bihar) — The Hindu [[https://www.thehindu.com/news/national/bihar/students-in-bihar-break-through-barricades-in-bid-to-gherao-cm-residence-police-use-water-cannons/article71387958.ece]]
+- **‘I don’t support the rally but…’: NYC Mayor Zohran Mamdani opposes RSS event at Madison Square Garden** (National) — Indian Express [[https://indianexpress.com/article/india/nyc-mayor-mamdani-opposes-rss-chief-mohan-bhagwats-madison-square-event-10849486/]]
+- **India news Highlights, 25 August 2026: Haryana sanitation workers protest over low wages, dump garbage on street** (Haryana) — Indian Express [[https://indianexpress.com/article/india/today-india-breaking-news-live-updates-25-august-2026-nia-cyber-terrorism-operation-sindoor-delhi-waterlogging-iit-protest-10848136/]]
+- **The takeover of a Bandra football ground is part of a larger fight for Mumbai’s public spaces** (Mumbai) — Scroll.in [[https://scroll.in/article/1095257/the-takeover-of-a-bandra-football-ground-is-part-of-a-larger-fight-for-mumbais-public-spaces?utm_source=rss&utm_medium=public]]
+- **CJP announces Delhi march on September 5, says Centre must fulfil promises made to youth protesters** (Delhi) — Scroll.in [[https://scroll.in/latest/1095234/cjp-announces-delhi-march-on-september-5-says-centre-must-fulfil-promises-made-to-youth-protesters?utm_source=rss&utm_medium=public]]
