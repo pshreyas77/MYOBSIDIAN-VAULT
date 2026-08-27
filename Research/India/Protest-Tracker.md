@@ -51,3 +51,14 @@
 - **India news Highlights, 25 August 2026: Haryana sanitation workers protest over low wages, dump garbage on street** (Haryana) — Indian Express [[https://indianexpress.com/article/india/today-india-breaking-news-live-updates-25-august-2026-nia-cyber-terrorism-operation-sindoor-delhi-waterlogging-iit-protest-10848136/]]
 - **The takeover of a Bandra football ground is part of a larger fight for Mumbai’s public spaces** (Mumbai) — Scroll.in [[https://scroll.in/article/1095257/the-takeover-of-a-bandra-football-ground-is-part-of-a-larger-fight-for-mumbais-public-spaces?utm_source=rss&utm_medium=public]]
 - **CJP announces Delhi march on September 5, says Centre must fulfil promises made to youth protesters** (Delhi) — Scroll.in [[https://scroll.in/latest/1095234/cjp-announces-delhi-march-on-september-5-says-centre-must-fulfil-promises-made-to-youth-protesters?utm_source=rss&utm_medium=public]]
+
+
+## 2026-08-27
+
+- **New LPG connections still on hold due to latest flare-ups in West Asia** (National) — The Hindu [[https://www.thehindu.com/news/national/new-lpg-connections-still-on-hold-due-to-latest-flare-ups-in-west-asia/article71393557.ece]]
+- **SC youth’s death: CB-CID names six police officers as accused** (National) — The Hindu [[https://www.thehindu.com/news/national/tamil-nadu/sc-youths-death-cb-cid-names-six-police-officers-as-accused/article71393569.ece]]
+- **Six arrested in Drug Inspector paper leak case** (National) — The Hindu [[https://www.thehindu.com/news/national/maharashtra/six-arrested-in-drug-inspector-paper-leak-case/article71393794.ece]]
+- **The Daily Catch-Up: Nepal flash flood leaves dozens of Indian missing, fresh protest at IIT Delhi** (Delhi) — Indian Express [[https://indianexpress.com/article/india/indian-express-daily-catch-up-nepal-floods-dolly-parton-death-iit-delhi-protests-10850814/]]
+- **‘Don’t support the rally but…’: NYC Mayor Zohran Mamdani opposes RSS event at Madison Square Garden** (National) — Indian Express [[https://indianexpress.com/article/india/nyc-mayor-mamdani-opposes-rss-chief-mohan-bhagwats-madison-square-event-10849486/]]
+- **Sonya Gill, women’s rights activist and PARI co-founder, dies at 70** (Maharashtra) — Scroll.in [[https://scroll.in/latest/1095294/sonya-gill-womens-rights-activist-and-pari-co-founder-dies-at-70?utm_source=rss&utm_medium=public]]
+- **The takeover of a Bandra football ground is part of a larger fight for Mumbai’s public spaces** (Mumbai) — Scroll.in [[https://scroll.in/article/1095257/the-takeover-of-a-bandra-football-ground-is-part-of-a-larger-fight-for-mumbais-public-spaces?utm_source=rss&utm_medium=public]]
